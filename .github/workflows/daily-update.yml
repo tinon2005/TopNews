@@ -1,0 +1,40 @@
+name: 🌐 GlobalPulse 每日自動更新
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安裝依賴
+        run: pip install requests beautifulsoup4 pytrends python-dateutil lxml
+
+      - name: 抓取新聞
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: python fetch_news.py
+
+      - name: 生成頁面
+        run: python build_page.py
+
+      - name: 推送更新
+        run: |
+          git config user.name "GlobalPulse Bot"
+          git config user.email "bot@globalpulse.app"
+          git add -A
+          git diff --staged --quiet || git commit -m "🗞️ 每日更新: $(date +'%Y-%m-%d')"
+          git push
