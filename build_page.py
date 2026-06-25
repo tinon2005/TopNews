@@ -1,0 +1,380 @@
+#!/usr/bin/env python3
+"""
+GlobalPulse 每日 HTML 頁面生成腳本
+讀取 fetch_news.py 產生的 data.json，生成完整手機 PWA 頁面
+"""
+
+import json
+import os
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
+
+HKT = timezone(timedelta(hours=8))
+OUTPUT_DIR = Path("docs")
+OUTPUT_DIR.mkdir(exist_ok=True)
+
+# ── 讀取抓取數據 ──────────────────────────────────────
+def load_data() -> dict:
+    data_path = OUTPUT_DIR / "data.json"
+    if data_path.exists():
+        with open(data_path, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+# ── 生成市場 Ticker HTML ──────────────────────────────
+def build_ticker_html(market: dict) -> str:
+    items = []
+    for name, d in market.items():
+        chg = d.get("change_pct", 0)
+        cls = "up" if chg >= 0 else "down"
+        arrow = "▲" if chg >= 0 else "▼"
+        items.append(
+            f'<span class="ticker-item">'
+            f'<span class="ticker-symbol">{name}</span>'
+            f'<span class="{cls}">{d["price"]:,.2f}</span>'
+            f'<span class="{cls}">{arrow}{abs(chg):.2f}%</span>'
+            f'</span>'
+        )
+    # 雙份讓 ticker 循環不中斷
+    doubled = items * 2
+    return "\n".join(doubled)
+
+
+# ── 生成市場卡片 HTML ─────────────────────────────────
+def build_market_cards(market: dict) -> str:
+    cards = []
+    for name, d in market.items():
+        chg = d.get("change_pct", 0)
+        cls = "up" if chg >= 0 else "down"
+        arrow = "▲" if chg >= 0 else "▼"
+        cards.append(f"""
+        <div class="mkt-card">
+          <div class="mkt-label">{name}</div>
+          <div class="mkt-val {cls}">{d['price']:,.2f}</div>
+          <div class="mkt-chg {cls}">{arrow} {abs(chg):.2f}%</div>
+        </div>""")
+    return "\n".join(cards)
+
+
+# ── 生成新聞列表 HTML ─────────────────────────────────
+def build_news_html(bbc: list, reuters: list, newsapi: list) -> str:
+    # 合併並去重（按標題）
+    all_news = []
+    seen_titles = set()
+    for item in (bbc + reuters + newsapi):
+        title = item.get("title", "").strip()
+        if title and title not in seen_titles and len(title) > 20:
+            seen_titles.add(title)
+            all_news.append(item)
+
+    # 取前10條
+    top10 = all_news[:10]
+    num_labels = ["01","02","03","04","05","06","07","08","09","10"]
+    num_cls    = ["n1","n2","n3","n4","n5","n6","n7","n8","n9","n10"]
+
+    cards = []
+    for i, item in enumerate(top10):
+        title = item.get("title", "").replace('"', '&quot;')
+        desc  = item.get("description", "")[:200].replace('"', '&quot;')
+        source = item.get("source", {})
+        source_name = source.get("name", "") if isinstance(source, dict) else str(source)
+        url   = item.get("url", "#")
+
+        cards.append(f"""
+      <div class="news-card" id="nc_{i}">
+        <div class="news-card-head" onclick="toggleCard({i})">
+          <div class="news-num {num_cls[i]}">{num_labels[i]}</div>
+          <div class="news-meta">
+            <div class="news-title">{title}</div>
+            <div class="news-tags">
+              <span class="tag">📡 {source_name}</span>
+            </div>
+          </div>
+          <div class="chevron">▼</div>
+        </div>
+        <div class="news-body">
+          <p style="font-size:13px;color:#a0b0c8;line-height:1.65;margin-bottom:12px;">{desc}</p>
+          <a href="{url}" target="_blank" style="font-size:12px;color:#4890f8;text-decoration:none;">
+            🔗 閱讀原文 →
+          </a>
+        </div>
+      </div>""")
+
+    return "\n".join(cards)
+
+
+# ── 生成 Trends HTML ──────────────────────────────────
+def build_trends_html(trends: dict) -> str:
+    finance_kw = trends.get("finance_keywords", {})
+    trending   = trends.get("trending_searches", [])
+
+    rows = ""
+    for kw, score in sorted(finance_kw.items(), key=lambda x: -x[1]):
+        bar_width = score  # score is 0-100
+        rows += f"""
+        <div style="margin-bottom:12px;">
+          <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
+            <span style="color:#d8e0f0;font-weight:600;">{kw}</span>
+            <span style="color:#f0d060;font-weight:700;">{score}/100</span>
+          </div>
+          <div style="background:#1e2535;border-radius:4px;height:6px;">
+            <div style="background:linear-gradient(90deg,#38d9c0,#f0d060);width:{bar_width}%;height:100%;border-radius:4px;transition:width 1s;"></div>
+          </div>
+        </div>"""
+
+    trending_chips = "".join(
+        f'<span class="chip sector">🔥 {t}</span>' for t in trending[:8]
+    )
+
+    return f"""
+      <div class="trend-card">
+        <div class="trend-top">
+          <div class="trend-emoji">📊</div>
+          <div>
+            <div class="trend-kw">Google Trends 財經熱搜指數</div>
+            <div class="trend-heat">過去7天搜尋熱度 (0-100)</div>
+          </div>
+        </div>
+        {rows}
+      </div>
+      <div class="trend-card" style="margin-top:10px;">
+        <div class="trend-top">
+          <div class="trend-emoji">🇺🇸</div>
+          <div>
+            <div class="trend-kw">美國今日 Google 熱搜榜</div>
+            <div class="trend-heat">即時爬取數據</div>
+          </div>
+        </div>
+        <div class="chips" style="gap:6px;display:flex;flex-wrap:wrap;">{trending_chips}</div>
+      </div>"""
+
+
+# ══════════════════════════════════════════════════════
+# MAIN: 生成 index.html
+# ══════════════════════════════════════════════════════
+def main():
+    data = load_data()
+    today     = data.get("date", datetime.now(HKT).strftime("%Y年%m月%d日"))
+    gen_time  = datetime.now(HKT).strftime("%H:%M HKT")
+    market    = data.get("market", {})
+    bbc       = data.get("bbc", [])
+    reuters   = data.get("reuters", [])
+    newsapi   = data.get("newsapi", [])
+    trends    = data.get("trends", {})
+
+    ticker_html  = build_ticker_html(market)
+    mkt_cards    = build_market_cards(market)
+    news_html    = build_news_html(bbc, reuters, newsapi)
+    trends_html  = build_trends_html(trends)
+
+    html = f"""<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GlobalPulse">
+<meta name="theme-color" content="#07090f">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<title>GlobalPulse 環球脈搏</title>
+<style>
+:root{{--bg:#07090f;--surface:#0e1117;--surface2:#141820;--border:#1e2535;
+  --gold:#f0d060;--teal:#38d9c0;--red:#f05060;--green:#38d080;--blue:#4890f8;
+  --text:#d8e0f0;--muted:#5a6880;--radius:14px;}}
+*{{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}}
+html,body{{height:100%;overflow:hidden;}}
+body{{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;
+  background:var(--bg);color:var(--text);display:flex;flex-direction:column;}}
+.topbar{{flex-shrink:0;background:var(--bg);padding:14px 16px 10px;
+  padding-top:max(14px,env(safe-area-inset-top,14px));
+  display:flex;align-items:center;justify-content:space-between;
+  border-bottom:1px solid var(--border);}}
+.logo-text{{font-size:17px;font-weight:800;color:var(--gold);}}
+.logo-sub{{font-size:10px;color:var(--muted);}}
+.date-pill{{background:var(--surface2);border:1px solid var(--border);
+  border-radius:20px;padding:5px 12px;font-size:11px;color:var(--muted);text-align:right;}}
+.date-pill strong{{color:var(--gold);display:block;font-size:12px;}}
+.scroll-area{{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;}}
+.page{{display:none;animation:fadeIn .25s ease;}}
+.page.active{{display:block;}}
+@keyframes fadeIn{{from{{opacity:0;transform:translateY(8px)}}to{{opacity:1;transform:translateY(0)}}}}
+.bottom-nav{{flex-shrink:0;display:flex;background:var(--surface);
+  border-top:1px solid var(--border);
+  padding-bottom:max(8px,env(safe-area-inset-bottom,0px));}}
+.nav-item{{flex:1;display:flex;flex-direction:column;align-items:center;
+  padding:10px 4px 6px;cursor:pointer;border:none;background:none;
+  color:var(--muted);font-size:9.5px;font-weight:600;gap:4px;}}
+.nav-icon{{font-size:20px;line-height:1;}}
+.nav-item.active{{color:var(--gold);}}
+.ticker-wrap{{background:var(--surface);border-bottom:1px solid var(--border);
+  overflow:hidden;padding:8px 0;}}
+.ticker-inner{{display:flex;gap:20px;padding:0 16px;
+  animation:ticker 40s linear infinite;white-space:nowrap;}}
+@keyframes ticker{{0%{{transform:translateX(0)}}100%{{transform:translateX(-50%)}}}}
+.ticker-item{{display:inline-flex;gap:6px;align-items:center;font-size:12px;}}
+.ticker-symbol{{color:var(--muted);font-weight:600;}}
+.up{{color:var(--green);}} .down{{color:var(--red);}} .flat{{color:var(--muted);}}
+.section-head{{padding:16px 16px 8px;display:flex;align-items:center;justify-content:space-between;}}
+.section-head h2{{font-size:13px;font-weight:700;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase;}}
+.badge{{background:var(--gold);color:#000;font-size:10px;font-weight:800;padding:2px 8px;border-radius:10px;}}
+.mkt-grid{{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:0 12px 8px;}}
+.mkt-card{{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px 12px;}}
+.mkt-label{{font-size:10px;color:var(--muted);font-weight:600;margin-bottom:6px;}}
+.mkt-val{{font-size:20px;font-weight:800;margin-bottom:3px;}}
+.mkt-chg{{font-size:12px;font-weight:600;}}
+.news-list{{padding:0 12px 8px;display:flex;flex-direction:column;gap:10px;}}
+.news-card{{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;}}
+.news-card.expanded{{border-color:#2a4070;}}
+.news-card-head{{padding:14px;display:flex;gap:10px;align-items:flex-start;cursor:pointer;user-select:none;}}
+.news-num{{width:26px;height:26px;border-radius:8px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:900;}}
+.n1{{background:#3a2010;color:#f08030;}} .n2{{background:#102030;color:#30a0f0;}}
+.n3{{background:#0a2a1a;color:#30d060;}} .n4{{background:#2a0a2a;color:#c060f0;}}
+.n5{{background:#2a1a00;color:#f0c020;}} .n6{{background:#200a10;color:#f05070;}}
+.n7{{background:#0a2020;color:#30c0c0;}} .n8{{background:#1a1a0a;color:#b0b020;}}
+.n9{{background:#1a0a20;color:#9060f0;}} .n10{{background:#0a1a0a;color:#40d080;}}
+.news-meta{{flex:1;}}
+.news-title{{font-size:13px;font-weight:700;color:var(--text);line-height:1.4;margin-bottom:5px;}}
+.news-tags{{display:flex;flex-wrap:wrap;gap:4px;}}
+.tag{{font-size:10px;padding:2px 7px;border-radius:6px;font-weight:600;background:var(--surface2);color:var(--muted);border:1px solid var(--border);}}
+.chevron{{color:var(--muted);font-size:12px;margin-top:4px;transition:transform .25s;}}
+.expanded .chevron{{transform:rotate(180deg);}}
+.news-body{{display:none;padding:0 14px 14px;}}
+.expanded .news-body{{display:block;}}
+.trend-card{{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;}}
+.trend-top{{display:flex;align-items:center;gap:10px;margin-bottom:12px;}}
+.trend-emoji{{font-size:26px;}}
+.trend-kw{{font-size:14px;font-weight:800;color:var(--gold);}}
+.trend-heat{{font-size:11px;color:var(--green);margin-top:3px;}}
+.chips{{display:flex;flex-wrap:wrap;gap:5px;}}
+.chip.sector{{padding:4px 10px;border-radius:16px;font-size:11px;font-weight:700;background:#102040;color:var(--blue);border:1px solid #1a3860;}}
+.install-banner{{margin:12px;background:linear-gradient(135deg,#0f1f40,#1a2a60);border:1px solid #2a4080;border-radius:var(--radius);padding:16px;}}
+.install-banner h3{{font-size:14px;color:var(--gold);font-weight:700;margin-bottom:6px;}}
+.install-banner p{{font-size:12px;color:#90a8d0;line-height:1.6;margin-bottom:10px;}}
+.install-step{{display:flex;gap:8px;align-items:flex-start;background:rgba(0,0,0,.2);border-radius:8px;padding:8px 10px;font-size:12px;color:#a0b8d8;margin-bottom:6px;}}
+.step-num{{width:20px;height:20px;border-radius:50%;flex-shrink:0;background:var(--gold);color:#000;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:900;}}
+.sep{{height:1px;background:var(--border);margin:4px 12px;}}
+.scroll-area::-webkit-scrollbar{{width:3px;}}
+.scroll-area::-webkit-scrollbar-thumb{{background:var(--border);border-radius:2px;}}
+.trend-cards{{padding:0 12px 8px;display:flex;flex-direction:column;gap:10px;}}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div>
+    <div class="logo-text">🌐 GlobalPulse</div>
+    <div class="logo-sub">環球脈搏 · 每日財經情報</div>
+  </div>
+  <div class="date-pill">
+    <strong>{today}</strong>
+    <span id="liveTime">更新於 {gen_time}</span>
+  </div>
+</div>
+
+<div class="scroll-area" id="scrollArea">
+
+  <!-- 新聞 PAGE -->
+  <div class="page active" id="page-news">
+    <div style="height:8px;"></div>
+    <div class="ticker-wrap">
+      <div class="ticker-inner">{ticker_html}</div>
+    </div>
+    <div class="section-head">
+      <h2>📊 今日市場速覽</h2>
+      <div class="badge">實時</div>
+    </div>
+    <div class="mkt-grid">{mkt_cards}</div>
+    <div class="sep"></div>
+    <div class="section-head">
+      <h2>🗞️ 十大重磅新聞</h2>
+      <div class="badge">{today}</div>
+    </div>
+    <div class="news-list">{news_html}</div>
+    <div style="height:20px;"></div>
+  </div>
+
+  <!-- TRENDS PAGE -->
+  <div class="page" id="page-trends">
+    <div style="height:8px;"></div>
+    <div class="section-head">
+      <h2>🔥 Google Trends 熱搜</h2>
+      <div class="badge">每日更新</div>
+    </div>
+    <div class="trend-cards">{trends_html}</div>
+    <div style="height:20px;"></div>
+  </div>
+
+  <!-- 安裝 PAGE -->
+  <div class="page" id="page-install">
+    <div style="height:8px;"></div>
+    <div class="install-banner">
+      <h3>📱 安裝為 iPhone App</h3>
+      <p>用 Safari 打開本頁，按以下步驟將 GlobalPulse 安裝到主屏幕，每天自動顯示最新內容！</p>
+      <div class="install-step"><div class="step-num">1</div><div>用 <strong>Safari</strong> 打開本頁（非 Chrome）</div></div>
+      <div class="install-step"><div class="step-num">2</div><div>點底部 <strong>「分享」</strong> 按鈕（方形加箭頭）</div></div>
+      <div class="install-step"><div class="step-num">3</div><div>選擇 <strong>「加入主畫面」</strong></div></div>
+      <div class="install-step"><div class="step-num">4</div><div>點 <strong>「加入」</strong> 確認，桌面出現圖示</div></div>
+      <div class="install-step"><div class="step-num">5</div><div>每天打開 App，內容自動更新 ✅</div></div>
+    </div>
+    <div style="padding:12px;font-size:11px;color:var(--muted);line-height:1.7;">
+      ⚠️ 所有內容僅供參考，不構成投資建議。請諮詢持牌財務顧問。<br>
+      數據來源：NewsAPI · BBC · Reuters · Google Trends · Yahoo Finance<br><br>
+      上次更新：{today} {gen_time}
+    </div>
+  </div>
+
+</div>
+
+<div class="bottom-nav">
+  <button class="nav-item active" id="nav-news" onclick="showPage('news')">
+    <span class="nav-icon">📰</span>今日新聞
+  </button>
+  <button class="nav-item" id="nav-trends" onclick="showPage('trends')">
+    <span class="nav-icon">🔥</span>趨勢熱搜
+  </button>
+  <button class="nav-item" id="nav-install" onclick="showPage('install')">
+    <span class="nav-icon">📱</span>安裝說明
+  </button>
+</div>
+
+<script>
+function showPage(name){{
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
+  document.getElementById('page-'+name).classList.add('active');
+  document.getElementById('nav-'+name).classList.add('active');
+  document.getElementById('scrollArea').scrollTop=0;
+}}
+function toggleCard(i){{
+  document.getElementById('nc_'+i).classList.toggle('expanded');
+}}
+// 即時時鐘
+function tick(){{
+  const d=new Date();
+  const hk=new Date(d.toLocaleString('en-US',{{timeZone:'Asia/Hong_Kong'}}));
+  const h=String(hk.getHours()).padStart(2,'0');
+  const m=String(hk.getMinutes()).padStart(2,'0');
+  const s=String(hk.getSeconds()).padStart(2,'0');
+  const el=document.getElementById('liveTime');
+  if(el) el.textContent='HKT '+h+':'+m+':'+s;
+}}
+tick(); setInterval(tick,1000);
+// Service Worker 離線支援
+if('serviceWorker' in navigator){{
+  navigator.serviceWorker.register('sw.js').catch(()=>{{}});
+}}
+</script>
+</body>
+</html>"""
+
+    out = OUTPUT_DIR / "index.html"
+    with open(out, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"✅ index.html 已生成 → {out}")
+
+
+if __name__ == "__main__":
+    main()
