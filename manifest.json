@@ -1,0 +1,25 @@
+{
+  "name": "GlobalPulse 環球脈搏",
+  "short_name": "GlobalPulse",
+  "description": "每日環球財經新聞、Google Trends 熱搜及投資分析",
+  "start_url": "/TopNews/",
+  "scope": "/TopNews/",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#07090f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
