@@ -1,238 +1,232 @@
 {
-  "date": "2026年06月26日",
-  "date_iso": "2026-06-26",
-  "generated_at": "2026-06-26T04:47:17.836093+08:00",
+  "date": "2026年06月27日",
+  "date_iso": "2026-06-27",
+  "generated_at": "2026-06-27T07:47:59.578223+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain - Investor's Business Daily",
+      "description": "The Nasdaq keeps falling while several leading stocks top buy points.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/01/LSSECRETS_crossroad_011224_adobe.jpg",
+      "publishedAt": "2026-06-26T00:10:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Geothermal energy: Investment needed to develop new tech - BBC",
+      "description": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+      "url": "https://www.bbc.com/news/articles/cj3gj1n8yz8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg",
+      "publishedAt": "2026-06-25T23:05:05Z",
+      "content": "\"It's the same techniques and up to a point it's the same industry as well,\" sums up Gernot Wagner, a climate economist at Columbia Business School in New York. But \"from a climate perspective, there… [+30 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Ashley Gold, Sam Sabin, Mike Allen",
+      "title": "Trump administration asks OpenAI to limit next model release over security concerns - Axios",
+      "description": "This marks the first time the U.S. government has preemptively asked a U.S. AI company to restrict the launch of a model before release.",
+      "url": "https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release",
+      "urlToImage": "https://images.axios.com/_rizEn0ps9QYE2ieJBgceRYmQME=/0x126:3000x1813/1366x768/2026/06/25/1782422862969.jpeg",
+      "publishedAt": "2026-06-25T22:59:41Z",
+      "content": "The Trump administration has asked OpenAI to limit the release of its next model, GPT-5.6, to only a small set of government-approved partners before any wider release, citing security concerns, acco… [+2850 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Sean Conlon, Hugh Leask, Lisa Kailai Han, Lee Ying Shan",
-      "title": "S&P 500 is little changed as chips slide before Micron earnings: Live updates - CNBC",
-      "description": "The S&P 500 pulled back on Wednesday as Micron Technology shares fell, with investors looking ahead to the release of chipmaker's earnings after the bell.",
-      "url": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108322110-1781547993864-Traders-TF-20260615-ACJ-PRESS-3.jpg?v=1781548053&w=1920&h=1080",
-      "publishedAt": "2026-06-24T18:33:00Z",
-      "content": "The S&amp;P 500 pulled back on Wednesday as Micron Technology shares fell, with investors looking ahead to the release of chipmaker's earnings after the bell.\r\nThe broad market index declined 0.3%, w… [+2468 chars]"
+      "author": "Lisa Kailai Han",
+      "title": "S&P 500 futures are little changed as index heads for losing week: Live updates - CNBC",
+      "description": "The technology-dominant Nasdaq Composite and broad S&P 500 index are both on pace to end the trading week in the red.",
+      "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326270-17823199802026-06-24t160606z_254363867_rc2d0malzmho_rtrmadp_0_usa-stocks.jpeg?v=1782320413&w=1920&h=1080",
+      "publishedAt": "2026-06-25T22:24:00Z",
+      "content": "S&amp;P 500 futures were little changed Thursday night after a decline in tech giants weighed on the broad market index. \r\nS&amp;P 500 futures traded near the flatline, while Nasdaq 100 futures lost … [+1799 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Barron's",
-      "title": "Why Hertz Stock Is Having Its Worst Day Ever - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/hertz-stock-worst-day-ever-97de10bc",
-      "urlToImage": null,
-      "publishedAt": "2026-06-24T17:44:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Brooke DiPalma",
-      "title": "Wendy's stock swept up in meme-like rally after viral Reddit post, leadership hire - Yahoo Finance",
-      "description": "Is Wendy's the next big meme stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/article/wendys-stock-swept-up-in-meme-like-rally-after-viral-reddit-post-leadership-hire-171701010.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6DF6C49274560D497BF6A8138D8EEAB5EC9BF05C48163B621B2DA61C92B33B28/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F727110d2-0079-4def-905f-48d366f104b1",
-      "publishedAt": "2026-06-24T17:17:01Z",
-      "content": "Wendy's stock (WEN) surged by about 30% on Wednesday as retail investors rallied around the fast food chain.\r\nIn a viral thread on r/WallStreetBets, Reddit users cited Wendy's new management, the clo… [+2624 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Damian J. Troise",
-      "title": "US stocks rise as falling oil prices ease pressure on the market - AP News",
-      "description": "Stocks are wavering as technology stocks once again weigh on the market, though falling bond yields and lower oil prices helped ease some pressure. The S&P 500 fell 0.1% on Wednesday. The index is coming off two days of declines. The Dow rose 165 points, or 0…",
-      "url": "https://apnews.com/article/stocks-markets-ai-us-iran-oil-b631564d3b359644eda586b047c9bcf0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8994b1e/2147483647/strip/true/crop/5403x3600+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2Fbf%2Fe79adb89f06fdbe3556c2f38cc90%2Ff5b9adf46a3446dcab0fcc55e766ef89",
-      "publishedAt": "2026-06-24T17:15:00Z",
-      "content": "NEW YORK (AP) Stocks wavered in afternoon trading on Wall Street Wednesday as big technology stocks slipped and weighed on the broader market.\r\nThe S&amp;P 500 fell 0.1%. The Dow Jones Industrial Ave… [+4112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Nauman Khan",
-      "title": "Micron Options Traders Brace for Massive Earnings Swing - Yahoo Finance",
-      "description": "Micron Under Pressure Ahead of Earnings, Options Market Flashes Warning",
-      "url": "https://finance.yahoo.com/markets/options/articles/micron-options-traders-brace-massive-171342732.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-06-24T17:13:42Z",
-      "content": "This article first appeared on GuruFocus.\r\nMicron Technology (NASDAQ:MU) options traders priced in another sharp move for the chipmaker's shares ahead of Wednesday's earnings report, after the stock … [+899 chars]"
+      "author": "Tristan Bove",
+      "title": "Trump just told the DOJ to investigate the oil companies that spent $100 million getting him elected - Fortune",
+      "description": "Crude prices are back to prewar levels. Gas prices aren’t. Now Trump is pointing fingers at his own biggest donors.",
+      "url": "https://fortune.com/2026/06/25/trump-accuses-big-oil-of-price-gouging/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2282984800-e1782404708663.jpg?resize=1200,600",
+      "publishedAt": "2026-06-25T20:34:00Z",
+      "content": "Oil and gas chiefs may have quietly cracked a smile when Donald Trump won the 2024 presidential election. Oil billionaire Harold Hamm, founder of Continental Resources, called it the most important e… [+8545 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 13:09:58 GMT"
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "description": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 21:15:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "People flee as building collapses on Caracas outskirts",
-      "description": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
-      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 12:08:30 GMT"
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-      "description": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:12:27 GMT"
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 22:57:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 19:19:12 GMT"
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 18:14:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-      "description": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:50:12 GMT"
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "description": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 17:05:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "description": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 09:06:59 GMT"
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "description": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 22:55:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
-      "description": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 14:00:13 GMT"
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "description": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:45:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "description": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 15:32:04 GMT"
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "description": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 10:49:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "description": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 12:08:33 GMT"
+      "title": "Trump threatens 100% tariff on European nations over tech tax",
+      "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 21:29:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "description": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 15:32:04 GMT"
+      "title": "Three unusual things about the King's tax bill",
+      "description": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:00:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "How you can save money on your energy bill as debts rise",
-      "description": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 11:04:09 GMT"
+      "title": "I'm back at home again after uni - here's how I'm making it work",
+      "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+      "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 23:03:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-      "description": "Apple said it had \"never seen a component price increase this much, this quickly\".",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 19:41:22 GMT"
+      "title": "Power banks and vapes now biggest fire risk on planes",
+      "description": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 23:28:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Reeves urges Burnham to 'stick to what I'm doing' on economy",
-      "description": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 16:04:42 GMT"
+      "title": "Asia stock markets slide as tech shares slump",
+      "description": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 07:33:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "The legal fight to get equal pay for Germany's disabled workers",
-      "description": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 23:10:28 GMT"
+      "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
+      "description": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 13:51:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "I've spent 30 years in recruitment - this is how to get a job",
-      "description": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 07:24:08 GMT"
+      "title": "Who could be the UK's next chancellor?",
+      "description": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 10:37:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "Price cuts on family summer days out come into force",
-      "description": "The government is reducing VAT from 20% to 5% on attractions and kids' meals  as schools begin to break-up.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 08:19:54 GMT"
+      "title": "Teens who hacked TfL were known to police years before cyber-attack",
+      "description": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 23:19:48 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 3,
-      "GLP-1": 7,
-      "Iran oil": 2,
-      "Federal Reserve": 5,
-      "Bitcoin": 75
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25358.6,
-      "change_pct": -0.89,
+      "price": 25297.62,
+      "change_pct": -0.7,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7357.49,
-      "change_pct": -0.11,
+      "price": 7354.02,
+      "change_pct": -0.06,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51920.62,
-      "change_pct": 0.49,
+      "price": 51876.11,
+      "change_pct": 0.05,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4042.3,
-      "change_pct": 1.3,
+      "price": 4103.0,
+      "change_pct": 1.8,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 71.68,
-      "change_pct": 1.91,
+      "price": 70.24,
+      "change_pct": -2.34,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 59385.42,
-      "change_pct": -2.64,
+      "price": 59985.78,
+      "change_pct": 0.44,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": -0.03,
+      "change_pct": 0.24,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.79,
-      "change_pct": -0.01,
+      "change_pct": -0.0,
       "symbol": "CNY=X"
     }
   }
