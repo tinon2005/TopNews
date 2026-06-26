@@ -16,89 +16,89 @@
 html,body{height:100%;overflow:hidden;}
 body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;background:var(--bg);color:var(--text);display:flex;flex-direction:column;}
 .topbar{flex-shrink:0;background:var(--bg);padding:max(14px,env(safe-area-inset-top,14px)) 16px 10px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--b);}
-.logo-text{font-size:17px;font-weight:800;color:var(--gold);}
-.logo-sub{font-size:10px;color:var(--muted);}
-.date-pill{background:var(--s2);border:1px solid var(--b);border-radius:20px;padding:5px 12px;font-size:11px;color:var(--muted);text-align:right;}
-.date-pill strong{color:var(--gold);display:block;font-size:12px;}
+.logo-text{font-size:21px;font-weight:800;color:var(--gold);}
+.logo-sub{font-size:18px;color:var(--muted);}
+.date-pill{background:var(--s2);border:1px solid var(--b);border-radius:20px;padding:5px 12px;font-size:19px;color:var(--muted);text-align:right;}
+.date-pill strong{color:var(--gold);display:block;font-size:24px;}
 .scroll-area{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;}
 .page{display:none;}
 .page.active{display:block;}
 .bottom-nav{flex-shrink:0;display:flex;background:var(--s);border-top:1px solid var(--b);padding-bottom:max(8px,env(safe-area-inset-bottom,0px));}
-.nav-item{flex:1;display:flex;flex-direction:column;align-items:center;padding:10px 4px 6px;cursor:pointer;border:none;background:none;color:var(--muted);font-size:9.5px;font-weight:600;gap:4px;}
-.nav-icon{font-size:20px;line-height:1;}
+.nav-item{flex:1;display:flex;flex-direction:column;align-items:center;padding:10px 4px 6px;cursor:pointer;border:none;background:none;color:var(--muted);font-size:21px;font-weight:600;gap:4px;}
+.nav-icon{font-size:24px;line-height:1;}
 .nav-item.active{color:var(--gold);}
 .ticker-wrap{background:var(--s);border-bottom:1px solid var(--b);overflow:hidden;padding:8px 0;}
 .ticker-inner{display:flex;gap:20px;padding:0 16px;animation:ticker 40s linear infinite;white-space:nowrap;}
 @keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
-.ti{display:inline-flex;gap:6px;align-items:center;font-size:12px;}
+.ti{display:inline-flex;gap:8px;align-items:center;font-size:24px;}
 .ts{color:var(--muted);font-weight:600;}
 .up{color:var(--green);}.down{color:var(--red);}
 .sh{padding:16px 16px 8px;display:flex;align-items:center;justify-content:space-between;}
-.sh h2{font-size:13px;font-weight:700;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase;}
-.badge{background:var(--gold);color:#000;font-size:10px;font-weight:800;padding:2px 8px;border-radius:10px;}
-.mg{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:0 12px 8px;}
-.mc{background:var(--s);border:1px solid var(--b);border-radius:var(--r);padding:14px 12px;}
-.ml{font-size:10px;color:var(--muted);font-weight:600;margin-bottom:6px;}
-.mv{font-size:20px;font-weight:800;margin-bottom:3px;}
-.mc2{font-size:12px;font-weight:600;}
-.nl{padding:0 12px 8px;display:flex;flex-direction:column;gap:10px;}
+.sh h2{font-size:21px;font-weight:700;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase;}
+.badge{background:var(--gold);color:#000;font-size:18px;font-weight:800;padding:2px 8px;border-radius:10px;}
+.mg{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:0 12px 8px;}
+.mc{background:var(--s);border:1px solid var(--b);border-radius:var(--r);padding:18px 14px;}
+.ml{font-size:18px;color:var(--muted);font-weight:600;margin-bottom:6px;}
+.mv{font-size:24px;font-weight:800;margin-bottom:3px;}
+.mc2{font-size:24px;font-weight:600;}
+.nl{padding:0 12px 8px;display:flex;flex-direction:column;gap:12px;}
 .nc{background:var(--s);border:1px solid var(--b);border-radius:var(--r);overflow:hidden;transition:border-color .2s;}
 .nc.exp{border-color:#2a5090;}
-.nch{padding:14px;display:flex;gap:10px;align-items:flex-start;cursor:pointer;user-select:none;}
-.nn{width:26px;height:26px;border-radius:8px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:900;}
+.nch{padding:18px;display:flex;gap:12px;align-items:flex-start;cursor:pointer;user-select:none;}
+.nn{width:26px;height:26px;border-radius:8px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:900;}
 .n1{background:#3a2010;color:#f08030;}.n2{background:#102030;color:#30a0f0;}
 .n3{background:#0a2a1a;color:#30d060;}.n4{background:#2a0a2a;color:#c060f0;}
 .n5{background:#2a1a00;color:#f0c020;}.n6{background:#200a10;color:#f05070;}
 .n7{background:#0a2020;color:#30c0c0;}.n8{background:#1a1a0a;color:#b0b020;}
 .n9{background:#1a0a20;color:#9060f0;}.n10{background:#0a1a0a;color:#40d080;}
 .nm{flex:1;}
-.nt{font-size:13px;font-weight:700;color:var(--text);line-height:1.4;margin-bottom:5px;}
+.nt{font-size:21px;font-weight:700;color:var(--text);line-height:1.75;margin-bottom:5px;}
 .ntags{display:flex;flex-wrap:wrap;gap:4px;}
-.tag{font-size:10px;padding:2px 7px;border-radius:6px;font-weight:600;background:var(--s2);color:var(--muted);border:1px solid var(--b);}
-.chev{color:var(--muted);font-size:12px;margin-top:4px;transition:transform .25s;}
+.tag{font-size:18px;padding:2px 7px;border-radius:6px;font-weight:600;background:var(--s2);color:var(--muted);border:1px solid var(--b);}
+.chev{color:var(--muted);font-size:24px;margin-top:4px;transition:transform .25s;}
 .exp .chev{transform:rotate(180deg);}
 .nb{display:none;padding:0 14px 14px;}
 .exp .nb{display:block;}
-.atabs{display:flex;gap:6px;margin-bottom:12px;overflow-x:auto;padding-bottom:4px;}
-.at{padding:6px 12px;border-radius:20px;font-size:11px;font-weight:700;cursor:pointer;white-space:nowrap;border:none;transition:all .15s;background:var(--s2);color:var(--muted);}
+.atabs{display:flex;gap:8px;margin-bottom:12px;overflow-x:auto;padding-bottom:4px;}
+.at{padding:6px 12px;border-radius:20px;font-size:19px;font-weight:700;cursor:pointer;white-space:nowrap;border:none;transition:all .15s;background:var(--s2);color:var(--muted);}
 .at.act.bull{background:#0a2a1a;color:var(--green);}
 .at.act.bear{background:#2a0a0a;color:var(--red);}
 .at.act.out{background:#1a1040;color:#a870f8;}
 .at.act.inv{background:#1a2a0a;color:var(--teal);}
 .ap{display:none;}
 .ap.act{display:block;}
-.pts{list-style:none;display:flex;flex-direction:column;gap:6px;}
-.pts li{font-size:12.5px;color:#a0b0c8;line-height:1.55;padding:7px 10px 7px 28px;position:relative;background:var(--s2);border-radius:8px;}
+.pts{list-style:none;display:flex;flex-direction:column;gap:8px;}
+.pts li{font-size:24px;color:#a0b0c8;line-height:1.7;padding:10px 12px 10px 32px;position:relative;background:var(--s2);border-radius:8px;}
 .pts li::before{position:absolute;left:10px;top:7px;}
-.pts.bull li::before{content:'✅';font-size:11px;}
-.pts.bear li::before{content:'⚠️';font-size:11px;}
-.pts.out li::before{content:'🔮';font-size:11px;}
+.pts.bull li::before{content:'✅';font-size:19px;}
+.pts.bear li::before{content:'⚠️';font-size:19px;}
+.pts.out li::before{content:'🔮';font-size:19px;}
 .ig{display:flex;flex-direction:column;gap:8px;}
 .ir{background:var(--s2);border-radius:10px;padding:10px 12px;}
-.il{font-size:10px;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;}
+.il{font-size:18px;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;}
 .chips{display:flex;flex-wrap:wrap;gap:5px;}
-.chip{padding:4px 10px;border-radius:16px;font-size:11px;font-weight:700;}
+.chip{padding:4px 10px;border-radius:16px;font-size:19px;font-weight:700;}
 .chip.st{background:#0a2a1a;color:var(--green);border:1px solid #1a5030;}
 .chip.sec{background:#102040;color:var(--blue);border:1px solid #1a3860;}
 .chip.bd{background:#201800;color:var(--gold);border:1px solid #403000;}
 .sep{height:1px;background:var(--b);margin:4px 12px;}
 /* Trends */
 .tc{background:var(--s);border:1px solid var(--b);border-radius:var(--r);padding:16px;}
-.tt{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
-.te{font-size:26px;}
-.tk{font-size:14px;font-weight:800;color:var(--gold);}
-.th{font-size:11px;color:var(--green);margin-top:3px;}
-.td{font-size:12.5px;color:#90a0b8;line-height:1.6;margin-bottom:12px;}
+.tt{display:flex;align-items:center;gap:12px;margin-bottom:10px;}
+.te{font-size:30px;}
+.tk{font-size:18px;font-weight:800;color:var(--gold);}
+.th{font-size:19px;color:var(--green);margin-top:3px;}
+.td{font-size:24px;color:#90a0b8;line-height:1.75;margin-bottom:12px;}
 .sr{display:flex;align-items:center;gap:8px;background:var(--s2);border-radius:8px;padding:8px 10px;margin-bottom:6px;}
-.stk{font-size:12px;font-weight:800;color:var(--green);width:60px;flex-shrink:0;}
-.sn{font-size:12px;font-weight:600;color:var(--text);}
-.sw{font-size:11px;color:var(--muted);margin-top:2px;line-height:1.4;}
+.stk{font-size:24px;font-weight:800;color:var(--green);width:60px;flex-shrink:0;}
+.sn{font-size:24px;font-weight:600;color:var(--text);}
+.sw{font-size:19px;color:var(--muted);margin-top:2px;line-height:1.75;}
 /* Install */
 .ib{margin:12px;background:linear-gradient(135deg,#0f1f40,#1a2a60);border:1px solid #2a4080;border-radius:var(--r);padding:16px;}
-.ib h3{font-size:14px;color:var(--gold);font-weight:700;margin-bottom:6px;}
-.ib p{font-size:12px;color:#90a8d0;line-height:1.6;margin-bottom:10px;}
-.ist{display:flex;gap:8px;align-items:flex-start;background:rgba(0,0,0,.2);border-radius:8px;padding:8px 10px;font-size:12px;color:#a0b8d8;margin-bottom:6px;}
-.isn{width:20px;height:20px;border-radius:50%;flex-shrink:0;background:var(--gold);color:#000;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:900;}
+.ib h3{font-size:18px;color:var(--gold);font-weight:700;margin-bottom:6px;}
+.ib p{font-size:24px;color:#90a8d0;line-height:1.75;margin-bottom:10px;}
+.ist{display:flex;gap:8px;align-items:flex-start;background:rgba(0,0,0,.2);border-radius:8px;padding:8px 10px;font-size:24px;color:#a0b8d8;margin-bottom:6px;}
+.isn{width:20px;height:20px;border-radius:50%;flex-shrink:0;background:var(--gold);color:#000;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:900;}
 .scroll-area::-webkit-scrollbar{width:3px;}
 .scroll-area::-webkit-scrollbar-thumb{background:var(--b);border-radius:2px;}
 </style>
@@ -115,6 +115,15 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
   </div>
 </div>
 
+
+<div style="background:#0e1117;border-bottom:1px solid #1e2535;padding:6px 16px;display:flex;align-items:center;justify-content:space-between;">
+  <span style="font-size:15px;color:#5a6880;font-weight:600;">字體大小</span>
+  <div style="display:flex;gap:8px;align-items:center;">
+    <button onclick="changeFont(-2)" style="width:36px;height:36px;border-radius:50%;background:#141820;border:1px solid #1e2535;color:#f0d060;font-size:20px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;">A-</button>
+    <button onclick="changeFont(0)" style="padding:6px 14px;border-radius:20px;background:#1e2535;border:1px solid #2a3545;color:#d8e0f0;font-size:14px;cursor:pointer;">預設</button>
+    <button onclick="changeFont(2)" style="width:36px;height:36px;border-radius:50%;background:#141820;border:1px solid #1e2535;color:#f0d060;font-size:22px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;">A+</button>
+  </div>
+</div>
 <div class="scroll-area" id="sa">
 
   <!-- NEWS -->
@@ -133,7 +142,7 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
   <div class="page" id="page-trends">
     <div style="height:8px"></div>
     <div class="sh"><h2>🔥 Google Trends 熱搜產品</h2><div class="badge">5大趨勢</div></div>
-    <div style="padding:0 12px 8px;display:flex;flex-direction:column;gap:10px;" id="tl"></div>
+    <div style="padding:0 12px 8px;display:flex;flex-direction:column;gap:12px;" id="tl"></div>
     <div style="height:20px"></div>
   </div>
 
@@ -149,17 +158,17 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
       <div class="ist"><div class="isn">4</div><div>點 <strong>「加入」</strong> 確認 ✅</div></div>
       <div class="ist"><div class="isn">5</div><div>每天打開 App，內容<strong>自動更新</strong> 🎉</div></div>
     </div>
-    <div style="background:var(--s);border:1px solid var(--b);border-radius:var(--r);margin:0 12px;padding:14px;">
-      <div style="font-size:12px;color:var(--teal);font-weight:700;margin-bottom:8px;">⏰ 自動更新時間表</div>
-      <div style="font-size:12px;color:#90a0b8;line-height:1.8;">
-        🕔 每天 <strong style="color:var(--gold)">香港時間 05:00</strong> 自動抓取最新新聞<br>
+    <div style="background:var(--s);border:1px solid var(--b);border-radius:var(--r);margin:0 12px;padding:18px;">
+      <div style="font-size:24px;color:var(--teal);font-weight:700;margin-bottom:8px;">⏰ 自動更新時間表</div>
+      <div style="font-size:24px;color:#90a0b8;line-height:1.8;">
+        🕔 每天 <strong style="color:var(--gold)">香港時間 09:00</strong> 自動抓取最新新聞<br>
         📡 數據來源：BBC · Reuters · NewsAPI · Yahoo Finance · Google Trends<br>
         💰 費用：<strong style="color:var(--green)">完全免費</strong>
       </div>
     </div>
-    <div style="padding:16px 12px;font-size:11px;color:var(--muted);line-height:1.7;">
+    <div style="padding:16px 12px;font-size:19px;color:var(--muted);line-height:1.7;">
       ⚠️ 所有內容僅供參考，不構成投資建議。請諮詢持牌財務顧問。<br>
-      © 2026 GlobalPulse · 上次更新：2026年6月26日 05:00 HKT
+      © 2026 GlobalPulse · 上次更新：2026年6月26日 09:00 HKT
     </div>
   </div>
 
@@ -384,6 +393,38 @@ function tick(){
 // ── INIT ─────────────────────────────────────────────
 buildTicker(); buildMarket(); buildNews(); buildTrends();
 tick(); setInterval(tick,1000);
+
+// ── FONT SIZE CONTROL ───────────────────────────────
+let fontOffset = 0;
+const baseSizes = {};
+function changeFont(delta) {
+  if (delta === 0) { fontOffset = 0; }
+  else { fontOffset += delta; }
+  fontOffset = Math.max(-4, Math.min(8, fontOffset));
+  document.querySelectorAll('*').forEach(el => {
+    const cs = window.getComputedStyle(el);
+    const fs = parseFloat(cs.fontSize);
+    if (!baseSizes[el]) baseSizes[el] = fs;
+  });
+  const style = document.getElementById('fontStyle') || (() => {
+    const s = document.createElement('style');
+    s.id = 'fontStyle';
+    document.head.appendChild(s);
+    return s;
+  })();
+  if (fontOffset === 0) {
+    style.textContent = '';
+  } else {
+    style.textContent = `* { font-size: calc(1em + ${fontOffset}px) !important; }
+    .nav-icon { font-size: ${20 + fontOffset}px !important; }
+    .ticker-inner { font-size: ${12 + fontOffset}px !important; }`;
+  }
+  localStorage.setItem('fontOffset', fontOffset);
+}
+// Restore saved font size
+const saved = localStorage.getItem('fontOffset');
+if (saved) { fontOffset = parseInt(saved) - 2; changeFont(2); }
+
 if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});
 </script>
 </body>
