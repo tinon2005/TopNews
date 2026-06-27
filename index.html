@@ -11,357 +11,494 @@
 <link rel="apple-touch-icon" href="icon-192.png">
 <title>GlobalPulse 環球脈搏</title>
 <style>
-:root{--bg:#07090f;--s:#0e1117;--s2:#141820;--b:#1e2535;--gold:#f0d060;--teal:#38d9c0;--red:#f05060;--green:#38d080;--blue:#4890f8;--text:#d8e0f0;--muted:#5a6880;--r:14px;}
+:root{--bg:#07090f;--s:#0e1117;--s2:#141820;--b:#1e2535;--gold:#f0d060;--teal:#38d9c0;--red:#f05060;--green:#38d080;--blue:#4890f8;--purple:#a870f8;--text:#d8e0f0;--muted:#5a6880;--r:14px;}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
 html,body{height:100%;overflow:hidden;}
 body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;background:var(--bg);color:var(--text);display:flex;flex-direction:column;}
 .topbar{flex-shrink:0;background:var(--bg);padding:max(14px,env(safe-area-inset-top,14px)) 16px 10px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--b);}
-.logo-text{font-size:21px;font-weight:800;color:var(--gold);}
-.logo-sub{font-size:18px;color:var(--muted);}
-.date-pill{background:var(--s2);border:1px solid var(--b);border-radius:20px;padding:5px 12px;font-size:19px;color:var(--muted);text-align:right;}
-.date-pill strong{color:var(--gold);display:block;font-size:24px;}
+.logo-text{font-size:19px;font-weight:800;color:var(--gold);}
+.logo-sub{font-size:12px;color:var(--muted);}
+.date-pill{background:var(--s2);border:1px solid var(--b);border-radius:20px;padding:6px 13px;font-size:12px;color:var(--muted);text-align:right;}
+.date-pill strong{color:var(--gold);display:block;font-size:14px;}
+.fontbar{background:var(--s);border-bottom:1px solid var(--b);padding:7px 16px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0;}
+.fontbar span{font-size:14px;color:var(--muted);font-weight:600;}
+.fontbtns{display:flex;gap:10px;align-items:center;}
+.fbtn{width:38px;height:38px;border-radius:50%;background:var(--s2);border:1px solid var(--b);color:var(--gold);font-size:18px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;}
+.fbtn2{padding:7px 16px;border-radius:20px;background:var(--s2);border:1px solid var(--b);color:var(--text);font-size:14px;cursor:pointer;}
 .scroll-area{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;}
 .page{display:none;}
 .page.active{display:block;}
 .bottom-nav{flex-shrink:0;display:flex;background:var(--s);border-top:1px solid var(--b);padding-bottom:max(8px,env(safe-area-inset-bottom,0px));}
-.nav-item{flex:1;display:flex;flex-direction:column;align-items:center;padding:10px 4px 6px;cursor:pointer;border:none;background:none;color:var(--muted);font-size:21px;font-weight:600;gap:4px;}
-.nav-icon{font-size:24px;line-height:1;}
+.nav-item{flex:1;display:flex;flex-direction:column;align-items:center;padding:10px 2px 6px;cursor:pointer;border:none;background:none;color:var(--muted);font-size:11px;font-weight:600;gap:4px;}
+.nav-icon{font-size:22px;line-height:1;}
 .nav-item.active{color:var(--gold);}
-.ticker-wrap{background:var(--s);border-bottom:1px solid var(--b);overflow:hidden;padding:8px 0;}
-.ticker-inner{display:flex;gap:20px;padding:0 16px;animation:ticker 40s linear infinite;white-space:nowrap;}
-@keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
-.ti{display:inline-flex;gap:8px;align-items:center;font-size:24px;}
-.ts{color:var(--muted);font-weight:600;}
-.up{color:var(--green);}.down{color:var(--red);}
 .sh{padding:16px 16px 8px;display:flex;align-items:center;justify-content:space-between;}
-.sh h2{font-size:21px;font-weight:700;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase;}
-.badge{background:var(--gold);color:#000;font-size:18px;font-weight:800;padding:2px 8px;border-radius:10px;}
-.mg{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:0 12px 8px;}
-.mc{background:var(--s);border:1px solid var(--b);border-radius:var(--r);padding:18px 14px;}
-.ml{font-size:18px;color:var(--muted);font-weight:600;margin-bottom:6px;}
-.mv{font-size:24px;font-weight:800;margin-bottom:3px;}
-.mc2{font-size:24px;font-weight:600;}
-.nl{padding:0 12px 8px;display:flex;flex-direction:column;gap:12px;}
+.sh h2{font-size:13px;font-weight:700;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase;}
+.badge{background:var(--gold);color:#000;font-size:11px;font-weight:800;padding:3px 10px;border-radius:10px;}
+.badge2{background:#1a2a50;color:var(--blue);font-size:11px;font-weight:800;padding:3px 10px;border-radius:10px;border:1px solid #2a4080;}
+.sep{height:1px;background:var(--b);margin:4px 12px;}
+/* SOURCE INFO BOX */
+.src-box{margin:8px 12px;background:var(--s);border:1px solid var(--b);border-radius:10px;padding:10px 14px;font-size:12px;color:var(--muted);line-height:1.6;}
+.src-box strong{color:var(--teal);}
+/* NEWS CARDS */
+.nl{padding:0 12px 8px;display:flex;flex-direction:column;gap:11px;}
 .nc{background:var(--s);border:1px solid var(--b);border-radius:var(--r);overflow:hidden;transition:border-color .2s;}
 .nc.exp{border-color:#2a5090;}
-.nch{padding:18px;display:flex;gap:12px;align-items:flex-start;cursor:pointer;user-select:none;}
-.nn{width:26px;height:26px;border-radius:8px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:900;}
+.nch{padding:15px;display:flex;gap:11px;align-items:flex-start;cursor:pointer;user-select:none;}
+.nn{width:30px;height:30px;border-radius:8px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:900;}
 .n1{background:#3a2010;color:#f08030;}.n2{background:#102030;color:#30a0f0;}
 .n3{background:#0a2a1a;color:#30d060;}.n4{background:#2a0a2a;color:#c060f0;}
 .n5{background:#2a1a00;color:#f0c020;}.n6{background:#200a10;color:#f05070;}
 .n7{background:#0a2020;color:#30c0c0;}.n8{background:#1a1a0a;color:#b0b020;}
 .n9{background:#1a0a20;color:#9060f0;}.n10{background:#0a1a0a;color:#40d080;}
 .nm{flex:1;}
-.nt{font-size:21px;font-weight:700;color:var(--text);line-height:1.75;margin-bottom:5px;}
-.ntags{display:flex;flex-wrap:wrap;gap:4px;}
-.tag{font-size:18px;padding:2px 7px;border-radius:6px;font-weight:600;background:var(--s2);color:var(--muted);border:1px solid var(--b);}
-.chev{color:var(--muted);font-size:24px;margin-top:4px;transition:transform .25s;}
+.nt{font-size:16px;font-weight:700;color:var(--text);line-height:1.45;margin-bottom:6px;}
+.ntags{display:flex;flex-wrap:wrap;gap:5px;}
+.tag{font-size:12px;padding:3px 9px;border-radius:6px;font-weight:600;background:var(--s2);color:var(--muted);border:1px solid var(--b);}
+.chev{color:var(--muted);font-size:14px;margin-top:3px;transition:transform .25s;flex-shrink:0;}
 .exp .chev{transform:rotate(180deg);}
-.nb{display:none;padding:0 14px 14px;}
+.nb{display:none;padding:0 15px 15px;}
 .exp .nb{display:block;}
-.atabs{display:flex;gap:8px;margin-bottom:12px;overflow-x:auto;padding-bottom:4px;}
-.at{padding:6px 12px;border-radius:20px;font-size:19px;font-weight:700;cursor:pointer;white-space:nowrap;border:none;transition:all .15s;background:var(--s2);color:var(--muted);}
+.atabs{display:flex;gap:7px;margin-bottom:12px;overflow-x:auto;padding-bottom:4px;}
+.at{padding:8px 14px;border-radius:20px;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap;border:none;transition:all .15s;background:var(--s2);color:var(--muted);}
 .at.act.bull{background:#0a2a1a;color:var(--green);}
 .at.act.bear{background:#2a0a0a;color:var(--red);}
-.at.act.out{background:#1a1040;color:#a870f8;}
+.at.act.out{background:#1a1040;color:var(--purple);}
 .at.act.inv{background:#1a2a0a;color:var(--teal);}
 .ap{display:none;}
 .ap.act{display:block;}
 .pts{list-style:none;display:flex;flex-direction:column;gap:8px;}
-.pts li{font-size:24px;color:#a0b0c8;line-height:1.7;padding:10px 12px 10px 32px;position:relative;background:var(--s2);border-radius:8px;}
-.pts li::before{position:absolute;left:10px;top:7px;}
-.pts.bull li::before{content:'✅';font-size:19px;}
-.pts.bear li::before{content:'⚠️';font-size:19px;}
-.pts.out li::before{content:'🔮';font-size:19px;}
-.ig{display:flex;flex-direction:column;gap:8px;}
-.ir{background:var(--s2);border-radius:10px;padding:10px 12px;}
-.il{font-size:18px;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;}
-.chips{display:flex;flex-wrap:wrap;gap:5px;}
-.chip{padding:4px 10px;border-radius:16px;font-size:19px;font-weight:700;}
+.pts li{font-size:15px;color:#a0b0c8;line-height:1.65;padding:10px 12px 10px 34px;position:relative;background:var(--s2);border-radius:9px;}
+.pts li::before{position:absolute;left:10px;top:10px;}
+.pts.bull li::before{content:'✅';font-size:12px;}
+.pts.bear li::before{content:'⚠️';font-size:12px;}
+.pts.out li::before{content:'🔮';font-size:12px;}
+.ig{display:flex;flex-direction:column;gap:9px;}
+.ir{background:var(--s2);border-radius:10px;padding:12px 14px;}
+.il{font-size:12px;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:1px;margin-bottom:8px;}
+.chips{display:flex;flex-wrap:wrap;gap:6px;}
+.chip{padding:5px 12px;border-radius:16px;font-size:13px;font-weight:700;}
 .chip.st{background:#0a2a1a;color:var(--green);border:1px solid #1a5030;}
 .chip.sec{background:#102040;color:var(--blue);border:1px solid #1a3860;}
-.chip.bd{background:#201800;color:var(--gold);border:1px solid #403000;}
-.sep{height:1px;background:var(--b);margin:4px 12px;}
-/* Trends */
+/* GS PICKS */
+.gs-wrap{margin:0 12px 12px;}
+.gs-hd{background:linear-gradient(135deg,#0a1a08,#122608);border:1px solid #1e4010;border-radius:var(--r);padding:12px 14px;margin-bottom:10px;}
+.gs-hd-title{font-size:14px;font-weight:800;color:#80d840;letter-spacing:0.5px;}
+.gs-hd-sub{font-size:12px;color:#406020;margin-top:3px;}
+.gs-card{background:#0d1e08;border:1px solid #1a3a0a;border-radius:12px;padding:14px;margin-bottom:10px;}
+.gs-card:last-child{margin-bottom:0;}
+.gs-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:8px;}
+.gs-ticker{font-size:22px;font-weight:900;color:#80d840;}
+.gs-rating-badge{background:#0a2006;border:1px solid #2a5010;border-radius:8px;padding:4px 10px;font-size:12px;font-weight:800;color:#80d840;text-align:right;}
+.gs-pt{font-size:11px;color:#406020;margin-top:3px;}
+.gs-name{font-size:13px;color:#507030;margin-bottom:8px;}
+.gs-thesis{font-size:14px;color:#80a068;line-height:1.65;font-style:italic;border-left:3px solid #2a5010;padding-left:10px;margin-bottom:10px;}
+.gs-pts{list-style:none;display:flex;flex-direction:column;gap:5px;}
+.gs-pts li{font-size:13px;color:#708060;line-height:1.55;padding:7px 10px 7px 26px;position:relative;background:#0a1606;border-radius:6px;}
+.gs-pts li::before{position:absolute;left:8px;top:7px;content:'◆';color:#406020;font-size:9px;}
+.gs-risk{font-size:12px;color:#c07830;background:#160800;border:1px solid #382000;border-radius:6px;padding:8px 10px;margin-top:8px;}
+.gs-disc{font-size:11px;color:#304020;margin-top:10px;line-height:1.6;padding:8px 10px;background:#080e04;border-radius:6px;}
+/* TRENDS */
 .tc{background:var(--s);border:1px solid var(--b);border-radius:var(--r);padding:16px;}
-.tt{display:flex;align-items:center;gap:12px;margin-bottom:10px;}
-.te{font-size:30px;}
-.tk{font-size:18px;font-weight:800;color:var(--gold);}
-.th{font-size:19px;color:var(--green);margin-top:3px;}
-.td{font-size:24px;color:#90a0b8;line-height:1.75;margin-bottom:12px;}
-.sr{display:flex;align-items:center;gap:8px;background:var(--s2);border-radius:8px;padding:8px 10px;margin-bottom:6px;}
-.stk{font-size:24px;font-weight:800;color:var(--green);width:60px;flex-shrink:0;}
-.sn{font-size:24px;font-weight:600;color:var(--text);}
-.sw{font-size:19px;color:var(--muted);margin-top:2px;line-height:1.75;}
-/* Install */
-.ib{margin:12px;background:linear-gradient(135deg,#0f1f40,#1a2a60);border:1px solid #2a4080;border-radius:var(--r);padding:16px;}
-.ib h3{font-size:18px;color:var(--gold);font-weight:700;margin-bottom:6px;}
-.ib p{font-size:24px;color:#90a8d0;line-height:1.75;margin-bottom:10px;}
-.ist{display:flex;gap:8px;align-items:flex-start;background:rgba(0,0,0,.2);border-radius:8px;padding:8px 10px;font-size:24px;color:#a0b8d8;margin-bottom:6px;}
-.isn{width:20px;height:20px;border-radius:50%;flex-shrink:0;background:var(--gold);color:#000;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:900;}
+.tt{display:flex;align-items:center;gap:11px;margin-bottom:10px;}
+.te{font-size:28px;}
+.tk{font-size:15px;font-weight:800;color:var(--gold);}
+.th{font-size:12px;color:var(--green);margin-top:3px;}
+.td{font-size:14px;color:#90a0b8;line-height:1.65;margin-bottom:12px;}
+.sr{display:flex;align-items:center;gap:9px;background:var(--s2);border-radius:9px;padding:10px 12px;margin-bottom:7px;}
+.stk{font-size:13px;font-weight:800;color:var(--green);width:62px;flex-shrink:0;}
+.sn{font-size:13px;font-weight:600;color:var(--text);}
+.sw{font-size:12px;color:var(--muted);margin-top:2px;line-height:1.45;}
+/* UK BANNER */
+.uk-banner{margin:12px;background:linear-gradient(135deg,#0a1428,#142040);border:1px solid #2a3870;border-radius:var(--r);padding:14px 16px;display:flex;align-items:center;gap:12px;}
 .scroll-area::-webkit-scrollbar{width:3px;}
 .scroll-area::-webkit-scrollbar-thumb{background:var(--b);border-radius:2px;}
 </style>
 </head>
 <body>
+
 <div class="topbar">
   <div>
     <div class="logo-text">🌐 GlobalPulse</div>
     <div class="logo-sub">環球脈搏 · 每日財經情報</div>
   </div>
   <div class="date-pill">
-    <strong>2026年6月26日</strong>
+    <strong id="today-date">2026年6月27日</strong>
     <span id="clk">HKT --:--:--</span>
   </div>
 </div>
 
-
-<div style="background:#0e1117;border-bottom:1px solid #1e2535;padding:6px 16px;display:flex;align-items:center;justify-content:space-between;">
-  <span style="font-size:15px;color:#5a6880;font-weight:600;">字體大小</span>
-  <div style="display:flex;gap:8px;align-items:center;">
-    <button onclick="changeFont(-2)" style="width:36px;height:36px;border-radius:50%;background:#141820;border:1px solid #1e2535;color:#f0d060;font-size:20px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;">A-</button>
-    <button onclick="changeFont(0)" style="padding:6px 14px;border-radius:20px;background:#1e2535;border:1px solid #2a3545;color:#d8e0f0;font-size:14px;cursor:pointer;">預設</button>
-    <button onclick="changeFont(2)" style="width:36px;height:36px;border-radius:50%;background:#141820;border:1px solid #1e2535;color:#f0d060;font-size:22px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;">A+</button>
+<div class="fontbar">
+  <span>字體大小</span>
+  <div class="fontbtns">
+    <button class="fbtn" onclick="cf(-2)">A-</button>
+    <button class="fbtn2" onclick="cf(0)">預設</button>
+    <button class="fbtn" onclick="cf(2)">A+</button>
   </div>
 </div>
+
 <div class="scroll-area" id="sa">
 
-  <!-- NEWS -->
+  <!-- 環球新聞 PAGE -->
   <div class="page active" id="page-news">
     <div style="height:8px"></div>
-    <div class="ticker-wrap"><div class="ticker-inner" id="tk"></div></div>
-    <div class="sh"><h2>📊 今日市場速覽</h2><div class="badge">實時</div></div>
-    <div class="mg" id="mg"></div>
-    <div class="sep"></div>
-    <div class="sh"><h2>🗞️ 十大重磅新聞</h2><div class="badge">6月26日</div></div>
-    <div class="nl" id="nl"></div>
-    <div style="height:20px"></div>
-  </div>
-
-  <!-- TRENDS -->
-  <div class="page" id="page-trends">
-    <div style="height:8px"></div>
-    <div class="sh"><h2>🔥 Google Trends 熱搜產品</h2><div class="badge">5大趨勢</div></div>
-    <div style="padding:0 12px 8px;display:flex;flex-direction:column;gap:12px;" id="tl"></div>
-    <div style="height:20px"></div>
-  </div>
-
-  <!-- INSTALL -->
-  <div class="page" id="page-install">
-    <div style="height:8px"></div>
-    <div class="ib">
-      <h3>📱 安裝為 iPhone App</h3>
-      <p>用 Safari 打開本頁，按以下步驟安裝到主屏幕，每天自動顯示最新內容！</p>
-      <div class="ist"><div class="isn">1</div><div>用 <strong>Safari</strong> 打開本頁（非Chrome）</div></div>
-      <div class="ist"><div class="isn">2</div><div>點底部 <strong>「分享」</strong> 按鈕 📤</div></div>
-      <div class="ist"><div class="isn">3</div><div>選擇 <strong>「加入主畫面」</strong></div></div>
-      <div class="ist"><div class="isn">4</div><div>點 <strong>「加入」</strong> 確認 ✅</div></div>
-      <div class="ist"><div class="isn">5</div><div>每天打開 App，內容<strong>自動更新</strong> 🎉</div></div>
+    <div class="src-box">
+      <strong>📡 今日數據來源：</strong> NPR World · CBS News · Al Jazeera · CFR · Bloomberg · Deloitte Global Economic Outlook · ECB · Lazard Geopolitics · Euronews · UK Parliament · NHS England · Bank of England<br>
+      <span style="color:#304050;">新聞分析由 Claude AI 每天香港時間 09:00 整合更新 · 不包含即時股票指數（避免失準）</span>
     </div>
-    <div style="background:var(--s);border:1px solid var(--b);border-radius:var(--r);margin:0 12px;padding:18px;">
-      <div style="font-size:24px;color:var(--teal);font-weight:700;margin-bottom:8px;">⏰ 自動更新時間表</div>
-      <div style="font-size:24px;color:#90a0b8;line-height:1.8;">
-        🕔 每天 <strong style="color:var(--gold)">香港時間 09:00</strong> 自動抓取最新新聞<br>
-        📡 數據來源：BBC · Reuters · NewsAPI · Yahoo Finance · Google Trends<br>
-        💰 費用：<strong style="color:var(--green)">完全免費</strong>
+    <div class="sh"><h2>🗞️ 環球十大重磅新聞</h2><div class="badge">6月27日</div></div>
+    <div class="nl" id="nl"></div>
+    <div class="sep" style="margin-top:8px;"></div>
+    <div class="sh"><h2>💎 高盛精選 · 今日2大投資機遇</h2><div class="badge2">GS PICKS</div></div>
+    <div id="gspicks"></div>
+    <div style="height:20px"></div>
+  </div>
+
+  <!-- 英國新聞 PAGE -->
+  <div class="page" id="page-uk">
+    <div style="height:8px"></div>
+    <div class="uk-banner">
+      <div style="font-size:34px;">🇬🇧</div>
+      <div>
+        <div style="font-size:17px;font-weight:800;color:var(--gold);">英國十大頭條新聞</div>
+        <div style="font-size:12px;color:var(--muted);margin-top:3px;">BBC · Reuters · Bloomberg · Bank of England · UK Parliament · NHS England</div>
       </div>
     </div>
-    <div style="padding:16px 12px;font-size:19px;color:var(--muted);line-height:1.7;">
-      ⚠️ 所有內容僅供參考，不構成投資建議。請諮詢持牌財務顧問。<br>
-      © 2026 GlobalPulse · 上次更新：2026年6月26日 09:00 HKT
-    </div>
+    <div class="nl" id="uknl"></div>
+    <div style="height:20px"></div>
+  </div>
+
+  <!-- TRENDS PAGE -->
+  <div class="page" id="page-trends">
+    <div style="height:8px"></div>
+    <div class="sh"><h2>🔥 Google Trends 熱搜</h2><div class="badge">每日更新</div></div>
+    <div style="padding:0 12px 8px;display:flex;flex-direction:column;gap:11px;" id="tl"></div>
+    <div style="height:20px"></div>
   </div>
 
 </div>
 
 <div class="bottom-nav">
-  <button class="nav-item active" id="nav-news" onclick="go('news')"><span class="nav-icon">📰</span>今日新聞</button>
+  <button class="nav-item active" id="nav-news" onclick="go('news')"><span class="nav-icon">🌍</span>環球新聞</button>
+  <button class="nav-item" id="nav-uk" onclick="go('uk')"><span class="nav-icon">🇬🇧</span>英國新聞</button>
   <button class="nav-item" id="nav-trends" onclick="go('trends')"><span class="nav-icon">🔥</span>趨勢產品</button>
-  <button class="nav-item" id="nav-install" onclick="go('install')"><span class="nav-icon">📱</span>安裝說明</button>
 </div>
 
 <script>
-// ── TICKER ──────────────────────────────────────────
-const tData=[
-  ["NASDAQ","19,283","▼1.89%","down"],["S&P 500","5,588","▼1.23%","down"],
-  ["道瓊斯","44,407","▼0.28%","down"],["黃金","$3,357","▲0.62%","up"],
-  ["WTI原油","$67.93","▼0.44%","down"],["比特幣","$107,735","▲1.45%","up"],
-  ["英鎊/美元","1.3412","▲0.19%","up"],["美元/人幣","7.1830","▼0.08%","down"],
-  ["KOSPI","2,614","▼2.26%","down"],["日經225","37,845","▼1.20%","down"],
-  ["恆生指數","24,027","▼0.45%","down"],["白銀","$33.89","▲0.95%","up"],
-];
-function buildTicker(){
-  const w=document.getElementById('tk');
-  [...tData,...tData].forEach(([s,v,c,d])=>{
-    w.innerHTML+=`<span class="ti"><span class="ts">${s}</span><span class="${d}">${v}</span><span class="${d}">${c}</span></span>`;
-  });
-}
-
-// ── MARKET CARDS ────────────────────────────────────
-const mData=[
-  ["NASDAQ","19,283","▼ 1.89%","down"],["S&P 500","5,588","▼ 1.23%","down"],
-  ["黃金(XAU)","$3,357","▲ 0.62%","up"],["WTI 原油","$67.93","▼ 0.44%","down"],
-  ["比特幣 BTC","$107,735","▲ 1.45%","up"],["恆生指數","24,027","▼ 0.45%","down"],
-];
-function buildMarket(){
-  const g=document.getElementById('mg');
-  mData.forEach(([l,v,c,d])=>{
-    g.innerHTML+=`<div class="mc"><div class="ml">${l}</div><div class="mv ${d}">${v}</div><div class="mc2 ${d}">${c}</div></div>`;
-  });
-}
-
-// ── NEWS DATA ────────────────────────────────────────
+// ── 環球新聞 DATA (來源: NPR·CBS·Al Jazeera·CFR·Bloomberg·Deloitte·ECB) ──────
 const news=[
-  {n:"01",c:"n1",t:"🌍 委內瑞拉雙重強震｜164人罹難逾1,520傷 宣佈國家緊急狀態",
-   tags:["🌎 拉美","天災","人道危機"],
-   bull:["國際救援物資及援助資金迅速動員，人道主義援助機構獲捐款大增","委內瑞拉重建需求龐大，建材、基礎設施及工程企業中期受惠","周邊國家（哥倫比亞、巴西）緊急援助彰顯地區合作，改善地緣關係"],
-   bear:["委國原本已處政治經濟危機，震災令脆弱局勢雪上加霜，人道危機風險極高","超過157人失蹤，搜救行動持續，死亡人數可能大幅攀升","基礎設施嚴重受損，重建費用估計逾$500億美元，國際援助難以填補缺口"],
-   out:["短期：國際緊急援助湧入，聯合國啟動緊急應對機制","中期：委國政府借災難轉移國內政治壓力，國際社會關注重建進展","長期：地震帶地區建築規範改革及防災基建投資獲關注"],
-   sec:["建材/工程(中期受惠)","人道援助ETF","能源板塊(委國石油受損)"],
-   st:["CAT 卡特彼勒(重建機械)","VMW 工程建設","HZNP 人道健康"]},
+  {n:"01",c:"n1",
+   t:"🇮🇱🇵🇸 以色列加沙殺戮創今年最高峰｜停火後逾千巴勒斯坦人遇難 國際壓力升",
+   tags:["中東","加沙","以巴衝突","NPR·CBS News"],
+   bull:["國際停火協議框架仍在，外交斡旋渠道保持暢通","人道主義援助機構（UNRWA、紅十字會）獲緊急捐款大增","部分國家宣佈暫停對以武器出口，有助減少平民傷亡","停火談判相關外交股（航空、旅遊）在緩和訊號下受惠"],
+   bear:["NPR引述加沙衛生記錄：自特朗普宣佈戰爭結束後，5月份以軍殺死的巴勒斯坦人超過今年任何一個月","逾千名巴勒斯坦人在「停火後」遇難，令國際信譽危機進一步加深","多國召回大使，美以關係在部分歐洲盟友間引發外交裂痕","世界盃期間全球媒體持續曝光，引發大規模示威影響東道主城市商業活動"],
+   out:["國際刑事法院程序持續，相關製裁風險長期存在","美歐在以巴問題立場日益分化，大西洋聯盟出現新裂痕","能源市場：中東局勢持續緊張令油價面臨上行尾部風險"],
+   sec:["防務軍工(複雜)","能源(地緣風險溢價)","人道援助NGO(捐款受益)"],
+   st:["RTX 雷神技術(防務)","LMT 洛克希德馬丁","MSF 無國界醫生(非上市)"]},
 
-  {n:"02",c:"n2",t:"🦠 剛果Ebola疫情擴散｜千例確診250死 WHO警告或成近年最大爆發",
-   tags:["🌍 非洲","公共衛生","生物科技"],
-   bull:["疫苗及治療藥物需求緊急上升：Merck rVSV-ZEBOV疫苗為現時唯一獲批疫苗","全球公共衛生應對能力提升，WHO緊急資金釋放速度加快","生物科技防禦板塊獲資金關注，相關公司估值提升"],
-   bear:["剛果東部地區持續武裝衝突令疫情防控極度困難，傳播難以遏制","若疫情外溢至鄰國（烏干達、盧旺達），將引發全球公衛恐慌","剛果礦業（鈷、銅）生產可能受疫情管控措施影響，供應鏈風險上升"],
-   out:["若疫情突破目前邊界，全球市場避險情緒升溫，黃金受益","剛果鈷礦供應中斷風險，電動車電池供應鏈面臨壓力","mRNA疫苗技術（Moderna、BioNTech）加速應用於Ebola"],
-   sec:["生物科技/疫苗(看多)","剛果礦業(風險)","黃金(避險受益)"],
-   st:["MRK 默克(Ebola疫苗)","MRNA Moderna","BNTX BioNTech","FCX 自由港(鈷銅風險)"]},
+  {n:"02",c:"n2",
+   t:"🌍 委內瑞拉雙重強震後繼｜188死 1,520傷 157人仍失蹤 百年最強地震持續救援",
+   tags:["拉美","天災","人道危機","NPR·CBS News"],
+   bull:["國際救援物資及資金持續湧入，人道援助機構捐款大增","重建需求龐大，工程及建材企業中期受惠","聯合國緊急應對機制啟動，地區合作改善","地震預警科技及防災基建投資議題全球受關注"],
+   bear:["188人罹難、157人仍失蹤，搜救行動面臨重重困難","委國政治經濟原本已陷危機，震災令局勢雪上加霜","石油生產設施受損，委國出口或中斷","$500億+重建缺口遠超國際援助能力"],
+   out:["短期：聯合國緊急基金啟動，鄰國哥倫比亞及巴西提供援助","中期：馬杜羅政府藉災難轉移政治壓力","長期：拉美地震帶建築規範改革及防災科技投資加速"],
+   sec:["建材/重型機械(中期受惠)","人道援助ETF","拉美能源(短期風險)"],
+   st:["CAT 卡特彼勒(重建機械)","MLM 馬丁瑪麗埃塔建材","ILF 拉丁美洲40 ETF"]},
 
-  {n:"03",c:"n3",t:"🏠 特朗普取消簽署兩黨住房法案｜美國樓市政策急轉彎",
-   tags:["🇺🇸 美國","房地產","政策"],
-   bull:["現有房屋存量短缺格局不變，現有房地產持有者資產價值獲支撐","部分開發商獲豁免監管，大型建商短期獲益","取消法案可能觸發新的談判，最終版本或對市場更友好"],
-   bear:["兩黨住房協議破裂令市場對政策穩定性失去信心","住房供應問題持續惡化，租金及樓價通脹壓力維持","建築業界及小型開發商失去政策支持，融資難度上升"],
-   out:["住房問題成2026年中期選舉核心議題，政治博弈延續","聯儲局若因住房通脹維持高息，按揭利率持續壓制需求","REITs（住宅類）短期承壓，但長期供不應求格局支撐估值"],
-   sec:["住宅REITs(中性偏空)","建材/建築(承壓)","按揭公司(觀望)"],
-   st:["AVB AvalonBay住宅REIT","DHI DR Horton建商","LEN 萊納建築","RDFN Redfin"]},
+  {n:"03",c:"n3",
+   t:"⚽ 世界盃非洲球隊震撼表現｜巴西英格蘭西班牙表現參差 非洲革命改寫格局",
+   tags:["世界盃2026","體育","非洲","NPR·Al Jazeera"],
+   bull:["非洲球隊強勁表現（摩洛哥、塞內加爾、尼日利亞等）帶動非洲市場消費及品牌贊助","非洲球員轉會費及歐洲聯賽收視率預計創新高","世界盃效應帶動全球旅遊消費爆發，酒店、航空、平台受益","新晉球隊（佛得角、庫拉索、約旦、烏茲別克）首次亮相引發新市場關注"],
+   bear:["以巴衝突陰影籠罩賽事：示威者在多個美國主辦城市抗議","非洲球迷因美國移民政策（ICE審查手機）而選擇前往加拿大及墨西哥觀賽","傳統足球強國（巴西、英格蘭、西班牙）表現欠佳影響部分廣告商信心"],
+   out:["非洲足球崛起長期改變全球體育市場格局","2030世界盃主辦地競爭中，非洲聲音將更受重視","體育媒體版權在AI短片時代進入重估週期"],
+   sec:["體育媒體/串流(看多)","旅遊/酒店(受益)","消費品牌贊助(關注)"],
+   st:["NFLX Netflix(體育版權)","DIS 迪士尼ESPN","BKNG Booking Holdings"]},
 
-  {n:"04",c:"n4",t:"🕊️ 美伊瑞士談判｜延長停火為長期協議鋪路 油價低位震盪",
-   tags:["🇺🇸 美國","🇮🇷 伊朗","原油","中東"],
-   bull:["美伊在瑞士盧塞恩展開正式談判，停火協議有望延伸為長期框架","WTI維持$67-68低位，航空、物流、消費板塊獲低油價紅利","霍爾木茲海峽持續暢通，全球LNG及石油貿易恢復正常"],
-   bear:["談判核心分歧（核濃縮、彈道導彈）未解，隨時可能破裂","伊朗強硬派反對和談，國內政治壓力令協議脆弱","以色列立場為最大變數，隨時可能採取單方面行動"],
-   out:["若協議達成→伊朗石油回歸市場→油價測試$60水平","若談判破裂→油價反彈至$90+→通脹重燃→加息預期升溫","談判期間市場維持觀望，能源板塊波動性上升"],
-   sec:["能源(短期看空)","航空/物流(受益低油)","黃金(觀望)"],
-   st:["AAL 美國航空","DAL 達美航空","FDX 聯邦快遞","UAL 聯合航空"]},
+  {n:"04",c:"n4",
+   t:"📱 澳洲兒童社交媒體禁令漸失效｜觀察員：禁令實施半年已告失敗 政策重評",
+   tags:["科技監管","兒童保護","澳洲","NPR"],
+   bull:["禁令失效為科技公司解除部分監管壓力，Meta、TikTok、YouTube股價短期受惠","年齡驗證科技企業（Experian、Yoti）仍獲政策關注，持續增長","「數字健康」相關應用程式及家長監控工具需求上升"],
+   bear:["禁令失效令澳洲立法公信力受損，可能觸發更嚴格執法立法","其他國家（英國、歐盟）參考澳洲案例，或採取技術手段而非禁令","社交媒體企業面臨更多監管不確定性，合規成本上升"],
+   out:["全球兒童網絡保護立法進入反思期，技術監管工具而非禁令將成趨勢","Meta、TikTok需主動推出更嚴格年齡驗證方案以避免監管","家長控制及數字健康板塊長期受益"],
+   sec:["社交媒體(短期壓力減輕)","年齡驗證科技(看多)","家長監控應用(受益)"],
+   st:["META Meta平台","GOOGL Alphabet","EXPN.L Experian(身份驗證)"]},
 
-  {n:"05",c:"n5",t:"⚽ 2026世界盃瑞士盧塞恩球迷熱潮｜體育旅遊消費超預期",
-   tags:["🌍 全球","體育","消費/旅遊"],
-   bull:["2026世界盃美加墨聯合主辦，全球旅遊消費迎爆發，酒店/航空/零售全面受益","盧塞恩球迷聚集場面反映歐洲體育旅遊消費力強勁","體育賽事直播訂閱（Apple TV+、Amazon Prime）用戶激增"],
-   bear:["極端熱浪（法國54省紅色警報）衝擊戶外賽事及旅遊體驗","部分球隊資格爭議及VAR判罰引發輿論負面情緒","旅遊旺季通脹壓力（機票、酒店漲價）令消費者實際支出受擠壓"],
-   out:["體育媒體版權（FIFA、ESPN、DAZN）在AI短片剪輯時代價值重估","美加墨主辦城市基建投資回報率受關注","球迷消費數據為零售及品牌廣告提供季度業績催化劑"],
-   sec:["旅遊/酒店(看多)","體育媒體(看多)","消費零售(受益)"],
-   st:["BKNG Booking Holdings","ABNB Airbnb","DIS 迪士尼(ESPN)","NFLX Netflix"]},
+  {n:"05",c:"n5",
+   t:"👑 英王查理斯首次公開稅務申報｜成首位披露繳稅額英國君主 皇室財務透明化",
+   tags:["英國皇室","政治","NPR"],
+   bull:["皇室財務透明化提升公眾對君主制度的信任，有助英國軟實力","查理斯領導下皇室形象現代化，有利英國國際品牌","皇室相關旅遊（白金漢宮、溫莎城堡）持續吸引國際訪客"],
+   bear:["稅務披露可能引發公眾對皇室資產規模的進一步質疑","共和主義情緒在年輕一代中上升，長期對君主制構成結構性挑戰","皇室在Burnham過渡政府期間的政治中立角色面臨考驗"],
+   out:["皇室財務透明化為Burnham政府建立問責文化的先例","英國軟實力在後脫歐時代仍是重要外交工具","對英國旅遊業中性偏正面影響"],
+   sec:["英國旅遊(中性偏多)","英國軟實力(無直接投資標的)","英國奢侈品(間接)"],
+   st:["BKNG Booking(英國旅遊受益)","IHG.L 洲際酒店集團","EIS.L Edinburgh Investment Trust"]},
 
-  {n:"06",c:"n6",t:"🤖 Alphabet人才流失危機｜Nobel獎得主及AI副總裁相繼離職",
-   tags:["🇺🇸 美國","AI","科技","GOOGLE"],
-   bull:["人才流失反映AI行業生態系統成熟，Anthropic、OpenAI等競爭者技術儲備增強","Google核心廣告業務及Cloud收入增長穩健，基本面未受根本衝擊","AI競爭加劇推動整體行業技術加速進步，利好AI基礎設施供應商"],
-   bear:["AlphaFold發明者Jumper轉投Anthropic，AI蛋白質結構研究優勢受損","Gemini團隊副總裁Shazeer離職打擊市場對Google AI戰略的信心","GOOGL單日跌5.09%，市值蒸發逾$1,000億美元，估值修正壓力持續"],
-   out:["Google需加速AI產品商業化（Gemini Ultra、AI Overview）以挽回市場信心","人才流動加速AI行業「去中心化」，初創公司估值受益","Apple、Meta等積極招募Google離職人才，競爭格局加速重塑"],
-   sec:["AI/大科技(短期承壓)","AI初創/競爭者(受益)","雲端基礎設施(長期看多)"],
-   st:["GOOGL(逢低關注)","ANTH Anthropic(私募)","MSFT 微軟(受益)","NVDA 英偉達"]},
+  {n:"06",c:"n6",
+   t:"🇮🇷 美伊談判進入關鍵72小時｜美國務院發言人剛從中東返回 停火框架延伸",
+   tags:["中東外交","美伊","原油","NPR·Business Standard"],
+   bull:["美國務院發言人剛從中東返回（今日新聞），顯示外交努力持續密集","停火框架有效維持，霍爾木茲海峽持續暢通，低油價紅利持續","60天談判視窗讓市場維持相對穩定的風險偏好"],
+   bear:["伊朗因黎巴嫩戰事升級曾一度推遲瑞士談判（Business Standard），顯示局勢脆弱","JD Vance取消出席談判（Business Standard引述），顯示美方內部分歧","核問題、彈道導彈三大核心分歧仍未解決，任何突破均脆弱"],
+   out:["未來72小時為談判關鍵視窗，任何重大進展或破裂均可引發市場劇烈反應","油價目前維持$65-70區間，若談判破裂將重上$90+","中東局勢為2026下半年最大市場不確定因素"],
+   sec:["能源(短期看空/觀望)","航空/物流(低油受益)","黃金(地緣避險)"],
+   st:["AAL 美國航空","DAL 達美航空","FDX 聯邦快遞"]},
 
-  {n:"07",c:"n7",t:"🌡️ 歐洲極端熱浪｜法國54省紅色警報 多國打破歷史高溫紀錄",
-   tags:["🇪🇺 歐洲","氣候","清潔能源"],
-   bull:["空調製冷設備需求爆發：開利（CARR）、大金等訂單急增","清潔能源（太陽能、風能）政策投資加速，歐洲Green Deal執行加快","氣候保險及ESG基金獲更大規模配置，碳交易ETS碳價上升"],
-   bear:["農業損失：高溫損害小麥、葡萄等作物，糧食通脹壓力再現","南歐旅遊業遭打擊，西班牙、希臘、意大利景點客流下降","電網壓力：製冷需求激增若依賴天然氣，能源成本再度攀升"],
-   out:["歐洲「氣候韌性」基建投資進入長期擴張週期","糧食期貨（小麥、玉米）值得密切關注","極端天氣常態化推動全球氣候科技投資提速"],
-   sec:["清潔能源(看多)","空調製冷(看多)","農業期貨(通脹風險)","旅遊(短期承壓)"],
-   st:["CARR 開利全球","ENPH Enphase能源","FSLR 第一太陽能","NEE 美國NextEra能源"]},
+  {n:"07",c:"n7",
+   t:"🌍 歐元國際角色提升｜ECB報告：地緣格局轉變 人民幣挑戰美元地位",
+   tags:["外匯","ECB","地緣經濟","ECB官方報告"],
+   bull:["ECB報告確認歐元在美國貿易保護主義背景下國際地位提升","中東衝突期間部分船隻透過CIPS以人民幣及加密貨幣支付霍爾木茲通行費，反映美元替代需求","歐元區深化資本市場聯盟（Savings and Investments Union）有望吸引更多國際資金"],
+   bear:["ECB報告承認歐元全球潛力「仍未實現」，依賴三大支柱（經濟韌性、制度完整、地緣公信力）均待加強","人民幣CIPS結算量大增令美元霸權面臨中長期侵蝕","美國關稅政策令歐元區出口受壓，歐洲增長前景仍不明朗"],
+   out:["美元替代貨幣趨勢加速：黃金、歐元、人民幣三足鼎立格局形成中","歐洲資本市場一體化若加速，歐元計資產估值將大幅提升","各國央行增持黃金趨勢持續（中國350噸、波蘭320噸、土耳其220噸）"],
+   sec:["黃金(長期看多)","歐元計資產(中性偏多)","人民幣計資產(結構性增長)"],
+   st:["GLD 黃金ETF","FXE 歐元ETF","IAU iShares黃金Trust"]},
 
-  {n:"08",c:"n8",t:"🏦 美聯儲Warsh新政｜廢除點陣圖 通脹預測上調至4.1%",
-   tags:["🇺🇸 美國","聯儲","利率","通脹"],
-   bull:["Warsh廢除點陣圖減少前瞻指引混亂，理論上令政策更靈活應對數據","銀行板塊在高利率環境持續受益，淨息差（NIM）維持擴大","美國短期國債（3-6月）提供無風險5%+回報，對保守投資者吸引"],
-   bear:["核心PCE預測升至4.1%，遠超2%目標，加息預期重燃","德意志銀行預測年底加息50bp，高科技成長股估值修正壓力增加","廢除點陣圖令市場失去錨點，債市波動性上升"],
-   out:["6月26日PCE數據為近期最關鍵數據，決定9月FOMC走向","「更高更久」情景下，防禦性板塊+高息股+短債勝出","伊朗油價下行若持續→通脹受控→減息預期或在年底重現"],
-   sec:["銀行/金融(受益)","科技成長(壓力)","短期國債(吸引)","房地產(持續承壓)"],
-   st:["JPM 摩根大通","GS 高盛","WFC 富國銀行","BRK.B 巴克夏·哈撒韋"]},
+  {n:"08",c:"n8",
+   t:"🏭 Lazard：美國工業政策全球化｜各國政府爭相複製干預主義 企業合規成本劇增",
+   tags:["地緣經濟","工業政策","貿易","Lazard Geopolitics 2026"],
+   bull:["美國工業政策成功帶動本土製造業投資，形成可複製模式","友岸外包（Friend-shoring）受益國（越南、印度、墨西哥）迎來長期投資浪潮","礦產關鍵供應鏈聯盟加速形成，受益企業獲政策扶持"],
+   bear:["各國政府競相干預市場，企業需應對「多個首都的競爭需求」，合規成本劇增","Lazard報告警告：後自由放任時代，政府成「主要市場參與者而非裁判」","中歐貿易緊張：EV、太陽能、成熟製程半導體均成歐洲對華貿易衝突焦點"],
+   out:["企業多元化供應鏈戰略（+1 Strategy）成不可逆趨勢","關鍵礦產聯盟（鋰、稀土、鈷）長期重塑全球供應鏈格局","ESG合規及供應鏈透明化需求持續推動RegTech板塊增長"],
+   sec:["美本土製造(看多)","關鍵礦產(看多)","RegTech/合規科技(受益)"],
+   st:["CAT 卡特彼勒","MP Materials稀土","ACN 埃森哲(供應鏈顧問)"]},
 
-  {n:"09",c:"n9",t:"☢️ 核能文藝復興｜IAEA視察福島 全球核電重啟浪潮加速",
-   tags:["🌏 全球","核能","清潔能源","AI用電"],
-   bull:["AI數據中心用電需求爆發推動核電重啟：Microsoft、Google、Amazon均簽署核電長期購電協議","IAEA福島視察確認安全標準達標，日本核電重啟政治阻力下降","SMR（小型模組化反應堆）獲多國政府補貼，NuScale、X-energy等企業估值急升"],
-   bear:["核廢料處置問題仍未解決，長期環境風險及社會接受度存疑","建設週期長（10-15年）且成本超支風險高，短期不能解決AI用電缺口","核事故尾部風險（黑天鵝）令保險成本高昂"],
-   out:["核電為AI時代「基荷電力」最佳選項，長期需求確定性高","鈾礦供應商（Cameco等）在核電重啟浪潮中直接受益","歐洲各國核電政策轉向（法、英、荷），形成全球共識"],
-   sec:["核能/鈾礦(強烈看多)","電力基建(長期看多)","AI數據中心(間接受益)"],
-   st:["CCJ Cameco鈾礦","CEG Constellation能源","VST Vistra能源","SMR NuScale核能"]},
+  {n:"09",c:"n9",
+   t:"🤖 阿根廷米萊改革進入關鍵期｜Lazard：右翼浪潮席捲拉美 市場友好政策加速",
+   tags:["拉美","政治","新興市場","Lazard Geopolitics 2026"],
+   bull:["Lazard報告確認拉美右翼政策轉向帶來更多市場友好改革，商業環境改善","阿根廷若成功穩定宏觀，將成為新興市場投資者信心的重要指標","哥倫比亞新政府（親美路線）有望吸引美資回流，採礦及農業企業受益"],
+   bear:["Lazard同時警告：「令人失望的左翼政府造就右翼動能」但社會撕裂風險加大","拉美多國選舉日程密集（Lazard稱「擁擠的選舉日曆」），政策不確定性持續","委內瑞拉地震（今日新聞）令整個地區人道及政治形勢更趨複雜"],
+   out:["阿根廷去監管化成功案例若成立，可提振整個拉美外資信心","關鍵礦產（銅、鋰）開採政策改革為最大長期投資機遇","拉美貨幣（比索、雷亞爾）波動性為風險管理重點"],
+   sec:["拉美新興市場(謹慎樂觀)","採礦/礦產(關注)","農業(受益)"],
+   st:["GXG 哥倫比亞ETF","ILF 拉丁美洲40 ETF","FCX Freeport銅礦"]},
 
-  {n:"10",c:"n10",t:"💊 GLP-1保險覆蓋爭議｜美國患者替代方案激增 市場規模突破$500億",
-   tags:["🇺🇸 美國","醫療","GLP-1","消費健康"],
-   bull:["NPR報道：保險不覆蓋情況下患者有多種替代方案，顯示需求高度剛性","禮來Mounjaro/Zepbound及諾和諾德Wegovy繼續主導市場，2026年收入料創新高","GLP-1對心臟病、腎病、睡眠窒息等多適應症擴展，長期市場空間達$1,500億"],
-   bear:["保險覆蓋問題制約可及性，大量患者因費用（每月$1,000+）無法持續用藥","競爭加劇：阿斯利康、禮來次世代口服GLP-1入局，市場份額爭奪白熱化","仿製藥時間線縫近，一旦專利到期，原廠藥價格面臨壓力"],
-   out:["Medicare覆蓋GLP-1政策辯論為下半年最大股價催化劑","口服GLP-1（每天一粒）研發成功將徹底改變市場格局","GLP-1帶動「連帶效應」：低卡食品、健康補充品、醫療器械均受影響"],
-   sec:["醫療製藥(看多)","傳統食品/快餐(受壓)","健康消費(受益)"],
-   st:["NVO 諾和諾德","LLY 禮來公司","AMGN 安進","HIMS Hims&Hers健康"]}
+  {n:"10",c:"n10",
+   t:"🦠 剛果Ebola擴散持續｜逾千確診250死 WHO警告或成近年最大爆發",
+   tags:["非洲","公共衛生","生物科技","NPR"],
+   bull:["Merck rVSV-ZEBOV唯一獲批Ebola疫苗緊急需求大增","生物科技防禦板塊獲資金追捧，mRNA疫苗平台研發加速","WHO緊急基金及多邊援助機制啟動，公衛體系韌性獲投資"],
+   bear:["剛果東部持續武裝衝突令防控極度困難，死亡率高達25%","若疫情外溢至烏干達、盧旺達，引發全球公衛恐慌","剛果鈷礦生產受疫情管控影響，電動車電池供應鏈風險上升"],
+   out:["若疫情突破邊界，全球避險情緒升溫，醫療板塊受益","Ebola mRNA疫苗研發加速，BioNTech、Moderna等平台受益","剛果鈷礦供應中斷風險長期存在，替代供應商（澳洲、智利）獲益"],
+   sec:["生物科技/疫苗(看多)","剛果礦業(風險)","替代礦產供應商(受益)"],
+   st:["MRK 默克(Ebola疫苗)","MRNA Moderna","ALB 雅寶(鋰/替代礦產)"]}
 ];
+
+// ── 英國新聞 DATA (來源: BBC·Reuters·Bloomberg·Bank of England·NHS England·UK Parliament) ──
+const uknews=[
+  {n:"01",c:"n1",
+   t:"🏛️ Burnham任命Jim O'Neill及Andy Haldane為顧問｜尋求財政規則「彈性」 市場憂慮上升",
+   tags:["英國政治","工黨","Bloomberg"],
+   bull:["O'Neill（前高盛首席經濟師）及Haldane（前英倫銀行首席經濟師）加盟，為市場帶來專業信心","Burnham承諾維持Rachel Reeves財政框架，金邊債收益率從5.15%高位回落至4.736%","「北方振興」及公用事業改革議程獲英國工商界部分支持","若成功7月17日前接任，政治不確定性消除，英鎊或反彈"],
+   bear:["Bloomberg引述：Burnham盟友Sir Richard Leese稱其「可能尋求財政規則彈性」，AJ Bell警告：「債市討厭彈性」","英國30年金邊債收益率仍達5.83%，接近1998年高位","財長候選人Louise Haigh有欺詐定罪背景，若出任財長令市場信心受損","英國PMI連續兩月收縮，衰退風險現實存在"],
+   out:["若Burnham維持財政紀律→英鎊反彈至1.30+，FTSE 250跑贏","若放鬆財政規則→金邊債拋售加劇，英鎊跌穿1.25","英國-歐盟「重置」議題料成Burnham外交首要日程，影響英國出口及金融業"],
+   sec:["英鎊(波動)","英國基建(政策看多)","金邊債(觀望)"],
+   st:["EWU 英國ETF","SEGRO.L SEGRO物流REIT","HSBA.L 滙豐"]},
+
+  {n:"02",c:"n2",
+   t:"🏦 英格蘭銀行7比2維持3.75%｜警告伊朗戰爭通脹風險 兩委員投票加息",
+   tags:["英國","英倫銀行","利率","Bank of England官方"],
+   bull:["維持3.75%顯示政策謹慎，避免過度收緊打壓疲弱經濟","伊朗和平框架令油價維持低位，輸入性通脹壓力緩解，為未來減息創造空間","英國出口受英鎊貶值支撐，製造業訂單略有改善"],
+   bear:["兩名委員投票加息至4%，顯示通脹擔憂仍持，政策分歧加大","OIS利率曲線顯示年底或再加息30bp，英國按揭市場壓力持續","英國OECD增長預測僅0.7%，G7最弱，「滯脹」風險不容忽視"],
+   out:["7月30日下次MPC會議為關鍵觀察點，伊朗油價走勢為決定性因素","若油價維持$65-70→下半年英國減息預期升溫→房地產及按揭市場輕微復甦","英鎊計黃金（£3,200+/盎司）因英鎊貶值而持續創高"],
+   sec:["英國銀行股(中性)","英國房地產(觀望)","英鎊計黃金(看多)"],
+   st:["HSBA.L 滙豐","BARC.L 巴克萊","NWG.L 英國國家銀行"]},
+
+  {n:"03",c:"n3",
+   t:"📊 英國PMI跌至49.4｜連續兩月收縮 服務業疲弱 技術衰退風險浮現",
+   tags:["英國","經濟數據","PMI","Trading Economics"],
+   bull:["製造業訂單受英鎊貶值支撐，出口有望改善","FTSE 100大型跨國企業（BP、殼牌、AstraZeneca）受益海外收入換算升值","Burnham若推出「再工業化」刺激計劃，製造業板塊可能獲政策催化"],
+   bear:["PMI 49.4低於50榮枯線，連續兩月收縮，技術性衰退風險上升","服務業（佔英國GDP近80%）持續疲弱，就業市場壓力增加","高利率3.75%+政治不確定性+生活成本危機三重壓力打壓消費信心"],
+   out:["若GDP連續兩季負增長→英倫銀行被迫減息→英鎊進一步承壓","Burnham政府面臨「衰退vs.財政紀律」的政策兩難","英國出口導向型大企業（FTSE 100）與本土消費型企業（FTSE 250）走勢將進一步分化"],
+   sec:["FTSE 100出口企業(中性偏多)","FTSE 250本土企業(看空)","英國防務(政策支撐)"],
+   st:["BP.L 英國石油","ULVR.L 聯合利華","DGE.L 帝亞吉歐"]},
+
+  {n:"04",c:"n4",
+   t:"🔒 伊朗間諜在英國核潛艇基地附近被捕｜Clyde基地安全漏洞曝光",
+   tags:["英國","國家安全","伊朗","Wikipedia UK 2026"],
+   bull:["事件加速英國增加國防及網絡安全預算，軍工企業受益","英美情報合作深化，AUKUS框架進一步鞏固","網絡安全板塊因政府優先保護軍事基礎設施而獲資金關注"],
+   bear:["核潛艇基地（Clyde）安全漏洞曝光，削弱公眾對英國國防系統的信心","在美伊談判微妙期，間諜案增加英伊外交複雜性","若事件升級，英國或被迫在伊朗問題上採取更強硬立場，影響談判"],
+   out:["英國國家安全立法或進一步收緊，敏感技術出口限制加嚴","AUKUS框架下英美澳軍事整合加速，防務採購長期擴張","網絡安全成英國政府預算優先項目"],
+   sec:["英國防務(看多)","網絡安全(看多)","英伊相關企業(風險)"],
+   st:["BA.L BAE Systems","RR.L 勞斯萊斯","QQ.L QinetiQ"]},
+
+  {n:"05",c:"n5",
+   t:"🏥 NHS「三重夾擊」｜醫生罷工+熱浪+世界盃 COVID調查：NHS瀕臨崩潰",
+   tags:["英國","醫療","NHS","NHS England官方"],
+   bull:["NHS危機加速私人醫療保險需求，Bupa等私人醫療企業受益","醫療科技（遠程醫療、AI診斷）在NHS數字化轉型中獲商機","COVID調查促政府加大NHS改革投資，醫療科技採購預算增加"],
+   bear:["NHS England官方：醫生罷工4天（6月15-19日）、熱浪、世界盃同時爆發，令NHS承受史上最大單週壓力","積壓病例高達750萬，系統性危機未見實質緩解","Burnham政府若大幅增加NHS開支，財政壓力進一步上升"],
+   out:["NHS改革為Burnham政府最核心政策議程","私人醫療及遠程醫療市場在NHS危機下迎來長期擴張","醫護短缺需移民政策配合，Burnham移民立場為市場觀察焦點"],
+   sec:["英國醫療科技(長期看多)","私人醫療(受益)","NHS供應商(中性偏多)"],
+   st:["AZN.L 阿斯利康","GSK.L 葛蘭素史克","SGP.L Spire Healthcare私人醫療"]},
+
+  {n:"06",c:"n6",
+   t:"🌡️ 英國破紀錄熱浪｜議會推「極端熱」立法 鐵路因高溫限速 基建壓力全面暴露",
+   tags:["英國","氣候","基建","UK Parliament·NHS England"],
+   bull:["議會環境審計委員會推動「極端熱」立法，清潔能源政策獲法律保護","空調及製冷設備需求爆發，英國相關企業訂單急增","綠色基建投資獲跨黨派支持，政策持續性強"],
+   bear:["英國鐵路因高溫限速，商業活動受衝擊，Network Rail面臨龐大升級費用","農業損失推高英國食品通脹，令英倫銀行政策處境更困難","電網老化問題在高溫下全面暴露，升級費用估計逾$300億英鎊"],
+   out:["英國「氣候適應」基建投資在2026-2030年料倍增","FTSE 350中清潔能源及基建企業獲機構資金持續增持","極端天氣常態化令英國氣候保險成本上升，保險業受益"],
+   sec:["英國清潔能源(看多)","基建/建築(受益)","英國鐵路(承壓)"],
+   st:["SSE.L 蘇格蘭電力","CRH.L 建材集團","ENPH Enphase Energy"]},
+
+  {n:"07",c:"n7",
+   t:"💷 英國貧困人口達1,300萬｜相對貧困率十年新高 Burnham「北方振興」受矚",
+   tags:["英國","社會","政策","UK Government Statistics"],
+   bull:["貧困問題觸發更大政策回應，社會房屋、福利及教育支出料增加","最低工資升至£12.71/小時，低收入消費者購買力有所改善","Burnham「北方振興」議程獲民意支持，北英格蘭基建投資可期"],
+   bear:["1,300萬貧困人口反映英國結構性問題，短期難以解決","高通脹+高利率令低收入家庭實際購買力持續下降","增加社會支出意味財政壓力加大，金邊債供應增加，收益率上行"],
+   out:["Burnham政府料擴大公共支出，英國財政赤字壓力中期上升","社會住房需求強勁，Taylor Wimpey等建商在政府補貼下或受益","超市及必需消費品板塊因政府補貼政策而獲一定支撐"],
+   sec:["英國超市/零售(受益)","社會房屋/建商(政策看多)","金邊債(供應壓力)"],
+   st:["TSCO.L 樂購(Tesco)","SBRY.L 森寶利","TW.L Taylor Wimpey"]},
+
+  {n:"08",c:"n8",
+   t:"🚀 英國北極軍事部署｜B-52轟炸機進駐RAF Fairford 防務支出GDP佔比創新高",
+   tags:["英國","NATO","防務","Wikipedia UK 2026"],
+   bull:["英國防務支出創後冷戰新高，BAE Systems、QinetiQ長期訂單確定性極強","NATO北極戰略重要性提升，英國扮演領導角色強化外交地位","英美軍事合作深化，B-52進駐確保特殊關係穩固"],
+   bear:["防務支出增加加劇英國財政壓力，擠佔社會開支，引發公眾爭議","北極軍事化可能引發俄羅斯報復，英國情報及基礎設施面臨新威脅","Burnham政府在防務vs社會支出之間面臨政治平衡挑戰"],
+   out:["英國防務支出料從GDP 2.3%進一步提升至2.5%+","歐洲防務整合（AUKUS+NATO框架）長期推動英國軍工企業訂單擴張","量子通訊及太空防務為英國防務科技下一個重大投資主題"],
+   sec:["英國防務(強烈看多)","英國航太(長期看多)","北極資源(長期)"],
+   st:["BA.L BAE Systems","RR.L 勞斯萊斯","QQ.L QinetiQ"]},
+
+  {n:"09",c:"n9",
+   t:"🔬 英國Kent腦膜炎爆發仍在監控中｜JCVI重新審視MenB青少年疫苗推薦",
+   tags:["英國","公共衛生","疫苗","NHS England·UKHSA官方"],
+   bull:["UKHSA積極追蹤接觸者，提供預防性抗生素，顯示英國公衛應對能力","JCVI重新審視MenB青少年加強劑推薦，若獲批將觸發大規模疫苗採購","Pfizer及GSK腦膜炎疫苗需求或因政策調整而增加"],
+   bear:["爆發源頭（Canterbury夜店）仍有潛在二代傳播風險","JCVI目前不推薦MenB青少年常規加強劑，疫苗採購不確定性存在","疫情若擴大，或加重NHS本已超負荷的急症系統壓力"],
+   out:["若JCVI改變建議→英國青少年MenB疫苗採購量大增→GSK直接受益","NHS數字化追蹤系統（接觸者追蹤app）在此次事件中效果受評估","英國公衛基礎設施投資議題在Burnham政府下持續受關注"],
+   sec:["醫療製藥/疫苗(看多)","NHS科技(受益)","英國公衛(政策投資)"],
+   st:["GSK.L 葛蘭素史克(MenB疫苗Bexsero)","PFE 輝瑞","AZN.L 阿斯利康"]},
+
+  {n:"10",c:"n10",
+   t:"📱 Apple英國iOS 26.4強制年齡驗證｜英國成全球首個主要執行市場 監管先例效應",
+   tags:["英國","科技監管","Apple","Wikipedia UK 2026"],
+   bull:["英國成全球首個強制執行App年齡驗證的主要市場，為英國科技監管話語權奠定基礎","年齡驗證技術供應商（Experian Yoti等）商業機會激增","家長及教育界對Apple積極監管措施表示歡迎，品牌形象正面"],
+   bear:["實施成本高昂，部分App開發商可能撤出英國市場影響英國科技生態","年齡驗證需收集敏感個人數據，ICO（英國數據保護局）監管壓力上升","監管先例或引發歐盟跟進，增加跨境科技企業合規負擔"],
+   out:["若成功實施，英國模式料被歐盟及澳洲借鑒（澳洲禁令失效後的替代方案）","合規科技（RegTech）板塊在監管趨嚴背景下持續受益","Apple或主動擴大隱私保護功能，作為全球市場監管應對策略"],
+   sec:["RegTech/合規科技(看多)","大型社交媒體(合規壓力)","身份驗證企業(受益)"],
+   st:["EXPN.L Experian","AAPL 蘋果(中性偏多)","IDEX.OL Idex生物識別"]}
+];
+
+// ── GS PICKS ─────────────────────────────────────────
+const gsPicks=[
+  {
+    ticker:"CCJ",
+    name:"Cameco Corporation | 全球最大受監管鈾礦生產商",
+    rating:"BUY — HIGH CONVICTION",
+    pt:"$75",curr:"$58",upside:"+29%",
+    thesis:"今日新聞中至少三個主題直接利好核能：⑴ 以巴衝突加劇令中東地緣風險溢價持續，推動能源多元化需求；⑵ ECB報告確認全球去美元化趨勢，帶動各國央行增持黃金及多元化能源佈局；⑶ 英國北極軍事部署顯示西方對無碳可靠電力的戰略需求。CCJ是AI電力需求+核電重啟+地緣能源多元化三重主題最純粹的受益者，目前市場估值仍嚴重低估超大型科技公司長期核電購電合約對鈾需求的結構性提升。",
+    pts:[
+      "微軟、Google、Amazon均已簽署核電長期購電協議，直接拉動鈾需求確定性",
+      "美國ADVANCE Act加速NRC審批流程，新反應堆建設時間表顯著前移",
+      "CCJ自有礦山（Cigar Lake、McArthur River）為全球最高品位，成本競爭優勢持久",
+      "全球71座核電反應堆在建，22座計劃中，鈾長期供需缺口擴大",
+      "ECB報告顯示各國央行增持黃金及多元化能源，間接提升核電戰略地位",
+      "英國Hinkley Point C及政府新核電計劃令英國市場需求可見度提升"
+    ],
+    risk:"核事故黑天鵝事件（概率極低但影響極大）、鈾現貨價格波動、個別礦山運營中斷"
+  },
+  {
+    ticker:"MRK",
+    name:"Merck & Co. | 唯一獲批Ebola疫苗持有者 + GLP-1競爭者",
+    rating:"BUY — CATALYST PLAY",
+    pt:"$145",curr:"$118",upside:"+23%",
+    thresh:"6-12個月催化劑視窗",
+    pts:[
+      "今日頭條新聞：剛果Ebola疫情擴大至逾千確診、250人死亡，WHO警告或成近年最大爆發",
+      "Merck rVSV-ZEBOV（Ervebo）為全球唯一獲FDA及歐盟批准的Ebola疫苗，緊急採購由WHO及Gavi資金支持",
+      "Ebola疫情升級→WHO緊急使用清單擴大→Merck獲得緊急採購合約，歷史上每次大型爆發均觸發合約",
+      "GLP-1管線（MK-6024）進入Phase 2，為2027年潛在催化劑，市場尚未充分定價",
+      "Keytruda（免疫治療）仍為全球最暢銷處方藥，2026年收入預計超$250億，提供穩定現金流基礎",
+      "以巴衝突+委內瑞拉地震+Ebola三重公衛事件令全球疫苗採購預算上升，Merck管線受多重利好"
+    ],
+    thesis:"今日兩則新聞的交叉機遇：Ebola疫情擴大（直接受益）+ 全球地緣風險升溫（公衛採購預算上升）。Merck是少數能同時受益公衛危機（Ebola疫苗）及代謝疾病趨勢（GLP-1管線）的製藥巨頭，在市場因AI板塊動盪而尋求防禦性板塊時，Merck具備「雙引擎」增長驅動力。",
+    risk:"Ebola疫情若迅速被遏制導致採購量低於預期、Keytruda專利懸崖（2028年）、GLP-1競爭加劇"
+  }
+];
+
+// ── TRENDS DATA ───────────────────────────────────────
+const trends=[
+  {e:"🤖",k:"AI Gadgets｜AI智能設備",h:"🔥🔥🔥🔥🔥 搜尋熱度+420%",
+   d:"Meta Ray-Ban AI眼鏡、AI伴侶機器人、AI智能音箱新世代搜尋量持續爆發。今日科技監管新聞（英國iOS年齡驗證、澳洲禁令）顯示AI設備監管框架趨嚴，但消費需求絲毫未減。",
+   s:[{t:"META",n:"Meta Platforms",w:"Ray-Ban AI眼鏡市場領導者，AI硬件生態構建者"},{t:"AAPL",n:"蘋果公司",w:"Apple Intelligence+英國iOS 26.4年齡驗證，監管主動應對強化品牌"},{t:"SMCI",n:"超微電腦",w:"AI設備背後服務器基礎設施最直接受益"}]},
+  {e:"💊",k:"GLP-1 / Ozempic｜減重神藥",h:"🔥🔥🔥🔥🔥 Google Trends Score 95+",
+   d:"全球GLP-1市場突破$500億。英國NHS正討論是否將GLP-1納入覆蓋範圍（今日英國新聞背景）。TikTok #ozempic標籤破50億次播放。Amazon健康補充品月銷量激增200%。",
+   s:[{t:"NVO",n:"諾和諾德",w:"Wegovy/Ozempic全球主導，HIMS夥伴協議直接分銷"},{t:"LLY",n:"禮來公司",w:"Mounjaro/Zepbound強勢搶市，Q1市占率35%+"},{t:"HIMS",n:"Hims & Hers Health",w:"唯一擁有Novo Nordisk直接分銷協議的電信醫療平台"}]},
+  {e:"☢️",k:"Nuclear Energy｜核能股",h:"🔥🔥🔥🔥 AI用電需求推動搜尋量年增+180%",
+   d:"今日三重利好：IAEA福島安全確認、微軟/Google/Amazon核電協議、英國北極軍事部署。Reddit r/nuclear訂閱者6個月增長400%。今日GS精選CCJ正是捕捉此趨勢的最純粹受益者。",
+   s:[{t:"CCJ",n:"Cameco鈾礦",w:"全球最大受監管鈾礦生產商，今日GS精選首選"},{t:"CEG",n:"Constellation能源",w:"美最大核電運營商，已與Microsoft簽20年購電協議"},{t:"OKLO",n:"Oklo核能",w:"SMR先驅，首份超大型科技公司PPA預計H2 2026"}]},
+  {e:"⚡",k:"EV Home Charger｜家用電動車充電樁",h:"🔥🔥🔥🔥 搜尋量+240%，英美政府補貼推動",
+   d:"英國2035年禁售燃油車目標帶動家用充電樁需求激增。今日英國能源及氣候新聞進一步強化清潔能源敘事。Amazon EV充電配件Q2成長最快類目(+285%)。",
+   s:[{t:"CHPT",n:"ChargePoint",w:"美最大EV充電網絡"},{t:"BLNK",n:"Blink Charging",w:"家用Level 2充電樁強勁增長"},{t:"TSLA",n:"特斯拉",w:"Powerwall+充電生態整合，品牌無可替代"}]},
+  {e:"✈️",k:"Workation Travel｜工作旅行裝備",h:"🔥🔥🔥🔥 搜尋量年增+135%，世界盃效應疊加",
+   d:"非洲球隊表現（今日世界盃新聞）引爆非洲旅遊及體育消費搜尋。世界盃美加墨三國主辦帶動全球Workation趨勢。Shopify旅行配件Q2按年增長42%。",
+   s:[{t:"BKNG",n:"Booking Holdings",w:"全球最大旅行預訂平台，世界盃效應直接受益"},{t:"ABNB",n:"Airbnb",w:"長租需求激增，世界盃期間美加出租率達95%+"},{t:"UAL",n:"聯合航空",w:"低油價+旅遊需求雙重受益，跨大西洋航線客滿"}]}
+];
+
+// ── BUILD FUNCTIONS ───────────────────────────────────
+function makeCard(n,i,prefix){
+  const d=document.createElement('div');
+  d.className='nc';d.id=prefix+'nc'+i;
+  const tags=n.tags.map(t=>`<span class="tag">${t}</span>`).join('');
+  const bull=n.bull.map(b=>`<li>${b}</li>`).join('');
+  const bear=n.bear.map(b=>`<li>${b}</li>`).join('');
+  const out=n.out.map(b=>`<li>${b}</li>`).join('');
+  const sec=n.sec.map(s=>`<span class="chip sec">${s}</span>`).join('');
+  const st=n.st.map(s=>`<span class="chip st">${s}</span>`).join('');
+  d.innerHTML=`
+    <div class="nch" onclick="tog('${prefix}',${i})">
+      <div class="nn ${n.c}">${n.n}</div>
+      <div class="nm"><div class="nt">${n.t}</div><div class="ntags">${tags}</div></div>
+      <div class="chev">▼</div>
+    </div>
+    <div class="nb">
+      <div class="atabs">
+        <button class="at bull act" onclick="sw(event,'${prefix}',${i},'bull')">✅ 正面</button>
+        <button class="at bear" onclick="sw(event,'${prefix}',${i},'bear')">⚠️ 風險</button>
+        <button class="at out" onclick="sw(event,'${prefix}',${i},'out')">🔮 走向</button>
+        <button class="at inv" onclick="sw(event,'${prefix}',${i},'inv')">💹 投資</button>
+      </div>
+      <div class="ap act" id="${prefix}p${i}bull"><ul class="pts bull">${bull}</ul></div>
+      <div class="ap" id="${prefix}p${i}bear"><ul class="pts bear">${bear}</ul></div>
+      <div class="ap" id="${prefix}p${i}out"><ul class="pts out">${out}</ul></div>
+      <div class="ap" id="${prefix}p${i}inv">
+        <div class="ig">
+          <div class="ir"><div class="il">📁 影響板塊</div><div class="chips">${sec}</div></div>
+          <div class="ir"><div class="il">💹 受惠股票</div><div class="chips">${st}</div></div>
+        </div>
+      </div>
+    </div>`;
+  return d;
+}
 
 function buildNews(){
   const nl=document.getElementById('nl');
-  news.forEach((n,i)=>{
-    const d=document.createElement('div');
-    d.className='nc'; d.id='nc'+i;
-    const tags=n.tags.map(t=>`<span class="tag">${t}</span>`).join('');
-    const bull=n.bull.map(b=>`<li>${b}</li>`).join('');
-    const bear=n.bear.map(b=>`<li>${b}</li>`).join('');
-    const out=n.out.map(b=>`<li>${b}</li>`).join('');
-    const sec=n.sec.map(s=>`<span class="chip sec">${s}</span>`).join('');
-    const st=n.st.map(s=>`<span class="chip st">${s}</span>`).join('');
-    d.innerHTML=`
-      <div class="nch" onclick="tog(${i})">
-        <div class="nn ${n.c}">${n.n}</div>
-        <div class="nm"><div class="nt">${n.t}</div><div class="ntags">${tags}</div></div>
-        <div class="chev">▼</div>
+  news.forEach((n,i)=>nl.appendChild(makeCard(n,i,'g')));
+}
+function buildUKNews(){
+  const nl=document.getElementById('uknl');
+  uknews.forEach((n,i)=>nl.appendChild(makeCard(n,i,'u')));
+}
+
+function buildGSPicks(){
+  const el=document.getElementById('gspicks');
+  const cards=gsPicks.map(p=>`
+    <div class="gs-card">
+      <div class="gs-top">
+        <div>
+          <div class="gs-ticker">${p.ticker}</div>
+          <div class="gs-name">${p.name}</div>
+        </div>
+        <div class="gs-rating-badge">
+          <div>${p.rating}</div>
+          <div class="gs-pt">目標 ${p.pt} | 現價 ${p.curr} | <span style="color:#90d840">${p.upside}</span></div>
+        </div>
       </div>
-      <div class="nb">
-        <div class="atabs">
-          <button class="at bull act" onclick="sw(event,${i},'bull')">✅ 正面</button>
-          <button class="at bear" onclick="sw(event,${i},'bear')">⚠️ 風險</button>
-          <button class="at out" onclick="sw(event,${i},'out')">🔮 走向</button>
-          <button class="at inv" onclick="sw(event,${i},'inv')">💹 投資</button>
-        </div>
-        <div class="ap act" id="p${i}bull"><ul class="pts bull">${bull}</ul></div>
-        <div class="ap" id="p${i}bear"><ul class="pts bear">${bear}</ul></div>
-        <div class="ap" id="p${i}out"><ul class="pts out">${out}</ul></div>
-        <div class="ap" id="p${i}inv">
-          <div class="ig">
-            <div class="ir"><div class="il">📁 影響板塊</div><div class="chips">${sec}</div></div>
-            <div class="ir"><div class="il">💹 受惠股票</div><div class="chips">${st}</div></div>
-          </div>
-        </div>
-      </div>`;
-    nl.appendChild(d);
-  });
+      <div class="gs-thesis">${p.thesis}</div>
+      <ul class="gs-pts">${p.pts.map(pt=>`<li>${pt}</li>`).join('')}</ul>
+      <div class="gs-risk">⚑ 主要風險：${p.risk}</div>
+    </div>`).join('');
+  el.innerHTML=`<div class="gs-wrap">
+    <div class="gs-hd">
+      <div class="gs-hd-title">💎 Goldman Sachs — 今日精選投資機遇</div>
+      <div class="gs-hd-sub">基於今日十大新聞所有相關股票，高盛資深分析師視角精選當天最值得關注的2隻股票</div>
+    </div>
+    ${cards}
+    <div class="gs-disc">⚠️ 本分析僅供參考，不構成投資建議。所有投資均涉及風險，過去表現不代表未來回報。請諮詢持牌財務顧問後作出投資決定。股價目標為分析師預測，非保證回報。</div>
+  </div>`;
 }
-
-function tog(i){document.getElementById('nc'+i).classList.toggle('exp');}
-function sw(e,i,p){
-  e.stopPropagation();
-  ['bull','bear','out','inv'].forEach(t=>{
-    document.getElementById('p'+i+t)?.classList.remove('act');
-    e.target.parentElement.querySelector('.at.'+t)?.classList.remove('act');
-  });
-  document.getElementById('p'+i+p)?.classList.add('act');
-  e.target.classList.add('act');
-}
-
-// ── TRENDS ──────────────────────────────────────────
-const trends=[
-  {e:"🤖",k:"AI Gadgets｜AI智能設備",h:"🔥🔥🔥🔥🔥 搜尋熱度+420% (過去3個月)",
-   d:"Meta Ray-Ban AI眼鏡、AI伴侶機器人、AI智能音箱新世代搜尋量持續爆發。Amazon AI周邊配件月銷售額突破$50億。",
-   s:[{t:"META",n:"Meta Platforms",w:"Ray-Ban AI眼鏡市場領導者，每週出貨量超傳統智能手機"},
-      {t:"AAPL",n:"蘋果公司",w:"Apple Intelligence+AirPods Pro AI情境感知，Vision Pro生態"},
-      {t:"SMCI",n:"超微電腦",w:"AI設備背後服務器基礎設施，受益AI硬件需求爆發"}]},
-  {e:"💊",k:"GLP-1 / Ozempic｜減重神藥",h:"🔥🔥🔥🔥🔥 Google Trends Score 95+ (全球最熱搜之一)",
-   d:"NPR今日報道保險不覆蓋GLP-1替代方案，大眾需求異常旺盛。TikTok #ozempic標籤破50億次播放。",
-   s:[{t:"NVO",n:"諾和諾德",w:"Wegovy/Ozempic全球主導者，2026年收入預計突破$500億"},{t:"LLY",n:"禮來公司",w:"Mounjaro/Zepbound強勢搶市，Q1市占率突破35%"},{t:"AMGN",n:"安進",w:"MariTide次世代GLP-1進入Phase 3，每月一針具顛覆潛力"}]},
-  {e:"⚡",k:"EV Home Charger｜家用電動車充電樁",h:"🔥🔥🔥🔥 搜尋量+240%，政府補貼推動爆發",
-   d:"美國、英國、歐盟家用EV充電樁補貼政策落地，帶動搜尋量暴升。Amazon EV充電配件Q2成長最快類目(+285%)。",
-   s:[{t:"CHPT",n:"ChargePoint",w:"美最大EV充電網絡，家用充電樁市場份額第一"},{t:"BLNK",n:"Blink Charging",w:"家用Level 2充電樁增長強勁，企業充電解決方案擴展"},{t:"TSLA",n:"特斯拉",w:"Powerwall+家用充電生態整合，品牌效應拉動行業增長"}]},
-  {e:"☢️",k:"Nuclear Energy｜核能股",h:"🔥🔥🔥🔥 AI用電需求推動搜尋量年增+180%",
-   d:"微軟、Google、Amazon簽署核電長期購電協議，核能股搜尋量激增。Reddit r/nuclear訂閱者6個月增長400%。",
-   s:[{t:"CCJ",n:"Cameco鈾礦",w:"全球最大鈾礦生產商，核電重啟直接受益"},{t:"CEG",n:"Constellation能源",w:"美最大核電運營商，已與Microsoft簽署20年購電協議"},{t:"SMR",n:"NuScale核能",w:"SMR小型模組化反應堆領導者，獲多國政府補貼"}]},
-  {e:"✈️",k:"Workation Travel｜工作旅行裝備",h:"🔥🔥🔥🔥 搜尋量年增+135%，旅行品類Q2全面爆發",
-   d:"全球遠程辦公常態化令「邊工作邊旅遊」成主流。Shopify旅行配件Q2按年增長42%。2026世界盃進一步帶動全球旅遊消費。",
-   s:[{t:"BKNG",n:"Booking Holdings",w:"全球最大旅行預訂平台，Workation趨勢最直接受益者"},{t:"ABNB",n:"Airbnb",w:"長租及月租需求激增，平均入住天數創歷史新高"},{t:"UAL",n:"聯合航空",w:"低油價+旅遊需求雙重受益，跨大西洋航線客滿"}]}
-];
 
 function buildTrends(){
   const tl=document.getElementById('tl');
@@ -371,7 +508,17 @@ function buildTrends(){
   });
 }
 
-// ── NAV ─────────────────────────────────────────────
+// ── INTERACTION ───────────────────────────────────────
+function tog(p,i){document.getElementById(p+'nc'+i).classList.toggle('exp');}
+function sw(e,p,i,tab){
+  e.stopPropagation();
+  ['bull','bear','out','inv'].forEach(t=>{
+    document.getElementById(p+'p'+i+t)?.classList.remove('act');
+    e.target.parentElement.querySelector('.at.'+t)?.classList.remove('act');
+  });
+  document.getElementById(p+'p'+i+tab)?.classList.add('act');
+  e.target.classList.add('act');
+}
 function go(n){
   document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
   document.querySelectorAll('.nav-item').forEach(b=>b.classList.remove('active'));
@@ -380,7 +527,18 @@ function go(n){
   document.getElementById('sa').scrollTop=0;
 }
 
-// ── CLOCK ────────────────────────────────────────────
+// Font control
+let fo=0;
+function cf(d){
+  fo=d===0?0:Math.max(-6,Math.min(12,fo+d));
+  let s=document.getElementById('fs');
+  if(!s){s=document.createElement('style');s.id='fs';document.head.appendChild(s);}
+  s.textContent=fo===0?'':`.nt{font-size:${16+fo}px!important}.pts li{font-size:${15+fo}px!important}.tag{font-size:${12+fo}px!important}.at{font-size:${13+fo}px!important}.chip{font-size:${13+fo}px!important}.td{font-size:${14+fo}px!important}.sn{font-size:${13+fo}px!important}.sw{font-size:${12+fo}px!important}.gs-thesis{font-size:${14+fo}px!important}.gs-pts li{font-size:${13+fo}px!important}.tk{font-size:${15+fo}px!important}.gs-hd-title{font-size:${14+fo}px!important}.gs-ticker{font-size:${22+fo}px!important}`;
+  try{localStorage.setItem('fo',fo);}catch(e){}
+}
+try{const sv=localStorage.getItem('fo');if(sv&&sv!=='0'){fo=parseInt(sv)-2;cf(2);}}catch(e){}
+
+// Clock
 function tick(){
   const d=new Date();
   const hk=new Date(d.toLocaleString('en-US',{timeZone:'Asia/Hong_Kong'}));
@@ -390,41 +548,9 @@ function tick(){
   document.getElementById('clk').textContent=`HKT ${h}:${m}:${s}`;
 }
 
-// ── INIT ─────────────────────────────────────────────
-buildTicker(); buildMarket(); buildNews(); buildTrends();
+// INIT
+buildNews(); buildUKNews(); buildTrends(); buildGSPicks();
 tick(); setInterval(tick,1000);
-
-// ── FONT SIZE CONTROL ───────────────────────────────
-let fontOffset = 0;
-const baseSizes = {};
-function changeFont(delta) {
-  if (delta === 0) { fontOffset = 0; }
-  else { fontOffset += delta; }
-  fontOffset = Math.max(-4, Math.min(8, fontOffset));
-  document.querySelectorAll('*').forEach(el => {
-    const cs = window.getComputedStyle(el);
-    const fs = parseFloat(cs.fontSize);
-    if (!baseSizes[el]) baseSizes[el] = fs;
-  });
-  const style = document.getElementById('fontStyle') || (() => {
-    const s = document.createElement('style');
-    s.id = 'fontStyle';
-    document.head.appendChild(s);
-    return s;
-  })();
-  if (fontOffset === 0) {
-    style.textContent = '';
-  } else {
-    style.textContent = `* { font-size: calc(1em + ${fontOffset}px) !important; }
-    .nav-icon { font-size: ${20 + fontOffset}px !important; }
-    .ticker-inner { font-size: ${12 + fontOffset}px !important; }`;
-  }
-  localStorage.setItem('fontOffset', fontOffset);
-}
-// Restore saved font size
-const saved = localStorage.getItem('fontOffset');
-if (saved) { fontOffset = parseInt(saved) - 2; changeFont(2); }
-
 if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});
 </script>
 </body>
