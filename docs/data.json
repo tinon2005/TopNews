@@ -1,137 +1,124 @@
 {
-  "date": "2026年06月27日",
-  "date_iso": "2026-06-27",
-  "generated_at": "2026-06-27T07:47:59.578223+08:00",
+  "date": "2026年06月28日",
+  "date_iso": "2026-06-28",
+  "generated_at": "2026-06-28T07:38:14.086285+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": null,
-      "title": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain - Investor's Business Daily",
-      "description": "The Nasdaq keeps falling while several leading stocks top buy points.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-mixed-signals-micron-flies-apple-dives/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/01/LSSECRETS_crossroad_011224_adobe.jpg",
-      "publishedAt": "2026-06-26T00:10:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "WSJ",
+      "title": "Exclusive | Lawmakers Call for Federal Probe of Polymarket Over Deceptive Advertising - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/regulation/lawmakers-call-for-investigation-into-deceptive-advertising-by-polymarket-267e1857",
+      "urlToImage": null,
+      "publishedAt": "2026-06-26T21:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brad Bourque",
+      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from - The Verge",
+      "description": "The final day of Prime Day is upon us, and there are still lots of worthwhile deals on headphones, TVs, wearables, smart home tech, speakers, and much more.",
+      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-06-26T20:38:57Z",
+      "content": "Updated<ul><li></li><li></li><li></li></ul>\r\nAs the selling event winds down theres still lots of deals to pick from.\r\nAs the selling event winds down theres still lots of deals to pick from.\r\nby\r\nBr… [+27630 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Fox Business"
       },
-      "author": null,
-      "title": "Geothermal energy: Investment needed to develop new tech - BBC",
-      "description": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
-      "url": "https://www.bbc.com/news/articles/cj3gj1n8yz8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg",
-      "publishedAt": "2026-06-25T23:05:05Z",
-      "content": "\"It's the same techniques and up to a point it's the same industry as well,\" sums up Gernot Wagner, a climate economist at Columbia Business School in New York. But \"from a climate perspective, there… [+30 chars]"
+      "author": "Eric Revell",
+      "title": "Polestar banned from US market under rule targeting China-linked connected vehicles - Fox Business",
+      "description": "Polestar says the Trump administration is forcing it to stop selling EVs in the U.S. starting with the 2027 model year under connected vehicle rules.",
+      "url": "https://www.foxbusiness.com/markets/polestar-banned-from-us-market-under-rule-targeting-china-linked-connected-vehicles",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/polestar-ev-showroom-01.jpg?ve=1&tl=1",
+      "publishedAt": "2026-06-26T20:24:00Z",
+      "content": "Polestar said on Thursday that the Trump administration is forcing the electric vehicle maker to stop selling vehicles in the U.S. starting with the 2027 model year under a new regulation cracking do… [+3467 chars]"
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Ashley Gold, Sam Sabin, Mike Allen",
-      "title": "Trump administration asks OpenAI to limit next model release over security concerns - Axios",
-      "description": "This marks the first time the U.S. government has preemptively asked a U.S. AI company to restrict the launch of a model before release.",
-      "url": "https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release",
-      "urlToImage": "https://images.axios.com/_rizEn0ps9QYE2ieJBgceRYmQME=/0x126:3000x1813/1366x768/2026/06/25/1782422862969.jpeg",
-      "publishedAt": "2026-06-25T22:59:41Z",
-      "content": "The Trump administration has asked OpenAI to limit the release of its next model, GPT-5.6, to only a small set of government-approved partners before any wider release, citing security concerns, acco… [+2850 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lisa Kailai Han",
-      "title": "S&P 500 futures are little changed as index heads for losing week: Live updates - CNBC",
-      "description": "The technology-dominant Nasdaq Composite and broad S&P 500 index are both on pace to end the trading week in the red.",
-      "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326270-17823199802026-06-24t160606z_254363867_rc2d0malzmho_rtrmadp_0_usa-stocks.jpeg?v=1782320413&w=1920&h=1080",
-      "publishedAt": "2026-06-25T22:24:00Z",
-      "content": "S&amp;P 500 futures were little changed Thursday night after a decline in tech giants weighed on the broad market index. \r\nS&amp;P 500 futures traded near the flatline, while Nasdaq 100 futures lost … [+1799 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Tristan Bove",
-      "title": "Trump just told the DOJ to investigate the oil companies that spent $100 million getting him elected - Fortune",
-      "description": "Crude prices are back to prewar levels. Gas prices aren’t. Now Trump is pointing fingers at his own biggest donors.",
-      "url": "https://fortune.com/2026/06/25/trump-accuses-big-oil-of-price-gouging/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2282984800-e1782404708663.jpg?resize=1200,600",
-      "publishedAt": "2026-06-25T20:34:00Z",
-      "content": "Oil and gas chiefs may have quietly cracked a smile when Donald Trump won the 2024 presidential election. Oil billionaire Harold Hamm, founder of Continental Resources, called it the most important e… [+8545 chars]"
+      "author": "Ashley Belanger",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI - Ars Technica",
+      "description": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-1024x648.jpg",
+      "publishedAt": "2026-06-26T20:04:55Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "description": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "description": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
       "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 21:15:37 GMT"
+      "publishedAt": "Sat, 27 Jun 2026 08:56:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT"
+      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+      "description": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 21:12:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "description": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 21:35:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "description": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 20:48:16 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "description": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 20:03:26 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Religion row as Texas makes Bible stories required reading in schools",
+      "description": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 00:31:42 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US strikes Iran after attack on cargo ship",
+      "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 22:57:30 GMT"
+      "publishedAt": "Sat, 27 Jun 2026 10:40:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 18:14:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "description": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 17:05:22 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "description": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 22:55:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "description": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 16:45:21 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Christmas market attacker jailed for life for murdering six in Germany",
-      "description": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 10:49:11 GMT"
+      "title": "Burkina Faso severs diplomatic ties with France",
+      "description": "The West African country's junta accused the former colonial power of undermining its national interests.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:21:31 GMT"
     },
     {
       "source": "BBC",
       "title": "Trump threatens 100% tariff on European nations over tech tax",
       "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
       "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 21:29:38 GMT"
+      "publishedAt": "Sat, 27 Jun 2026 01:37:18 GMT"
     },
     {
       "source": "BBC",
@@ -205,18 +192,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4103.0,
-      "change_pct": 1.8,
+      "price": 4096.3,
+      "change_pct": 1.63,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 70.24,
-      "change_pct": -2.34,
+      "price": 69.23,
+      "change_pct": -3.74,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 59985.78,
-      "change_pct": 0.44,
+      "price": 59922.44,
+      "change_pct": -0.16,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
