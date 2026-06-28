@@ -1,117 +1,130 @@
 {
-  "date": "2026年06月28日",
-  "date_iso": "2026-06-28",
-  "generated_at": "2026-06-28T07:38:14.086285+08:00",
+  "date": "2026年06月29日",
+  "date_iso": "2026-06-29",
+  "generated_at": "2026-06-29T07:48:08.842048+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "MarketWatch"
       },
-      "author": "WSJ",
-      "title": "Exclusive | Lawmakers Call for Federal Probe of Polymarket Over Deceptive Advertising - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/regulation/lawmakers-call-for-investigation-into-deceptive-advertising-by-polymarket-267e1857",
-      "urlToImage": null,
-      "publishedAt": "2026-06-26T21:22:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brad Bourque",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from - The Verge",
-      "description": "The final day of Prime Day is upon us, and there are still lots of worthwhile deals on headphones, TVs, wearables, smart home tech, speakers, and much more.",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-06-26T20:38:57Z",
-      "content": "Updated<ul><li></li><li></li><li></li></ul>\r\nAs the selling event winds down theres still lots of deals to pick from.\r\nAs the selling event winds down theres still lots of deals to pick from.\r\nby\r\nBr… [+27630 chars]"
+      "author": "Venessa Wong",
+      "title": "There’s a ‘Trump account’ hack that can unlock decades of wealth-building for your kid - MarketWatch",
+      "description": "‘The only reason’ to use these accounts is ‘if you’re planning to do the Roth strategy,’ one financial planner says",
+      "url": "https://www.marketwatch.com/story/theres-a-trump-account-hack-that-can-unlock-decades-of-wealth-building-for-your-kid-b84188b6",
+      "urlToImage": "https://images.mktw.net/im-07702147/social",
+      "publishedAt": "2026-06-27T19:25:00Z",
+      "content": "Parents who have signed their children up for the new Trump accounts may wonder what the best way is to use and manage the accounts after they launch on July 4. \r\nAmid the steady drip of information … [+313 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "WPLG Local 10"
       },
-      "author": "Eric Revell",
-      "title": "Polestar banned from US market under rule targeting China-linked connected vehicles - Fox Business",
-      "description": "Polestar says the Trump administration is forcing it to stop selling EVs in the U.S. starting with the 2027 model year under connected vehicle rules.",
-      "url": "https://www.foxbusiness.com/markets/polestar-banned-from-us-market-under-rule-targeting-china-linked-connected-vehicles",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/polestar-ev-showroom-01.jpg?ve=1&tl=1",
-      "publishedAt": "2026-06-26T20:24:00Z",
-      "content": "Polestar said on Thursday that the Trump administration is forcing the electric vehicle maker to stop selling vehicles in the U.S. starting with the 2027 model year under a new regulation cracking do… [+3467 chars]"
+      "author": null,
+      "title": "Police: Father and daughter, 11, shot outside Hallandale Beach McDonald’s; suspect at large - WPLG Local 10",
+      "description": "An 11-year-old girl and a man were shot outside a McDonald’s in Hallandale Beach on Saturday afternoon, deputies with the Broward Sheriff’s Office confirmed to Local 10 News.",
+      "url": "https://www.local10.com/news/local/2026/06/27/bso-11-year-old-girl-man-shot-outside-hallandale-beach-mcdonalds-suspect-at-large/",
+      "urlToImage": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F06-27-2026%2Ft_16beb18ceaf9455a897dd4ef78d7b87e_name_46812957476_hdtv.jpg?auth=22af8faa68af3aa27975145b34edbcc6b279c26121b4cec124353fbb14fd0dfd&width=700",
+      "publishedAt": "2026-06-27T18:36:51Z",
+      "content": "HALLANDALE BEACH, Fla. — An 11-year-old girl and her father were shot while sitting inside a car in a Hallandale Beach McDonalds parking lot Saturday afternoon, police confirmed to Local 10 News.\r\nLe… [+1699 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Light Reading"
       },
-      "author": "Ashley Belanger",
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI - Ars Technica",
-      "description": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-1024x648.jpg",
-      "publishedAt": "2026-06-26T20:04:55Z",
-      "content": null
+      "author": null,
+      "title": "SpaceX, AT&T, T-Mobile, Verizon, EchoStar among AWS-3 auction winners - Light Reading",
+      "description": "The Big Three, EchoStar and SpaceX were all winners in the AWS-3 spectrum auction. But what will SpaceX do with the terrestrial spectrum it won?",
+      "url": "https://www.lightreading.com/wireless/spacex-at-t-t-mobile-verizon-echostar-among-aws-3-auction-winners",
+      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt10f3e23377b1315e/65c2a42590bcc9040ae18384/computer_data_stream_background.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "publishedAt": "2026-06-27T17:28:15Z",
+      "content": "US mobile's Big Three of AT&amp;T, T-Mobile and Verizon, along with SpaceX and EchoStar, were among the winning bidders of AWS-3 spectrum auction, according to results posted Friday by the FCC.\r\nThe … [+4606 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "KFC plans to test a new prototype called Open House - Fox News",
+      "description": "KFC unveils a brand overhaul with modernized restaurant designs, expanded boneless menu items, 20+ new sauces, and a prototype eatery called Open House.",
+      "url": "https://www.foxnews.com/food-drink/kfc-plans-test-new-prototype-called-open-house",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/kfc_restaurant.jpeg",
+      "publishedAt": "2026-06-27T17:02:35Z",
+      "content": "KFC is rolling out a brand overhaul that includes an expanded menu and modernized branding and restaurant designs.\r\n\"The brand is set to open a new generation of spaces designed for hospitality, not … [+2894 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "David Biller, Trish Thomas",
+      "title": "Thousands of Vespas swarm Rome’s historic center to mark iconic scooter’s 80th anniversary - AP News",
+      "description": "Around 15,000 Vespas buzzed through Rome on Saturday, celebrating the scooter's 80th anniversary. Enthusiasts from Europe, the US, Australia and the Philippines gathered to honor the iconic brand. Vespas became famous after featuring in films like \"Roman Holi…",
+      "url": "https://apnews.com/article/vespa-italy-rome-80th-anniversary-colosseum-cd10e17362ad85818ceba5123ebc4e52",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8269c77/2147483647/strip/true/crop/8031x5351+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F75%2F99%2F694710858a338d3932a3825d460d%2F280330759f0940dea49a1a07a079e8a8",
+      "publishedAt": "2026-06-27T16:22:00Z",
+      "content": "ROME (AP) More than 10,000 Vespas putt-putt-putted around the Colosseum and past the Roman Forum on Saturday, marking the 80th anniversary of the iconic scooter.\r\nEnthusiasts came from all over; the … [+6745 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "description": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
-      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 08:56:30 GMT"
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "description": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 21:58:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-      "description": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 21:12:51 GMT"
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "description": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:22:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "description": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 21:35:40 GMT"
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "description": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 19:37:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-      "description": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 20:48:16 GMT"
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "description": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 18:34:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump's face is added to select US passports for America's 250th birthday",
-      "description": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
-      "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 20:03:26 GMT"
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "description": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 04:54:50 GMT"
     },
     {
       "source": "BBC",
-      "title": "Religion row as Texas makes Bible stories required reading in schools",
-      "description": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 00:31:42 GMT"
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "description": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 14:30:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "US strikes Iran after attack on cargo ship",
-      "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 10:40:38 GMT"
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "description": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 15:42:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Burkina Faso severs diplomatic ties with France",
-      "description": "The West African country's junta accused the former colonial power of undermining its national interests.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 14:21:31 GMT"
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "description": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 16:33:50 GMT"
     },
     {
       "source": "BBC",
@@ -122,38 +135,17 @@
     },
     {
       "source": "BBC",
+      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
+      "description": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:02:15 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "Three unusual things about the King's tax bill",
       "description": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
       "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 26 Jun 2026 23:00:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "I'm back at home again after uni - here's how I'm making it work",
-      "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
-      "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 23:03:48 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Power banks and vapes now biggest fire risk on planes",
-      "description": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
-      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 23:28:13 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Asia stock markets slide as tech shares slump",
-      "description": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 07:33:10 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
-      "description": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 13:51:15 GMT"
     },
     {
       "source": "BBC",
@@ -164,15 +156,42 @@
     },
     {
       "source": "BBC",
-      "title": "Teens who hacked TfL were known to police years before cyber-attack",
-      "description": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 23:19:48 GMT"
+      "title": "I'm back at home again after uni - here's how I'm making it work",
+      "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+      "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 23:03:48 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Got the tennis bug? How to play sport without paying",
+      "description": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget.",
+      "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 23:06:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Asia stock markets slide as tech shares slump",
+      "description": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 07:33:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Power banks and vapes now biggest fire risk on planes",
+      "description": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 23:28:13 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {},
+    "finance_keywords": {
+      "AI stocks": 8,
+      "GLP-1": 9,
+      "Iran oil": 8,
+      "Federal Reserve": 7,
+      "Bitcoin": 68
+    },
     "trending_searches": []
   },
   "market": {
@@ -192,28 +211,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4096.3,
-      "change_pct": 1.63,
+      "price": 4072.0,
+      "change_pct": -0.16,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 69.23,
-      "change_pct": -3.74,
+      "price": 69.84,
+      "change_pct": 0.88,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 59922.44,
-      "change_pct": -0.16,
+      "price": 59650.0,
+      "change_pct": -0.48,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": 0.24,
+      "change_pct": 0.05,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.79,
-      "change_pct": -0.0,
+      "price": 6.8,
+      "change_pct": 0.11,
       "symbol": "CNY=X"
     }
   }
