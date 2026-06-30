@@ -1,137 +1,152 @@
 {
-  "date": "2026年06月30日",
-  "date_iso": "2026-06-30",
-  "generated_at": "2026-06-30T07:39:09.661452+08:00",
+  "date": "2026年07月01日",
+  "date_iso": "2026-07-01",
+  "generated_at": "2026-07-01T07:54:01.050363+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Investor's Business Daily"
       },
-      "author": "Fred Imbert",
-      "title": "Stock futures rise along with oil prices as traders weigh U.S. attacks on Iran over the weekend: Live updates - CNBC",
-      "description": "Wall Street is coming off a mixed week, characterized by a rotation out of tech and into other parts of the stock market.",
-      "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108321941-1781533263741-gettyimages-2281708056-mms19712_uyeqywx4.jpeg?v=1781533286&w=1920&h=1080",
-      "publishedAt": "2026-06-28T22:10:00Z",
-      "content": "Stock futures were slightly higher on Sunday, as tensions between Iran and the U.S. escalated once again following renewed attacks in the Middle East which threaten to prolong the war.\r\nDow Jones Ind… [+2015 chars]"
+      "author": null,
+      "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners - Investor's Business Daily",
+      "description": "Dow Jones Futures: The stock market rallied Monday on U.S.-Iran news. Alphabet, Rocket Lab, SpaceX stock and Tesla surged.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/07/Stock-wallstreet-multiflag-01-adobe.jpg",
+      "publishedAt": "2026-06-29T23:33:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Terrence O'Brien",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity - The Verge",
-      "description": "China’s Zhipu AI released GLM-5.2, which can apparently match Anthropic’s Mythos on cybersecurity and bug-finding.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-06-28T21:42:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGLM-5.2 cant match Anthropic or OpenAI on general tasks, but the gap has closed on finding bugs.\r\nGLM-5.2 cant match Anthropic or OpenAI on general tasks, but th… [+2496 chars]"
+      "author": "Josh Funk",
+      "title": "JetBlue pilot reports hitting drone as plane approached JFK airport to land Monday morning - AP News",
+      "description": "A JetBlue pilot reported hitting a drone as he approached JFK International Airport to land in New York Monday morning. The Federal Aviation Administration is investigating the incident that happened as the plane passed through 3,000 feet around 7:15 a.m. as …",
+      "url": "https://apnews.com/article/jetblue-faa-jfk-plane-hits-drone-airport-9d10e881662e1151eb9fe9588c685e48",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e0056eb/2147483647/strip/true/crop/3678x2451+176+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffd%2F95%2F7151bfb4fdaaa7a6c1b471e52fa2%2F30ad4fd1a9954c878fd2b634d7cd4ccd",
+      "publishedAt": "2026-06-29T22:15:00Z",
+      "content": "A JetBlue pilot reported hitting a drone as he approached JFK International Airport to land in New York Monday morning. \r\nThe Federal Aviation Administration is investigating the incident that happen… [+3687 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "TheStreet"
+        "name": "Fox Business"
       },
-      "author": "Damilola Esebame, Celine Provini",
-      "title": "Vanguard’s 25 years of data upend major retirement myth - thestreet.com",
-      "description": "A landmark study reveals a surprising driver of retirement success.",
-      "url": "https://www.thestreet.com/retirement/vanguard-401k-auto-enrollment-record-participation-2026",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDk1MTUx/retired-man-with-walking-stick-at-home.jpg?profile=share16-9",
-      "publishedAt": "2026-06-28T21:37:00Z",
-      "content": "For decades, weak willpower has been widely viewed as a primary barrier to retirement readiness. But 25 years of data from Vanguard suggest the story may be more complex.\r\nThe investment giant releas… [+5641 chars]"
+      "author": "Eric Revell",
+      "title": "Top tobacco company to cut thousands of jobs - Fox Business",
+      "description": "British American Tobacco plans to cut 5,500 jobs and outsource 3,500 roles as it uses AI to reshape operations amid declining traditional tobacco sales.",
+      "url": "https://www.foxbusiness.com/markets/top-tobacco-company-cut-thousands-jobs",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/0/0/Tobaccoshop.jpg?ve=1&tl=1",
+      "publishedAt": "2026-06-29T21:24:00Z",
+      "content": "British American Tobacco is planning to cut about 20% of its workforce as it moves forward with using artificial intelligence (AI) to reshape its operations with the goal of lowering costs and boosti… [+3273 chars]"
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Nathaniel Weixel, Rachel Frazin",
-      "title": "MAHA feels betrayed after Supreme Court ruling on Monsanto, glyphosate - The Hill",
-      "description": "Prominent activists with the “Make America Healthy Again” (MAHA) movement are raging and saying they feel betrayed after the Supreme Court sided with pesticide maker Monsanto on Thursday and said it did not need to put a warning label about a potential cancer…",
-      "url": "https://thehill.com/policy/healthcare/5943361-activists-maha-supreme-court-monsanto/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/06/MAHA_Weixel_Getty_TasosKatopodis.jpg?w=1280",
-      "publishedAt": "2026-06-28T21:00:00Z",
-      "content": "Skip to content\r\nProminent activists with the “Make America Healthy Again” (MAHA) movement are raging and saying they feel betrayed after the Supreme Court sided with pesticide maker Monsanto on Thur… [+6159 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Kelly Hooper",
-      "title": "Here’s why your health insurer is sounding more like RFK Jr. - Politico",
-      "description": "Insurers are embracing the health secretary’s Make America Healthy Again movement as the GOP looks to cut health care costs.",
-      "url": "https://www.politico.com/news/2026/06/28/health-insurers-maha-rfk-doctors-00977386",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbd%2Fee%2F8cb2c3c14d2ba9fb5e9664757080%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2260730617",
-      "publishedAt": "2026-06-28T20:00:00Z",
-      "content": "At the five-star Wynn Las Vegas hotel and casino this month, insurers curried favor with the administration, touting all the ways theyre prioritizing the health secretarys big issue, combatting chron… [+10780 chars]"
+      "author": "Jeremy Hsu",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots - Ars Technica",
+      "description": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png",
+      "publishedAt": "2026-06-29T21:09:43Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "description": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 20:00:44 GMT"
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "description": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 18:28:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "description": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
-      "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 21:19:28 GMT"
+      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "description": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 22:29:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Six people shot dead at centre for mothers and children in Germany",
-      "description": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 19:53:57 GMT"
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "description": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 21:30:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-      "description": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 15:30:35 GMT"
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "description": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 19:36:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "description": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 14:52:10 GMT"
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "description": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
+      "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 18:37:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-      "description": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 15:46:50 GMT"
+      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+      "description": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 19:19:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "description": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 17:28:59 GMT"
+      "title": "Firefighters struggle to contain deadly Greek wildfire",
+      "description": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 20:25:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-      "description": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "description": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
       "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 19:16:34 GMT"
+      "publishedAt": "Tue, 30 Jun 2026 19:39:29 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Plea for households to read energy meter as prices rise",
+      "description": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 23:02:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Why Gen Z are planning for life without a state pension",
+      "description": "Many younger people do not believe the state pension will exist when they are older",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 23:05:19 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+      "description": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 18:59:19 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Cruise passengers 'stranded' after air con failure to be flown home",
+      "description": "Tui has apologised and told passengers it has arranged flights home for tomorrow and a full refund.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0639x4dp8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 16:45:05 GMT"
     },
     {
       "source": "BBC",
       "title": "Homes harder to sell as high mortgage rates frustrate buyers",
       "description": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
       "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 23:08:44 GMT"
+      "publishedAt": "Tue, 30 Jun 2026 06:22:35 GMT"
     },
     {
       "source": "BBC",
@@ -142,97 +157,69 @@
     },
     {
       "source": "BBC",
-      "title": "Burnham's 'Manchesterism' could change the UK, but is not yet a full economic plan",
-      "description": "Andy Burnham's speech depicted a different way of seeing and running the UK, though there are many other questions about the detail.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3yxdyx9do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 15:41:04 GMT"
+      "title": "Chinese tycoon sentenced to 30 years in US jail",
+      "description": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 23:48:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "Will Andy Burnham's devolution plan raise economic growth?",
-      "description": "BBC Verify has looked at what impact further devolution could be expected to have on the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz4x9ew49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 19:33:26 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-      "description": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 16:51:52 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "British American Tobacco to cut 9,000 jobs",
-      "description": "The company had said earlier this year it was planning savings to make it  \"more digital and AI-focused\".",
-      "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 12:58:22 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "description": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 11:58:01 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "South Korea unveils $880bn chip and AI investment plan",
-      "description": "It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 08:55:29 GMT"
+      "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
+      "description": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 29 Jun 2026 20:41:10 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 6,
-      "GLP-1": 7,
+      "AI stocks": 7,
+      "GLP-1": 8,
       "Iran oil": 3,
       "Federal Reserve": 5,
-      "Bitcoin": 47
+      "Bitcoin": 58
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25820.15,
-      "change_pct": 1.82,
+      "price": 26213.72,
+      "change_pct": 3.62,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7440.43,
-      "change_pct": 1.13,
+      "price": 7499.36,
+      "change_pct": 1.98,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52182.74,
-      "change_pct": 0.5,
+      "price": 52319.2,
+      "change_pct": 0.85,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4030.6,
-      "change_pct": -0.21,
+      "price": 4023.4,
+      "change_pct": 0.03,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 70.31,
-      "change_pct": -0.62,
+      "price": 69.98,
+      "change_pct": -1.09,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 60190.77,
-      "change_pct": 1.11,
+      "price": 58550.12,
+      "change_pct": -2.64,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": 0.46,
+      "change_pct": -0.02,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.79,
-      "change_pct": -0.16,
+      "price": 6.78,
+      "change_pct": -0.23,
       "symbol": "CNY=X"
     }
   }
