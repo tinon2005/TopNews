@@ -1,186 +1,173 @@
 {
-  "date": "2026年07月02日",
-  "date_iso": "2026-07-02",
-  "generated_at": "2026-07-02T07:59:02.309143+08:00",
+  "date": "2026年07月03日",
+  "date_iso": "2026-07-03",
+  "generated_at": "2026-07-03T07:44:24.518264+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "CNBC",
-      "title": "American Airlines brings grab-and-go lounge to New York's JFK - CNBC",
+      "author": "WSJ",
+      "title": "Stock Market Today: Nasdaq Slips, Warsh Dodges Questions on July Rate Decision — Live Updates - WSJ",
       "description": null,
-      "url": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNKanlfN1l3dDB5MFczalU5SjJyZGdmQVRRdGxnUFBEanFkWHR0YU5TRGFLN3lXSXVPUVBYc3VLMmcyUkhiUW1SQnljRnZDNUhoZmJkNGNIdU84QlFlbGtkLXVTTmJLRVhxU29sMXc5dldJX0JnODloUi1rSnFheG5ibmRVMW8?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-06-30T18:00:01Z",
+      "publishedAt": "2026-07-02T00:00:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Anthropic.com"
+        "name": "24/7 Wall St."
       },
-      "author": "Anthropic",
-      "title": "Introducing Claude Sonnet 5 - Anthropic",
+      "author": "24/7 Wall St.",
+      "title": "Trump Just Called Micron the 'Hottest' Company in the World. The Market Yawned and Dumped It 10% - 24/7 Wall St.",
       "description": null,
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "url": "https://247wallst.com/investing/2026/07/01/trump-just-called-micron-the-hottest-company-in-the-world-the-market-yawned-and-dumped-it-10/",
       "urlToImage": null,
-      "publishedAt": "2026-06-30T17:58:16Z",
+      "publishedAt": "2026-07-01T23:40:36Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "STAT"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Matthew Herper, Brittany Trang",
-      "title": "Anthropic releases Claude Science, a product aimed at researchers, the pharma industry - statnews.com",
-      "description": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies.",
-      "url": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/ANT_BRIEFING_SF_JPEG_02-1024x576.jpg",
-      "publishedAt": "2026-06-30T17:00:10Z",
-      "content": "SAN FRANCISCO Anthropic, the artificial intelligence firm, on Tuesday announced the availability of Claude Science, an application that optimizes the companys large language model for use in scientif… [+845 chars]"
+      "author": "TechCrunch",
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck - TechCrunch",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRVZ5TUdLYXY2ZmNoRXFMMUlyQXM0aGh0ZmxfYTVEWWoxN1BPT0RabFEtLWNPUHoxX0Q1ZkZneTcyRXJDSUc5QWlNQlhvQVF5bzl5NXM0aVJENE84QnpVaVZ4RUY2WThfZW1VTTF4VW5JWHA5YVM1M0tMbnJDZDlRWGxOZi1fU3BoUzB5S2FnVUt1SnBCSlItZjZpb0FJaGQxRFBxdy1pV2huNEhTczhPeQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T22:28:35Z",
+      "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Laya Neelakandan",
-      "title": "Nike is set to report earnings after the bell. Here's what to expect - CNBC",
-      "description": "Nike is expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
-      "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297266-1777127244178-gettyimages-2272978539-anotherday208771149_942vh80l.jpeg?v=1777127293&w=1920&h=1080",
-      "publishedAt": "2026-06-30T16:00:01Z",
-      "content": "Nike is set to report fiscal fourth-quarter results after the bell Tuesday as the shoe retailer struggles to regain sales growth and turn around its business under CEO Elliott Hill.\r\nThe company prev… [+2748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Madison Colombo",
-      "title": "Bessent warns gas stations 'we're watching' as Trump demands immediate price cuts - Fox Business",
-      "description": "Scott Bessent warns gasoline retailers the Trump administration is watching pump prices and expects them to pass crude oil savings to consumers.",
-      "url": "https://www.foxbusiness.com/media/bessent-warns-gas-stations-were-watching-threat-trump-demands-immediate-price-cuts",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/scott-bessent-gas-prices-fox-news.jpg?ve=1&tl=1",
-      "publishedAt": "2026-06-30T15:41:00Z",
-      "content": "Treasury Secretary Scott Bessent warned gasoline retailers that the Trump administration is \"watching\" pump prices and expects them to pass lower oil costs on to Americans.\r\nSpeaking on \"Fox &amp; Fr… [+2454 chars]"
+      "author": "WSJ",
+      "title": "Alibaba, U.S. Payment Processor to Pay $600 Million in DOJ Settlement Over Illegal Drug Sales - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/alibaba-u-s-payment-processor-to-pay-600-million-in-doj-settlement-over-illegal-drug-sales-23c40942",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T21:43:00Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-      "description": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
-      "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 21:27:04 GMT"
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "description": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 16:11:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-      "description": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 22:36:43 GMT"
+      "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+      "description": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:18:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukrainian charged in Germany over Nord Stream blasts",
-      "description": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 18:19:32 GMT"
+      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "description": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 17:56:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-      "description": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 22:13:03 GMT"
+      "title": "Vatican excommunicates followers of global Catholic sect",
+      "description": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 17:27:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "US blocks long-term renewal of North American trade deal",
-      "description": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 18:56:36 GMT"
+      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "description": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
+      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 09:21:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
-      "description": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 17:40:29 GMT"
+      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "description": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+      "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:34:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Watch: Two people climb to highest point of Empire State Building",
-      "description": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
-      "url": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 17:08:56 GMT"
+      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+      "description": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
+      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 13:11:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
-      "description": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
-      "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 16:10:38 GMT"
+      "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
+      "description": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
+      "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 21:21:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
-      "description": "Official documents show the US president made billions of dollars as he returned to the White House.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 17:22:25 GMT"
+      "title": "'We give up to £400': How much should you gift at a wedding?",
+      "description": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 23:01:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Don't expect trackers to save your stolen car, experts say",
-      "description": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 23:31:43 GMT"
+      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "description": "The government had initially said it would not relax licensing laws further for the World Cup.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:49:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Halifax brand to be scrapped after 173 years",
-      "description": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
-      "url": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 20:09:05 GMT"
+      "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
+      "description": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:34:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "US blocks long-term renewal of North American trade deal",
-      "description": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 18:56:36 GMT"
+      "title": "Ryanair warns of 'queue chaos' from new EU border system",
+      "description": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 17:17:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Plea for households to read energy meter as prices rise",
-      "description": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 23:02:02 GMT"
+      "title": "World Cup boom falters as US hospitality jobs fall in June",
+      "description": "There had been early signs of a jobs boom from the tournament, but hospitality jobs declined in June.",
+      "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 13:36:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why is crucial tech vulnerable to the heat?",
-      "description": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 07:23:12 GMT"
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "description": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 23:02:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
-      "description": "The sweeping restructuring, approved by a court, will see steep rent cuts on most remaining stores.",
-      "url": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 14:10:32 GMT"
+      "title": "Car finance compensation payments delayed until next year",
+      "description": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 12:26:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "description": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 16:04:32 GMT"
+      "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
+      "description": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 23:01:32 GMT"
     }
   ],
   "reuters": [],
@@ -188,51 +175,51 @@
     "finance_keywords": {
       "AI stocks": 9,
       "GLP-1": 10,
-      "Iran oil": 3,
-      "Federal Reserve": 8,
-      "Bitcoin": 75
+      "Iran oil": 4,
+      "Federal Reserve": 6,
+      "Bitcoin": 66
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26040.03,
-      "change_pct": 0.85,
+      "price": 25832.67,
+      "change_pct": -1.45,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7483.23,
-      "change_pct": 0.58,
+      "price": 7483.24,
+      "change_pct": -0.21,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52305.24,
-      "change_pct": 0.23,
+      "price": 52900.07,
+      "change_pct": 1.11,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4046.6,
-      "change_pct": 0.59,
+      "price": 4139.6,
+      "change_pct": 1.75,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 68.03,
-      "change_pct": -2.12,
+      "price": 68.46,
+      "change_pct": -0.17,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 59961.71,
-      "change_pct": 2.4,
+      "price": 61408.35,
+      "change_pct": 2.34,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": 0.21,
+      "change_pct": 0.5,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.79,
-      "change_pct": 0.0,
+      "price": 6.78,
+      "change_pct": -0.26,
       "symbol": "CNY=X"
     }
   }
