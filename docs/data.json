@@ -1,152 +1,152 @@
 {
-  "date": "2026年07月03日",
-  "date_iso": "2026-07-03",
-  "generated_at": "2026-07-03T07:44:24.518264+08:00",
+  "date": "2026年07月04日",
+  "date_iso": "2026-07-04",
+  "generated_at": "2026-07-04T07:39:43.531688+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Nasdaq Slips, Warsh Dodges Questions on July Rate Decision — Live Updates - WSJ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNKanlfN1l3dDB5MFczalU5SjJyZGdmQVRRdGxnUFBEanFkWHR0YU5TRGFLN3lXSXVPUVBYc3VLMmcyUkhiUW1SQnljRnZDNUhoZmJkNGNIdU84QlFlbGtkLXVTTmJLRVhxU29sMXc5dldJX0JnODloUi1rSnFheG5ibmRVMW8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T00:00:00Z",
-      "content": null
+      "author": "Sean Conlon, Justina Lee, Fred Imbert, Chloe Taylor",
+      "title": "Dow rises more than 200 points to record, Nasdaq falls again as chipmakers struggle: Live updates - CNBC",
+      "description": "The Dow Jones Industrial Average scaled to record highs on Thursday as investors reacted to a weaker-than-expected nonfarm payrolls report for June.",
+      "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328136-1782745575085-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-3.jpg?v=1782745808&w=1920&h=1080",
+      "publishedAt": "2026-07-02T21:12:00Z",
+      "content": "Savita Subramanian, head of U.S. equity and quantitative strategy at Bank of America Securities, said the U.S. economy looks healthy and investors may need to look beyond the market's biggest tech st… [+1440 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "24/7 Wall St."
+        "name": "Fox Business"
       },
-      "author": "24/7 Wall St.",
-      "title": "Trump Just Called Micron the 'Hottest' Company in the World. The Market Yawned and Dumped It 10% - 24/7 Wall St.",
-      "description": null,
-      "url": "https://247wallst.com/investing/2026/07/01/trump-just-called-micron-the-hottest-company-in-the-world-the-market-yawned-and-dumped-it-10/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T23:40:36Z",
-      "content": null
+      "author": "Brittany Miller",
+      "title": "FDA upgrades popular potato chip recall to highest risk over salmonella - Fox Business",
+      "description": "The FDA has elevated its recall of select Zapp's and Dirty potato chips made by Utz to a Class I designation, warning consumers nationwide of a potential salmonella risk",
+      "url": "https://www.foxbusiness.com/lifestyle/fda-upgrades-popular-potato-chip-recall-highest-risk-over-salmonella",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/potato-chips-recall-upgraded-fda.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-02T21:04:00Z",
+      "content": "The Food and Drug Administration has upgraded a recall of certain Utz Quality Foods potato chips to its highest risk classification, warning consumers ahead of the Fourth of July holiday that the pro… [+3161 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "TechCrunch",
-      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck - TechCrunch",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRVZ5TUdLYXY2ZmNoRXFMMUlyQXM0aGh0ZmxfYTVEWWoxN1BPT0RabFEtLWNPUHoxX0Q1ZkZneTcyRXJDSUc5QWlNQlhvQVF5bzl5NXM0aVJENE84QnpVaVZ4RUY2WThfZW1VTTF4VW5JWHA5YVM1M0tMbnJDZDlRWGxOZi1fU3BoUzB5S2FnVUt1SnBCSlItZjZpb0FJaGQxRFBxdy1pV2huNEhTczhPeQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T22:28:35Z",
-      "content": null
+      "author": "Julie Bort",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become - TechCrunch",
+      "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
+      "publishedAt": "2026-07-02T20:11:59Z",
+      "content": "I can’t tell the exact tipping point from realistic excitement over a new technology, to hype, to aww-come-on but I’m pretty sure when a sandwich shop with Danny DeVito as its public face talks about… [+2017 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Gizmodo.com"
       },
-      "author": "WSJ",
-      "title": "Alibaba, U.S. Payment Processor to Pay $600 Million in DOJ Settlement Over Illegal Drug Sales - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/alibaba-u-s-payment-processor-to-pay-600-million-in-doj-settlement-over-illegal-drug-sales-23c40942",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T21:43:00Z",
-      "content": null
+      "author": "Matt Novak",
+      "title": "New Jersey Becomes Latest State to Pass Law Against Surveillance Pricing - Gizmodo",
+      "description": "The legislation only applies to grocery stores and still needs to be signed by the governor to become law.",
+      "url": "https://gizmodo.com/new-jersey-becomes-latest-state-to-pass-law-against-surveillance-pricing-2000780265",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/grocery-store-stock-1200x675.jpg",
+      "publishedAt": "2026-07-02T19:55:59Z",
+      "content": "They’re falling like dominoes now. New Jersey became the latest state to pass a bipartisan law banning surveillance pricing in grocery stores on Tuesday, following the lead of Maryland and Connecticu… [+5750 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "description": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 16:11:24 GMT"
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "description": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 15:20:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 27",
-      "description": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 20:18:14 GMT"
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "description": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 16:41:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-      "description": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 17:56:18 GMT"
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "description": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:23:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Vatican excommunicates followers of global Catholic sect",
-      "description": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 17:27:36 GMT"
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "description": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 21:00:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-      "description": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
-      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 09:21:31 GMT"
+      "title": "Iran begins public mourning for Ayatollah killed in February",
+      "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 19:03:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-      "description": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-      "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 20:34:52 GMT"
+      "title": "German row over plan for workers to need sick note on first day of illness",
+      "description": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 14:56:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
-      "description": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
-      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 13:11:16 GMT"
+      "title": "Nasa launches mission to save falling space telescope",
+      "description": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:28:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
-      "description": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
-      "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 21:21:36 GMT"
+      "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
+      "description": "Deniz Göktaş is regarded as one of Turkey's most popular comedians and is accused of \"inciting hatred and hostility\" on stage.",
+      "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 12:28:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "'We give up to £400': How much should you gift at a wedding?",
+      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+      "description": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 16:13:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
       "description": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
       "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 23:01:24 GMT"
+      "publishedAt": "Fri, 03 Jul 2026 10:46:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+      "description": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
+      "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 09:50:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Burnham says there is some room for movement on tax",
+      "description": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 12:44:09 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "description": "The government had initially said it would not relax licensing laws further for the World Cup.",
       "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 02 Jul 2026 20:49:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
-      "description": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
-      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 20:34:14 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ryanair warns of 'queue chaos' from new EU border system",
-      "description": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 17:17:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "World Cup boom falters as US hospitality jobs fall in June",
-      "description": "There had been early signs of a jobs boom from the tournament, but hospitality jobs declined in June.",
-      "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 13:36:04 GMT"
     },
     {
       "source": "BBC",
@@ -157,27 +157,27 @@
     },
     {
       "source": "BBC",
-      "title": "Car finance compensation payments delayed until next year",
-      "description": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 12:26:03 GMT"
+      "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
+      "description": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 11:24:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
-      "description": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 23:01:32 GMT"
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "description": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 15:01:27 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 9,
-      "GLP-1": 10,
+      "AI stocks": 6,
+      "GLP-1": 9,
       "Iran oil": 4,
       "Federal Reserve": 6,
-      "Bitcoin": 66
+      "Bitcoin": 58
     },
     "trending_searches": []
   },
@@ -198,28 +198,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4139.6,
-      "change_pct": 1.75,
+      "price": 4187.3,
+      "change_pct": 2.93,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 68.46,
-      "change_pct": -0.17,
+      "price": 68.78,
+      "change_pct": 0.29,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 61408.35,
-      "change_pct": 2.34,
+      "price": 62619.99,
+      "change_pct": 1.85,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": 0.5,
+      "change_pct": 0.53,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.78,
-      "change_pct": -0.26,
+      "price": 6.77,
+      "change_pct": -0.35,
       "symbol": "CNY=X"
     }
   }
