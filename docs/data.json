@@ -1,137 +1,172 @@
 {
-  "date": "2026年07月06日",
-  "date_iso": "2026-07-06",
-  "generated_at": "2026-07-06T07:42:57.409607+08:00",
+  "date": "2026年07月07日",
+  "date_iso": "2026-07-07",
+  "generated_at": "2026-07-07T07:44:33.185962+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Alexandra Koch",
-      "title": "Michael Dell celebrates America’s 250th birthday with gift to seed the American Dream for millions of kids - Fox Business",
-      "description": "Michael Dell pledged $250 for the first 25 million qualifying children who sign up for Trump Accounts as the federal investment program officially launched on Independence Day.",
-      "url": "https://www.foxbusiness.com/economy/michael-dell-celebrates-americas-250th-birthday-gift-seed-american-dream-millions-kids",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/dell-family-trump-account.png?ve=1&tl=1",
-      "publishedAt": "2026-07-04T21:31:00Z",
-      "content": "In an Independence Day announcement, tech billionaire Michael Dell and his wife Susan unveiled a \"public-private partnership\" aimed at giving millions of young Americans a direct financial stake in t… [+3020 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "author": "Juhi Wadia",
-      "title": "Amazon’s 4th of July Sale Is Finally Here With Up to 50% Off Tech From HP, LG, Samsung, and More - PCMag",
-      "description": "What better way to celebrate the holiday weekend than with some epic discounts? Save big on essential tech like laptops, gaming monitors, smartwatches, and more.",
-      "url": "https://www.pcmag.com/news/best-amazon-tech-deals-july-4th-2026-sale",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/01C4KCc1OGjY3XK5CDHolHX-11.fit_lim.size_1200x630.v1783067082.png",
-      "publishedAt": "2026-07-04T20:52:44Z",
+      "author": "WSJ",
+      "title": "Exclusive | NASA Leader Flew His Vintage Jet at DC Air Show Over FAA Objections - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/airlines/nasa-leader-flew-his-vintage-jet-at-dc-air-show-over-faa-objections-ab2e0e62",
+      "urlToImage": null,
+      "publishedAt": "2026-07-05T23:55:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Fox Business"
       },
-      "author": "Katie Jerkovich",
-      "title": "California fruit farmer reveals results of his massive nectarine giveaway: 'Something none of us could have predicted' - New York Post",
-      "description": "A California farmer’s giveaway was sparked by a bitter legal battle with agriculture giant Giumarra.",
-      "url": "https://nypost.com/2026/07/04/us-news/california-fruit-farmer-reveals-results-of-his-massive-nectarine-giveaway-something-none-of-us-could-have-predicted/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133282292.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-04T20:50:00Z",
-      "content": "A California farmer’s jaw-dropping offer to give away 125,000 pounds of free nectarines sparked a feeding frenzy that stripped his orchard bare in a matter of days.\r\nCentral Valley grower Cesar Mora … [+3322 chars]"
+      "author": "Sophia Compton",
+      "title": "Veterans are using this homebuying benefit more often — but many still don’t know it exists - Fox Business",
+      "description": "VA loans are gaining ground as housing costs rise, but many veterans and service members still don’t fully understand the homebuying benefit.",
+      "url": "https://www.foxbusiness.com/lifestyle/veterans-using-homebuying-benefit-more-often-many-still-dont-know-exists",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/veteran-homeowner-key-to-home.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-05T23:07:00Z",
+      "content": "VA loans are becoming a more common path to homeownership as elevated home prices and mortgage rates squeeze buyers — but many veterans and service members still do not fully understand the benefit t… [+3708 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Kstp.com"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Ryan Pattee",
-      "title": "Trump Accounts for kids start on July 4th - 5 EYEWITNESS NEWS",
-      "description": "President Donald Trump is launching Trump Accounts to give some children investment money and offer families a new savings option.",
-      "url": "https://kstp.com/kstp-news/top-news/trump-accounts-for-kids-start-on-july-4th/",
-      "urlToImage": "https://kstp.com/wp-content/uploads/2026/02/TRUMP-ACCOUNTS-INCENTIVES_PKG_00.00.55.00.jpg",
-      "publishedAt": "2026-07-04T19:50:21Z",
-      "content": "President Donald Trump is launching Trump Accounts to give some children investment money and offer families a new savings option. \r\nThe Trump Accounts open Friday, July 4, and the administration sai… [+1761 chars]"
+      "author": "Drew Pittock",
+      "title": "Fake Microsoft, FTC scams cost victims $670K over three days - USA Today",
+      "description": "Scammers walked away with more than $670,000 in just three days, police said. Here's how they did it, and how you can protect yourself.",
+      "url": "https://www.usatoday.com/story/money/2026/07/05/cyber-crimes-scams-washington-gold-ftc-microsoft/90815341007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/05/USAT/90815393007-getty-images-2209753475.jpg?crop=3839,2159,x256,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-05T22:46:00Z",
+      "content": "Multiple scams over the course of three days bilked Washington state residents out of more than $670,000, according to a Facebook post from the local sheriffs office.\r\nOne of those scams involved an … [+3826 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CoinDesk"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Shaurya Malwa",
-      "title": "BTC price news: Bitcoin retakes $63,000, reversing end-June losses - CoinDesk",
-      "description": "The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.",
-      "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/9671b1d7488457d9192370d402ecbdd3c3ea9589-4452x2504.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "publishedAt": "2026-07-04T18:10:41Z",
-      "content": "Bitcoin climbed above $63,000 in U.S. morning hours Saturday, up 1.4% over 24 hours and 3.6% on the week, per CoinDesk data, its highest in two weeks and a full reversal of the losses that closed out… [+1154 chars]"
+      "author": "Wyatte Grantham-Philips",
+      "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide - AP News",
+      "description": "A handful of countries in the OPEC+ oil-producing alliance are planning to increase their outputs modestly next month. The Organization of the Petroleum Exporting Countries and its allies announced on Sunday that seven countries would expand oil production by…",
+      "url": "https://apnews.com/article/opec-increase-oil-production-iran-hormuz-bae40a1146cea569ddfdfc39d4867441",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9ced1ac/2147483647/strip/true/crop/1715x1143+142+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2Ffc%2F10d871c488fcbbe2f2843b10adc4%2F9ce02e5235ae43ec89bc2c2ea2301449",
+      "publishedAt": "2026-07-05T22:19:00Z",
+      "content": "NEW YORK (AP) A handful of countries in the OPEC+ oil-producing alliance plan to increase their outputs modestly next month, which would bring more oil online after fuel prices have fallen to levels … [+2622 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Dominick Reuter",
+      "title": "Retiree in Newark Spends $150 a Week on Groceries: Food Budget - Business Insider",
+      "description": "John Goldstein, a 75-year-old retiree in New Jersey, says he still eats well even as he budgets to manage rising health costs.",
+      "url": "https://www.businessinsider.com/retiree-in-newark-spends-150-a-week-groceries-food-budget-2026-7#article",
+      "urlToImage": "https://i.insider.com/6a46bcae1bba93485607b029?width=1200&format=jpeg",
+      "publishedAt": "2026-07-05T21:23:04Z",
+      "content": "This as-told-to essay is based on a conversation with John Goldstein, a 75-year-old retiree in Newark, New Jersey. The interview has been edited for length and clarity.\r\nLike the vast majority of ret… [+4455 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "description": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 17:58:01 GMT"
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "description": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 19:06:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-      "description": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 17:54:47 GMT"
+      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 21:02:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-      "description": "Some of the famous guests have been posting on social media about the big day in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 15:48:20 GMT"
+      "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+      "description": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+      "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 19:06:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "description": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 23:17:24 GMT"
+      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "description": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 17:22:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Australia probes mystery space balls that washed up on beach",
-      "description": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
-      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 12:55:58 GMT"
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "description": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 18:50:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-      "description": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 21:39:12 GMT"
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "description": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 13:08:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
-      "description": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 18:18:40 GMT"
+      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
+      "description": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 17:24:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
-      "description": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 14:59:10 GMT"
+      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+      "description": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
+      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 05:04:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-      "description": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 13:55:34 GMT"
+      "title": "Banks accused of failing most vulnerable customers",
+      "description": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
+      "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 23:29:34 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Amazon bars breastfeeding boss from business course",
+      "description": "Rachel Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 23:31:21 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+      "description": "Around the world women are marking their split with new - or repurposed engagement - rings.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 23:30:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Can China repeat its EV success with robotaxis?",
+      "description": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 22:01:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+      "description": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 15:18:53 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
+      "description": "Sky boss Dana Strong's comments came as the channel announces it is buying ITV's media and entertainment divisions in a £1.6bn deal.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 14:40:04 GMT"
     },
     {
       "source": "BBC",
@@ -142,91 +177,62 @@
     },
     {
       "source": "BBC",
-      "title": "EasyJet reaches 'agreement in principle' over potential takeover",
-      "description": "The low-cost airline had previously rejected four takeover offers from US investment firm Castlelake.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 17:30:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "What Sky buying ITV could mean for your favourite shows",
-      "description": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
-      "url": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 23:23:51 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
-      "description": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
-      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 10:46:34 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Clay, kilns and the cost of survival for tile makers",
-      "description": "While some firms lean into their heritage, others are modernising in the face of economic pressures.",
-      "url": "https://www.bbc.co.uk/news/articles/c982e3k9zw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 05:57:13 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
-      "description": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
-      "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 09:50:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "What could new rights for unmarried couples mean for your money?",
-      "description": "Co-habiting couples in England and Wales could be given more protections if they break up under new government proposals.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 01:10:13 GMT"
+      "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
+      "description": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
+      "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 11:09:54 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {},
+    "finance_keywords": {
+      "AI stocks": 7,
+      "GLP-1": 11,
+      "Iran oil": 3,
+      "Federal Reserve": 6,
+      "Bitcoin": 86
+    },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25832.67,
-      "change_pct": -1.45,
+      "price": 26121.16,
+      "change_pct": 0.31,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7483.24,
-      "change_pct": -0.21,
+      "price": 7537.43,
+      "change_pct": 0.72,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52900.07,
-      "change_pct": 1.11,
+      "price": 53055.91,
+      "change_pct": 1.44,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4187.3,
-      "change_pct": 1.81,
+      "price": 4175.9,
+      "change_pct": 0.2,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 68.29,
-      "change_pct": -0.58,
+      "price": 68.81,
+      "change_pct": 0.38,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 63633.45,
-      "change_pct": 0.86,
+      "price": 64024.17,
+      "change_pct": 0.75,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.09,
+      "change_pct": 0.34,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.77,
-      "change_pct": -0.27,
+      "price": 6.8,
+      "change_pct": 0.1,
       "symbol": "CNY=X"
     }
   }
