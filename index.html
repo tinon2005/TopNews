@@ -51,7 +51,7 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 .n7{background:#0a2020;color:#30c0c0;}.n8{background:#1a1a0a;color:#b0b020;}
 .n9{background:#1a0a20;color:#9060f0;}.n10{background:#0a1a0a;color:#40d080;}
 .nm{flex:1;}
-.nt{font-size:16px;font-weight:700;color:var(--text);line-height:1.45;margin-bottom:6px;}
+.nt(--text);line-height:1.45;margin-bottom:6px;}
 .ntags{display:flex;flex-wrap:wrap;gap:5px;}
 .tag{font-size:12px;padding:3px 9px;border-radius:6px;font-weight:600;background:var(--s2);color:var(--muted);border:1px solid var(--b);}
 .chev{color:var(--muted);font-size:14px;margin-top:3px;transition:transform .25s;flex-shrink:0;}
@@ -155,7 +155,7 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 <div class="page" id="page-cn">
   <div style="height:8px"></div>
   <div class="section-banner cn-banner">
-    <div style="font-size:34px;">🇨🇳🇭康</div>
+    <div style="font-size:34px;">🇨🇳🇭🇰</div>
     <div><div style="font-size:17px;font-weight:800;color:#f08080;">中港每日要聞</div>
     <div style="font-size:12px;color:var(--muted);margin-top:3px;">NPR · Vision Times · Foreign Policy · CNN · SCMP · HKTDC · HK Government</div></div>
   </div>
@@ -180,7 +180,6 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 </div>
 
 <script>
-// 字體調整與分頁核心逻辑
 let curSize = 15;
 function cf(offset) {
   if (offset === 0) curSize = 15;
@@ -211,7 +210,6 @@ function toggleSubTab(btn, tabClass, paneId) {
   parent.querySelector('#' + paneId).classList.add('act');
 }
 
-// 數據注入渲染
 const news=[
   {n:"01",c:"n1",t:"⚰️ 哈梅內伊國葬期進入尾聲｜美伊地緣技術工作組確認將於7月9日恢復談判線索",
    tags:["美伊關係","伊朗","CBS News 今日"],
@@ -256,7 +254,7 @@ const news=[
   {n:"06",c:"n6",t:"🦠 剛果Ebola疫情引發跨國擴散擔憂｜WHO緊急研判是否將其定義為PHEIC事件",
    tags:["公共衛生","生物科技","CNN 今日"],
    bull:["CNN：Africa CDC已拉高防禦警報，若WHO正式啟動PHEIC（國際公共衛生緊急事件），全球防疫專項資金將迅速到位","疫苗採購訂單預期將向具備唯一成熟產品的醫藥龍頭集中，推升防疫板塊短線資金避險需求","公共衛生AI篩查與次世代疫苗技術（如mRNA研發）獲得各國官方政策加碼投資"],
-   bear:["剛果東部地緣政局不穩與武裝衝突，導致醫療物資進駐與疫情實質管控難度極高","若疫情蔓延至鄰近跨境物流樞紐，可能對中非地區的特定礦產（如鈷、銅）供應鏈造成短期干擾","全球公共衛生避險情緒若蔓延，將對新興市場跨國旅遊板塊構成短線壓制"],
+   bear:["剛果東部地緣政局不穩與武裝衝突，導致醫療物資進駐與疫情實質管控難度極高","若疫情蔓延至鄰近跨境物流樞紐，可能對中非地區的特定礦產（如鈷、銅）供應鏈造成短期干煙","全球公共衛生避險情緒若蔓延，將對新興市場跨國旅遊板塊構成短線壓制"],
    out:["市場密切關注WHO的PHEIC正式宣告窗口，這將是防疫物資採購規模呈幾何級增長的直接催化劑","Merck（默克）作為現階段唯一擁有成熟獲批疫苗的供應商，短期防禦性現金流優勢凸顯","非洲地區特殊礦產供應鏈的潛在緊縮風險，可能引發有色金屬市場的價格波動"],
    sec:["生物醫藥/疫苗(短線防禦)","醫療檢測基建(政策加碼)","特殊稀有金屬(供應鏈風險)"],
    st:["MRK 默克","MRNA Moderna","ALB 雅寶"]},
@@ -272,17 +270,17 @@ const news=[
   {n:"08",c:"n8",t:"🌡️ 歐美兩洲熱浪同步進入夏季高峰｜全球「氣候適應性基建」引發長線資金佈局",
    tags:["氣候危機","公用事業","CBS·WHO 今日"],
    bull:["CBS：極端高溫推動歐美各大城市電網負荷創歷史新高，空調製冷設備與節能改裝需求出現爆發式增長","WHO歐洲熱浪報告促使多國政府加速撥款建設城市「防熱韌性基建」，開啟萬億級綠色採購市場","分散式能源與儲能系統在電網去中心化趨勢下，長線商用訂單能見度再度提升"],
-   bear:["熱浪導致部分大宗糧食產區遭遇乾旱威脅，糧食通脹隱憂與極端天氣成本正在向零售端傳導","老舊電網在高溫負荷下故障率上升，公用事業公司面臨龐大的維護開支與監管罰款壓力","極端天氣頻發導致保險業面臨創紀錄的巨額氣候理賠，保費全面上調壓制商業活動"],
+   bear:["熱浪導致部分大宗糧食產區遭遇乾旱威脅，糧食通脹隱憂與極端天氣成本正在向零售端傳導","老舊電網在高溫負荷下故障率上升，公用事業公司面臨龐龐大的維護開支與監管罰款壓力","極端天氣頻發導致保險業面臨創紀錄的巨額氣候理賠，保費全面上調壓制商業活動"],
    out:["全球建築物去碳化與結構性節能改造已成為未來十年的確定性政策主線","高溫常態化使具備高能效比的暖通空調龍頭與新能源網聯設備商成為剛需配置","農業科技與水資源管理板塊在氣候變遷背景下，正迎來更多風投與主權基金的青睞"],
    sec:["暖通空調/節能(剛性需求)","智慧電網/儲能(基建升級)","清潔能源發電(夏季高峰)"],
-   st:// 修正末端損壞的JSON，補全代碼
-   ["CARR 開利全球","ENPH 恩相能源","NEE 新世代能源"]},
+   st:["CARR 開利全球","ENPH 恩相能源","NEE 新世代能源"]},
 
   {n:"09",c:"n9",t:"🌍 東非地緣風險升溫：烏干達軍方強令關閉獨立媒體｜區域法治溢價面臨重估",
    tags:["非洲政治","新聞自由","CNN 今日"],
    bull:["國際社會與人權組織迅速對東非共同體施加經貿壓力，促使多國加強對跨境投資的政治風險對沖","事件催化了東非社群對數字加密通訊、衛星網路及去中心化媒體平台的替代性需求","多邊開發銀行在評估後續貸款時，將更嚴格地執行法治與透明度審查標準"],
    bear:["CNN：烏干達軍方強行取締兩大主流媒體，引發市場對該區域政經局勢法治邊界的深切憂慮","政治不確定性上升導致外資在進入東非開展跨國電信與基建合約時，普遍拉高風險溢價","若地緣震盪蔓延至周邊物流走廊，可能對東非跨境供應鏈造成局部中斷"],
    out:["外資在非洲新興市場的佈局將更趨向於點對點的資源防禦，而非廣泛的內需拓展","大型科技巨頭在發展中國家推動的基礎數位基建與衛星網絡，其戰略護城河進一步加深","投資者需密切注意相關區域ETF的短期資金流出與權重調整"],
+   sec:["網絡基礎設施(去中心化)","新興市場防禦(避險配置)"],
    st:["GOOGL Alphabet","META Meta","AFK 非洲ETF"]},
 
   {n:"10",c:"n10",t:"🌋 智利魯賓天文台全面啟動AI巡天計劃｜每晚20TB數據流開創科學計算新範式",
@@ -308,8 +306,7 @@ const uknews=[
    bull:["若7月16日截止時無強烈競爭對手，新內閣自動當選並於7月20日正式接任，將為市場提供急需的政治確定性","美方高層重申不論內閣如何更迭，英美特殊夥伴關係依然是跨大西洋安全架構的核心基石","市場預期新政府將在7月20日同步公佈市場友好型的財政大臣人選，有助於穩定金邊債券市場"],
    bear:["美方部分強硬派此前公開批評英國管理層過去的政策漏洞，令兩國在移民與能源政策上的對接增添微妙張力","新內閣從上任初期即需同時面對美方政治更迭與歐洲地緣防務雙線外交博弈的極端考驗","在正式接任前的權力真空期內，英鎊兌美元匯率在宏觀交易層面缺乏明確的單邊動能"],
    out:["7月16日的提名截止與7月20日的內閣就職，是本月決定英鎊及英國本土地產資產定價的最關鍵時間節點","新任財長在就職演說中對於財政赤字約束與增稅路徑的表態，將直接決定英國10年期國債收益率的去向","政治確定性的確立通常伴隨著海外資本對富時250指數（FTSE 250）中型本土企業的重新配置"],
-   sec:["英鎊資產(政治確定性)
-   ","英國金邊債(財政紀律預期)","英國中盤股(估值修復)"],
+   sec:["英鎊資產(政治確定性)","英國金邊債(財政紀律預期)","英國中盤股(估值修復)"],
    st:["EWU 英國ETF","HSBA.L 滙豐控股","BARC.L 巴克萊"]}
 ];
 
@@ -326,7 +323,7 @@ const cnnews=[
    tags:["香港貿易","關稅大限","USTR聽證","港府 official 今日"],
    bull:["商務及經濟發展局初步解讀顯示，香港在此輪更新中有望適用較低的10%基礎稅率，而非懲罰性的12.5%","香港近季度增長強勁的AI與高階電子轉口貿易（YoY +40.8%），其多數品項被納入特定豁免清單的概率較高","若7月24日的關稅平穩切換，香港轉口港在中美貿易套利中的「可信中介」角色將進一步確立"],
    bear:["隨著De minimis（小包裹免稅額度）的實質性取消，跨境電商平台在香港的中轉物流物流成本面臨結構性拉升","7月7日聽證會至7月24日正式生效僅有17天窗口，多數本地中小出口商面臨產能與信用證調整的時間壓迫","全球供應鏈的合規審查成本將全面轉嫁至香港本地的倉儲與物流供應鏈條中"],
-   out:["香港出口企業應立即執行三步走：確認豁免清單、加速7月24日前實體報關、調整離岸離岸貿易架構","美中在釜山（Busan）框架下延伸至11月的整體經貿談判走向，將是決定香港轉口貿易長期能見度的根本依賴","港交所短期內對電商與常規物流板塊的估值採取審慎定價，資金向高防守性收息資產和REITs集中"],
+   out:["香港出口企業應立即執行三步走：確認豁免清單、加速7月24日前實體報關、調整離岸離岸貿易架構","美中在釜山（Busan）框架下延伸至11月的整體經饋談判走向，將是決定香港轉口貿易長期能見度的根本依賴","港交所短期內對電商與常規物流板塊的估值採取審慎定價，資金向高防守性收息資產和REITs集中"],
    sec:["香港物流倉儲(合規陣痛)","香港電子轉口(結構分化)","香港金融地產(資金防守)"],
    st:["0388.HK 港交所","9988.HK 阿里巴巴","0823.HK 領展REIT"]}
 ];
@@ -334,13 +331,13 @@ const cnnews=[
 const aiPicks=[
   {ticker:"NVDA",name:"英偉達 (NVIDIA Corporation) | 獲發全球AI解禁紅利 + 數據中心擴建直接受益者",
    rating:"BUY — 政策天花板打開",pt:"$185",curr:"$153",upside:"+21%",
-   thesis:"今日美方放寬Anthropic高階AI模型向全球開放商用部署，這是2026年AI領域最顯著的政策轉向。這一戰略意味著美方試圖通過輸出 Claude Fable 5 等頂尖大模型，來全方位搶佔全球數位經濟與商業架構的底層。高端軟體輸出的全面解禁，勢必會引發全球（尤其是中東、歐盟與東南亞）跨國企業與主權雲計算基礎設施對高端算力的高潮，而NVIDIA作為算力硬體的絕對壟斷者，是這一政策紅利最確定的收割者。地緣層面台海短期博弈強度的降溫，也為台積電代工供應鏈的穩固提供了良好的外部窗口。",
+   thesis:"今日美方放寬Anthropic高階AI模型向全球開放商用部署，這是2026年AI領域最顯著的政策轉向。這一戰略意味著美方試圖通過輸出 Claude Fable 5 等頂尖大模型，來全方位搶佔全球數位經濟與商業架構的底層。高端軟體輸出的全面解禁，勢勢必會引發全球（尤其是中東、歐盟與東南亞）跨國企業與主權雲計算基礎設施對高端算力的高潮，而NVIDIA作為算力硬體的絕對壟斷者，是這一政策紅利最確定的收割者。地緣層面台海短期博弈強度的降溫，也為台積電代工供應鏈的穩固提供了良好的外部窗口。",
    pts:["Anthropic全球商用出口權限核准，直接激發全球雲端計算服務商對Blackwell/Hopper硬體架構的追加預算","各國企業為部署高階Claude推理模型，將全面升級數據中心網絡與儲存基建，NVIDIA具備絕對定價權","台海短期進攻型地緣風險的降溫，有效緩解了華爾街對於NVIDIA核心代工鏈條中斷的極端壓力測試","極端氣候高溫常態化及公共衛生危機，正在催生大量用於氣候模擬、防疫篩查的科學AI算力剛需"],
    risk:"地緣轉口合規審查的二次收緊風險；AI硬體板塊整體多頭持倉集中度過高，宏觀流動性若有波動易引發短線震盪"},
   {ticker:"MRK",name:"默克製藥 (Merck & Co.) | 防疫緊急物資採購核心預期 + 強韌現金流防禦標的",
    rating:"BUY — PHEIC窗口期首選",pt:"$145",curr:"$118",upside:"+23%",
    thesis:"中非地區Ebola疫情的加速擴散，正使WHO密切研判是否在未來48小時內正式宣告PHEIC。作為全球現階段唯一具備FDA與歐盟完整核准、且有大規模實戰防疫驗證的疫苗（Ervebo）擁有者，默克是全球防疫撥款與聯合國應急採購中最直接的訂單流向對象。在宏觀就業數據放緩（57,000）引發全球市場對經濟增長動能疑慮的背景下，默克憑藉旗下年銷售額高達250億美元的重磅免疫藥物 Keytruda 以及穩健推進的 Phase 2 GLP-1 肥胖症管線，為避險資金提供了一個兼具「公共衛生重大突發催化」與「超強基本面護城河」的防守反擊工具。",
-   pts:["WHO一旦啟動PHEIC，全球公衛組織與主要主權國家將直接對默克的 Ervebo 疫苗啟動全額資助的緊急採購","Keytruda 作為全球腫瘤免疫治療金標準，持續貢獻極為豐沛的自由現金流，底層估值防禦力極高","公司旗下的減重與代謝管線（MK-6024）臨床進展順利，為其在2027年後的增長提供了尚未被完全定價的期權","醫藥板塊在美中新一輪貿易與關稅談判中普遍獲得豁免，具備極高的宏觀政策避險屬性"],
+   pts:["WHO一旦啟動PHEIC，全球公衛組織與主要主權國家將直接對默克的 Ervebo 疫苗啟動全額資助的緊急採購","Keytruda 作為全球腫瘤免疫治療金標準，持續貢獻極為豐沛的自由現金流，底層估值防禦力極高","公司旗下的減重與代謝管線（MK-6024）臨床進展順利，為其在2027年後的增長提供了尚未被完全定價的期權","醫藥板塊在美中新一輪貿易與關稅談談判中普遍獲得豁免，具備極高的宏觀政策避險屬性"],
    risk:"疫情若因局部氣候變化或嚴格局部封鎖而迅速受控，導致應急採購低於預期；核心藥物專利懸崖的遠期壓力"}
 ];
 
@@ -353,7 +350,6 @@ const trends=[
    s:[{t:"MRK",n:"默克",w:"今日AI精選防禦品種，Ervebo疫苗具備全球唯一性，PHEIC宣告將是訂單爆發的直接導火索"},{t:"MRNA",n:"Moderna",w:"mRNA平台次世代防疫疫苗的研發資金與政策綠色通道預期將全面獲得加碼"},{t:"ALB",n:"雅寶",w:"非洲局部供應鏈若受疫情干擾，市場資金預期將向澳洲及美洲的替代性稀有金屬與礦產龍頭聚集"}]}
 ];
 
-// 渲染執行函數
 function renderAll(){
   const nl=document.getElementById('nl');
   const uknl=document.getElementById('uknl');
@@ -363,7 +359,6 @@ function renderAll(){
   
   if(!nl || !uknl || !cnnl || !ap || !tl) return;
 
-  // 1. 環球新聞
   nl.innerHTML=news.map(x=>`
     <div class="nc">
       <div class="nch" onclick="toggleExpand(this.parentNode)">
@@ -392,7 +387,6 @@ function renderAll(){
     </div>
   `).join('');
 
-  // 2. 英國新聞
   uknl.innerHTML=uknews.map(x=>`
     <div class="nc">
       <div class="nch" onclick="toggleExpand(this.parentNode)">
@@ -419,7 +413,6 @@ function renderAll(){
     </div>
   `).join('');
 
-  // 3. 中港要聞
   cnnl.innerHTML=cnnews.map(x=>`
     <div class="nc">
       <div class="nch" onclick="toggleExpand(this.parentNode)">
@@ -446,7 +439,6 @@ function renderAll(){
     </div>
   `).join('');
 
-  // 4. AI 精選
   ap.innerHTML=`<div class="ai-wrap">
     <div class="ai-hd">
       <div class="ai-hd-title">⚡ AI QUANT MODEL · 每日最優資產配置建議</div>
@@ -469,7 +461,6 @@ function renderAll(){
     <div class="ai-disc">⚠️ 免責聲明：GlobalPulse AI 模型精選為大數據自動生成之結構化情報，不構成任何實體投資要約或具體操作建議。市場有風險，持倉需謹慎。</div>
   </div>`;
 
-  // 5. Google 熱搜趨勢
   tl.innerHTML=trends.map(x=>`
     <div class="tc">
       <div class="tt"><div class="te">${x.e}</div><div><div class="tk">${x.k}</div><div class="th">${x.h}</div></div></div>
@@ -484,21 +475,8 @@ function renderAll(){
   `).join('');
 }
 
-// 實時時鐘 (HKT)
-function startClock(){
-  setInterval(()=>{
-    const now = new Date();
-    // 強制轉換為香港時間 HKT (UTC+8)
-    const hkt = new Date(now.toLocaleString("en-US", {timeZone: "Asia/Hong_Kong"}));
-    const timeStr = hkt.toTimeString().split(' ')[0];
-    const clkEl = document.getElementById('clk');
-    if(clkEl) clkEl.innerText = 'HKT ' + timeStr;
-  },1000);
-}
-
 window.onload=()=>{
   renderAll();
-  startClock();
 };
 </script>
 </body>
