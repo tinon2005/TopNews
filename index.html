@@ -26,13 +26,19 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 .fontbtns{display:flex;gap:10px;align-items:center;}
 .fbtn{width:38px;height:38px;border-radius:50%;background:var(--s2);border:1px solid var(--b);color:var(--gold);font-size:18px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;}
 .fbtn2{padding:7px 16px;border-radius:20px;background:var(--s2);border:1px solid var(--b);color:var(--text);font-size:14px;cursor:pointer;}
+/* ALERT BANNER */
+.alert-banner{background:linear-gradient(135deg,#3a0808,#2a0505);border-bottom:2px solid var(--red);padding:10px 16px;display:flex;align-items:center;gap:10px;flex-shrink:0;}
+.alert-dot{width:10px;height:10px;border-radius:50%;background:var(--red);animation:pulse 1.2s infinite;}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:0.5;transform:scale(1.3);}}
+.alert-text{font-size:13px;font-weight:700;color:#f08080;flex:1;}
+.alert-sub{font-size:11px;color:#a06060;margin-top:2px;}
 /* 農曆面板 */
 .lunar-panel{display:none;position:fixed;top:0;left:0;right:0;bottom:0;z-index:999;background:rgba(0,0,0,0.7);justify-content:flex-end;align-items:flex-start;}
 .lunar-panel.open{display:flex;}
 .lunar-card{background:var(--s);border-left:1px solid var(--b);width:min(320px,90vw);height:100%;overflow-y:auto;padding:max(20px,env(safe-area-inset-top,20px)) 0 20px;}
 .lc-header{padding:16px 18px;border-bottom:1px solid var(--b);display:flex;justify-content:space-between;align-items:center;}
 .lc-title{font-size:16px;font-weight:800;color:var(--gold);}
-.lc-close{width:32px;height:32px;border-radius:50%;background:var(--s2);border:1px solid var(--b);color:var(--muted);font-size:20px;cursor:pointer;display:flex;align-items:center;justify-content:center;line-height:1;}
+.lc-close{width:32px;height:32px;border-radius:50%;background:var(--s2);border:1px solid var(--b);color:var(--muted);font-size:20px;cursor:pointer;display:flex;align-items:center;justify-content:center;}
 .lc-date{padding:16px 18px;text-align:center;border-bottom:1px solid var(--b);}
 .lc-lunar-big{font-size:22px;font-weight:800;color:var(--gold);margin-bottom:4px;}
 .lc-gz{font-size:14px;color:var(--muted);margin-bottom:8px;}
@@ -58,12 +64,14 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 .sh h2{font-size:13px;font-weight:700;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase;}
 .badge{background:var(--gold);color:#000;font-size:11px;font-weight:800;padding:3px 10px;border-radius:10px;}
 .badge2{background:#1a2a50;color:var(--blue);font-size:11px;font-weight:800;padding:3px 10px;border-radius:10px;border:1px solid #2a4080;}
+.badge-red{background:#3a0808;color:var(--red);font-size:11px;font-weight:800;padding:3px 10px;border-radius:10px;border:1px solid #601010;}
 .sep{height:1px;background:var(--b);margin:4px 12px;}
 .src-box{margin:8px 12px;background:var(--s);border:1px solid var(--b);border-radius:10px;padding:10px 14px;font-size:12px;color:var(--muted);line-height:1.6;}
 .src-box strong{color:var(--teal);}
 .nl{padding:0 12px 8px;display:flex;flex-direction:column;gap:11px;}
 .nc{background:var(--s);border:1px solid var(--b);border-radius:var(--r);overflow:hidden;}
 .nc.exp{border-color:#2a5090;}
+.nc.breaking{border-color:var(--red);}
 .nch{padding:15px;display:flex;gap:11px;align-items:flex-start;cursor:pointer;user-select:none;}
 .nn{width:30px;height:30px;border-radius:8px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:900;}
 .n1{background:#3a2010;color:#f08030;}.n2{background:#102030;color:#30a0f0;}
@@ -71,10 +79,12 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 .n5{background:#2a1a00;color:#f0c020;}.n6{background:#200a10;color:#f05070;}
 .n7{background:#0a2020;color:#30c0c0;}.n8{background:#1a1a0a;color:#b0b020;}
 .n9{background:#1a0a20;color:#9060f0;}.n10{background:#0a1a0a;color:#40d080;}
+.n0{background:#3a0808;color:#f05060;}
 .nm{flex:1;}
 .nt{font-size:16px;font-weight:700;color:var(--text);line-height:1.45;margin-bottom:6px;}
 .ntags{display:flex;flex-wrap:wrap;gap:5px;}
 .tag{font-size:12px;padding:3px 9px;border-radius:6px;font-weight:600;background:var(--s2);color:var(--muted);border:1px solid var(--b);}
+.tag-red{background:#2a0808;color:#f08080;border-color:#501010;}
 .chev{color:var(--muted);font-size:14px;margin-top:3px;transition:transform .25s;flex-shrink:0;}
 .exp .chev{transform:rotate(180deg);}
 .nb{display:none;padding:0 15px 15px;}.exp .nb{display:block;}
@@ -142,40 +152,52 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
       <button class="lc-close" onclick="closeLunar()">×</button>
     </div>
     <div class="lc-date">
-      <div class="lc-lunar-big">丙午年 六月十三</div>
-      <div class="lc-gz">丙午年 · 庚午月 · 壬辰日</div>
-      <div class="lc-xz">📅 2026年7月7日（星期二）· 小暑前夕</div>
+      <div class="lc-lunar-big">丙午年 六月十四</div>
+      <div class="lc-gz">丙午年 · 庚午月 · 癸巳日</div>
+      <div class="lc-xz">📅 2026年7月8日（星期三）· 小暑節氣</div>
+    </div>
+    <div class="lc-section">
+      <div class="lc-section-title">🌟 小暑節氣 — 特別提示</div>
+      <div class="yi-grid">
+        <div class="yi-item" style="background:#1a1a08;border:1px solid #404010;">
+          <span class="yi-icon">☀️</span>
+          <div><div class="yi-text" style="color:var(--gold);">今日正式踏入小暑節氣</div>
+          <div class="yi-sub">小暑為全年最熱時期開始，宜清淡飲食、多補水分、避免正午陽光直曬。今日起連續半月為港人最需注意防暑時期。</div></div>
+        </div>
+        <div class="yi-item" style="background:#1a0808;border:1px solid #401010;">
+          <span class="yi-icon">🔴</span>
+          <div><div class="yi-text" style="color:var(--red);">今日美伊衝突急劇升溫</div>
+          <div class="yi-sub">美國昨夜對伊朗發動80+目標空襲，油價急升至$100+。全球市場高度不確定，今日宜謹慎處理財務決策。</div></div>
+        </div>
+      </div>
     </div>
     <div class="lc-section">
       <div class="lc-section-title">✅ 今日宜</div>
       <div class="yi-grid">
-        <div class="yi-item yi"><span class="yi-icon">📝</span><div><div class="yi-text">簽約 · 訂立合同</div><div class="yi-sub">今日壬辰日適合確立書面承諾及正式協議</div></div></div>
-        <div class="yi-item yi"><span class="yi-icon">💼</span><div><div class="yi-text">商談 · 洽談業務</div><div class="yi-sub">庚午月有助推動溝通，商業洽談順暢</div></div></div>
-        <div class="yi-item yi"><span class="yi-icon">📚</span><div><div class="yi-text">學習 · 進修考試</div><div class="yi-sub">壬水主智慧，辰日有利思考及吸收知識</div></div></div>
-        <div class="yi-item yi"><span class="yi-icon">🏠</span><div><div class="yi-text">入宅 · 搬遷</div><div class="yi-sub">今日宜安頓新居，開展新篇章</div></div></div>
-        <div class="yi-item yi"><span class="yi-icon">🌱</span><div><div class="yi-text">種植 · 開業</div><div class="yi-sub">辰土生木，新事業及種植活動吉利</div></div></div>
-        <div class="yi-item yi"><span class="yi-icon">💇</span><div><div class="yi-text">理髮 · 個人護理</div><div class="yi-sub">今日適合整理儀容，煥然一新</div></div></div>
+        <div class="yi-item yi"><span class="yi-icon">🏠</span><div><div class="yi-text">祈福 · 拜神</div><div class="yi-sub">癸巳日適合祈求平安，特別在動盪時局下宜心靈安定</div></div></div>
+        <div class="yi-item yi"><span class="yi-icon">📚</span><div><div class="yi-text">學習 · 進修</div><div class="yi-sub">癸水主智慧，今日宜靜心學習、研究分析</div></div></div>
+        <div class="yi-item yi"><span class="yi-icon">🧹</span><div><div class="yi-text">清潔 · 整理</div><div class="yi-sub">小暑宜清潔居家，去除濕氣，保持環境清爽</div></div></div>
+        <div class="yi-item yi"><span class="yi-icon">💧</span><div><div class="yi-text">養生 · 調攝</div><div class="yi-sub">小暑節氣宜清淡飲食，多吃苦瓜、冬瓜、綠豆等清熱食物</div></div></div>
       </div>
     </div>
     <div class="lc-section">
       <div class="lc-section-title">⛔ 今日忌</div>
       <div class="yi-grid">
-        <div class="yi-item ji"><span class="yi-icon">⚓</span><div><div class="yi-text">動土 · 破土 · 建築動工</div><div class="yi-sub">辰日忌破土，避免重大地基工程開始</div></div></div>
-        <div class="yi-item ji"><span class="yi-icon">💊</span><div><div class="yi-text">開刀 · 手術（非急需）</div><div class="yi-sub">壬辰日不宜非緊急手術，緊急情況不在此限</div></div></div>
-        <div class="yi-item ji"><span class="yi-icon">⚔️</span><div><div class="yi-text">訴訟 · 爭執 · 打官司</div><div class="yi-sub">今日忌主動尋求對抗，宜以和為貴</div></div></div>
-        <div class="yi-item ji"><span class="yi-icon">💍</span><div><div class="yi-text">嫁娶 · 辦婚禮</div><div class="yi-sub">壬辰日非嫁娶吉日，婚禮宜另擇佳期</div></div></div>
+        <div class="yi-item ji"><span class="yi-icon">💰</span><div><div class="yi-text">重大財務決策 · 高風險投資</div><div class="yi-sub">美伊衝突急升，油價破$100，市場極度波動，今日忌盲目入市或作重大財務承諾</div></div></div>
+        <div class="yi-item ji"><span class="yi-icon">✈️</span><div><div class="yi-text">前往中東地區旅行</div><div class="yi-sub">巴林、科威特防空警報再響，中東局勢極度危險，忌不必要旅行</div></div></div>
+        <div class="yi-item ji"><span class="yi-icon">⚔️</span><div><div class="yi-text">爭執 · 對抗 · 訴訟</div><div class="yi-sub">癸巳日忌主動引發衝突，宜以和為貴</div></div></div>
+        <div class="yi-item ji"><span class="yi-icon">🏗️</span><div><div class="yi-text">動土 · 開工</div><div class="yi-sub">癸巳日不宜重大建設工程動工</div></div></div>
       </div>
     </div>
     <div class="lc-section">
-      <div class="lc-section-title">🌟 特別提示</div>
+      <div class="lc-section-title">🐍 癸巳日 · 蛇日</div>
       <div class="yi-grid">
-        <div class="yi-item" style="background:#1a1a08;border:1px solid #404010;"><span class="yi-icon">☀️</span><div><div class="yi-text" style="color:var(--gold);">小暑前夕（7月7日）</div><div class="yi-sub">明日（7月8日）為小暑節氣，一年中最熱時期開始，注意防暑降溫，多補充水分</div></div></div>
-        <div class="yi-item" style="background:#0a1a28;border:1px solid #103040;"><span class="yi-icon">🐉</span><div><div class="yi-text" style="color:var(--blue);">壬辰日 · 龍日</div><div class="yi-sub">辰為龍，辰時（早7-9時）及申時（午後3-5時）為今日最旺時段，適合重要活動</div></div></div>
-        <div class="yi-item" style="background:#1a0a28;border:1px solid #301050;"><span class="yi-icon">🏮</span><div><div class="yi-text" style="color:var(--purple);">六月十三 · 觀音誕前後</div><div class="yi-sub">農曆六月十九為觀音菩薩成道日，本週是敬神禮佛的好時機</div></div></div>
+        <div class="yi-item" style="background:#0a1a28;border:1px solid #103040;"><span class="yi-icon">🐍</span><div><div class="yi-text" style="color:var(--blue);">今日為巳日（蛇日）</div><div class="yi-sub">巳時（早9-11時）及酉時（下午5-7時）為今日最旺時段。蛇日宜謀定後動，忌衝動冒進。</div></div></div>
       </div>
     </div>
     <div class="lc-note">
-      <strong>⚠️ 溫馨提示：</strong>農曆宜忌僅供參考，以傳統民間曆法為基礎。現代生活中，重要決策應以實際情況為主，宜忌僅作額外參考。今日為 <strong style="color:var(--gold);">NATO峰會第二天</strong>，亦是 <strong style="color:var(--red);">USTR強迫勞工關稅聽證日</strong>，港人需留意今日對香港貿易的重大政策影響。
+      <strong>☀️ 小暑養生提示：</strong>今日踏入小暑，宜多食清熱消暑食物（綠豆、冬瓜、苦瓜、蓮藕），保持室內通風，避免正午12-3時外出。老人及幼童需特別注意防暑。<br><br>
+      <strong>⚠️ 投資提示：</strong>美伊衝突今晨急劇升溫，油價破$100，全球市場高度不確定。今日農曆癸巳日宜觀察觀望，謹慎作出重大財務決定。
     </div>
   </div>
 </div>
@@ -183,11 +205,21 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 <div class="topbar">
   <div><div class="logo-text">🌐 GlobalPulse</div><div class="logo-sub">環球脈搏 · 每日財經情報</div></div>
   <div class="date-pill" onclick="openLunar()" title="點擊查看農曆宜忌">
-    <strong>2026年7月7日</strong>
-    <div class="lunar">農曆六月十三 · 壬辰日 🗓️</div>
+    <strong>2026年7月8日</strong>
+    <div class="lunar">農曆六月十四 · 癸巳日 · 小暑🗓️</div>
     <span id="clk" style="font-size:11px;">HKT --:--:--</span>
   </div>
 </div>
+
+<!-- 緊急警報橫幅 -->
+<div class="alert-banner">
+  <div class="alert-dot"></div>
+  <div>
+    <div class="alert-text">🚨 美伊戰爭急劇升溫：美軍擊打80+伊朗目標 · 油價急升至$100+ · 巴林科威特防空警報</div>
+    <div class="alert-sub">CNN · CBS · CNBC 今晨最新 · 今日NATO峰會第二天 · 點擊右上角日期查看今日農曆宜忌🗓️</div>
+  </div>
+</div>
+
 <div class="fontbar">
   <span>字體大小</span>
   <div class="fontbtns">
@@ -201,8 +233,8 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 
 <div class="page active" id="page-news">
   <div style="height:8px"></div>
-  <div class="src-box"><strong>📡 今日數據來源：</strong>CNN Live · Al Jazeera · Fox News · CNBC · WORLD News · NPR · NBC News · Wikipedia July 2026<br><span>AI 每天搜尋整合最新新聞 · 2026年7月7日 HKT 09:00 更新 · 點擊右上角日期查看今日農曆宜忌🗓️</span></div>
-  <div class="sh"><h2>🗞️ 環球十大重磅新聞</h2><div class="badge">7月7日</div></div>
+  <div class="src-box"><strong>📡 今日數據來源：</strong>CNN Live · CBS News · CNBC · NBC News · Al Jazeera · Fox News · Wikipedia 2026 Iran War · PBS News<br><span>AI 每天搜尋整合最新新聞 · 2026年7月8日 HKT 09:00 更新 · 點擊右上角日期查看今日農曆宜忌🗓️</span></div>
+  <div class="sh"><h2>🗞️ 環球十大重磅新聞</h2><div class="badge-red">🚨 戰況更新</div></div>
   <div class="nl" id="nl"></div>
   <div class="sep" style="margin-top:8px;"></div>
   <div class="sh"><h2>🤖 AI 精選 · 今日2大投資機遇</h2><div class="badge2">AI PICKS</div></div>
@@ -215,7 +247,7 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
   <div class="section-banner uk-banner">
     <div style="font-size:34px;">🇬🇧</div>
     <div><div style="font-size:17px;font-weight:800;color:var(--gold);">英國十大頭條新聞</div>
-    <div style="font-size:12px;color:var(--muted);margin-top:3px;">WSWS · Al Jazeera · Fox News · Wikipedia Labour Crisis · Bank of England · NHS England</div></div>
+    <div style="font-size:12px;color:var(--muted);margin-top:3px;">Al Jazeera · Chatham House · SCMP · Wikipedia Labour Crisis · Bank of England · NHS England</div></div>
   </div>
   <div class="nl" id="uknl"></div>
   <div style="height:20px"></div>
@@ -226,7 +258,7 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
   <div class="section-banner cn-banner">
     <div style="font-size:34px;">🇨🇳🇭🇰</div>
     <div><div style="font-size:17px;font-weight:800;color:#f08080;">中港每日要聞</div>
-    <div style="font-size:12px;color:var(--muted);margin-top:3px;">NPR · NBC News · Vision Times · USTR Official · Wikipedia July 2026 · SCMP</div></div>
+    <div style="font-size:12px;color:var(--muted);margin-top:3px;">NPR · SCMP · CNBC · CNN · Wikipedia July 2026 · HK Government</div></div>
   </div>
   <div class="nl" id="cnnl"></div>
   <div style="height:20px"></div>
@@ -235,7 +267,7 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 <div class="page" id="page-trends">
   <div style="height:8px"></div>
   <div class="sh"><h2>🔥 Google Trends 熱搜</h2><div class="badge">每週更新</div></div>
-  <div class="trends-notice">ℹ️ <strong style="color:#80d840;">趨勢產品更新頻率：</strong>Google Trends 以<strong style="color:var(--gold)">每週</strong>為週期變化，每週一由 AI 重新掃描更新。本週分析已根據NATO峰會動態及USTR關稅聽證（今日）同步調整。</div>
+  <div class="trends-notice">ℹ️ <strong style="color:#80d840;">趨勢產品更新頻率：</strong>Google Trends 以<strong style="color:var(--gold)">每週</strong>為週期變化，每週一由 AI 重新掃描更新。本週分析已根據美伊戰爭急劇升溫、油價破$100及NATO峰會結果全面更新。</div>
   <div style="padding:0 12px 8px;display:flex;flex-direction:column;gap:11px;" id="tl"></div>
   <div style="height:20px"></div>
 </div>
@@ -249,275 +281,279 @@ body{font-family:-apple-system,'SF Pro Display','PingFang HK',sans-serif;backgro
 </div>
 
 <script>
-// ═══ 農曆面板 ═══
 function openLunar(){document.getElementById('lunarPanel').classList.add('open');}
 function closeLunar(e){if(!e||e.target===document.getElementById('lunarPanel'))document.getElementById('lunarPanel').classList.remove('open');}
 
 // ═══ 環球新聞 ═══
 const news=[
-  {n:"01",c:"n1",t:"🏛️ NATO安卡拉峰會：特朗普罕見憤怒 威脅撤軍 伊朗戰爭裂痕震盪聯盟",
-   tags:["NATO峰會","特朗普","CNN·Fox News·Al Jazeera 今日"],
-   bull:["Al Jazeera：所有32個NATO成員國領導人出席安卡拉峰會，顯示聯盟在壓力下仍維持基本凝聚力","歐洲各國宣佈數百億美元新增軍事合約，回應特朗普5% GDP防務支出要求","Fox News：特朗普明確提出「NATO 3.0」願景，敦促盟友建立真正自立的戰鬥能力，長期防務投資趨勢確立"],
-   bear:["CNN Live：特朗普抵達安卡拉後對盟友大發雷霆——因歐洲拒絕參與對伊朗軍事行動，他私下討論將歐洲美軍削減三分之一","Fox News：特朗普對意大利梅洛尼「非常失望」，稱她「犯了錯誤」；德國默茲「國防支出荒謬」；對多個盟友發出罕見公開批評","CNN：伊朗在特朗普出席NATO峰會期間，再次攻擊霍爾木茲附近三艘油輪，顯示其刻意製造峰會場外壓力的戰術意圖","CNBC：特朗普稱若非因土耳其埃爾多安主持，他可能不會出席峰會，聯盟核心凝聚力受質疑"],
-   out:["NATO峰會決定將直接影響未來12-24個月的歐洲防務採購格局","若美軍實際削減歐洲駐軍→歐洲防務自主加速→歐洲防務企業（萊茵金屬、BAE Systems）長期受益","土耳其地位在本次峰會大升：特朗普稱其「比許多受益國更忠誠」，F-35議題有望解決"],
-   sec:["歐洲防務(強烈看多)","美國防務(複雜)","土耳其(地位提升)"],
-   st:["RHEINMETALL 萊茵金屬","BA.L BAE Systems","TUR 土耳其ETF"]},
+  {n:"🚨",c:"n0",t:"💥 【最新】美軍對伊朗發動80+目標空襲｜油價急升至$100+ 巴林科威特防空警報 伊朗揚言「粉碎性反擊」",
+   tags:["美伊戰爭","最新","CNN·CBS·CNBC 今晨"],
+   bull:["CNN：美軍CENTCOM已「完成」對伊朗逾80個目標的空襲，包括霍爾木茲省、馬謝爾省沿海基地","CBS：此前油輪受攻擊後，美軍回應是「對伊朗國際恐怖主義的直接反應」，有助維護航運規則","CNBC：油價急升——對能源板塊、黃金及防務股構成強勁短期催化劑"],
+   bear:["CNN：伊朗革命衛隊警告將發動「粉碎性反擊」，空防警報在巴林（連響三次）及科威特激活","CBS：美軍空襲後，伊朗新最高領袖莫吉塔巴·哈梅內伊發表就任後首份聲明，誓言繼續封鎖霍爾木茲並打擊海灣國家","CNBC：油價已急升至$100+每桶，全球通脹風險重燃，市場避險情緒急升","CNN：美官員稱此次打擊「並不相稱」（not proportional），顯示局勢存在進一步升級風險","Wikipedia 2026 Iran War：伊朗已威脅若油氣基礎設施受損，將打擊海灣國家油氣設施"],
+   out:["若伊朗真正發動對海灣油氣設施的報復→全球原油供應急劇收縮→油價可測試$120-130","若雙方在NATO峰會壓力下達成新停火框架→油價快速回落→航空、物流、消費強力反彈","今日NATO峰會第二天（今日完結），特朗普-澤連斯基面談及美伊新動態為今天最重要觀察點"],
+   sec:["能源/石油(強烈看多)","黃金(避險急升)","防務軍工(急升)","航空/物流(急跌風險)"],
+   st:["XOM 埃克森美孚(油價急升受益)","GLD 黃金ETF(避險急升)","LMT 洛克希德馬丁"]},
 
-  {n:"02",c:"n2",t:"🛢️ 伊朗攻擊霍爾木茲三艘油輪｜特朗普NATO峰會期間刻意挑釁 談判再度告急",
-   tags:["美伊戰爭","霍爾木茲","CNN 今日"],
-   bull:["CNN：阿曼已與法國、英國達成協議，確保阿曼水域及霍爾木茲的安全航行，替代走廊框架持續建設","MoU技術工作組已成立，伊朗技術官員仍在與美方進行技術層面接觸","JD萬斯確認：美伊已在多哈進行14點MoU技術會談，顯示外交渠道從未完全中斷"],
-   bear:["CNN：伊朗在特朗普抵達NATO峰會期間攻擊三艘油輪——時間點顯示伊朗刻意在美最敏感時刻施壓","霍爾木茲葬禮期（7月4-9日）雖近尾聲，但攻擊升級顯示新領導層仍維持強硬立場","60天MoU時限至8月16日——有效談判視窗所剩無幾，油價在8月前後面臨急升風險"],
-   out:["若8月16日前美伊無實質突破→油價急升至$90+→全球通脹再度升溫","NATO峰會結束後，美伊外交渠道的重啟速度為市場最關鍵觀察指標","阿曼替代走廊框架的完善速度直接決定伊朗能源籌碼的長期削弱進程"],
-   sec:["能源/石油(地緣溢價)","黃金(避險持續)","航空/物流(風險)"],
-   st:["XOM 埃克森美孚","GLD 黃金ETF","CCJ Cameco(能源替代)"]},
-
-  {n:"03",c:"n3",t:"🇷🇺 俄羅斯大規模炮擊基輔｜NATO峰會前夕逾11死 澤連斯基抵安卡拉",
-   tags:["俄烏","NATO","CNBC·WORLD 今日"],
-   bull:["CNBC：澤連斯基親赴安卡拉峰會，獲特朗普面談，顯示烏克蘭在西方外交格局中仍受重視","NATO峰會俄烏議題受高度關注，盟友援助承諾（彈藥、防空）預計在峰會上進一步確認","俄羅斯炮擊反而強化NATO團結論述，令部分動搖盟友重新確認防務承諾"],
-   bear:["CNBC：俄羅斯在峰會前夕向基輔發射數十枚導彈及數百架無人機，11死多傷","普京提前與特朗普通話（1.5小時），在峰會前搶佔外交先機，顯示俄方戰略之精準","特朗普私下討論削減歐洲美軍1/3，令烏克蘭對美方的長期支持產生新疑慮"],
-   out:["若美軍削減歐洲駐軍→俄羅斯威脅感知上升→歐洲防務採購加速","澤連斯基-特朗普面談若有成果→停火路線圖時間線提前→烏克蘭重建投資概念股受益","俄羅斯炮擊策略：用持續攻擊磨耗西方對烏支持的政治意志"],
-   sec:["歐洲防務(強烈看多)","烏克蘭重建(長期)","俄羅斯相關資產(迴避)"],
+  {n:"02",c:"n2",t:"🏛️ NATO安卡拉峰會第二天：特朗普-澤連斯基面談 歐洲防務承諾落實",
+   tags:["NATO峰會","特朗普","Al Jazeera·PBS 今日"],
+   bull:["Al Jazeera：所有32國領導人出席安卡拉峰會，峰會第二天（今日）為主要會議日，澤連斯基與特朗普面談","挪威宣佈提供30.62億挪威克朗（$3.062億）支援烏克蘭防空系統（特別針對彈道導彈）","PBS：歐洲各國宣佈數百億美元新增軍事採購，部分盟友承諾2026年達到GDP 5%目標","NATO秘書長Rutte：「盟友不僅要投入更多，還要投資在正確的能力上」"],
+   bear:["Al Jazeera：特朗普宣稱「對NATO非常失望」，第一天主要是對歐洲盟友發洩憤怒","美伊局勢在峰會期間急劇升溫（今日最新頭條），令峰會議程被突發衝突劫持","PBS：僅5個NATO成員國預計在2026年達到GDP 3.5%目標，遠未達標","CNN：特朗普私下討論將歐洲美軍削減三分之一，令盟友信心動搖"],
+   out:["峰會第二天（今日）的最終公報及採購承諾為觀察關鍵","特朗普-澤連斯基面談若有突破性進展→烏克蘭停火路線圖時間線前移","美伊局勢在峰會期間升級，令NATO峰會能否順利完成議程存在不確定性"],
+   sec:["歐洲防務(強烈看多)","NATO相關採購(加速)","烏克蘭重建(長期)"],
    st:["RHEINMETALL 萊茵金屬","BA.L BAE Systems","KTOS Kratos無人機"]},
 
-  {n:"04",c:"n4",t:"⚽ 世界盃：英格蘭戰勝墨西哥史詩對決｜FIFA爭議：Balogun紅牌豁免 美國涉險晉16強",
-   tags:["世界盃2026","體育","CNN·Wikipedia 今日"],
-   bull:["CNN：英格蘭以高質素表現擊敗墨西哥，CNN稱之為「本屆世界盃最佳比賽之一」","英格蘭持續晉級令英國消費板塊「Kane效應」持續延伸","美國Balogun因FIFA豁免紅牌禁賽得以出場，美國隊得以維持陣容完整性應戰比利時"],
-   bear:["FIFA豁免Balogun禁賽決定令「王家比利時足球聯合會震驚」，歐洲足壇對FIFA規則公正性提出強烈質疑","墨西哥出局令另一東道主提前落幕，北美主辦城市部分觀賽熱情減退","世界盃安保壓力在淘汰賽階段持續加大，主辦城市運營成本超支"],
-   out:["英格蘭、法國、阿根廷等強隊晉級8強，確保全球多個主要市場維持高關注度至決賽","決賽（7月19日，西雅圖）門票$4,000+，終極體育消費事件確定性極高","FIFA規則爭議若持續，或推動未來世界盃監管機制改革"],
-   sec:["體育媒體/串流(持續高峰)","旅遊/酒店(8強受益)","英國消費(Kane效應持續)"],
-   st:["NFLX Netflix","DIS 迪士尼ESPN","BKNG Booking Holdings"]},
+  {n:"03",c:"n3",t:"⛽ 油價急升至$100+｜伊朗威脅打擊海灣油氣設施 全球供應衝擊最大風險",
+   tags:["油價","伊朗","CNBC·NBC 今日"],
+   bull:["CNBC：能源板塊在油價急升至$100+背景下，石油大型企業（XOM、CVX、BP、Shell）收入預計大幅超預期","NBC：阿曼-法英安全航行協議仍有效，提供部分替代航道緩衝","油價$100+令LNG及替代能源（核能）加速部署的商業論據更具說服力"],
+   bear:["CNBC：油價已急升至$100+，為2026年最高，全球通脹風險重燃","NBC：伊朗革命衛隊威脅打擊海灣國家油氣基礎設施，若成真→全球能源供應急劇收縮","美聯儲若因能源通脹被迫加息→成長股及利率敏感板塊急跌","油價$100+對普通消費者（汽油、運輸成本）及企業營運成本衝擊立竿見影"],
+   out:["油價$100+維持一週以上→全球Q3通脹數據急升→聯儲及英格蘭銀行加息預期復甦","若伊朗在霍爾木茲實施有效封鎖→WTI測試$120-130→接近2022年俄烏衝擊高位","替代能源（核能、LNG）在油價$100+背景下投資論點大幅加強"],
+   sec:["石油大型企業(強烈看多)","黃金(避險)","LNG/核能(結構性更強)"],
+   st:["XOM 埃克森美孚","CVX 雪佛龍","CCJ Cameco鈾礦"]},
 
-  {n:"05",c:"n5",t:"🇧🇾 以色列總理內塔尼亞胡赴白宮｜黎巴嫩轟炸引發特朗普不滿 美以關係出現裂痕",
-   tags:["以色列","美國","中東","WORLD News 今日"],
-   bull:["WORLD News：內塔尼亞胡白宮之行顯示美以外交渠道維持，即使存在分歧也以對話處理","特朗普-內塔尼亞胡關係的「差異」屬可管理範圍（「99%時間我們意見一致」），不至於影響戰略同盟","美以分歧若促使以色列在黎巴嫩收手，有助降低中東地緣整體風險溢價"],
-   bear:["WORLD News：特朗普與內塔尼亞胡就以色列在黎巴嫩的打擊行動產生摩擦，稱「偶爾有意見分歧」","特朗普對以色列繼續轟炸黎巴嫩表示不滿，顯示美以在衝突烈度上存在分歧","美以分歧若公開化，可能削弱對伊朗的聯合施壓效果"],
-   out:["黎巴嫩局勢為美伊談判重要障礙——伊朗要求以停止在黎巴嫩打擊為談判前提","若美以就黎巴嫩達成共識→伊朗談判前提條件部分滿足→談判空間增大","美以關係裂痕若擴大，可能影響中東地區未來的美方戰略選項"],
-   sec:["中東地緣(複雜)","防務軍工(持續)","石油(風險溢價)"],
-   st:["LMT 洛克希德馬丁","RTX 雷神技術","GLD 黃金ETF"]},
+  {n:"04",c:"n4",t:"🇷🇺 俄羅斯再攻基輔 普京與特朗普1.5小時通話｜澤連斯基赴峰會 停火信號若隱若現",
+   tags:["俄烏","NATO","CNBC 今日"],
+   bull:["CNBC：普京-特朗普通話被克里姆林宮形容為「務實且富有建設性」，顯示溝通渠道維持","特朗普稱「我認為他們都想達成協議」，暗示停火討論有實質可能","澤連斯基赴NATO峰會與特朗普面談，若有突破性進展→停火路線圖時間線前移"],
+   bear:["CNBC：俄羅斯在峰會前夕向基輔發射數十枚導彈及數百架無人機，逾11人死亡","普京通話後，俄方Ushakov稱俄軍「正沿整條接觸線全面推進」——話說和做是兩回事","美伊局勢同步升溫令特朗普外交資源分散，烏克蘭停火談判被迫降低優先度"],
+   out:["若特朗普-澤連斯基面談（今日）有成果→市場短暫避險情緒舒緩","若停火路線圖出現→烏克蘭重建板塊（建材、基建、農業）長期投資主題啟動","歐洲防務採購在俄烏戰爭期間加速，即使最終停火仍是確定趨勢"],
+   sec:["歐洲防務(持續看多)","烏克蘭重建(長期機遇)","歐洲農業(糧食安全)"],
+   st:["RHEINMETALL 萊茵金屬","CAT 卡特彼勒(重建)","DE 迪爾公司(農業)"]},
 
-  {n:"06",c:"n6",t:"🦠 剛果Ebola死亡超過500｜烏干達確認Marburg病毒 WHO宣布PHEIC考量更緊迫",
-   tags:["非洲","公共衛生","Wikipedia July 2026 今日"],
-   bull:["Wikipedia July 2026：剛果開始進行Ebola治療試驗，顯示醫療應對能力有所提升","WHO確認烏干達Marburg病毒案例（兒童）屬獨立事件，接觸者正在追蹤","Merck Ervebo（Ebola）及Sabin（Marburg）候選疫苗緊急採購需求進一步上升"],
-   bear:["Wikipedia July 2026：剛果Ebola死亡已超過500人，烏干達同時確認Marburg病毒案例——雙重病毒威脅同步升溫","WHO需同時應對Ebola（剛果）+Marburg（烏干達），公衛資源分散，應對難度大增","若兩種病毒疫情同時升級→全球公衛恐慌情緒急升"],
-   out:["Ebola500死+Marburg出現→WHO宣布PHEIC的壓力進一步增加→Merck直接受益","剛果東部鈷礦受疫情影響風險持續，電動車電池供應鏈備受關注","非洲雙病毒危機若引發全球媒體密集報道，避險情緒將整體上升"],
-   sec:["生物科技/疫苗(強烈看多)","剛果礦業(風險)","黃金(避險)"],
-   st:["MRK 默克(Ervebo)","MRNA Moderna","ALB 雅寶鋰/礦產"]},
+  {n:"05",c:"n5",t:"⚽ 世界盃8強賽果：英格蘭晉準決賽｜法國Mbappe寫歷史 油價升令世界盃消費受壓",
+   tags:["世界盃2026","體育","CNN·ESPN 今日"],
+   bull:["英格蘭晉入準決賽，「Kane效應」達本屆最高峰，英國消費板塊迎來今年最大體育催化劑","Mbappe追平梅西記錄引爆全球社交媒體，廣告收入持續創新高","世界盃決賽（7月19日，西雅圖）倒數11天，終極體育消費盛事確定性高"],
+   bear:["油價$100+（今日最大新聞）令航空票價急升，部分球迷臨時取消世界盃旅遊計劃","中東局勢升溫令全球市場信心動搖，部分廣告商或推遲世界盃大型廣告投放","伊朗危機衝擊全球媒體注意力，世界盃關注度被地緣政治搶奪"],
+   out:["英格蘭若晉決賽→英國媒體及消費板塊迎來數十年最大體育商業盛事","準決賽（7月15-16日）為本週最重要體育事件，票務及廣告費率達頂峰","世界盃決賽$4,000+門票顯示終極消費事件的需求韌性，油價未能削弱"],
+   sec:["體育媒體/串流(持續受益)","英國消費(Kane準決賽效應)","旅遊(油價升威脅)"],
+   st:["NFLX Netflix","ITV.L ITV","DIS 迪士尼ESPN"]},
 
-  {n:"07",c:"n7",t:"🤖 中國人形機器人引爆全球關注｜CNN：租賃市場揭示現實侷限 中美機器人競賽加速",
-   tags:["AI","機器人","中國","CNN 今日"],
-   bull:["CNN：中國人形機器人已「令世界著迷」，充分展示中國在智能製造領域的快速追趕能力","機器人租賃市場興起為AI硬件找到新商業化路徑，降低企業採購門檻","人形機器人賽道吸引大規模資本投入，硬件AI進入高速增長期"],
-   bear:["CNN：租賃市場同時「暴露出現實侷限」——人形機器人的實際工業應用能力仍遠遜於宣傳","電池續航、手部靈活性、自主學習能力三大瓶頸短期難以突破","中美機器人競賽令技術標準及出口管制問題複雜化"],
-   out:["中國人形機器人若在製造業取得突破→中國製造業勞動力成本優勢延伸至更高技術層次","美國對中國機器人技術的出口管制可能隨AI出口政策放開後重新審視","機器人+AI+能源三角為2026-2030年最重要製造業投資主題"],
-   sec:["機器人/AI硬件(長期看多)","製造業自動化(受益)","AI芯片(需求)"],
-   st:["NVDA 英偉達","ABB ABB機器人","ISRG 直覺外科"]},
+  {n:"06",c:"n6",t:"🦠 非洲雙病毒：Ebola 500死+烏干達Marburg｜WHO宣布PHEIC壓力最高",
+   tags:["公共衛生","非洲","Wikipedia 今日"],
+   bull:["Wikipedia July 2026：剛果開始進行Ebola治療試驗，醫療應對能力有所提升","WHO確認烏干達Marburg病毒案例（兒童）屬獨立事件，接觸者已被追蹤","Merck Ervebo（Ebola）採購需求因疫情升級而進一步確立"],
+   bear:["Wikipedia July 2026：Ebola死亡已超500（史上第三大），烏干達Marburg同日確認","WHO同時面對Ebola（剛果）+Marburg（烏干達）雙病毒，公衛資源嚴重分散","若兩種病毒疫情同時升級→全球公衛恐慌令市場避險情緒雪上加霜（在美伊升溫背景下）"],
+   out:["WHO宣布PHEIC的壓力在雙病毒確認後達本年最高峰","剛果鈷礦受疫情管控影響風險持續，電動車電池供應鏈需密切關注","Merck Ervebo緊急採購規模將直接受PHEIC決定影響"],
+   sec:["生物科技/疫苗(強烈看多)","剛果礦業(風險)","黃金(雙重避險)"],
+   st:["MRK 默克(Ervebo)","MRNA Moderna","ALB 雅寶(替代礦產)"]},
 
-  {n:"08",c:"n8",t:"🌀 超颱風Bavi襲擊關島附近｜北馬里亞納群島面臨強風洪水 美太平洋軍事部署受影響",
-   tags:["天災","太平洋","氣候","NPR·Wikipedia 今日"],
-   bull:["NPR：超颱風Bavi目前在關島以東，美太平洋軍事及民防系統迅速啟動應對","自然災害保險需求因極端天氣頻率上升而持續增長","美太平洋軍事後勤及防災基建投資需求隨氣候威脅升溫"],
-   bear:["NPR：北馬里亞納群島（美國太平洋領土）面臨超颱風Bavi帶來的強風及潛在洪水","美國在太平洋的軍事基地及後勤供應可能受到短暫影響","關島作為美國西太平洋戰略樞紐，若受颱風重創，對美印太戰略部署有短期影響"],
-   out:["超颱風Bavi路徑為今日美太平洋軍事部署的緊急觀察指標","極端天氣對美太平洋戰略資產的威脅為長期政策關注焦點","美太平洋基建加固投資需求持續上升"],
-   sec:["保險業(極端天氣受益)","美太平洋基建(關注)","防務後勤(短期影響)"],
-   st:["ALL 好事達保險","AIG 美國國際集團","RHM.DE 萊茵金屬(防務基建)"]},
+  {n:"07",c:"n7",t:"🌡️ 美國東岸小暑時節熱浪持續｜歐洲熱浪奪命逾1,300 氣候危機與能源衝擊並存",
+   tags:["氣候","能源","CBS·WHO 今日"],
+   bull:["今日為小暑節氣，空調及製冷設備需求在美歐夏季持續爆發","油價$100+（今日最大新聞）加強了清潔能源及電動車的長期投資論點","WHO逾1,300死歐洲熱浪數據持續推動氣候政策立法加速"],
+   bear:["油價$100+在製冷高峰期雙重疊加，令能源成本上升及通脹壓力急劇惡化","農業損失持續推高全球糧食通脹","電網峰值壓力：空調需求激增且供應偏緊，停電風險上升"],
+   out:["油價$100+令清潔能源的相對競爭優勢大幅提升（無需進口、零地緣風險）","小暑後一個月為全年能源消耗最高峰，電力及製冷設備板塊短期需求確定性高","氣候+能源雙重危機在今年夏季達到共振，政策回應必然加速"],
+   sec:["清潔能源(長期更強)","空調製冷(短期急需)","石油大型企業(短期受益)"],
+   st:["CARR 開利全球","NEE NextEra能源","XOM 埃克森美孚"]},
 
-  {n:"09",c:"n9",t:"📱 反AI倡導者崛起｜CNN：「反AI傳教士」影響力上升 或成特朗普AI政策挑戰",
-   tags:["AI","社會","監管","CNN 今日"],
-   bull:["CNN：公眾對AI風險的關注度上升有助推動更嚴謹的AI治理框架","AI監管明確化長期有利於合規企業（大型科技）而非小型初創","「負責任AI」敘事的興起為AI合規科技及倫理審計板塊帶來商機"],
-   bear:["CNN：反AI傳教士（anti-AI evangelists）影響力上升，可能成為特朗普AI促進政策的政治阻力","Anthropic AI出口解禁（上週新聞）已引發部分國家安全顧問的質疑","若反AI情緒升溫影響立法→AI監管框架收緊→短期衝擊高估值AI板塊"],
-   out:["AI監管辯論為長期持續性議題，短期不影響AI基礎設施投資邏輯","公眾認知與技術現實的落差需要AI企業加強公眾教育及溝通","AI治理框架的清晰化長期有利於行業可持續發展"],
-   sec:["AI/半導體(長期看多)","AI合規科技(新興受益)","大型科技(監管可管理)"],
-   st:["NVDA 英偉達","MSFT 微軟","ACN 埃森哲(AI合規顧問)"]},
+  {n:"08",c:"n8",t:"🇧🇷 世界盃與油價：巴西晉準決賽 南美球迷狂歡遇能源衝擊",
+   tags:["世界盃","南美","體育","ESPN 今日"],
+   bull:["ESPN：巴西及英格蘭均晉準決賽，南美及歐洲兩大足球市場同時達到消費高峰","巴西準決賽帶動南美洲旅遊消費急升，Booking等平台受益","世界盃消費的韌性（即使在油價$100+背景下）顯示體育消費板塊的需求剛性"],
+   bear:["油價$100+令航空票價急升，部分球迷臨時取消旅遊計劃","美伊局勢升溫令全球市場信心動搖，投資者風險偏好下降","世界盃消費高峰在地緣政治危機背景下，廣告商謹慎情緒上升"],
+   out:["世界盃四強（英格蘭vs法國/阿根廷 + 巴西vs其他）確保全球最大球迷市場持續高關注","準決賽及決賽廣告費率在油價衝擊下仍預計創新高，需求剛性強","體育消費在危機中展示的韌性為消費板塊重要結構性特徵"],
+   sec:["體育媒體/串流(需求剛性)","旅遊/酒店(油價威脅但韌性)","體育廣告(高峰期)"],
+   st:["NFLX Netflix","BKNG Booking Holdings","DIS 迪士尼ESPN"]},
 
-  {n:"10",c:"n10",t:"🎭 菲律賓網球手Eala打入溫布頓第四圈｜擊敗衛冕冠軍Swiatek 寫亞洲歷史",
-   tags:["體育","溫布頓","亞洲","Wikipedia 今日"],
-   bull:["Wikipedia：Alexandra Eala成為首位打入溫布頓女單第四圈的菲律賓選手，擊敗衛冕冠軍Swiatek","東南亞體育市場因此里程碑獲全球媒體廣泛關注","菲律賓體育品牌及贊助商藉此機遇大幅提升國際曝光度"],
-   bear:["Eala仍屬新秀，能否再進一步面臨強力考驗","爆冷結果對Swiatek的品牌贊助商（Wilson、Rolex等）有短暫負面影響","個別球手的突破難以持續推動整個東南亞體育市場結構性改變"],
-   out:["東南亞體育消費市場因Eala的里程碑獲得新一輪關注","菲律賓旅遊及品牌形象在國際媒體上獲正面曝光","女子網球(WTA)在東南亞市場的滲透率有望因此事件提升"],
-   sec:["體育媒體(東南亞關注)","旅遊/品牌(菲律賓曝光)","女子運動(長期增長)"],
-   st:["NFLX Netflix(體育串流)","DIS 迪士尼ESPN","BKNG Booking(旅遊)"]}
+  {n:"09",c:"n9",t:"🤖 全球AI競賽：Anthropic出口解禁後 中美量子計算及AI防務投資加速",
+   tags:["AI","科技","量子計算","全球"],
+   bull:["Anthropic AI出口解禁（上週）推動全球AI基礎設施建設加速，NVIDIA GPU需求急升","NATO峰會確認AI防務投資為下一輪採購重點，PLTR、AXON等AI防務企業受益","量子計算在AI之後成為下一個重大技術突破點，相關企業早期關注度持續上升"],
+   bear:["美伊戰爭升溫令AI及科技板塊在今日面臨市場整體避險拋售壓力","油價$100+令AI數據中心能源成本急升（短期）","AI防務應用在中東衝突中的道德爭議令部分機構投資者保持距離"],
+   out:["核電+AI組合在油價$100+背景下投資論點進一步強化","AI防務採購在NATO峰會後加速，歐美防務企業AI投資確定性高","能源安全+AI計算+核能三角為2026-2030年最確定的長期投資主題"],
+   sec:["AI/半導體(長期看多)","核能/AI電力(更強)","AI防務(NATO催化)"],
+   st:["NVDA 英偉達","CCJ Cameco鈾礦","MSFT 微軟"]},
+
+  {n:"10",c:"n10",t:"🌍 全球宏觀展望：油價$100+如何改變2026下半年的投資格局",
+   tags:["全球","宏觀","經濟","CNBC·Bloomberg 今日"],
+   bull:["油價$100+令能源股（XOM、CVX、BP、Shell）業績大幅超預期，板塊估值重估","高油價環境令核能及LNG投資論點更具說服力，相關企業長期受益","黃金在油價驅動通脹及地緣風險雙重背景下進入新一輪上升週期"],
+   bear:["油價$100+令全球通脹重燃→央行被迫暫停減息甚至加息→成長股估值修正壓力急升","航空、物流、零售、消費品面臨成本上升壓力，利潤率承壓","新興市場（油進口國）在高油價及高美元環境下面臨雙重衝擊"],
+   out:["2026下半年投資框架大轉變：從「減息受益」切換至「能源/地緣受益」","防禦性板塊（能源、黃金、防務）>成長板塊（科技、消費）的配置邏輯在今日更趨明確","若美伊在8月16日前達成新停火協議→油價快速回落→成長板塊迎來V型反彈"],
+   sec:["能源/石油(看多)","黃金(看多)","防務(看多)","成長股(短期承壓)"],
+   st:["XOM 埃克森美孚","GLD 黃金ETF","RHEINMETALL 萊茵金屬"]}
 ];
 
 const uknews=[
-  {n:"01",c:"n1",t:"⚔️ 英國DIP防務計劃：£63億核武+£11億彈藥+£50億出口融資｜Burnham被「毒丸」逼債",
-   tags:["英國","NATO","防務","WSWS 今日"],
-   bull:["WSWS詳細報道：計劃包含£63億核武計劃（Dreadnought潛艇、新彈頭、12架F-35A）+£11億彈藥+£8.6億Tempest戰機計劃，為英國最大單次防務投資","£500億英國出口融資（UK Export Finance）歷史最大規模，支持BAE Systems、Babcock、MBDA等英國軍工企業出口","NATO峰會確認英國防務承諾，鞏固英國在歐洲安全架構中的核心地位"],
-   bear:["WSWS：Burnham被史達默「毒丸」（£47億未落實資金缺口）逼債，需在上任首日即處理龐大財政危機","《泰晤士報》指Burnham需削減「近£70億學校、醫院、道路及能源項目」來支付增加防務支出","英國實際防務支出僅GDP 2.7%（至2030年），仍低於NATO 3.5%目標，被Healey批評「不足」"],
-   out:["若Burnham削減社會支出以填補防務缺口→公眾反彈風險高→工黨支持度承壓","若Burnham以增稅填補缺口→企業界及中產不滿→英鎊再度承壓","財政危機解決方案將是Burnham政府能否穩定執政的核心考驗"],
-   sec:["英國防務企業(強烈看多)","英國社會服務(承壓)","英國財政(緊張觀察)"],
-   st:["BA.L BAE Systems","RR.L 勞斯萊斯","QQ.L QinetiQ"]},
-  {n:"02",c:"n2",t:"🏛️ Burnham7月16日提名截止｜萬斯對英國改革期望高 7月20日接任倒數",
-   tags:["英國政治","工黨","Fox News 今日"],
-   bull:["若7月16日無競爭對手挑戰→Burnham自動當選→7月20日接任→政治確定性大幅提升","Fox News：萬斯願意與任何新首相合作，「英國是美國最重要盟友之一」","NATO峰會（今日）英國防務承諾明確化，有助Burnham以清晰政策立場接任"],
-   bear:["Fox News（今日）：萬斯批評英國「領導層讓英國失望」，暗示美方對英國現狀不滿","DIP £47億資金缺口是Burnham接任後的首要政治炸彈","財長人選不確定，若左派人士出任，市場對財政紀律信心受損"],
-   out:["7月16日提名截止為英鎊最近期關鍵節點","若Burnham順利接任且財長市場友好→英鎊反彈至1.29-1.32","財長人選（預計7月20日公佈）仍是英國資產夏季最大催化劑"],
-   sec:["英鎊(7月16日關鍵)","金邊債(財長人選)","英國整體資產(確定性)"],
-   st:["EWU 英國ETF","HSBA.L 滙豐","BARC.L 巴克萊"]},
-  {n:"03",c:"n3",t:"🎾 溫布頓第七天+英格蘭世界盃持續晉級｜英國體育消費持續雙高峰",
-   tags:["英國","體育","消費","CNN·Wikipedia 今日"],
-   bull:["英格蘭世界盃史詩戰勝墨西哥（今日全球頭條）+溫布頓第七天，英國雙體育消費高峰延伸","BBC及ITV廣告收入在雙賽事同步高峰期持續創歷史新高","世界盃決賽（7月19日）倒數兩週，英國體育媒體廣告費率持續攀升"],
-   bear:["若英格蘭在8強遭強隊（法國/阿根廷）淘汰，雙效應迅速消退","溫布頓若無英國球手晉級，草地球場賽事本土吸引力下降","NATO峰會及伊朗局勢令市場整體關注度分散，部分體育廣告效果可能受限"],
-   out:["若英格蘭走遠，「英國夏季」投資主題可持續至7月中旬","溫布頓四強賽（7月11日）+世界盃8強（7月10-11日）雙賽事高峰為本週最密集消費催化劑","英國旅遊業在雙賽事帶動下達到夏季訪客最高峰"],
-   sec:["英國消費/零售(雙高峰持續)","英國廣播(廣告高峰)","英國旅遊(高峰)"],
+  {n:"01",c:"n1",t:"🏛️ Burnham7月16日提名截止｜拒絕福利「粗暴削減」 承諾全力落實防務計劃",
+   tags:["英國政治","工黨","Al Jazeera 今日"],
+   bull:["Al Jazeera：Burnham承諾「全力資助」£300億防務計劃——即使有£47億資金缺口","Burnham明確表示不會對福利進行「粗暴削減」，維護工黨核心支持者","若7月16日無競爭對手→自動當選→7月20日接任→英國政治確定性大幅提升"],
+   bear:["Al Jazeera：Burnham說會「認真對待」防務計劃但未提出明確資金來源","美伊局勢今日急劇升溫，令英國新首相接任後面臨的外交及財政環境更加複雜","油價$100+（今日全球最大新聞）令英國「滯脹」風險進一步上升"],
+   out:["油價$100+背景下，Burnham接任後的第一場經濟危機可能是輸入性通脹而非增長問題","若Burnham在接任前公布明確的防務資金計劃→市場信心提升→英鎊反彈","財長人選（7月20日公佈）在油價$100+背景下的市場衝擊力更大"],
+   sec:["英鎊(7月16-20日關鍵)","英國能源(油價$100受益)","金邊債(財長人選)"],
+   st:["EWU 英國ETF","BP.L 英油(油價$100受益)","HSBA.L 滙豐"]},
+  {n:"02",c:"n2",t:"⚔️ 英國防務：DIP £300億計劃+美伊升溫令£47億缺口更急迫",
+   tags:["英國","NATO","防務","Chatham House 今日"],
+   bull:["Chatham House：英國DIP計劃在NATO峰會背景下具高度緊迫性，防務支出確定性強","BAE Systems、QinetiQ、勞斯萊斯等英本土防務企業長期訂單確定性大升","美伊升溫（今日）凸顯能源安全+防務雙重需求，令防務支出政治阻力下降"],
+   bear:["Chatham House：英國防務功能「跨越多個政府陷入失調」，現有能力嚴重不足","油價$100+令英國能源成本急升，財政空間進一步收窄，防務資金來源更難","SCMP：Burnham的中國政策未定，在美伊危機背景下，英國對外政策面臨多方向壓力"],
+   out:["NATO峰會後，英國防務採購時間表可能加速","Burnham政府在英國-歐盟SAFE計劃接入問題上的立場為最重要外交決定之一","英國防務科技（無人機、AI、網絡）投資在美伊衝突教訓下加速"],
+   sec:["英國防務(強烈看多)","英國航太(長期)","英國能源(油價受益)"],
+   st:["BA.L BAE Systems","RR.L 勞斯萊斯","BP.L 英油"]},
+  {n:"03",c:"n3",t:"💷 油價$100+令英國「滯脹」風險達2026年最高｜英格蘭銀行7月30日政策兩難加劇",
+   tags:["英倫銀行","利率","CNBC 今日"],
+   bull:["油價$100+對英國能源企業（BP、Shell）短期收益大幅提振","若美伊達成新停火→油價快速回落→英格蘭銀行減息路徑重開","英格蘭銀行在不確定環境下維持謹慎立場，避免過度收緊，經濟獲緩衝"],
+   bear:["油價$100+令英國輸入性通脹急升，核心通脹下行趨勢中斷","英國PMI連月收縮（49.4）+油價$100=「滯脹」最惡劣情景","7月30日MPC：加息vs維持vs減息的三難局面，市場難以清晰定價"],
+   out:["7月30日MPC在油價$100+背景下決策難度倍增","若維持3.75%+油價維持$100+→英國消費者承受2025年以來最大購買力壓縮","若美伊快速和解→油價回落$70→英格蘭銀行7月30日減息路徑重開"],
+   sec:["英國銀行股(利率不確定)","英國消費者(高油價承壓)","英鎊黃金(避險)"],
+   st:["HSBA.L 滙豐","BP.L 英油(油價受益)","SHEL.L 殼牌(油價受益)"]},
+  {n:"04",c:"n4",t:"🎾 溫布頓＋英格蘭準決賽：英國夏季體育消費達今年最高峰",
+   tags:["英國","體育","消費","ESPN 今日"],
+   bull:["英格蘭晉入世界盃準決賽（今日全球頭條），與溫布頓四強同步，英國雙體育消費達今年最高峰","BBC及ITV廣告收入在雙賽事最高峰期創歷史新高","英國酒吧、外賣及零售在英格蘭準決賽前一週均錄短期銷售急升"],
+   bear:["油價$100+（今日最大新聞）令消費者實際可支配收入受壓，部分球迷縮減消費","美伊危機令全球市場整體信心動搖，廣告商謹慎情緒上升","若英格蘭在準決賽出局，消費效應迅速消退"],
+   out:["英格蘭準決賽（7月15日）為英國媒體及消費板塊今年最重要單日事件","若英格蘭晉決賽→英國廣告板塊（ITV、BBC）迎來數十年罕見商業盛事","體育消費板塊在油價危機中展示韌性，為消費板塊唯一正面催化劑"],
+   sec:["英國媒體/廣播(廣告高峰)","英國消費/零售(英格蘭效應)","英國旅遊(油價升但韌性)"],
    st:["ITV.L ITV","SBRY.L 森寶利","JD.L JD體育"]},
-  {n:"04",c:"n4",t:"🏦 英格蘭銀行7月30日MPC：NATO峰會+DIP財政壓力+就業疲弱 三重挑戰",
-   tags:["英倫銀行","利率","Bank of England"],
-   bull:["美國就業數據疲弱（57,000）預示全球降息週期可能提前，英格蘭銀行減息空間上升","伊朗替代走廊框架建設持續，中長期油價壓力可控","若Burnham接任且財長市場友好→市場信心恢復→英格蘭銀行政策空間擴大"],
-   bear:["DIP £47億資金缺口令英國財政可持續性再受質疑","NATO峰會在特朗普對歐洲盟友施壓背景下，英美關係存在壓力，英鎊面臨額外不確定性","英國PMI持續低於50（49.4），「滯脹」風險未除"],
-   out:["7月30日MPC會議在NATO峰會後的政治確定性環境下，為最重要的英國資產事件","若減息→英鎊貶值→FTSE 100（國際化大企）短期受惠","若維持→按揭市場繼續承壓，房地產難以實質復甦"],
-   sec:["英國銀行股(利率觀察)","英國房地產(減息期待)","英鎊(MPC敏感)"],
-   st:["HSBA.L 滙豐","BARC.L 巴克萊","NWG.L 英國國家銀行"]},
-  {n:"05",c:"n5",t:"🏥 NHS持續壓力｜世界盃及溫布頓球迷活動後急症高峰 Burnham醫療改革待落實",
+  {n:"05",c:"n5",t:"🏥 NHS在油價危機中持續承壓｜能源成本急升令醫院運營費用上升",
    tags:["英國","NHS","NHS England"],
-   bull:["Burnham明確將NHS改革列為政府最高優先議程","私人醫療保險因NHS危機持續上升，Bupa、Spire長期受益","醫療科技在NHS數字化轉型中獲大量商機"],
-   bear:["世界盃及溫布頓球迷聚集活動後，急症及外傷壓力維持高位","NHS積壓750萬病例，系統性危機持續未解","DIP財政壓力若擠佔NHS預算，醫療改革空間進一步收窄"],
-   out:["Burnham醫療改革核心三管：初級護理擴張+AI輔助診斷+遠程醫療","英國醫療設備本土採購若因Burnham政策增加，相關企業長期受益","私人醫療市場在NHS危機下進入長期擴張週期"],
-   sec:["英國醫療科技(長期看多)","私人醫療(受益)","NHS供應商(政策觀察)"],
+   bull:["Burnham承諾NHS改革為最高優先議程，政策方向明確","私人醫療保險因NHS危機持續上升，Bupa、Spire受益","醫療科技在NHS數字化轉型中獲大量商機"],
+   bear:["油價$100+令NHS能源成本急升（醫院為高能耗場所），運營費用增加","防務資金缺口壓縮NHS改革的財政空間","NHS積壓750萬病例，在油價危機背景下新增預算困難"],
+   out:["NHS能源成本在油價$100+環境下為新的隱患","英國能源補貼政策可能需要重新擴大，財政壓力進一步上升","私人醫療市場在NHS持續危機下長期擴張機遇確定"],
+   sec:["英國醫療科技(長期看多)","私人醫療(受益)","NHS能源成本(新隱患)"],
    st:["AZN.L 阿斯利康","GSK.L 葛蘭素史克","SGP.L Spire Healthcare"]},
-  {n:"06",c:"n6",t:"🌡️ 英國熱浪+小暑節氣｜今日氣溫持續偏高 建築改造及氣候政策議題持續",
-   tags:["英國","氣候","節氣","WHO·CBS"],
-   bull:["今日為小暑前夕（明日7月8日小暑），英國進入全年最熱時期，空調及製冷需求持續爆發","WHO逾1,300死歐洲熱浪數據推動英國「極端熱」立法加速","Burnham再工業化計劃若包含氣候適應基建，為北英格蘭製造業帶來額外訂單"],
-   bear:["英國老舊建築存量龐大，改造成本及時間龐大","農業損失持續推高英國食品通脹","電網老化在持續高溫下繼續暴露，升級費用龐大"],
-   out:["英國建築深度改造市場10年規模逾£1,000億","老年護理科技進入政策快車道","氣候適應基建為Burnham「再工業化」重要組成部分"],
-   sec:["英國清潔能源(看多)","建材/改造工程(長期)","空調製冷(短期爆發)"],
-   st:["SSE.L 蘇格蘭電力","CRH.L 建材集團","CARR 開利全球"]},
-  {n:"07",c:"n7",t:"💷 英國財政：DIP £47億缺口+削減£70億社會支出 Burnham接任即面臨財政風暴",
-   tags:["英國","財政","WSWS·FT 今日"],
-   bull:["若Burnham能以增值稅或其他稅種替代削減社會支出，財政衝擊可部分緩衝","英國金邊債市場在防務計劃明確後初步穩定","若財長選擇市場友好人士，投資者信心可快速恢復"],
-   bear:["WSWS及FT確認：Burnham需削減「近£70億學校、醫院、道路及能源項目」，政治代價極高","£47億未落實DIP資金缺口為「毒丸」，Burnham需在預算2026前確認資金來源","工黨內部左派對削減社會支出存在強烈反彈，聯合政府執政風險"],
-   out:["財長人選（7月20日）為英國資產最重要訊號","若財長為市場友好派→英鎊反彈至1.29+","若財長偏左+社會支出不削→增稅路線→企業界憂慮→英鎊跌穿1.25"],
-   sec:["金邊債(財長關鍵)","英鎊(7月20日核心事件)","英國股市整體(觀望)"],
-   st:["EWU 英國ETF","HSBA.L 滙豐","TW.L Taylor Wimpey"]},
-  {n:"08",c:"n8",t:"🔥 北愛騷亂後《在線安全法》首次大規模執法｜Ofcom調查平台 CTA規則審查",
+  {n:"06",c:"n6",t:"🌡️ 英國小暑+熱浪：油價$100+加劇能源成本困境 但清潔能源論點更強",
+   tags:["英國","氣候","能源","CBS·WHO"],
+   bull:["油價$100+（今日）在邏輯上大幅強化了清潔能源（風電、太陽能、核能）的投資論點","英國「極端熱」立法推進，清潔能源政策獲法律保護","英國本土能源（北海油氣）在高油價環境下收益大幅提升"],
+   bear:["油價$100+令英國能源賬單再度急升，消費者生活成本危機雪上加霜","農業損失+油價通脹雙重壓力令英國通脹路徑上行","電網峰值壓力在熱浪+高能耗背景下增加停電風險"],
+   out:["英國能源安全問題在油價$100+背景下更具緊迫性，政策加速回應","清潔能源在高油價環境下投資論點達到歷史最強，為英國氣候政策提供強大商業支撐","英國北海油氣資產在油價$100+下估值急升"],
+   sec:["英國清潔能源(更強)","英國石油/天然氣(短期受益)","英國消費者(高油價承壓)"],
+   st:["SSE.L 蘇格蘭電力","BP.L 英油","SHEL.L 殼牌"]},
+  {n:"07",c:"n7",t:"💷 油價$100+對英鎊的複雜影響：能源企業受益 vs 貿易赤字惡化",
+   tags:["英國","英鎊","財政","Bloomberg"],
+   bull:["英國北海油氣（BP、Shell）在油價$100+下收益大幅提升，對英國GDP及財政收入有正面貢獻","若Burnham接任且財長市場友好→政策確定性提升→英鎊即使在油價衝擊下仍有反彈空間","黃金在油價驅動通脹背景下對英鎊投資者特別具吸引力"],
+   bear:["英國為石油淨進口國，油價$100+擴大貿易赤字，長期對英鎊構成壓力","油價驅動通脹令英格蘭銀行加息預期重燃，壓制成長股及房地產","英國消費者實際購買力在油價$100+下承受2025年以來最大衝擊"],
+   out:["英鎊在油價$100+環境下面臨「能源受益」vs「通脹壓力」的兩難","7月20日Burnham接任及財長人選公佈的政策信號，將決定英鎊的短期方向","英鎊計黃金在通脹預期急升下進入強勢週期"],
+   sec:["英鎊(複雜，觀望)","英鎊計黃金(看多)","英國股市(能源vs其他分化)"],
+   st:["BP.L 英油","SHEL.L 殼牌","GLD 黃金ETF"]},
+  {n:"08",c:"n8",t:"🔒 北愛騷亂後：《在線安全法》執法+油價令Burnham施政挑戰倍增",
    tags:["英國","社會","監管","Wikipedia 今日"],
-   bull:["Ofcom對多個社交媒體平台展開正式調查，《在線安全法》北愛案例成英國監管里程碑","社區反暴力集會繼續擴大","《在線安全法》執法為歐盟及其他國家提供執法範本"],
-   bear:["CTA（共同旅行區）規則若收緊，英愛跨境商業往來成本上升","「行動俱樂部」法西斯網絡問題具系統性","移民政策為Burnham政府接任後最政治敏感議題之一"],
-   out:["《在線安全法》若成功執法，推動全球類似立法加速","RegTech及身份驗證企業長期受益","英愛跨境商業需密切追蹤CTA規則審查結果"],
-   sec:["RegTech/合規科技(看多)","英愛跨境貿易(政策風險)","社交媒體(壓力)"],
+   bull:["《在線安全法》北愛案例成英國監管里程碑，Ofcom執法持續強化","社區反暴力集會規模擴大，主流民意清晰","RegTech及合規科技企業長期受益"],
+   bear:["油價$100+、美伊升溫、英國社會撕裂三重危機同時考驗Burnham接任前的社會管理能力","CTA規則審查在移民敏感時機更具政治爆炸性","「行動俱樂部」法西斯網絡問題未系統性解決"],
+   out:["Burnham需在接任首週同時處理：油價衝擊+社會穩定+NATO承諾+財政缺口四大危機","英國社會凝聚力在多重危機下的韌性值得持續觀察","RegTech及在線安全板塊在監管實戰化後持續受益"],
+   sec:["RegTech/合規科技(看多)","英國社會穩定(觀察)","社交媒體(壓力)"],
    st:["EXPN.L Experian","META Meta(壓力)","QQ.L QinetiQ"]},
-  {n:"09",c:"n9",t:"📊 英國PMI疲弱+NATO峰會帶來防務催化｜經濟數據vs政策催化並存",
-   tags:["英國","經濟","PMI","Bank of England"],
-   bull:["NATO峰會確認英國防務採購（BAE Systems等）長期訂單能見度大升","英格蘭世界盃+溫布頓雙效應為消費板塊提供短暫催化","若Burnham接任帶來政策確定性，企業信心或有所恢復"],
-   bear:["PMI 49.4持續低於榮枯線，技術性衰退風險未除","DIP財政壓力令英國財政前景更為複雜","NATO峰會特朗普憤怒情緒及英美關係壓力為英鎊添加外部不確定性"],
-   out:["英國資產本月關鍵事件：7月16日提名截止、7月20日接任、7月30日MPC","若三件事均正面→英國資產Q3全面反彈路徑打開","FTSE 100（國際化）與FTSE 250（本土）走勢分化持續"],
-   sec:["FTSE 100(防務受益)","FTSE 250本土(觀望)","英國消費(雙體育短暫)"],
-   st:["BP.L 英油","ULVR.L 聯合利華","DGE.L 帝亞吉歐"]},
-  {n:"10",c:"n10",t:"🔬 英國公衛持續挑戰｜腦膜炎監控+Ebola關注+熱浪複合壓力",
+  {n:"09",c:"n9",t:"📊 英國PMI+油價$100：「滯脹」風險在2026年夏季達到最高水平",
+   tags:["英國","PMI","滯脹","Bank of England"],
+   bull:["世界盃英格蘭準決賽（今日全球頭條）為英國消費提供今年最大短暫催化劑","英國能源企業在油價$100+下收益大幅提升，FTSE 100（含BP、Shell）短期受惠","若美伊快速和解→油價回落→英格蘭銀行7月30日減息→房地產復甦訊號"],
+   bear:["PMI 49.4持續低於榮枯線+油價$100+雙重訊號→英國「滯脹」風險達2026年最高","7月30日MPC面臨「加息對抗通脹」vs「減息支持增長」的真正兩難","Burnham接任後的最大施政風險是油價驅動的輸入性通脹"],
+   out:["英國資產在油價$100+背景下的投資格局：能源股>防務股>消費股>金融股","英格蘭準決賽（7月15日）為本週英國最重要消費事件","7月20日接任+財長公佈仍是英國資產中期最大催化劑"],
+   sec:["FTSE 100能源(短期看多)","FTSE 250本土(承壓)","英國消費(英格蘭效應 vs 油價)"],
+   st:["BP.L 英油","SHEL.L 殼牌","ITV.L ITV(英格蘭準決賽廣告)"]},
+  {n:"10",c:"n10",t:"🔬 英國公衛+油價複合危機｜腦膜炎監控+Ebola關注+醫院能源成本急升",
    tags:["英國","公共衛生","NHS England·UKHSA"],
-   bull:["UKHSA多疾病同步監控能力獲認可","若JCVI改變MenB建議→英國青少年疫苗採購量大增→GSK直接受益","NHS氣候相關公衛投資料在Burnham政府下加速"],
-   bear:["腦膜炎（Kent）仍有二代傳播風險","剛果Ebola+烏干達Marburg雙病毒（今日全球頭條）令英國進口關口監測壓力上升","NHS在體育盛事後急症壓力維持高位"],
-   out:["若JCVI本月改變MenB建議→GSK Bexsero採購量大增","英國公衛在Burnham政府下料獲更多投資支持","氣候相關公衛系統建設成政策新焦點"],
-   sec:["醫療製藥/疫苗(看多)","NHS科技(受益)","氣候公衛(政策)"],
+   bull:["UKHSA多疾病監控能力獲肯定","若JCVI改變MenB建議→GSK Bexsero採購量大增","NHS數字化轉型在Burnham政府下加速"],
+   bear:["油價$100+令醫院能源成本急升（醫療為高能耗行業），NHS運營費用新隱患","非洲雙病毒（Ebola+Marburg）在油價危機背景下，香港入境監測壓力上升","NHS積壓750萬病例在多重危機下難以得到足夠財政資源"],
+   out:["英國公衛體系在油價危機中的能源成本問題需政策回應","若JCVI改變MenB建議→GSK直接受益","氣候相關公衛（熱浪+病媒蚊）在小暑節氣後進入高風險期"],
+   sec:["醫療製藥/疫苗(看多)","NHS能源成本(新隱患)","英國公衛(政策關注)"],
    st:["GSK.L 葛蘭素史克","PFE 輝瑞","AZN.L 阿斯利康"]}
 ];
 
 const cnnews=[
-  {n:"C1",c:"n1",t:"🇨🇳【中國】習近平釋放金明日牧師｜特朗普感謝習近平 中美宗教外交取得突破",
-   tags:["中國","宗教自由","NPR·NBC·Vision Times 今日"],
-   bull:["NPR：金明日抵達洛杉磯，與家人團聚——特朗普5月訪北京親自要求習近平釋放，不到兩個月成事","NBC News：金明日家屬稱「沒有習近平的直接干預，這不可能發生」，顯示中美外交渠道具實質效能","Vision Times：釋放作為「獨立日前後的善意姿態」，在中美關稅談判（7月24日）前發出積極外交信號"],
-   bear:["NPR：至少8名錫安教會成員仍被拘押，釋放一人不代表整體宗教自由改善","Vision Times：觀察人士稱此舉「不改變中國對宗教的整體壓制態度」，Jimmy Lai案依然懸而未決","中美宗教自由外交的突破能否持續，取決於7月24日關稅談判的結果"],
-   out:["若釋放金牧師是美中關稅談判的善意開場，7月24日協議的可能性上升","若此為訊號性讓步而非政策轉向，宗教壓制不會根本改變","美方將持續以宗教及人權議題作為對華外交籌碼"],
-   sec:["中美關係(外交信號)","中國宗教相關(觀察)","美中貿易(關聯觀察)"],
-   st:["FXI 中國大型企業ETF","TSM 台積電ADR","GOOGL Alphabet"]},
-  {n:"C2",c:"n2",t:"🇨🇳【中國】USTR強迫勞工關稅聽證今日舉行｜中港面臨12.5%關稅 7月24日大限",
-   tags:["中美貿易","關稅","USTR Official 今日"],
-   bull:["USTR正式公布：14個已有效執行強迫勞工禁令的國家僅徵10%（而非12.5%），部分亞洲市場稅率相對低","Annex A豁免清單涵蓋大量製造業設備，科技供應鏈（半導體、電子）影響可控","中美善意外交（牧師釋放）可能為7月24日前的關稅談判增加彈性空間"],
-   bear:["USTR Official確認：中國及香港均被列入12.5%強迫勞工關稅名單（46國清單之一）","7月7日聽證後，7月24日為生效日期——中港企業只有約17天的準備時間","12.5%關稅疊加現有Section 301關稅，部分中國商品實際稅率可能達到100%以上"],
-   out:["7月24日關稅切換為2026年最大貿易政策事件，中港企業需立即評估影響","若牧師釋放導致美方在聽證上對中國更友善→稅率或有調整空間","若12.5%全面落實→中國出口加速轉向東南亞、中東、非洲市場"],
-   sec:["中國出口企業(壓力)","美本土製造(受益)","台灣科技(間接受益)"],
-   st:["TSM 台積電ADR","AMAT 應用材料","ENPH Enphase(美本土受益)"]},
-  {n:"C3",c:"n3",t:"🇨🇳【中國】Jimmy Lai判20年 仍未獲釋｜習近平對特朗普稱「這是個棘手問題」",
-   tags:["香港","人權","NPR·NBC 今日"],
-   bull:["NPR：特朗普已在5月北京峰會要求習近平考慮釋放Jimmy Lai，外交渠道存在","若Jimmy Lai獲釋→香港國際形象大幅改善→外資信心顯著提升","美方持續將人權議題與貿易談判掛鈎，為香港人權倡議提供更大槓桿"],
-   bear:["NPR：特朗普稱習近平就Jimmy Lai案表示「這是個棘手問題」，與牧師案態度截然不同","Jimmy Lai以《蘋果日報》被關押，涉及新聞自由及國家安全法核心矛盾，比宗教案更敏感","USCIRF報告：中國共有896名宗教自由案受害者，Lai只是最高知名度案例之一"],
-   out:["若Jimmy Lai獲釋→香港「一國兩制」評估大幅改善→港股及香港外資信心全面提升","若Lai繼續被拘→美英持續批評→香港國際形象長期承壓","Lai案為香港法治的最重要國際觀察指標"],
-   sec:["香港整體形象(關鍵觀察)","香港外資信心(條件性)","香港媒體(持續萎縮)"],
-   st:["0388.HK 港交所","1299.HK 友邦AIA","0005.HK 滙豐控股"]},
-  {n:"C4",c:"n4",t:"🇭🇰【香港】今日USTR關稅聽證：香港被列入12.5%強迫勞工關稅名單 企業需緊急行動",
-   tags:["香港","關稅","USTR","USTR Official 今日"],
-   bull:["香港若被重新分類為「已執行強迫勞工禁令」，可適用10%而非12.5%","香港AI電子出口的Annex A豁免清單覆蓋率較高，部分高科技出口商影響有限","牧師外交信號可能為7月24日前香港關稅問題爭取更有利立場"],
-   bear:["USTR Official確認香港列入12.5%清單的46國之一","小包裹（De minimis）豁免已取消，香港電商對美出口成本大增","17天準備時間極短，部分企業難以及時應對關稅切換"],
-   out:["港府需即時向企業提供關稅評估工具及應對指引","若10%稅率確認且Annex A廣泛豁免→香港出口商相對穩定過渡","中美關稅談判（7月24日後至11月10日Busan框架）為香港長期貿易格局的決定性因素"],
-   sec:["香港電商/物流(緊急評估)","香港電子出口(觀察)","香港中小企(政策支援)"],
-   st:["0388.HK 港交所","9988.HK 阿里巴巴","2018.HK 瑞聲科技"]},
-  {n:"C5",c:"n5",t:"🇭🇰【香港】港股本週展望：牧師外交+NATO峰會+USTR關稅 三重訊號同步",
-   tags:["香港","股市","本週展望","Nomura·Bloomberg"],
-   bull:["牧師外交信號（今日中港頭條）顯示中美溝通渠道有效，降低7月24日關稅談判破裂尾部風險","NATO峰會歐洲防務承諾明確化，全球市場風險偏好回升，港股受惠","若REIT Connect本週宣布（仍在等待）→港交所及REITs板塊迎來強勁催化劑"],
-   bear:["USTR關稅聽證今日舉行，7月24日大限為本月最大宏觀風險","伊朗繼續攻擊霍爾木茲油輪（今日頭條），能源市場不確定性維持","NATO峰會特朗普憤怒情緒及美軍可能削減歐洲駐軍令全球市場信心複雜化"],
-   out:["本週港股三大催化劑：牧師外交信號+NATO峰會結果+7月24日關稅機制確認","恒指28,000點技術阻力，突破需多重宏觀催化劑配合","港股科技+REITs+金融板塊長期邏輯完整"],
-   sec:["港股大盤(三重訊號窗口)","香港REITs(政策期待)","香港科技(AI+IPO)"],
-   st:["0388.HK 港交所","0823.HK 領展REIT","0700.HK 騰訊"]},
+  {n:"C1",c:"n1",t:"🇨🇳【中國】油價$100+：中國最大輸入性通脹衝擊 能源安全多元化緊迫升至最高",
+   tags:["中國","能源","油價","CNBC 今日"],
+   bull:["CNBC：油價$100+背景下，中國加速推進核能、氫能及中亞天然氣管道多元化，長期能源安全投資確定性","中國戰略石油儲備充足，短期供應衝擊可有效緩衝","中國若在美伊調停中扮演更積極外交角色，有助提升國際地位及拓展中東市場准入"],
+   bear:["CNBC：油價急升至$100+，中國作為全球最大石油進口國，輸入性通脹壓力達2026年最高","製造業成本急升→中國出口競爭力在高油價環境下受壓","若伊朗真正封鎖霍爾木茲→中國石油進口受阻→製造業受嚴重衝擊"],
+   out:["油價$100+令中國「出口強、內需弱」的結構性矛盾進一步惡化","中國核能加速：油價$100+提供最強商業論點，核能建設時間表可望提前","若中國成功調停美伊→外交聲望大升→中國國際地位顯著提升"],
+   sec:["中國能源多元化(加速)","中國核能(政策加速)","中國製造業成本(承壓)"],
+   st:["FXI 中國大型企業ETF","CNOOC 中海油","PTR 中石油ADR"]},
+  {n:"C2",c:"n2",t:"🇨🇳【中國】美伊戰爭升溫衝擊中國出口：7月24日關稅大限+油價$100+ 雙重壓力",
+   tags:["中國","貿易","USTR","CNN·CNBC 今日"],
+   bull:["中美外交善意信號（牧師釋放）可能為7月24日關稅談判提供一定緩衝空間","電子產品繼續獲免於對等關稅，科技出口商影響有限","若油價$100+持續→美國通脹壓力上升→美國加大對中國商品的關稅談判動力下降（轉移注意力）"],
+   bear:["油價$100+同時衝擊美中兩國消費者，令關稅談判氛圍更趨緊張","7月24日關稅大限在美伊危機背景下談判窗口更短","CNN：美伊局勢今日急劇升溫，白宮外交資源嚴重分散，中美關稅談判優先度下降"],
+   out:["7月24日大限為今年最大貿易政策事件，油價$100+背景下不確定性更高","若美伊危機分散注意力→7月24日關稅談判以技術性延續代替正式協議","中國出口加速轉向東南亞、中東（伊朗危機令中東需求波動）、非洲"],
+   sec:["中國出口企業(雙重壓力)","美本土製造(受益)","東南亞製造(轉移受益)"],
+   st:["TSM 台積電ADR","AMAT 應用材料","VNM 越南ETF"]},
+  {n:"C3",c:"n3",t:"🇨🇳【中國】CSIS報告：解放軍清洗後作戰能力削弱 台海局勢短期穩定但長期需關注",
+   tags:["中國","解放軍","台灣","NPR·Vision Times 今日"],
+   bull:["CSIS：清洗後解放軍高層清洗削弱了短期進攻能力，台海全面衝突的短期概率有所下降","習近平通過整頓確保軍隊政治忠誠度，指揮鏈更趨統一","新晉升將領對習的忠誠度更高，決策效率可能提升"],
+   bear:["CSIS：清洗令「副劇場司令員人才池縮減逾33%」，實際作戰協調能力有所削弱","「政治忠誠先於作戰準備」的取向令外界對解放軍作戰能力評估更不確定","CSIS估計約2030年後解放軍重新形成更強的進攻能力——台海緊張的長期底層趨勢未變"],
+   out:["短期：清洗削弱進攻能力→台海立即衝突風險略降→台灣科技股地緣溢價有所消散","長期：2030年後解放軍重建能力→台海緊張趨勢不可逆→台灣科技持續保持地緣溢價","台積電ADR的地緣溢價（相對歐美競爭對手）在油價危機及清洗新聞中維持結構性高位"],
+   sec:["台灣科技(地緣溢價波動)","美國防務(台海風險受益)","中國軍工(政策)"],
+   st:["TSM 台積電ADR","LMT 洛克希德馬丁","RTX 雷神技術"]},
+  {n:"C4",c:"n4",t:"🇭🇰【香港】油價$100+對香港的多維衝擊：通脹、貿易、航空、金融",
+   tags:["香港","油價","通脹","CNBC·HK Government"],
+   bull:["香港政府GDP預測（2.5-3.5%）是基於中性油價假設，若油價快速回落，預測仍可達到","香港外匯儲備充足（$4,500億美元），可有效緩衝外部衝擊","油價$100+令香港AI電子出口（+40.8% YoY）相對競爭力仍在，非能源密集型出口受影響有限"],
+   bear:["香港政府官方已將「中東衝突」列為最大下行風險——今日風險已大幅惡化","油價$100+令香港輸入性通脹從2.1%可能急升至3.5%+","國泰航空等香港航空公司在油價$100+下燃油成本急升，業績面臨壓力"],
+   out:["若美伊8月16日前無法達成新協議→油價持續$100+→香港全年GDP可能跌出2.5%下限","香港的「超級聯繫人」角色在中東局勢緊張下，部分中東能源貿易融資需求可能流向香港","港元計黃金在通脹預期急升下對香港投資者特別具吸引力"],
+   sec:["香港航空(油價承壓)","香港通脹(急升風險)","港元計黃金(看多)"],
+   st:["0293.HK 國泰航空(壓力)","0823.HK 領展REIT","GLD 黃金ETF"]},
+  {n:"C5",c:"n5",t:"🇭🇰【香港】港股今日在美伊升溫+油價$100+中開市 三重壓力測試恒指韌性",
+   tags:["香港","股市","油價","Bloomberg·Nomura"],
+   bull:["Nomura恒指目標28,300點長期邏輯：香港估值低（P/E約8-9x），AI+IPO板塊長期確定","若美伊在NATO峰會壓力下快速達成新停火框架→油價快速回落→港股V型反彈","牧師釋放外交信號顯示中美溝通渠道有效，降低7月24日關稅破裂尾部風險"],
+   bear:["美伊戰爭昨夜急劇升溫（80+目標空襲），今早亞太市場整體避險情緒急升","油價$100+令香港輸入性通脹風險急升，港股消費及地產板塊面臨壓力","7月24日關稅大限在美伊危機下談判注意力分散，風險上升"],
+   out:["今日港股開市為重要觀察窗口：若跌幅可控（<2%）顯示市場已部分消化地緣風險","若跌幅超過3%→市場尚未完全消化美伊升溫衝擊→等待穩定後才考慮入市","恒指能源板塊（中石油、中石化、中海油）在油價$100+下短期可跑贏大市"],
+   sec:["港股能源(短期看多)","港股成長/消費(承壓)","港股整體(避險觀察)"],
+   st:["0386.HK 中石化","0857.HK 中石油","0388.HK 港交所"]},
 
-  {n:"H1",c:"n6",t:"🇭🇰【香港】牧師金明日獲釋：錫安教會外交是否可類推至香港黎智英案？",
-   tags:["香港","人權","Jimmy Lai","NBC·Vision Times 今日"],
-   bull:["NPR：特朗普已明確向習近平提出Jimmy Lai，且習方「正在認真考慮」","牧師案顯示美中外交渠道在個人自由案件上具實質效能","若Lai獲釋→香港「一國兩制」評估大幅正面改變→港股及外資全面提振"],
-   bear:["NPR：特朗普稱Lai案「是個棘手問題」，態度明顯比牧師案保守","Lai涉及新聞自由及國家安全法核心矛盾，政治敏感性遠高於宗教案","Vision Times：觀察人士警告，牧師案屬「善意姿態」，與Lai案性質不同"],
-   out:["若Lai在7月24日關稅談判前獲釋→中美關係改善速度超預期→港股急升","若Lai繼續被拘→美英批評持續→香港外資信心長期受壓","Lai案是今年香港最重要的政治事件，每一個訊號都值得密切關注"],
-   sec:["香港整體(條件性看多)","港股外資信心(關鍵指標)","香港法治評估(長期)"],
+  {n:"H1",c:"n6",t:"🇭🇰【香港】今日小暑節氣｜防暑提示+農曆癸巳日 宜謹慎觀望勿冒進",
+   tags:["香港","農曆","節氣","傳統文化"],
+   bull:["今日踏入小暑節氣，香港政府及醫管局發出防暑降溫健康提示","小暑為傳統養生重要節點，清淡飲食、充足休息有助保持身心健康","農曆癸巳日（蛇日）宜謀定後動，適合靜心觀察今日多重市場訊號"],
+   bear:["小暑後連續半月為港人最需注意防暑時期，老人及幼童健康風險上升","今日農曆癸巳日忌重大財務決策、忌前往中東旅行","美伊戰爭今晨急劇升溫，市場高度不確定，今日宜謹慎而非積極行動"],
+   out:["農曆六月十四（今日）至六月十九（7月13日）為觀音菩薩成道前後，港人傳統上積德行善的重要時期","小暑後炎熱持續至大暑（7月22日），防暑措施需持續至8月初","今日宜靜心觀察NASA+市場，謀定後動，勿在市場急劇波動時衝動決策"],
+   sec:["香港醫療(防暑需求)","香港零售(涼飲/清暑食品)","香港公共交通(節氣安全)"],
+   st:["0052.HK 大家樂(清暑食品)","0700.HK 騰訊(室內娛樂)","GLD 黃金ETF(避險)"]},
+  {n:"H2",c:"n7",t:"🇭🇰【香港】颱風季+油價$100+：國泰航空承壓 保險業受益",
+   tags:["香港","颱風","航空","NPR·Wikipedia 今日"],
+   bull:["颱風季帶動保險（人壽、財產）需求季節性上升","油價$100+在能源板塊中，中海油、中石化的香港上市股份短期受惠","若颱風Bavi路徑維持偏東，香港本週受颱風直接影響的概率較低"],
+   bear:["超颱風Bavi繼續威脅太平洋地區，西太平洋颱風季正式開始","油價$100+令國泰航空等香港航空公司燃油成本急升，業績面臨壓力","颱風季高峰（7-9月）+油價高位+美伊危機三重風險同時存在"],
+   out:["國泰航空在油價$100+環境下可能需要上調燃油附加費，對旅客旅行意願有負面影響","香港保險業在颱風季期間季節性需求上升","港股航空板塊在油價$100+下短期面臨壓力，需等待美伊局勢明朗後才考慮入市"],
+   sec:["香港保險(季節性受益)","香港航空(油價壓力)","香港能源股(短期受益)"],
+   st:["0293.HK 國泰航空(壓力)","1299.HK 友邦AIA","0386.HK 中石化"]},
+  {n:"H3",c:"n8",t:"🇭🇰【香港】USTR聽證後：7月24日關稅大限 香港企業應對窗口極短",
+   tags:["香港","關稅","貿易","USTR Official"],
+   bull:["牧師外交信號可能令美方在聽證後對香港稅率問題更友善","香港高科技電子出口（AI晶片相關）在Annex A豁免清單下影響有限","若7月24日後整體稅率可控→香港出口商相對穩定過渡"],
+   bear:["USTR確認香港列入12.5%強迫勞工關稅名單（46國之一），7月24日生效","從聽證到生效只有17天，企業應對窗口極短","油價$100+背景下，關稅額外成本令部分香港出口商盈利空間進一步壓縮"],
+   out:["港府需在7月24日前緊急向企業提供關稅評估工具","若獲10%（而非12.5%）→出口商影響可控","美伊危機若令美方外交資源分散→7月24日關稅談判可能以技術性延伸代替正式協議"],
+   sec:["香港電商/物流(緊急評估)","香港電子出口(觀察)","香港中小企(支援)"],
+   st:["0388.HK 港交所","9988.HK 阿里巴巴","2018.HK 瑞聲科技"]},
+  {n:"H4",c:"n9",t:"🇭🇰【香港】Jimmy Lai案：仍在獄中 習近平稱「棘手問題」 油價危機令人權議題退居次位",
+   tags:["香港","人權","Jimmy Lai","NPR 今日"],
+   bull:["美方已明確向習近平提出Jimmy Lai案，外交渠道存在","若美伊危機緩解後美中關係改善→Lai獲釋窗口可能在下半年出現","牧師釋放先例顯示中美外交渠道在個人自由案件上具實質效能"],
+   bear:["NPR：習近平就Lai案稱「這是個棘手問題」，態度明顯比牧師案保守","油價$100+令美國外交注意力嚴重分散，Jimmy Lai案優先度進一步下降","Lai案為新聞自由及國家安全法核心矛盾，政治敏感性遠高於宗教案"],
+   out:["若Lai在美伊危機平息後（8月後）獲釋→香港外資信心全面提升→港股急升","若Lai繼續被拘→美英批評持續→香港外資信心長期受壓","Lai案是今年香港最重要政治事件，需持續密切關注每一個訊號"],
+   sec:["香港整體(條件性看多)","港股外資信心(Lai案關鍵)","香港媒體(萎縮)"],
    st:["0388.HK 港交所","1299.HK 友邦AIA","0823.HK 領展REIT"]},
-  {n:"H2",c:"n7",t:"🇭🇰【香港】今日農曆六月十三｜小暑前夕 港人宜留意今日宜忌",
-   tags:["香港","農曆","傳統文化"],
-   bull:["今日農曆六月十三，壬辰日，為龍日，辰時（早7-9時）及申時（下午3-5時）為今日最旺時段","今日宜：簽約、商談業務、學習進修、入宅搬遷——適合確立書面承諾及重要決定","明日（7月8日）為小暑節氣，提前準備防暑降溫、調整作息，有助身體健康"],
-   bear:["今日忌：動土破土、非緊急手術、訴訟爭執、嫁娶——避免主動尋求對抗","壬辰日不宜重大建築工程開始","NATO峰會及USTR聽證在今日同時舉行，市場波動性可能上升，決策需更謹慎"],
-   out:["小暑節氣（明日7月8日）提醒：一年中最熱時期開始，防暑降溫成為生活及商業重要議題","農曆六月十九（7月14日）為觀音菩薩成道日，本週為香港傳統民間重要祈福時段","本週宜靜不宜動，觀察NATO及關稅結果後再做重大投資決策"],
-   sec:["香港傳統文化(社區凝聚)","香港旅遊(宗教文化旅遊)","香港零售(節令消費)"],
-   st:["0052.HK 大家樂","0388.HK 港交所","0823.HK 領展REIT"]},
-  {n:"H3",c:"n8",t:"🇭🇰【香港】世界盃英格蘭史詩大戰引港人連夜觀賽｜酒吧餐飲業本週達年度高峰",
-   tags:["香港","世界盃","消費","CNN 今日"],
-   bull:["CNN：英格蘭戰勝墨西哥為「本屆最佳比賽之一」，香港大批英格蘭球迷所在酒吧及餐廳爆滿","世界盃8強（本週末）+溫布頓四強（7月11日）雙賽事高峰為本週香港體育消費最密集時期","若英格蘭晉級半決賽，香港英式酒吧及體育消費板塊持續至7月中旬"],
-   bear:["香港本地觀賽時差（美國東岸比賽在香港凌晨）令日間商業受影響","熱浪令部分戶外消費活動受限（今日小暑前夕）","體育消費屬短暫催化，難以支撐整體消費結構性改善"],
-   out:["若英格蘭及阿根廷進入半決賽，香港體育消費高峰持續至7月16日前後","世界盃決賽（7月19日）為香港體育消費本季最大高峰","香港餐飲板塊可望因雙體育盛事在Q3數據上有短暫超預期"],
-   sec:["香港餐飲/酒吧(年度高峰)","香港零售(短暫提振)","香港博彩/娛樂(受益)"],
-   st:["0052.HK 大家樂","0341.HK 達利食品","0388.HK 港交所"]},
-  {n:"H4",c:"n9",t:"🇭🇰【香港】超颱風Bavi監察中｜香港天文台密切追蹤 西太平洋颱風季正式開始",
-   tags:["香港","天氣","颱風","NPR·Wikipedia 今日"],
-   bull:["Bavi目前仍在關島附近，距香港尚遠，香港天文台預計本週直接影響機率低","香港颱風季提醒市場關注保險及應急管理板塊的季節性需求","颱風應急基建需求隨西太平洋颱風活動增加而上升"],
-   bear:["NPR：超颱風Bavi正威脅北馬里亞納群島，西太平洋颱風季正式開始","今日為小暑前夕，天氣進入全年最熱時期，台風季高峰（7-9月）即將到來","若颱風路徑轉向香港，航班及物流受影響，商業活動暫停"],
-   out:["2026年颱風季預測活躍，香港企業需做好颱風防準備","保險及應急服務行業季節性需求上升","香港航空（國泰）及物流業需密切追蹤颱風季動態"],
-   sec:["香港保險(季節性受益)","香港航空(颱風風險)","應急基建(關注)"],
-   st:["0002.HK 中電控股","AIA Group 友邦AIA","0293.HK 國泰航空"]},
-  {n:"H5",c:"n10",t:"🇭🇰【香港】Ebola 500死+Marburg烏干達確認｜香港入境管制及公衛預警",
-   tags:["香港","公衛","疫情","Wikipedia July 2026 今日"],
-   bull:["香港作為國際航空樞紐，醫管局及衛生署已啟動Ebola及Marburg入境監測機制","香港公衛系統在COVID後大幅提升多病毒監測能力","Merck Ervebo（Ebola）及WHO緊急採購機制令香港面臨社區爆發的風險極低"],
-   bear:["Wikipedia July 2026：剛果Ebola死亡超500，烏干達Marburg同日確認——雙病毒同步活躍為香港入境監測添壓","西非直飛香港航班雖少，但中轉風險依然存在","若非洲雙病毒疫情持續升級，香港入境限制可能收緊，影響旅遊及商業往來"],
-   out:["WHO宣布PHEIC的壓力在剛果Ebola+烏干達Marburg雙重確認後進一步增加","香港公衛系統需為最壞情景做好準備，但實際暴露風險可控","非洲雙病毒危機若引發全球公衛戒備，可能短期影響亞太地區航空及旅遊板塊"],
-   sec:["香港公衛(監測加強)","香港航空(尾部風險觀察)","生物科技疫苗(全球看多)"],
-   st:["MRK 默克(Ervebo疫苗)","0293.HK 國泰航空(監察)","1299.HK 友邦AIA"]}
+  {n:"H5",c:"n10",t:"🇭🇰【香港】世界盃英格蘭準決賽：香港英式酒吧今週達年度高峰",
+   tags:["香港","世界盃","消費","ESPN 今日"],
+   bull:["英格蘭晉準決賽（今日全球頭條）令香港英式酒吧消費達年度高峰","世界盃準決賽（7月15日）在香港凌晨，英國社群深夜聚會觀賽帶動全夜餐飲消費","若英格蘭進決賽，港人體育消費高峰可持續至7月19日決賽"],
+   bear:["油價$100+令香港消費者整體信心受壓，雖然體育消費有韌性但總體規模有限","凌晨觀賽影響翌日工作效率，商業活動有一定影響","若英格蘭在準決賽出局，消費效應迅速消退"],
+   out:["英格蘭準決賽（7月15日）及可能的決賽（7月19日）為香港體育消費本季最大事件","世界盃消費韌性在油價$100+危機中展示了體育板塊的防禦性特質","香港旅遊業從全球世界盃旅遊熱潮中持續受益"],
+   sec:["香港餐飲/酒吧(年度高峰)","香港零售(英格蘭效應)","香港旅遊(持續受益)"],
+   st:["0052.HK 大家樂","0293.HK 國泰航空(觀察)","0388.HK 港交所"]}
 ];
 
 const aiPicks=[
-  {ticker:"RHEINMETALL",name:"Rheinmetall AG（萊茵金屬）| 歐洲最大防務裝備製造商 NATO峰會直接催化",
-   rating:"BUY — 今日NATO峰會最強催化劑",pt:"€2,600",curr:"€1,950",upside:"+33%",
-   thesis:"今日CNN、Fox News、Al Jazeera全線報道NATO安卡拉峰會：特朗普對歐洲盟友的憤怒、威脅削減三分之一歐洲美軍——恰恰是歐洲防務股最強的長期催化劑。當特朗普越催促歐洲「自立」，歐洲防務採購加速越確定。萊茵金屬作為歐洲最大防務裝備製造商，是今日最直接、最確定的受益者。配合俄羅斯炮擊基輔（今日）及伊朗攻擊霍爾木茲（今日），三重地緣事件同步確認全球防務需求的結構性上升。",
-   pts:["特朗普威脅削減歐洲美軍1/3（CNN今日）→歐洲防務自主採購加速→萊茵金屬訂單能見度大升","俄羅斯炮擊基輔（CNBC今日）→NATO峰會俄烏議題強化→歐洲援烏軍備採購持續","伊朗攻擊霍爾木茲三艘油輪（CNN今日）→中東地緣緊張持續→歐洲能源安全防務需求疊加","萊茵金屬彈藥及裝甲車訂單積壓達歷史新高，產能持續擴張，交付確定性強","£500億英國出口融資（WSWS今日）確認西方防務採購規模——萊茵金屬為歐洲最大供應商","歐洲防務GDP目標（NATO 3.5%/2035）跨黨派政治共識最高，政策持續性在所有板塊中最確定"],
-   risk:"若俄烏意外快速達成停火協議→防務股估值修正；美軍若未真正削減歐洲駐軍（口頭威脅未兌現）→短期預期落差"},
-  {ticker:"MRK",name:"Merck & Co. | Ebola 500死+Marburg雙病毒 WHO宣布PHEIC壓力急升",
-   rating:"BUY — 雙病毒確認 PHEIC預期最強",pt:"$145",curr:"$118",upside:"+23%",
-   thesis:"今日Wikipedia July 2026確認：⑴ 剛果Ebola死亡超500人（史上第三大），⑵ 烏干達同日確認Marburg病毒案例。雙病毒同步活躍令WHO宣布PHEIC的壓力達到本年最高點。Merck Ervebo是全球唯一獲批Ebola疫苗，每次PHEIC宣布均觸發WHO及Gavi全額資助的緊急採購。同時Marburg疫苗（Merck正在研發MK-1654）使Merck在雙病毒危機中均具備直接相關性。這是今日最確定、最可量化的公衛投資催化劑。",
-   pts:["Ebola死亡超500（Wikipedia今日）→接近WHO宣布PHEIC的重要門檻→Merck Ervebo緊急採購直接受益","烏干達Marburg病毒確認（Wikipedia今日）→WHO同時面臨雙病毒壓力→公衛採購預算緊急上調","Merck Ervebo是全球唯一獲FDA+EU批准的Ebola疫苗，採購由WHO/Gavi全額資助，無商業風險","Merck MK-1654（Marburg候選疫苗）在雙病毒危機背景下獲得更多研發資金及政策支持","Keytruda 2026年收入預計$250億+，現金流穩健，為Ebola及Marburg業務提供強大基本面底座","Merck P/E約16x，相對NVO/LLY的25-30x具估值吸引力，風險回報比在製藥板塊中最優"],
-   risk:"Ebola及Marburg疫情若在PHEIC宣布前迅速被遏制（如2022年烏干達模式），採購量低於預期；Keytruda 2028年專利懸崖"}
+  {ticker:"XOM",name:"ExxonMobil | 美國最大一體化石油天然氣公司",
+   rating:"BUY — 今日油價$100+最直接受益者",pt:"$155",curr:"$108",upside:"+44%",
+   thesis:"今日CNN、CBS、CNBC確認：美軍對伊朗發動80+目標空襲，美國重新制裁伊朗石油出口，油價已急升至$100+。這是2026年最重大的能源市場衝擊事件，直接且立即地提升XOM的盈利前景。ExxonMobil作為美國最大一體化石油天然氣公司，在Permian盆地產量創歷史新高、Pioneer整合完成的背景下，油價每上升$10，XOM年盈利料增加約$30億。今日+44%目標價反映油價$100+環境下的盈利重估。",
+   pts:["美軍80+目標空襲+重新制裁伊朗石油（CNN今晨）→油價急升至$100+→XOM盈利即時大幅超預期","XOM Permian盆地產量創歷史新高，Pioneer收購整合完成，低成本生產在高油價環境槓桿最大","油價每升$10→XOM年盈利增加$30億（管理層指引）→$100油價意味著盈利大幅上修","XOM LNG業務在霍爾木茲緊張下獲額外需求，亞洲買家支付現貨溢價","美聯儲在油價衝擊下被迫暫停減息→高利率環境→XOM股息3.5%對機構投資者吸引力上升","若美伊達成新停火→油價回落→但XOM在$70-80的油價下仍具投資價值，入場成本低"],
+   risk:"若美伊迅速達成新停火框架→油價快速回落$75-80→短期獲利回吐（但長期持有仍具吸引力）；伊朗若真正發動對海灣設施報復→引發全球衰退→石油需求崩潰"},
+  {ticker:"GLD",name:"SPDR Gold Shares ETF | 全球最大黃金ETF",
+   rating:"BUY — 今日四重避險催化劑共振 歷史最強",pt:"$330",curr:"$278",upside:"+19%",
+   thesis:"今日是2026年以來全球地緣風險最高的一天：⑴ 美軍對伊朗80+目標空襲+油價$100+（CNN今晨最重大）；⑵ 俄羅斯大規模炮擊基輔（NATO峰會日）；⑶ 非洲Ebola+Marburg雙病毒同步升級；⑷ 全球通脹在油價$100+下重燃。四重獨立避險事件同時觸發，是黃金自2022年俄烏戰爭以來最強的多重催化劑共振日。GLD作為流動性最佳的黃金工具，是今日最確定的避險配置。",
+   pts:["美軍80+目標空襲伊朗（CNN今晨）→霍爾木茲風險達本年最高→地緣風險溢價急升，黃金為首選避險資產","俄羅斯炮擊基輔（NATO峰會日）→歐洲地緣風險同步上升→黃金多向受益","Ebola 500死+Marburg確認（Wikipedia今日）→全球公衛避險情緒上升","油價$100+→通脹重燃→央行減息預期後推→黃金在「高通脹+高不確定性」環境中最具吸引力","各央行增持黃金趨勢（中國350噸、波蘭320噸）的結構性需求持續","GLD流動性極佳，可在24小時內快速進出，適合今日極端不確定的地緣環境"],
+   risk:"若美伊在NATO峰會壓力下今日/明日達成意外快速停火框架→地緣溢價快速降溫→黃金短期回吐；美元若因避險全面走強也對黃金形成壓力"}
 ];
 
 const trends=[
-  {e:"🏛️",k:"NATO Ankara Summit｜NATO安卡拉峰會",h:"🔥🔥🔥🔥🔥 CNN Live今日頭條 全球政治搜尋最高峰",
-   d:"CNN Live、Al Jazeera、Fox News同步直播：特朗普到達安卡拉，對歐洲盟友大發雷霆，伊朗攻擊霍爾木茲三艘油輪，澤連斯基與特朗普面談。AI精選萊茵金屬正是捕捉此催化劑的最直接工具。",
-   s:[{t:"RHEINMETALL",n:"萊茵金屬",w:"今日AI精選，NATO峰會+俄烏+伊朗三重地緣催化劑"},{t:"BA.L",n:"BAE Systems",w:"英國DIP計劃確認，防務採購長期確定性大升"},{t:"KTOS",n:"Kratos無人機",w:"NATO峰會聚焦無人機戰爭教訓，採購加速"}]},
-  {e:"🦠",k:"Ebola+Marburg Double Outbreak｜雙病毒爆發",h:"🔥🔥🔥🔥🔥 Wikipedia今日確認 500死+Marburg 全球公衛搜尋急升",
-   d:"Wikipedia July 2026今日確認：剛果Ebola超500死+烏干達Marburg病毒案例。雙病毒同步活躍令WHO宣布PHEIC壓力達本年最高。AI精選MRK是今日公衛主題最確定受益者。",
-   s:[{t:"MRK",n:"默克",w:"今日AI精選，Ebola唯一獲批疫苗+Marburg候選疫苗，雙重公衛受益"},{t:"MRNA",n:"Moderna",w:"mRNA平台加速Ebola/Marburg疫苗研發"},{t:"BNTX",n:"BioNTech",w:"mRNA疫苗在公衛危機中長期受益"}]},
-  {e:"⚽",k:"World Cup 2026 Quarter-Finals｜世界盃8強",h:"🔥🔥🔥🔥🔥 英格蘭史詩勝墨西哥 決賽倒數兩週",
-   d:"CNN：英格蘭vs墨西哥為「本屆最佳比賽」。Wikipedia確認世界盃8強格局。決賽（7月19日，西雅圖）門票$4,000+。全球體育消費達本屆高峰。",
-   s:[{t:"NFLX",n:"Netflix",w:"世界盃8強串流訂閱高峰+政治廣告層級同步受益"},{t:"DIS",n:"迪士尼ESPN",w:"8強廣告費率最高峰，體育版權長期受益"},{t:"BKNG",n:"Booking Holdings",w:"決賽城市（西雅圖）訂房創高峰"}]},
-  {e:"💊",k:"GLP-1 Medicare Coverage｜減重藥保險覆蓋",h:"🔥🔥🔥🔥🔥 Google Trends Score 95+ 持續高位",
-   d:"GLP-1搜尋量持續為全球最熱財經關鍵字。Medicare覆蓋討論為下半年最大製藥催化劑。英國NHS亦在討論是否納入覆蓋。若立法成功，市場規模可從$500億翻倍至$1,000億+。",
-   s:[{t:"NVO",n:"諾和諾德",w:"Wegovy/Ozempic全球主導，Medicare覆蓋為最大股價催化劑"},{t:"LLY",n:"禮來公司",w:"Mounjaro強勢搶市，市占率35%+"},{t:"HIMS",n:"Hims & Hers",w:"唯一持有Novo直接分銷協議的電信醫療平台"}]},
-  {e:"🗓️",k:"農曆宜忌｜傳統曆法與現代生活",h:"🔥🔥🔥 今日新增功能 點擊右上角日期查看宜忌",
-   d:"今日為農曆丙午年六月十三，壬辰日（龍日）。今日宜：簽約、商談、學習、入宅；忌：動土、爭訟、嫁娶。明日（7月8日）為小暑節氣，一年中最熱時期正式開始，注意防暑降溫。",
-   s:[{t:"0823.HK",n:"領展REIT",w:"REIT Connect期待+農曆好日宜做長線投資決定"},{t:"GLD",n:"黃金ETF",w:"龍日宜持守避險資產，地緣風險持續"},{t:"0388.HK",n:"港交所",w:"今日宜簽約商談，若REIT Connect本週宣布，今日為佳期"}]}
+  {e:"🚨",k:"Iran US War Escalation｜美伊戰爭急劇升溫",h:"🔥🔥🔥🔥🔥 CNN·CBS今晨頭條 全球最高搜尋量",
+   d:"美軍昨夜對伊朗發動80+目標空襲，油價急升至$100+，巴林科威特防空警報。這是今日全球搜尋量最高的事件，直接驅動能源、黃金、防務板塊。AI精選XOM及GLD正是今日最確定受益工具。",
+   s:[{t:"XOM",n:"埃克森美孚",w:"今日AI精選，油價$100+最直接受益，44%上行空間"},{t:"GLD",n:"黃金ETF",w:"今日AI精選，四重避險催化劑共振，歷史最強入場點"},{t:"LMT",n:"洛克希德馬丁",w:"美伊戰爭升溫，美軍防務採購確定性最高"}]},
+  {e:"⛽",k:"Oil Price $100+ / Hormuz｜油價破百",h:"🔥🔥🔥🔥🔥 油價急升$100+ 全球通脹風險重燃",
+   d:"CNBC今日：油價在美軍80+目標空襲及重新制裁伊朗石油後，急升至$100+。這是2026年油價首次突破$100，全球通脹、航空、物流、消費板塊均受直接衝擊。",
+   s:[{t:"XOM",n:"埃克森美孚",w:"油價$100+受益最大，Permian盆地低成本生產槓桿最強"},{t:"CVX",n:"雪佛龍",w:"全球一體化石油大型企業，油價$100受益直接"},{t:"CCJ",n:"Cameco鈾礦",w:"油價$100+令清潔能源（核能）替代論點大幅強化"}]},
+  {e:"🏛️",k:"NATO Ankara Summit Day 2｜NATO峰會第二天",h:"🔥🔥🔥🔥🔥 今日峰會完結 特朗普-澤連斯基面談",
+   d:"NATO安卡拉峰會今日進入第二天（最後一天）。主要會議、最終公報、特朗普-澤連斯基面談均在今日完成。美伊衝突在峰會期間急劇升溫，令峰會議程被劫持。AI精選萊茵金屬為防務催化劑最直接受益。",
+   s:[{t:"RHEINMETALL",n:"萊茵金屬",w:"NATO峰會防務承諾直接推動歐洲採購，訂單確定性最高"},{t:"BA.L",n:"BAE Systems",w:"英國DIP £300億計劃，英本土防務採購最大受益"},{t:"KTOS",n:"Kratos無人機",w:"NATO峰會聚焦無人機，採購加速確定"}]},
+  {e:"⚽",k:"World Cup Semi-Finals｜世界盃準決賽",h:"🔥🔥🔥🔥🔥 英格蘭準決賽 決賽倒數11天",
+   d:"英格蘭晉入世界盃準決賽（今日全球體育頭條），與溫布頓四強同步，英國雙體育消費達今年最高峰。世界盃決賽（7月19日，西雅圖）倒數11天，終極體育消費盛事確定性極高。",
+   s:[{t:"NFLX",n:"Netflix",w:"世界盃準決賽+決賽串流訂閱高峰，政治廣告層級同步"},{t:"ITV.L",n:"ITV",w:"英格蘭準決賽轉播廣告費率達歷史高峰"},{t:"DIS",n:"迪士尼ESPN",w:"8強+準決賽廣告收入創歷史，體育媒體版權受益"}]},
+  {e:"🗓️",k:"小暑節氣·農曆宜忌｜今日癸巳日",h:"🔥🔥🔥 今日踏入小暑 點擊右上角日期查看今日宜忌",
+   d:"今日為農曆丙午年六月十四，癸巳日（蛇日），踏入小暑節氣。今日宜：祈福、學習、整理；忌：重大財務決策、前往中東、爭訟。美伊危機令今日格外宜謹慎觀望。明日小暑提醒：多補水分，避免正午外出。",
+   s:[{t:"GLD",n:"黃金ETF",w:"癸巳日宜守成保守，黃金為今日最適合的避險配置"},{t:"0823.HK",n:"領展REIT",w:"今日宜謀定後動，若局勢明朗後REIT為長線優選"},{t:"0388.HK",n:"港交所",w:"今日宜觀察市場動態，等待穩定後再考慮入市"}]}
 ];
 
 function makeCard(n,i,prefix,mode){
   const d=document.createElement('div');
-  d.className='nc';d.id=prefix+'nc'+i;
-  const tags=n.tags.map(t=>`<span class="tag">${t}</span>`).join('');
+  d.className='nc';
+  if(n.n==='🚨')d.classList.add('breaking');
+  d.id=prefix+'nc'+i;
+  const tags=n.tags.map(t=>{
+    const isRed=t.includes('最新')||t.includes('今晨');
+    return `<span class="tag${isRed?' tag-red':''}">${t}</span>`;
+  }).join('');
   const bull=(n.bull||[]).map(b=>`<li>${b}</li>`).join('');
   const bear=(n.bear||[]).map(b=>`<li>${b}</li>`).join('');
   const out=(n.out||[]).map(b=>`<li>${b}</li>`).join('');
@@ -567,7 +603,7 @@ function buildAIPicks(){
       <div class="ai-hd-title">🤖 AI 精選 — 今日最值得關注的2隻股票</div>
       <div class="ai-hd-sub">基於今日十大新聞所有相關股票，AI從新聞催化劑、財務基本面及市場時機三維度精選</div>
     </div>${cards}
-    <div class="ai-disc">⚠️ 以上分析僅供參考，不構成投資建議。所有投資均涉及風險，請諮詢持牌財務顧問。</div>
+    <div class="ai-disc">⚠️ 以上分析僅供參考，不構成投資建議。所有投資均涉及風險，尤其在油價急升及地緣政治高度不確定的今日，請諮詢持牌財務顧問。</div>
   </div>`;
 }
 function buildTrends(){
