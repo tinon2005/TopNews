@@ -1,46 +1,59 @@
 {
-  "date": "2026年07月08日",
-  "date_iso": "2026-07-08",
-  "generated_at": "2026-07-08T07:31:18.118798+08:00",
+  "date": "2026年07月09日",
+  "date_iso": "2026-07-09",
+  "generated_at": "2026-07-09T07:43:55.354520+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Josh Boak",
-      "title": "Trump says Walmart cut prices at his request, but Walmart statement omits administration's role - AP News",
-      "description": "President Donald Trump is claiming credit for Walmart's recent price cuts, though the retailer's statement doesn't mention his administration's involvement. Trump faces backlash over inflation, which rose after his tariffs and the Iran war's impact on energy …",
-      "url": "https://apnews.com/article/trump-walmart-inflation-beef-prices-ffc6faf84b68a0a5c5389217b77021ae",
-      "urlToImage": "https://dims.apnews.com/dims4/default/11983f3/2147483647/strip/true/crop/4782x3186+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2F17%2Fd1bd28ad210500515d52c4ea4e87%2Ffe58b808abf84bdf9972cf06bf509436",
-      "publishedAt": "2026-07-06T22:48:00Z",
-      "content": "WASHINGTON (AP) President Donald Trump on Monday sought to take credit for recent price cuts by Walmart, but a statement by the retailer made no mention of the administrations involvement in its deci… [+2532 chars]"
+      "author": "WSJ",
+      "title": "Exclusive | Democratic Lawmakers Probe Lutnick’s Possible Ties to Cantor Fitzgerald Deal - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/democratic-lawmakers-probe-lutnicks-possible-ties-to-cantor-fitzgerald-deal-f38b710b",
+      "urlToImage": null,
+      "publishedAt": "2026-07-07T21:46:00Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "Sarah Nassauer, Patrick Thomas, WSJ Staff, Heard Editors, Colin Kellaher, Jonathan Weil, Ryan Dezember, Micah Maidenberg, Corrie Driebusch, Nick Timiraos, Caitlin McCabe, Vicky Ge Huang, Rebecca Feng, Heather Gillers",
-      "title": "Stock Market Today: Nasdaq Rises at Start of Busy Week for Tech Stocks — Live Updates - WSJ",
-      "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-06-2026",
-      "urlToImage": "https://images.wsj.net/im-925349/social",
-      "publishedAt": "2026-07-06T22:37:00Z",
-      "content": "The Dow closed at another record, while tech stocks rose to kick off a week that will challenge investors appetite for the AI trade again.\r\nThe Nasdaq composite led U.S. stock indexes with a 1.1% gai… [+1168 chars]"
+      "author": "WSJ",
+      "title": "SpaceX Shares Stumble in Nasdaq-100 Debut - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/stocks/spacex-shares-stumble-in-nasdaq-100-debut-9ec10565",
+      "urlToImage": null,
+      "publishedAt": "2026-07-07T20:45:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Anand Krishnamoorthy",
-      "title": "Asian Stocks Set to Gain After Tech-Powered Rally: Markets Wrap - Bloomberg.com",
-      "description": "Asian equities dropped as technology shares came under renewed selling pressure, with Samsung Electronics Co. falling after its earnings report.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEnpuh720.dQ/v0/1200x675.png",
-      "publishedAt": "2026-07-06T22:10:26Z",
-      "content": "Asian equities dropped as technology shares came under renewed selling pressure, with Samsung Electronics Co. falling after its earnings report.\r\nThe MSCI Asia Pacific Index slipped 0.6% with decline… [+336 chars]"
+      "author": "Sean Conlon, Justina Lee, Alex Harring",
+      "title": "Dow falls as chip stocks tumble, oil prices gain: Live updates - CNBC",
+      "description": "The Dow Jones Industrial Average pulled back from record levels on Tuesday.",
+      "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108327424-1782483651570-gettyimages-2283426563-mms23629_eqrvbr4g.jpeg?v=1782483791&w=1920&h=1080",
+      "publishedAt": "2026-07-07T20:38:00Z",
+      "content": "The Dow Jones Industrial Average pulled back from record levels on Tuesday as investors once again appeared to rotate out of names tied to artificial intelligence and as oil prices advanced.\r\nThe 30-… [+2881 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos - The Verge",
+      "description": "Meta is launching Muse Image, the first AI image generation model created by its Superintelligence Labs. With the new model, people can incorporate other Instagram users into their prompt as well as share AI images to their feeds.",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+      "publishedAt": "2026-07-07T20:31:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nUsers can @ mention accounts in their prompts.\r\nUsers can @ mention accounts in their prompts.\r\nby\r\nEmma RothClose\r\nPosts from this author will be added to your … [+3027 chars]"
     },
     {
       "source": {
@@ -48,178 +61,178 @@
         "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Like It Or Not, SpaceX Set To Land In Millions Of Investors' Portfolios - Investor's Business Daily",
-      "description": "SpaceX will be officially in the Nasdaq 100 index on Tuesday.",
-      "url": "https://www.investors.com/news/spacex-spcx-stock-nasdaq-100-qqq/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/09/stock-SpaceX-Moon2-company.jpg",
-      "publishedAt": "2026-07-06T21:07:00Z",
+      "title": "Eli Lilly's Market Cap Balloons, Again, On This IPO's Setback - Investor's Business Daily",
+      "description": "Eli Lilly shares hit a new record high Tuesday after IPO stock Kailera posted lackluster test results for its obesity drug.",
+      "url": "https://www.investors.com/news/technology/eli-lilly-stock-market-cap-kailera-therapeutics-ipo-stock/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/03/Stock-Lilly-HQ9-shutt.jpg",
+      "publishedAt": "2026-07-07T20:09:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "description": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 22:48:45 GMT"
+      "title": "US launches more strikes on Iran with blasts reported in south of country",
+      "description": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 21:40:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "description": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 19:55:59 GMT"
+      "title": "US strikes target Iranian military boats",
+      "description": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 05:42:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-      "description": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 18:56:19 GMT"
+      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+      "description": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 17:18:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "description": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 17:58:48 GMT"
+      "title": "German doctor jailed for murder of 15 patients and suspected of more",
+      "description": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
+      "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 14:25:25 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-      "description": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 16:10:14 GMT"
+      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "description": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 15:09:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-      "description": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 20:00:57 GMT"
+      "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+      "description": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 20:18:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
-      "description": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 16:25:59 GMT"
+      "title": "Nato allies announce £37bn for new missile project",
+      "description": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 05:57:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
-      "description": "The country's main state TV channel displayed a message saying it was \"sorry\" for lying on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 18:34:45 GMT"
+      "title": "Eight killed after landslide hits girls' school in Bangladesh",
+      "description": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 14:02:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "One million more UK homeowners set  to face higher mortgages",
-      "description": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
-      "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 15:18:00 GMT"
+      "title": "Why electric cars cost more to insure - and what's being done about it",
+      "description": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 23:09:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Online gamblers betting more than £1,000 to face new checks",
-      "description": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 14:18:25 GMT"
+      "title": "I run the UK's biggest bank, here are five ways to manage your money",
+      "description": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 23:10:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Banks accused of pushing customers away from basic accounts",
-      "description": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
-      "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 23:29:34 GMT"
+      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+      "description": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 11:24:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Amazon bars breastfeeding boss from business course",
-      "description": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 23:31:21 GMT"
+      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+      "description": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
+      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 09:31:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
-      "description": "Around the world women are marking their split with new - or repurposed engagement - rings.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 23:30:40 GMT"
+      "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+      "description": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 19:23:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Robots available for rent: But what can they do?",
-      "description": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 23:48:55 GMT"
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "description": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 23:11:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Samsung profits jump 1,800% as AI chip sales soar",
-      "description": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
-      "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 07:28:10 GMT"
+      "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+      "description": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
+      "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 01:04:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
-      "description": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 23:08:51 GMT"
+      "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+      "description": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 12:28:03 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 10,
-      "GLP-1": 12,
-      "Iran oil": 8,
-      "Federal Reserve": 7,
-      "Bitcoin": 72
+      "GLP-1": 15,
+      "Iran oil": 15,
+      "Federal Reserve": 9,
+      "Bitcoin": 94
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25818.69,
-      "change_pct": -0.05,
+      "price": 25870.65,
+      "change_pct": -0.96,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7503.85,
-      "change_pct": 0.28,
+      "price": 7482.71,
+      "change_pct": -0.73,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52925.15,
-      "change_pct": 0.05,
+      "price": 52348.39,
+      "change_pct": -1.33,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4113.0,
-      "change_pct": -1.01,
+      "price": 4085.5,
+      "change_pct": -1.44,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 72.37,
-      "change_pct": 5.57,
+      "price": 74.42,
+      "change_pct": 5.65,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 63616.01,
-      "change_pct": -0.59,
+      "price": 62184.49,
+      "change_pct": -1.76,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": -0.34,
+      "change_pct": 0.34,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.79,
-      "change_pct": -0.13,
+      "price": 6.8,
+      "change_pct": 0.13,
       "symbol": "CNY=X"
     }
   }
