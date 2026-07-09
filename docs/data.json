@@ -1,137 +1,151 @@
 {
-  "date": "2026年07月09日",
-  "date_iso": "2026-07-09",
-  "generated_at": "2026-07-09T07:43:55.354520+08:00",
+  "date": "2026年07月10日",
+  "date_iso": "2026-07-10",
+  "generated_at": "2026-07-10T07:53:54.059268+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "WSJ",
-      "title": "Exclusive | Democratic Lawmakers Probe Lutnick’s Possible Ties to Cantor Fitzgerald Deal - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/democratic-lawmakers-probe-lutnicks-possible-ties-to-cantor-fitzgerald-deal-f38b710b",
-      "urlToImage": null,
-      "publishedAt": "2026-07-07T21:46:00Z",
-      "content": null
+      "author": "Eric Revell",
+      "title": "Fed policymakers' inflation worries weighed on rate cut outlook at Warsh's first meeting - Fox Business",
+      "description": "FOMC minutes reveal policymakers debated rate hikes amid scenarios where AI demand, the Middle East conflict or tariffs keep inflation elevated.",
+      "url": "https://www.foxbusiness.com/economy/fed-policymakers-inflation-worries-weighed-rate-cut-outlook-warshs-first-meeting",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/kevin-warsh-first-press-conference-1.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-08T21:15:00Z",
+      "content": "Federal Reserve policymakers are increasingly concerned about inflation, and the uncertainty about the direction it may take was reflected in the minutes of the Fed's latest monetary policy meeting r… [+3474 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "WSJ",
-      "title": "SpaceX Shares Stumble in Nasdaq-100 Debut - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/spacex-shares-stumble-in-nasdaq-100-debut-9ec10565",
-      "urlToImage": null,
-      "publishedAt": "2026-07-07T20:45:00Z",
-      "content": null
+      "author": "Bonny Chu",
+      "title": "Costco quietly discontinues award-winning Kirkland item fans call 'one of the best' in the market - Fox Business",
+      "description": "Costco shoppers will soon have to say goodbye to two popular Kirkland Signature beers as the retailer's partnership with Deschutes Brewery comes to an end.",
+      "url": "https://www.foxbusiness.com/lifestyle/costco-quietly-discontinues-award-winning-kirkland-item-fans-call-one-best-market",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/costco-aisle.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-08T21:08:00Z",
+      "content": "Costco is quietly discontinuing two Kirkland Signature craft beers, including an award-winning brew fans have called \"one of the best lagers on the market.\"\r\nThe move will end sales of the highly pri… [+2723 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Nina Joudeh",
+      "title": "Dystopian future of California housing revealed — as concerning $500K sale goes through - New York Post",
+      "description": "The sale comes as San Jose remains one of the country’s least affordable housing markets.",
+      "url": "https://nypost.com/2026/07/08/us-news/dystopian-future-of-california-housing-revealed-as-concerning-500k-sale-goes-through/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133789592.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-08T20:49:00Z",
+      "content": "A 749-square-foot home in someone else’s backyard just sold for $530,000 in California — the first-of-its-kind deal being touted as a new path to homeownership.\r\nThe property is a two-bed accessory d… [+2865 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Sean Conlon, Justina Lee, Alex Harring",
-      "title": "Dow falls as chip stocks tumble, oil prices gain: Live updates - CNBC",
-      "description": "The Dow Jones Industrial Average pulled back from record levels on Tuesday.",
-      "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108327424-1782483651570-gettyimages-2283426563-mms23629_eqrvbr4g.jpeg?v=1782483791&w=1920&h=1080",
-      "publishedAt": "2026-07-07T20:38:00Z",
-      "content": "The Dow Jones Industrial Average pulled back from record levels on Tuesday as investors once again appeared to rotate out of names tied to artificial intelligence and as oil prices advanced.\r\nThe 30-… [+2881 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos - The Verge",
-      "description": "Meta is launching Muse Image, the first AI image generation model created by its Superintelligence Labs. With the new model, people can incorporate other Instagram users into their prompt as well as share AI images to their feeds.",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-      "publishedAt": "2026-07-07T20:31:58Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nUsers can @ mention accounts in their prompts.\r\nUsers can @ mention accounts in their prompts.\r\nby\r\nEmma RothClose\r\nPosts from this author will be added to your … [+3027 chars]"
+      "author": "Sean Conlon, Hugh Leask, Chloe Taylor, Lee Ying Shan, Yun Li",
+      "title": "Dow tumbles 500 points as oil jumps with Trump saying attacks on Iran to continue: Live updates - CNBC",
+      "description": "U.S. President Donald Trump told the NATO summit in Turkey that the ceasefire with Iran is \"over.\"",
+      "url": "https://www.cnbc.com/2026/07/07/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108331509-1783437593658-108331509-1783437477202-gettyimages-2285063769-anotherday237785006_127cewhn.jpg?v=1783437602&w=1920&h=1080",
+      "publishedAt": "2026-07-08T20:28:00Z",
+      "content": "The Dow Jones Industrial Average fell sharply on Wednesday after U.S. President Donald Trump told the NATO summit in Turkey that the ceasefire with Iran is \"over\" amid renewed hostilities in the Midd… [+2998 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "Eli Lilly's Market Cap Balloons, Again, On This IPO's Setback - Investor's Business Daily",
-      "description": "Eli Lilly shares hit a new record high Tuesday after IPO stock Kailera posted lackluster test results for its obesity drug.",
-      "url": "https://www.investors.com/news/technology/eli-lilly-stock-market-cap-kailera-therapeutics-ipo-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/03/Stock-Lilly-HQ9-shutt.jpg",
-      "publishedAt": "2026-07-07T20:09:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Gabrielle Fonrouge",
+      "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend - CNBC",
+      "description": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
+      "url": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108332324-1783537876563-gettyimages-2285247897-_88a4952_dhsbccdt.jpeg?v=1783545221&w=1920&h=1080",
+      "publishedAt": "2026-07-08T20:10:37Z",
+      "content": "Levi Strauss beat Wall Street's quarterly expectations on the top and bottom lines on Wednesday, leading the retailer to increase its guidance and its dividend. \r\nThe denim maker is now expecting ful… [+1712 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "US launches more strikes on Iran with blasts reported in south of country",
-      "description": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+      "title": "US and Iran trade attacks as Khamenei is buried",
+      "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
       "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 21:40:40 GMT"
+      "publishedAt": "Thu, 09 Jul 2026 23:02:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "US strikes target Iranian military boats",
-      "description": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 05:42:37 GMT"
+      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+      "description": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 15:21:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-      "description": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 17:18:14 GMT"
+      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "description": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 20:47:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "German doctor jailed for murder of 15 patients and suspected of more",
-      "description": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-      "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 14:25:25 GMT"
+      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "description": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 21:04:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-      "description": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 15:09:08 GMT"
+      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+      "description": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 14:41:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-      "description": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 20:18:13 GMT"
+      "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
+      "description": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing.",
+      "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 11:09:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nato allies announce £37bn for new missile project",
-      "description": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 05:57:53 GMT"
+      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+      "description": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 14:37:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Eight killed after landslide hits girls' school in Bangladesh",
-      "description": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 14:02:54 GMT"
+      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+      "description": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
+      "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 16:15:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "We saved £6,000 on holidays by swapping homes with strangers",
+      "description": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 23:00:38 GMT"
     },
     {
       "source": "BBC",
       "title": "Why electric cars cost more to insure - and what's being done about it",
-      "description": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+      "description": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
       "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 08 Jul 2026 23:09:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Interest rates may need to rise this year, says Bank of England economist",
+      "description": "Chief economist at the Bank of England says slower growth and inflationary pressures mean rate rise needed",
+      "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 17:37:11 GMT"
     },
     {
       "source": "BBC",
@@ -142,97 +156,83 @@
     },
     {
       "source": "BBC",
-      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
-      "description": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
-      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 11:24:05 GMT"
+      "title": "How can I get air conditioning in my home and how much does it cost?",
+      "description": "As summers in the UK get hotter, is it time for air conditioning to become a permanent feature in most homes?",
+      "url": "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 10:00:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-      "description": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
-      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 09:31:56 GMT"
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "description": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 23:00:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-      "description": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
-      "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 19:23:33 GMT"
+      "title": "Porn site company fined £630,000 over failed age checks",
+      "description": "Ofcom has fined a slew of sites it says are failing to prevent children accessing their adult content.",
+      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 11:29:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "description": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 23:11:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-      "description": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
-      "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 01:04:44 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-      "description": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 12:28:03 GMT"
+      "title": "Jackdaw boss warns of winter fuel shortage risk if gas field not approved",
+      "description": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 10:20:40 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 10,
-      "GLP-1": 15,
-      "Iran oil": 15,
-      "Federal Reserve": 9,
-      "Bitcoin": 94
+      "GLP-1": 11,
+      "Iran oil": 9,
+      "Federal Reserve": 6,
+      "Bitcoin": 62
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25870.65,
-      "change_pct": -0.96,
+      "price": 26206.89,
+      "change_pct": 1.5,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7482.71,
-      "change_pct": -0.73,
+      "price": 7543.64,
+      "change_pct": 0.53,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52348.39,
-      "change_pct": -1.33,
+      "price": 52487.41,
+      "change_pct": -0.83,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4085.5,
-      "change_pct": -1.44,
+      "price": 4132.0,
+      "change_pct": 1.5,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 74.42,
-      "change_pct": 5.65,
+      "price": 71.84,
+      "change_pct": -2.29,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 62184.49,
-      "change_pct": -1.76,
+      "price": 63221.62,
+      "change_pct": 1.55,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.34,
+      "change_pct": 0.13,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.8,
-      "change_pct": 0.13,
+      "price": 6.78,
+      "change_pct": -0.28,
       "symbol": "CNY=X"
     }
   }
