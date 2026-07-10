@@ -1,165 +1,165 @@
 {
-  "date": "2026年07月10日",
-  "date_iso": "2026-07-10",
-  "generated_at": "2026-07-10T07:53:54.059268+08:00",
+  "date": "2026年07月11日",
+  "date_iso": "2026-07-11",
+  "generated_at": "2026-07-11T07:32:21.409241+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "CNBC"
       },
-      "author": "Eric Revell",
-      "title": "Fed policymakers' inflation worries weighed on rate cut outlook at Warsh's first meeting - Fox Business",
-      "description": "FOMC minutes reveal policymakers debated rate hikes amid scenarios where AI demand, the Middle East conflict or tariffs keep inflation elevated.",
-      "url": "https://www.foxbusiness.com/economy/fed-policymakers-inflation-worries-weighed-rate-cut-outlook-warshs-first-meeting",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/kevin-warsh-first-press-conference-1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-08T21:15:00Z",
-      "content": "Federal Reserve policymakers are increasingly concerned about inflation, and the uncertainty about the direction it may take was reflected in the minutes of the Fed's latest monetary policy meeting r… [+3474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Bonny Chu",
-      "title": "Costco quietly discontinues award-winning Kirkland item fans call 'one of the best' in the market - Fox Business",
-      "description": "Costco shoppers will soon have to say goodbye to two popular Kirkland Signature beers as the retailer's partnership with Deschutes Brewery comes to an end.",
-      "url": "https://www.foxbusiness.com/lifestyle/costco-quietly-discontinues-award-winning-kirkland-item-fans-call-one-best-market",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/costco-aisle.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-08T21:08:00Z",
-      "content": "Costco is quietly discontinuing two Kirkland Signature craft beers, including an award-winning brew fans have called \"one of the best lagers on the market.\"\r\nThe move will end sales of the highly pri… [+2723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Nina Joudeh",
-      "title": "Dystopian future of California housing revealed — as concerning $500K sale goes through - New York Post",
-      "description": "The sale comes as San Jose remains one of the country’s least affordable housing markets.",
-      "url": "https://nypost.com/2026/07/08/us-news/dystopian-future-of-california-housing-revealed-as-concerning-500k-sale-goes-through/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133789592.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-08T20:49:00Z",
-      "content": "A 749-square-foot home in someone else’s backyard just sold for $530,000 in California — the first-of-its-kind deal being touted as a new path to homeownership.\r\nThe property is a two-bed accessory d… [+2865 chars]"
+      "author": "Ashley Capoot",
+      "title": "OpenAI exec Fidji Simo says she will step down and transition to part-time advisor - CNBC",
+      "description": "Fidji Simo stepped away from OpenAI in April for a medical leave, says she now has to focus on recovery.",
+      "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107301539-1694788928315-gettyimages-1239231815-INSTACART_SIMO.jpeg?v=1775246186&w=1920&h=1080",
+      "publishedAt": "2026-07-09T23:01:13Z",
+      "content": "Fidji Simo, OpenAI's product and business chief, on Thursday announced she is stepping down from her role at the artificial intelligence company to focus on recovery after a \"severe exacerbation of a… [+2017 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Sean Conlon, Hugh Leask, Chloe Taylor, Lee Ying Shan, Yun Li",
-      "title": "Dow tumbles 500 points as oil jumps with Trump saying attacks on Iran to continue: Live updates - CNBC",
-      "description": "U.S. President Donald Trump told the NATO summit in Turkey that the ceasefire with Iran is \"over.\"",
-      "url": "https://www.cnbc.com/2026/07/07/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108331509-1783437593658-108331509-1783437477202-gettyimages-2285063769-anotherday237785006_127cewhn.jpg?v=1783437602&w=1920&h=1080",
-      "publishedAt": "2026-07-08T20:28:00Z",
-      "content": "The Dow Jones Industrial Average fell sharply on Wednesday after U.S. President Donald Trump told the NATO summit in Turkey that the ceasefire with Iran is \"over\" amid renewed hostilities in the Midd… [+2998 chars]"
+      "author": "Alexa LoMonaco",
+      "title": "Where Jim Cramer stands on SK Hynix's massive offering - CNBC",
+      "description": "CNBC's Jim Cramer said SK Hynix looks remarkably cheap, but warned that buying it is a bet that the AI-driven memory boom won't end like previous cycles.",
+      "url": "https://www.cnbc.com/2026/07/09/jim-cramer-sk-hynix.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326518-1782348833270-GettyImages-1230847768.jpg?v=1782348905&w=1920&h=1080",
+      "publishedAt": "2026-07-09T22:47:01Z",
+      "content": "CNBC's Jim Cramer said Thursday that SK Hynix's upcoming Nasdaq debut will give U.S. investors a new way to bet on the artificial intelligence boom, but warned the South Korean memory-chip giant come… [+2070 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Abcnews.com"
       },
-      "author": "Gabrielle Fonrouge",
-      "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend - CNBC",
-      "description": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
-      "url": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108332324-1783537876563-gettyimages-2285247897-_88a4952_dhsbccdt.jpeg?v=1783545221&w=1920&h=1080",
-      "publishedAt": "2026-07-08T20:10:37Z",
-      "content": "Levi Strauss beat Wall Street's quarterly expectations on the top and bottom lines on Wednesday, leading the retailer to increase its guidance and its dividend. \r\nThe denim maker is now expecting ful… [+1712 chars]"
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Trump-promoted discount gas stations fuel a mystery and questions - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/trump-promoted-discount-gas-stations-fuel-mystery-questions/story?id\\\\u003d134625546",
+      "urlToImage": null,
+      "publishedAt": "2026-07-09T22:45:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Boeing’s Smallest MAX Jet Nears FAA Milestone After Years of Delays - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04",
+      "urlToImage": null,
+      "publishedAt": "2026-07-09T22:32:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lucas Ropek",
+      "title": "OpenAI launches its new family of models with GPT-5.6 - TechCrunch",
+      "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+      "publishedAt": "2026-07-09T22:24:24Z",
+      "content": "OpenAI unveiled its newest family of models on Thursday, introducing a set of heavyweight programs into an increasingly crowded field of AI offerings.\r\nGPT-5.6 comes in three variants: Sol (considere… [+2776 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "US and Iran trade attacks as Khamenei is buried",
-      "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 23:02:18 GMT"
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "description": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 14:08:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "description": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 15:21:17 GMT"
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "description": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:03:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "description": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 20:47:41 GMT"
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "description": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "description": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 21:04:09 GMT"
+      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "description": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:02:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-      "description": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 14:41:54 GMT"
+      "title": "Zulu king expresses regret after video captures tirade against his wife",
+      "description": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 16:42:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
-      "description": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing.",
-      "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 11:09:17 GMT"
+      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+      "description": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 22:38:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "description": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 14:37:19 GMT"
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "description": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "description": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
-      "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 16:15:10 GMT"
+      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "description": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 21:30:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "We saved £6,000 on holidays by swapping homes with strangers",
-      "description": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 23:00:38 GMT"
+      "title": "Major car firms found not to have installed emissions-cheating devices",
+      "description": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
+      "url": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 16:18:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why electric cars cost more to insure - and what's being done about it",
-      "description": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
-      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 23:09:55 GMT"
+      "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+      "description": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 15:02:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Interest rates may need to rise this year, says Bank of England economist",
-      "description": "Chief economist at the Bank of England says slower growth and inflationary pressures mean rate rise needed",
-      "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 17:37:11 GMT"
+      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "description": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 01:33:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "I run the UK's biggest bank, here are five ways to manage your money",
-      "description": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 23:10:10 GMT"
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "description": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "How can I get air conditioning in my home and how much does it cost?",
-      "description": "As summers in the UK get hotter, is it time for air conditioning to become a permanent feature in most homes?",
-      "url": "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 10:00:08 GMT"
+      "title": "Vapes to have less enticing names and flavours to protect children",
+      "description": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
+      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 09:54:49 GMT"
     },
     {
       "source": "BBC",
@@ -170,69 +170,69 @@
     },
     {
       "source": "BBC",
-      "title": "Porn site company fined £630,000 over failed age checks",
-      "description": "Ofcom has fined a slew of sites it says are failing to prevent children accessing their adult content.",
-      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 11:29:31 GMT"
+      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+      "description": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 08:26:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Jackdaw boss warns of winter fuel shortage risk if gas field not approved",
-      "description": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 10:20:40 GMT"
+      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
+      "description": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 16:42:35 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 10,
+      "AI stocks": 7,
       "GLP-1": 11,
-      "Iran oil": 9,
-      "Federal Reserve": 6,
-      "Bitcoin": 62
+      "Iran oil": 6,
+      "Federal Reserve": 9,
+      "Bitcoin": 78
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26206.89,
-      "change_pct": 1.5,
+      "price": 26281.61,
+      "change_pct": 1.59,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7543.64,
-      "change_pct": 0.53,
+      "price": 7575.39,
+      "change_pct": 1.24,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52487.41,
-      "change_pct": -0.83,
+      "price": 52637.01,
+      "change_pct": 0.55,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4132.0,
-      "change_pct": 1.5,
+      "price": 4128.9,
+      "change_pct": -0.04,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 71.84,
-      "change_pct": -2.29,
+      "price": 71.51,
+      "change_pct": -0.79,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 63221.62,
-      "change_pct": 1.55,
+      "price": 64158.29,
+      "change_pct": 1.53,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.13,
+      "change_pct": 0.01,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.78,
-      "change_pct": -0.28,
+      "price": 6.77,
+      "change_pct": -0.53,
       "symbol": "CNY=X"
     }
   }
