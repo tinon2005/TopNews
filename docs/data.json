@@ -1,117 +1,144 @@
 {
-  "date": "2026年07月12日",
-  "date_iso": "2026-07-12",
-  "generated_at": "2026-07-12T06:32:04.469717+08:00",
+  "date": "2026年07月13日",
+  "date_iso": "2026-07-13",
+  "generated_at": "2026-07-13T06:32:55.297382+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Gizmodo.com"
       },
-      "author": "Sarah Pineda",
-      "title": "How to stop Meta from using your Instagram photos to create AI images - The Washington Post",
-      "description": "Here's how to opt out.",
-      "url": "https://www.washingtonpost.com/style/2026/07/10/how-stop-meta-using-your-instagram-photos-create-ai-images/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/43LG7QWGTII6TC7XZXRNTYEQKU.jpg&w=1440",
-      "publishedAt": "2026-07-10T21:25:20Z",
-      "content": "This week, Meta announced the launch of a new artificial intelligence image generator that allows anyone to create AI images based on your Instagram photos.\r\nAnd if you have a public Instagram accoun… [+104 chars]"
+      "author": "Mike Pearl",
+      "title": "The Public Got So Mad at Meta’s New AI Photo Tool That It’s Scrapped Already - Gizmodo",
+      "description": "\"We’ve heard the feedback that this feature missed the mark, so it’s no longer available,\" Meta says.",
+      "url": "https://gizmodo.com/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already-2000784400",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/zuckerberg_AI-1200x675.jpg",
+      "publishedAt": "2026-07-11T18:11:08Z",
+      "content": "I dont know what the world record is for killing bad AI features quickly, but this has to be a competitor. On Tuesday, July 7, Meta released an AI photo generation feature that pulled face data from … [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Megan Morrone",
+      "title": "Apple sues OpenAI for trade secret theft - Axios",
+      "description": "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device.",
+      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+      "urlToImage": "https://images.axios.com/CjZlbD1Jd_2r_2usaUtmXGYs_wk=/1366x768/smart/2024/03/28/004934-1711586974988.jpg",
+      "publishedAt": "2026-07-11T15:46:03Z",
+      "content": "What they're saying: \"Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technol… [+3182 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Michelle Chapman",
+      "title": "America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high - AP News",
+      "description": "The Federal Reserve’s rate-setting committee is split over whether inflation is likely to stay elevated or whether it will cool once the Iran war winds down, according to minutes released Wednesday. Meanwhile, sales of previously occupied U.S. homes slowed in…",
+      "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-6e3bec84857235030c5aa6859869f33f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/108f880/2147483647/strip/true/crop/4880x3252+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F51%2F023f94aae780c6985faf50be92ac%2F400d6ed3f02b46388d9a02fb9ecd084d",
+      "publishedAt": "2026-07-11T15:32:00Z",
+      "content": "The economy, inflation and how those forces could impact the lives of Americans were front and center over the past week. Trips to the grocery store or gas station are more painful than they were las… [+5218 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "Yahoo Entertainment"
       },
-      "author": null,
-      "title": "Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index climbs Friday while shares of South Korean memory chipmaker SK Hynix spike in their U.S. debut.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sk-hynix-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/04/Stock-StockCityscape-01-adobe.jpg",
-      "publishedAt": "2026-07-10T20:44:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Ramish Cheema",
+      "title": "Jim Cramer Explains SK Hynix’s (SKHY) Role In Global Memory Industry - Yahoo Finance",
+      "description": "We recently published Jim Cramer Insisted Recent AI Chip Selloff Wasn’t A Bottom & Discussed These 17 Stocks. SK Hynix Inc. American Depositary Shares (OTC:S...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-sk-hynix-125315508.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E78A9EDD23B414CEE6F3EAFB39E3E475B690ED33C6EE70A04E5616A68C3BB7C7/subgraphmysterio/resizefill_w1200_h794;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9c37738d9f512f7cd6e10429351de66a",
+      "publishedAt": "2026-07-11T12:53:15Z",
+      "content": "We recently published Jim Cramer Insisted Recent AI Chip Selloff Wasn't A Bottom &amp; Discussed These 17 Stocks. SK Hynix Inc. American Depositary Shares (OTC:SKHY) is one of the stocks discussed by… [+2036 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Eric Revell",
-      "title": "National debt interest and entitlement spending push FY2026 federal budget deficit toward $2 trillion - Fox Business",
-      "description": "Federal spending on national debt interest, Social Security, Medicare and Medicaid drives the budget deficit $35 billion higher than last year.",
-      "url": "https://www.foxbusiness.com/politics/national-debt-interest-entitlement-spending-push-fy2026-federal-budget-deficit-toward-2-trillion",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/us-capitol-july-4-2026-america-250.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-10T20:37:00Z",
-      "content": "This year's federal budget deficit is now outpacing last year's as federal spending is growing at a faster rate than tax revenue, pushing the annual shortfall closer to $2 trillion.\r\nThe nonpartisan … [+4287 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Kif Leswing, MacKenzie Sigalos",
-      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level' - CNBC",
-      "description": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
-      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107241871-1684251021470-gettyimages-1178079026-SILICON_VALLEY.jpeg?v=1712278235&w=1920&h=1080",
-      "publishedAt": "2026-07-10T20:30:47Z",
-      "content": "Apple on Friday sued OpenAI in federal court in Northern California, alleging trade secret theft, saying that the artificial intelligence lab took the iPhone maker's intellectual property in order to… [+2684 chars]"
+      "author": "Gabe Hauari",
+      "title": "Ikea to open 7 new stores through 2027. See where - USA Today",
+      "description": "Furniture giant Ikea is opening seven new stores through the winter of 2027. Here's where and when the stores are scheduled to open.",
+      "url": "https://www.usatoday.com/story/money/2026/07/11/ikea-opening-new-stores-locations/90878057007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90878514007-20240426-t-120359-z-368735238-rc-28-e-7-aiwjiu-rtrmadp-3-ikearesults-1.JPG?crop=5218,2935,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-11T12:01:00Z",
+      "content": "If you've ever wanted to browse a furniture store while eating Swedish meatballs, you may soon get the chance.\r\nSwedish furniture giant Ikea told USA TODAY it is planning on opening seven new locatio… [+2539 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "China's second typhoon in a week makes landfall",
-      "description": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 17:41:56 GMT"
+      "title": "At least 27 killed in Bangkok bar fire",
+      "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 20:13:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "Iran supreme leader calls for revenge for father's killing",
-      "description": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 19:30:36 GMT"
+      "publishedAt": "Sun, 12 Jul 2026 22:17:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "description": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 15:03:45 GMT"
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "description": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 22:08:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "description": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 16:11:33 GMT"
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "description": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 19:42:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "description": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 21:56:52 GMT"
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "description": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 13:35:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "description": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 18:00:09 GMT"
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "description": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 07:39:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "description": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 14:47:47 GMT"
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "description": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 15:22:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-      "description": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 14:19:34 GMT"
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 23:58:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "description": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 05:00:15 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+      "description": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
+      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 12:00:16 GMT"
     },
     {
       "source": "BBC",
@@ -154,30 +181,16 @@
       "description": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
       "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 10 Jul 2026 09:54:49 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Pressure builds on Europe's biggest port to be greener",
-      "description": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
-      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 23:00:51 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "description": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 16:42:35 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 3,
-      "GLP-1": 8,
-      "Iran oil": 4,
-      "Federal Reserve": 5,
-      "Bitcoin": 58
+      "AI stocks": 6,
+      "GLP-1": 11,
+      "Iran oil": 16,
+      "Federal Reserve": 8,
+      "Bitcoin": 91
     },
     "trending_searches": []
   },
@@ -198,28 +211,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4113.7,
-      "change_pct": -0.41,
+      "price": 4092.2,
+      "change_pct": -0.29,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 71.41,
-      "change_pct": -0.93,
+      "price": 73.86,
+      "change_pct": 3.43,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64249.93,
-      "change_pct": 0.19,
+      "price": 63783.7,
+      "change_pct": -0.03,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.01,
+      "change_pct": -0.13,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.77,
-      "change_pct": -0.53,
+      "price": 6.78,
+      "change_pct": -0.39,
       "symbol": "CNY=X"
     }
   }
