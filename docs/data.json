@@ -1,238 +1,238 @@
 {
-  "date": "2026年07月13日",
-  "date_iso": "2026-07-13",
-  "generated_at": "2026-07-13T06:32:55.297382+08:00",
+  "date": "2026年07月14日",
+  "date_iso": "2026-07-14",
+  "generated_at": "2026-07-14T07:16:44.265084+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "CNBC"
       },
-      "author": "Mike Pearl",
-      "title": "The Public Got So Mad at Meta’s New AI Photo Tool That It’s Scrapped Already - Gizmodo",
-      "description": "\"We’ve heard the feedback that this feature missed the mark, so it’s no longer available,\" Meta says.",
-      "url": "https://gizmodo.com/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already-2000784400",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/zuckerberg_AI-1200x675.jpg",
-      "publishedAt": "2026-07-11T18:11:08Z",
-      "content": "I dont know what the world record is for killing bad AI features quickly, but this has to be a competitor. On Tuesday, July 7, Meta released an AI photo generation feature that pulled face data from … [+2477 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Megan Morrone",
-      "title": "Apple sues OpenAI for trade secret theft - Axios",
-      "description": "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device.",
-      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "urlToImage": "https://images.axios.com/CjZlbD1Jd_2r_2usaUtmXGYs_wk=/1366x768/smart/2024/03/28/004934-1711586974988.jpg",
-      "publishedAt": "2026-07-11T15:46:03Z",
-      "content": "What they're saying: \"Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technol… [+3182 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Michelle Chapman",
-      "title": "America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high - AP News",
-      "description": "The Federal Reserve’s rate-setting committee is split over whether inflation is likely to stay elevated or whether it will cool once the Iran war winds down, according to minutes released Wednesday. Meanwhile, sales of previously occupied U.S. homes slowed in…",
-      "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-6e3bec84857235030c5aa6859869f33f",
-      "urlToImage": "https://dims.apnews.com/dims4/default/108f880/2147483647/strip/true/crop/4880x3252+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F51%2F023f94aae780c6985faf50be92ac%2F400d6ed3f02b46388d9a02fb9ecd084d",
-      "publishedAt": "2026-07-11T15:32:00Z",
-      "content": "The economy, inflation and how those forces could impact the lives of Americans were front and center over the past week. Trips to the grocery store or gas station are more painful than they were las… [+5218 chars]"
+      "author": "Lee Ying Shan, Fred Imbert",
+      "title": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates - CNBC",
+      "description": "Traders weighed the latest events in the Middle East and braced for a slew of corporate earnings reports due out later in the week.",
+      "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108303148-1778088023303-gettyimages-2274260821-US_STOCKS.jpeg?v=1778088228&w=1920&h=1080",
+      "publishedAt": "2026-07-12T22:16:00Z",
+      "content": "Stock futures fell slightly on Sunday night as traders weighed the latest events in the Middle East and braced for a slew of corporate earnings reports due out later in the week. \r\nDow Jones Industri… [+2280 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Semafor.com"
       },
-      "author": "Ramish Cheema",
-      "title": "Jim Cramer Explains SK Hynix’s (SKHY) Role In Global Memory Industry - Yahoo Finance",
-      "description": "We recently published Jim Cramer Insisted Recent AI Chip Selloff Wasn’t A Bottom & Discussed These 17 Stocks. SK Hynix Inc. American Depositary Shares (OTC:S...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-sk-hynix-125315508.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E78A9EDD23B414CEE6F3EAFB39E3E475B690ED33C6EE70A04E5616A68C3BB7C7/subgraphmysterio/resizefill_w1200_h794;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9c37738d9f512f7cd6e10429351de66a",
-      "publishedAt": "2026-07-11T12:53:15Z",
-      "content": "We recently published Jim Cramer Insisted Recent AI Chip Selloff Wasn't A Bottom &amp; Discussed These 17 Stocks. SK Hynix Inc. American Depositary Shares (OTC:SKHY) is one of the stocks discussed by… [+2036 chars]"
+      "author": "Rohan Goswami",
+      "title": "Exclusive / Paramount weighs leaving California over Warner Bros. rift - Semafor",
+      "description": "David Ellison is wary of decamping, but his battle with state regulators is intensifying.",
+      "url": "https://www.semafor.com/article/07/12/2026/paramount-weighs-leaving-california-over-warner-bros-rift",
+      "urlToImage": "https://img.semafor.com/f9439af33d6159a91ebf9e428c787782e472ca44-6000x4000.jpg?rect=0,425,6000,3150&w=1200&h=630&q=75&auto=format",
+      "publishedAt": "2026-07-12T21:04:00Z",
+      "content": "Paramount has made repeated entreaties to Bonta to strike a deal that would allow its merger with Warner Bros. to close.\r\nThe studio proposed a firm commitment, via a consent decree, to produce 30 fi… [+1599 chars]"
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "TheStreet"
       },
-      "author": "Gabe Hauari",
-      "title": "Ikea to open 7 new stores through 2027. See where - USA Today",
-      "description": "Furniture giant Ikea is opening seven new stores through the winter of 2027. Here's where and when the stores are scheduled to open.",
-      "url": "https://www.usatoday.com/story/money/2026/07/11/ikea-opening-new-stores-locations/90878057007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90878514007-20240426-t-120359-z-368735238-rc-28-e-7-aiwjiu-rtrmadp-3-ikearesults-1.JPG?crop=5218,2935,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-07-11T12:01:00Z",
-      "content": "If you've ever wanted to browse a furniture store while eating Swedish meatballs, you may soon get the chance.\r\nSwedish furniture giant Ikea told USA TODAY it is planning on opening seven new locatio… [+2539 chars]"
+      "author": "thestreet.com",
+      "title": "Palantir CEO has a blunt verdict on OpenAI and Anthropic - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/technology/palantir-ceo-has-a-blunt-verdict-on-openai-and-anthropic",
+      "urlToImage": null,
+      "publishedAt": "2026-07-12T20:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Brianna Sosa, Bloomberg",
+      "title": "Trump embraces Australian retirement system backed by Larry Fink - Fortune",
+      "description": "The system is on pace to be the world’s second-largest retirement plan within the next decade.",
+      "url": "https://fortune.com/2026/07/12/trump-australian-retirement-system-superannuation-funds-larry-fink-social-security/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-633685814-e1783887397936.jpg?resize=1200,600",
+      "publishedAt": "2026-07-12T20:24:00Z",
+      "content": "The worlds most-envied retirement plan has another high-profile booster: President Donald Trump.Riding high off public enthusiasm for the Trump Accounts for children, Trump last week renewed his focu… [+4511 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Aarian Marshall",
+      "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption - WIRED",
+      "description": "In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars. The company says it’s fighting monopolies.",
+      "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+      "urlToImage": "https://media.wired.com/photos/6a5397ed87a24ef3942fc9ff/191:100/w_1280,c_limit/GettyImages-2267121351.jpg",
+      "publishedAt": "2026-07-12T19:55:00Z",
+      "content": "A decade ago, then-Uber CEO Travis Kalanick said he saw autonomous vehicles as an existential threat to the ride-hail company's business model.\r\nWhat would happen if we werent a part of that future? … [+3527 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "At least 27 killed in Bangkok bar fire",
-      "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "description": "The US military later said it had started the third consecutive night of strikes on Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 22:47:52 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+      "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 17:31:54 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Hungary parliament votes to remove president from office",
+      "description": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 20:39:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
       "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 20:13:14 GMT"
+      "publishedAt": "Mon, 13 Jul 2026 15:04:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 22:17:40 GMT"
+      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "description": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 22:38:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "description": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 22:08:07 GMT"
+      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "description": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 20:15:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-      "description": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
-      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 19:42:26 GMT"
+      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "description": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 21:37:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "description": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 13:35:01 GMT"
+      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "description": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
+      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 16:05:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "description": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 07:39:45 GMT"
+      "title": "The secretive crypto firm backed by Farage's biggest donor",
+      "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 23:00:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
-      "description": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:22:52 GMT"
+      "title": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
+      "description": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 23:02:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 23:58:40 GMT"
+      "title": "Paramount and Warner Bros sued to block $110bn mega merger",
+      "description": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
+      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 22:52:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "description": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 05:00:15 GMT"
+      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+      "description": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 16:19:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
-      "description": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 12:00:16 GMT"
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "description": "The US military later said it had started the third consecutive night of strikes on Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 22:47:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Will Trump Accounts deliver for American children?",
-      "description": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 07:41:18 GMT"
+      "title": "Is tracking your food purchases good for your health?",
+      "description": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 23:04:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Major car firms found not to have installed emissions-cheating devices",
-      "description": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
-      "url": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 16:18:08 GMT"
+      "title": "How to change bank, energy or broadband provider and save money",
+      "description": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 23:28:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-      "description": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 15:02:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "description": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 01:33:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "description": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Vapes to have less enticing names and flavours to protect children",
-      "description": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 09:54:49 GMT"
+      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+      "description": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 11:45:25 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 6,
-      "GLP-1": 11,
-      "Iran oil": 16,
-      "Federal Reserve": 8,
-      "Bitcoin": 91
+      "AI stocks": 12,
+      "GLP-1": 12,
+      "Iran oil": 21,
+      "Federal Reserve": 9,
+      "Bitcoin": 90
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26281.61,
-      "change_pct": 1.59,
+      "price": 25873.18,
+      "change_pct": -1.27,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7575.39,
-      "change_pct": 1.24,
+      "price": 7515.34,
+      "change_pct": -0.38,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52637.01,
-      "change_pct": 0.55,
+      "price": 52498.64,
+      "change_pct": 0.02,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4092.2,
-      "change_pct": -0.29,
+      "price": 4009.5,
+      "change_pct": 0.09,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 73.86,
-      "change_pct": 3.43,
+      "price": 78.68,
+      "change_pct": 0.69,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 63783.7,
-      "change_pct": -0.03,
+      "price": 61994.89,
+      "change_pct": -2.77,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.34,
-      "change_pct": -0.13,
+      "price": 1.33,
+      "change_pct": -0.28,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.78,
-      "change_pct": -0.39,
+      "price": 6.77,
+      "change_pct": -0.08,
       "symbol": "CNY=X"
     }
   }
