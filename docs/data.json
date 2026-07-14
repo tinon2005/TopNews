@@ -1,165 +1,152 @@
 {
-  "date": "2026年07月14日",
-  "date_iso": "2026-07-14",
-  "generated_at": "2026-07-14T07:16:44.265084+08:00",
+  "date": "2026年07月15日",
+  "date_iso": "2026-07-15",
+  "generated_at": "2026-07-15T07:14:49.536861+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "New York Post"
       },
-      "author": "Lee Ying Shan, Fred Imbert",
-      "title": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates - CNBC",
-      "description": "Traders weighed the latest events in the Middle East and braced for a slew of corporate earnings reports due out later in the week.",
-      "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108303148-1778088023303-gettyimages-2274260821-US_STOCKS.jpeg?v=1778088228&w=1920&h=1080",
-      "publishedAt": "2026-07-12T22:16:00Z",
-      "content": "Stock futures fell slightly on Sunday night as traders weighed the latest events in the Middle East and braced for a slew of corporate earnings reports due out later in the week. \r\nDow Jones Industri… [+2280 chars]"
+      "author": "Greg Carlton",
+      "title": "NYC housing crisis hits ‘DefCon 1’ as rents jump to more all-time highs - New York Post",
+      "description": "The city’s housing crisis has hit “DefCon 1” — with average rents for a one-bedroom in Manhattan hitting an all-time high of nearly $5,500 last month, and Brooklyn following suit, according to new …",
+      "url": "https://nypost.com/2026/07/13/us-news/nyc-housing-crisis-hits-defcon-1-as-rents-jump-to-more-all-time-highs/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134287901.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-13T22:05:00Z",
+      "content": "The citys housing crisis has hit DefCon 1 with average rents for a one-bedroom in Manhattan hitting an all-time high of nearly $5,500 last month, and Brooklyn following suit, according to new data an… [+2839 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Semafor.com"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Rohan Goswami",
-      "title": "Exclusive / Paramount weighs leaving California over Warner Bros. rift - Semafor",
-      "description": "David Ellison is wary of decamping, but his battle with state regulators is intensifying.",
-      "url": "https://www.semafor.com/article/07/12/2026/paramount-weighs-leaving-california-over-warner-bros-rift",
-      "urlToImage": "https://img.semafor.com/f9439af33d6159a91ebf9e428c787782e472ca44-6000x4000.jpg?rect=0,425,6000,3150&w=1200&h=630&q=75&auto=format",
-      "publishedAt": "2026-07-12T21:04:00Z",
-      "content": "Paramount has made repeated entreaties to Bonta to strike a deal that would allow its merger with Warner Bros. to close.\r\nThe studio proposed a firm commitment, via a consent decree, to produce 30 fi… [+1599 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "thestreet.com",
-      "title": "Palantir CEO has a blunt verdict on OpenAI and Anthropic - thestreet.com",
+      "author": "WSJ",
+      "title": "Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates - WSJ",
       "description": null,
-      "url": "https://www.thestreet.com/technology/palantir-ceo-has-a-blunt-verdict-on-openai-and-anthropic",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026",
       "urlToImage": null,
-      "publishedAt": "2026-07-12T20:37:00Z",
+      "publishedAt": "2026-07-13T21:40:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "Brianna Sosa, Bloomberg",
-      "title": "Trump embraces Australian retirement system backed by Larry Fink - Fortune",
-      "description": "The system is on pace to be the world’s second-largest retirement plan within the next decade.",
-      "url": "https://fortune.com/2026/07/12/trump-australian-retirement-system-superannuation-funds-larry-fink-social-security/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-633685814-e1783887397936.jpg?resize=1200,600",
-      "publishedAt": "2026-07-12T20:24:00Z",
-      "content": "The worlds most-envied retirement plan has another high-profile booster: President Donald Trump.Riding high off public enthusiasm for the Trump Accounts for children, Trump last week renewed his focu… [+4511 chars]"
+      "author": "Eric Revell",
+      "title": "Feds warn banks on lending to unauthorized workers - Fox Business",
+      "description": "Federal regulators issued new guidance reminding banks to account for credit risks when lending to borrowers without U.S. work authorization.",
+      "url": "https://www.foxbusiness.com/politics/feds-warn-banks-lending-unauthorized-workers",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/12/0/0/Comptroller-of-Currency-GettyImages-1246674130.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-13T21:21:00Z",
+      "content": "The Trump administration on Monday released guidance from several financial regulators reminding banks and credit unions about the credit risks posed by lending to borrowers who aren't authorized to … [+3963 chars]"
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Aarian Marshall",
-      "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption - WIRED",
-      "description": "In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars. The company says it’s fighting monopolies.",
-      "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
-      "urlToImage": "https://media.wired.com/photos/6a5397ed87a24ef3942fc9ff/191:100/w_1280,c_limit/GettyImages-2267121351.jpg",
-      "publishedAt": "2026-07-12T19:55:00Z",
-      "content": "A decade ago, then-Uber CEO Travis Kalanick said he saw autonomous vehicles as an existential threat to the ride-hail company's business model.\r\nWhat would happen if we werent a part of that future? … [+3527 chars]"
+      "author": "WSJ",
+      "title": "CEO of Jack Daniel’s Maker Brown-Forman to Retire - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/retail/ceo-of-jack-daniels-maker-brown-forman-to-step-down-95d3f4bd",
+      "urlToImage": null,
+      "publishedAt": "2026-07-13T21:06:00Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "description": "The US military later said it had started the third consecutive night of strikes on Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 22:47:52 GMT"
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+      "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 20:10:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 17:31:54 GMT"
+      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "description": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 19:13:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Hungary parliament votes to remove president from office",
-      "description": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 20:39:14 GMT"
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "description": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 17:13:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-      "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 15:04:36 GMT"
+      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+      "description": "Production will stop for two years at the mine which employs more than 4,000 people.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 13:22:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "description": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 22:38:34 GMT"
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "description": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 19:40:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "description": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
-      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 20:15:00 GMT"
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "description": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 17:07:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
-      "description": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 21:37:02 GMT"
+      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
+      "description": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 15:37:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-      "description": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
-      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 16:05:13 GMT"
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+      "description": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
+      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 03:47:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "The secretive crypto firm backed by Farage's biggest donor",
-      "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 23:00:59 GMT"
+      "title": "Heating oil customers to get compensation after price hikes",
+      "description": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
+      "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 23:00:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
-      "description": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 23:02:11 GMT"
+      "title": "Buy Now Pay Later rules to bring refunds and rejections",
+      "description": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 23:01:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Paramount and Warner Bros sued to block $110bn mega merger",
-      "description": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
-      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 22:52:11 GMT"
+      "title": "I changed jobs 10 times in 10 years to get the career I wanted",
+      "description": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 23:04:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-      "description": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 16:19:15 GMT"
+      "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
+      "description": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 18:05:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "description": "The US military later said it had started the third consecutive night of strikes on Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 22:47:52 GMT"
+      "title": "Midnight social media curfew proposed for older UK teens",
+      "description": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 21:43:56 GMT"
     },
     {
       "source": "BBC",
@@ -170,69 +157,69 @@
     },
     {
       "source": "BBC",
-      "title": "How to change bank, energy or broadband provider and save money",
-      "description": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 23:28:01 GMT"
+      "title": "Gas prices drive down US inflation - but will it last?",
+      "description": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
+      "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 17:34:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "description": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 11:45:25 GMT"
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+      "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 20:10:37 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 12,
-      "GLP-1": 12,
-      "Iran oil": 21,
-      "Federal Reserve": 9,
-      "Bitcoin": 90
+      "AI stocks": 14,
+      "GLP-1": 15,
+      "Iran oil": 15,
+      "Federal Reserve": 11,
+      "Bitcoin": 93
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25873.18,
-      "change_pct": -1.27,
+      "price": 26107.01,
+      "change_pct": -0.66,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7515.34,
-      "change_pct": -0.38,
+      "price": 7543.59,
+      "change_pct": -0.42,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52498.64,
-      "change_pct": 0.02,
+      "price": 52508.27,
+      "change_pct": -0.24,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4009.5,
-      "change_pct": 0.09,
+      "price": 4055.0,
+      "change_pct": 1.45,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 78.68,
-      "change_pct": 0.69,
+      "price": 79.89,
+      "change_pct": 2.24,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 61994.89,
-      "change_pct": -2.77,
+      "price": 64970.71,
+      "change_pct": 4.39,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.33,
-      "change_pct": -0.28,
+      "price": 1.34,
+      "change_pct": 0.34,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.77,
-      "change_pct": -0.08,
+      "price": 6.76,
+      "change_pct": -0.25,
       "symbol": "CNY=X"
     }
   }
