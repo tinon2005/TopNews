@@ -1,33 +1,33 @@
 {
-  "date": "2026年07月15日",
-  "date_iso": "2026-07-15",
-  "generated_at": "2026-07-15T07:14:49.536861+08:00",
+  "date": "2026年07月16日",
+  "date_iso": "2026-07-16",
+  "generated_at": "2026-07-16T07:35:06.484142+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Greg Carlton",
-      "title": "NYC housing crisis hits ‘DefCon 1’ as rents jump to more all-time highs - New York Post",
-      "description": "The city’s housing crisis has hit “DefCon 1” — with average rents for a one-bedroom in Manhattan hitting an all-time high of nearly $5,500 last month, and Brooklyn following suit, according to new …",
-      "url": "https://nypost.com/2026/07/13/us-news/nyc-housing-crisis-hits-defcon-1-as-rents-jump-to-more-all-time-highs/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134287901.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-13T22:05:00Z",
-      "content": "The citys housing crisis has hit DefCon 1 with average rents for a one-bedroom in Manhattan hitting an all-time high of nearly $5,500 last month, and Brooklyn following suit, according to new data an… [+2839 chars]"
+      "author": "Lucas Ropek",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move - TechCrunch",
+      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+      "publishedAt": "2026-07-14T22:22:24Z",
+      "content": "OpenAI’s first foray into hardware devices is reported to be a mobile smart speaker with integrated AI capabilities that can sync with ChatGPT and provide other home AI services. \r\nBloomberg reported… [+2527 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-07-13T21:40:00Z",
-      "content": null
+      "author": "David Ingram",
+      "title": "How a bungled email from Apple’s lawyer soured talks with OpenAI months before Apple sued - NBC News",
+      "description": "A lawyer for Apple apologized for mixing up two OpenAI employees with the names Wang and Chang.",
+      "url": "https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251013-Sam-Altman-aa-1235-873858.jpg",
+      "publishedAt": "2026-07-14T21:18:57Z",
+      "content": "Apple alleged in a lawsuit last week that OpenAI never responded to its concerns this year about what Apple believed was trade secret theft. But emails reviewed by NBC News show thats not the full st… [+393 chars]"
     },
     {
       "source": {
@@ -35,191 +35,204 @@
         "name": "Fox Business"
       },
       "author": "Eric Revell",
-      "title": "Feds warn banks on lending to unauthorized workers - Fox Business",
-      "description": "Federal regulators issued new guidance reminding banks to account for credit risks when lending to borrowers without U.S. work authorization.",
-      "url": "https://www.foxbusiness.com/politics/feds-warn-banks-lending-unauthorized-workers",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/12/0/0/Comptroller-of-Currency-GettyImages-1246674130.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-13T21:21:00Z",
-      "content": "The Trump administration on Monday released guidance from several financial regulators reminding banks and credit unions about the credit risks posed by lending to borrowers who aren't authorized to … [+3963 chars]"
+      "title": "United's new seating option ditches the middle seat - Fox Business",
+      "description": "United's new economy offering features a vacant middle seat that's covered from armrest to armrest with a table and cupholders that aisle and window seat passengers may use.",
+      "url": "https://www.foxbusiness.com/lifestyle/uniteds-new-seating-option-ditches-middle-seat",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/united-airlines-airbus-a321-gate-passengers.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-14T20:34:00Z",
+      "content": "United Airlines on Tuesday unveiled a new economy offering on its new Airbus A321XLR aircraft that will give passengers some extra elbow room access to a shared table across an open middle seat.\r\nUni… [+2961 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Abcnews.com"
       },
-      "author": "WSJ",
-      "title": "CEO of Jack Daniel’s Maker Brown-Forman to Retire - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/retail/ceo-of-jack-daniels-maker-brown-forman-to-step-down-95d3f4bd",
-      "urlToImage": null,
-      "publishedAt": "2026-07-13T21:06:00Z",
-      "content": null
+      "author": "The Associated Press",
+      "title": "Subaru issues recall for 541,000 SUVs over label with incorrect weight rating - ABC News - Breaking News, Latest News and Videos",
+      "description": "Subaru of America is recalling over 541,000 Crosstrek, Forester and Ascent vehicles in the U.S. due to an inaccurate label",
+      "url": "https://abcnews.com/Business/wireStory/subaru-issues-recall-541000-suvs-label-incorrect-weight-134761376",
+      "urlToImage": "https://i.abcnewsfe.com/a/f9bbfab2-940a-42f8-85fc-08dbfeb13816/wirestory_05e27c7958aefdada85daccdf053d4df_16x9.jpg?w=1600",
+      "publishedAt": "2026-07-14T20:16:19Z",
+      "content": "NEW YORK -- Subaru of America is recalling more than 541,000 of its Crosstrek, Forester, and Ascent SUVs due to an inaccurate label attached to the vehicles.\r\nAccording to a notice published by the N… [+1367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ty Roush",
+      "title": "IBM Shares Crashed 25% In Worst Day Ever—Here’s Why - Forbes",
+      "description": "“What played out was worse than our expectations,” CEO Arvind Krishna warned investors.",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/07/14/ibm-shares-crashed-25-in-worst-day-ever-heres-why/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a564f18a6d31425969051ae/0x0.jpg?format=jpg&crop=2551,1436,x0,y78,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-07-14T20:14:00Z",
+      "content": "IBMs stock plummeted on Tuesday in its largest single-day loss in its 115-year history, after CEO Arvind Krishna warned investors the computing firms latest quarter was worse than our expectations wh… [+3928 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-      "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 20:10:37 GMT"
+      "title": "French MPs approve assisted dying law with strict rules after years of argument",
+      "description": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 17:29:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-      "description": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 19:13:49 GMT"
+      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+      "description": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 21:55:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "description": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 17:13:27 GMT"
+      "title": "Argentina face fine for Falklands banner in semi-final win",
+      "description": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 22:49:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
-      "description": "Production will stop for two years at the mine which employs more than 4,000 people.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 13:22:09 GMT"
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "description": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 23:02:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "description": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
-      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 19:40:23 GMT"
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "description": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
+      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 17:02:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "description": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 17:07:42 GMT"
+      "title": "US military to start testosterone  testing, Hegseth says",
+      "description": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 22:46:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
-      "description": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 15:37:52 GMT"
+      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 23:02:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
-      "description": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
-      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 03:47:41 GMT"
+      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
+      "description": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 21:21:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Heating oil customers to get compensation after price hikes",
-      "description": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
-      "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 23:00:41 GMT"
+      "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+      "description": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 23:00:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Buy Now Pay Later rules to bring refunds and rejections",
-      "description": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 23:01:57 GMT"
+      "title": "SpaceX share price drops below stock market debut",
+      "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 18:11:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "I changed jobs 10 times in 10 years to get the career I wanted",
-      "description": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 23:04:15 GMT"
+      "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
+      "description": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
+      "url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 22:25:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
-      "description": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 18:05:11 GMT"
+      "title": "Salary information to be shown on job ads under new laws",
+      "description": "The government argues the move would help jobseekers and could reduce pay discrimination claims.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 18:46:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Midnight social media curfew proposed for older UK teens",
-      "description": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 21:43:56 GMT"
+      "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
+      "description": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
+      "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 17:13:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Is tracking your food purchases good for your health?",
-      "description": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 23:04:58 GMT"
+      "title": "Cash-strapped Thames Water poses big test for Burnham",
+      "description": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 12:09:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "Gas prices drive down US inflation - but will it last?",
-      "description": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
-      "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 17:34:55 GMT"
+      "title": "Brewdog co-founder James Watt launches bid to buy back beer firm",
+      "description": "Watt says he has made an offer to buy back the craft beer business months after it was sold to a US company.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vyv2v2vmzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 15:14:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-      "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 20:10:37 GMT"
+      "title": "Don't panic - five ways to stop your kids' endless scrolling",
+      "description": "Parenting experts share their tips on how to keep children's screen time under control.",
+      "url": "https://www.bbc.co.uk/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 11:13:40 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 14,
-      "GLP-1": 15,
-      "Iran oil": 15,
-      "Federal Reserve": 11,
-      "Bitcoin": 93
+      "AI stocks": 10,
+      "GLP-1": 12,
+      "Iran oil": 10,
+      "Federal Reserve": 8,
+      "Bitcoin": 69
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26107.01,
-      "change_pct": -0.66,
+      "price": 26269.23,
+      "change_pct": 1.53,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7543.59,
-      "change_pct": -0.42,
+      "price": 7572.4,
+      "change_pct": 0.76,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52508.27,
-      "change_pct": -0.24,
+      "price": 52658.64,
+      "change_pct": 0.3,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4055.0,
-      "change_pct": 1.45,
+      "price": 4062.9,
+      "change_pct": 0.04,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 79.89,
-      "change_pct": 2.24,
+      "price": 80.21,
+      "change_pct": 1.1,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64970.71,
-      "change_pct": 4.39,
+      "price": 64814.41,
+      "change_pct": -0.22,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.34,
-      "change_pct": 0.34,
+      "price": 1.35,
+      "change_pct": 1.08,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.76,
-      "change_pct": -0.25,
+      "change_pct": -0.18,
       "symbol": "CNY=X"
     }
   }
