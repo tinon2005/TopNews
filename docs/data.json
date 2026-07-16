@@ -1,33 +1,20 @@
 {
-  "date": "2026年07月16日",
-  "date_iso": "2026-07-16",
-  "generated_at": "2026-07-16T07:35:06.484142+08:00",
+  "date": "2026年07月17日",
+  "date_iso": "2026-07-17",
+  "generated_at": "2026-07-17T07:14:06.883409+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Lucas Ropek",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move - TechCrunch",
-      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-      "publishedAt": "2026-07-14T22:22:24Z",
-      "content": "OpenAI’s first foray into hardware devices is reported to be a mobile smart speaker with integrated AI capabilities that can sync with ChatGPT and provide other home AI services. \r\nBloomberg reported… [+2527 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "David Ingram",
-      "title": "How a bungled email from Apple’s lawyer soured talks with OpenAI months before Apple sued - NBC News",
-      "description": "A lawyer for Apple apologized for mixing up two OpenAI employees with the names Wang and Chang.",
-      "url": "https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251013-Sam-Altman-aa-1235-873858.jpg",
-      "publishedAt": "2026-07-14T21:18:57Z",
-      "content": "Apple alleged in a lawsuit last week that OpenAI never responded to its concerns this year about what Apple believed was trade secret theft. But emails reviewed by NBC News show thats not the full st… [+393 chars]"
+      "author": "Julia Gomez",
+      "title": "National Hot Dog Day is here. How you can score free hot dogs - USA Today",
+      "description": "The third Wednesday of every July is National Hot Dog Day. Here's where you can celebrate.",
+      "url": "https://www.usatoday.com/story/money/food/2026/07/15/naitonal-hot-dog-day-2026-deals-free-food/90901191007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90926760007-20260704-t-173334-z-1294544235-rc-257-maqomrj-rtrmadp-3-usajulyfourthnathans.JPG?crop=5499,3093,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-15T21:48:00Z",
+      "content": "National Hot Dog Day is today and whether you prefer a Coney dog, a Chicago dog or chili dogs, one thing is certain: eating hot dogs is a beloved American tradition.\r\nNational Hot Dog Day falls on th… [+5136 chars]"
     },
     {
       "source": {
@@ -35,204 +22,217 @@
         "name": "Fox Business"
       },
       "author": "Eric Revell",
-      "title": "United's new seating option ditches the middle seat - Fox Business",
-      "description": "United's new economy offering features a vacant middle seat that's covered from armrest to armrest with a table and cupholders that aisle and window seat passengers may use.",
-      "url": "https://www.foxbusiness.com/lifestyle/uniteds-new-seating-option-ditches-middle-seat",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/united-airlines-airbus-a321-gate-passengers.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-14T20:34:00Z",
-      "content": "United Airlines on Tuesday unveiled a new economy offering on its new Airbus A321XLR aircraft that will give passengers some extra elbow room access to a shared table across an open middle seat.\r\nUni… [+2961 chars]"
+      "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock - Fox Business",
+      "description": "The 95-year-old investor redirected nearly $6 billion in Berkshire Hathaway stock to his children's foundations after cutting Gates Foundation ties.",
+      "url": "https://www.foxbusiness.com/markets/warren-buffett-excludes-gates-foundation-from-his-annual-donations-berkshire-stock",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/Warren-Buffett-Berkshire-Hathaway-1.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-15T20:26:00Z",
+      "content": "Warren Buffett said that it didn't come as a surprise when he told Bill Gates about his decision to stop donating to the Gates Foundation after partnering on the group's philanthropic initiatives for… [+2931 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
+        "name": "Investor's Business Daily"
       },
-      "author": "The Associated Press",
-      "title": "Subaru issues recall for 541,000 SUVs over label with incorrect weight rating - ABC News - Breaking News, Latest News and Videos",
-      "description": "Subaru of America is recalling over 541,000 Crosstrek, Forester and Ascent vehicles in the U.S. due to an inaccurate label",
-      "url": "https://abcnews.com/Business/wireStory/subaru-issues-recall-541000-suvs-label-incorrect-weight-134761376",
-      "urlToImage": "https://i.abcnewsfe.com/a/f9bbfab2-940a-42f8-85fc-08dbfeb13816/wirestory_05e27c7958aefdada85daccdf053d4df_16x9.jpg?w=1600",
-      "publishedAt": "2026-07-14T20:16:19Z",
-      "content": "NEW YORK -- Subaru of America is recalling more than 541,000 of its Crosstrek, Forester, and Ascent SUVs due to an inaccurate label attached to the vehicles.\r\nAccording to a notice published by the N… [+1367 chars]"
+      "author": null,
+      "title": "Why This Biotech Stock, With Its First FDA Approval, Just Crashed By Double Digits - Investor's Business Daily",
+      "description": "Celcuity just won FDA approval for its first drug, a treatment for metastatic breast cancer.",
+      "url": "https://www.investors.com/news/technology/celcuity-stock-fda-approval-breast-cancer-treatment/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/07/Stock-cancertreatment-01-shutt.jpg",
+      "publishedAt": "2026-07-15T20:16:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Ty Roush",
-      "title": "IBM Shares Crashed 25% In Worst Day Ever—Here’s Why - Forbes",
-      "description": "“What played out was worse than our expectations,” CEO Arvind Krishna warned investors.",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/07/14/ibm-shares-crashed-25-in-worst-day-ever-heres-why/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a564f18a6d31425969051ae/0x0.jpg?format=jpg&crop=2551,1436,x0,y78,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-07-14T20:14:00Z",
-      "content": "IBMs stock plummeted on Tuesday in its largest single-day loss in its 115-year history, after CEO Arvind Krishna warned investors the computing firms latest quarter was worse than our expectations wh… [+3928 chars]"
+      "author": "Pras Subramanian",
+      "title": "SpaceX stock hits all-time low, dips below IPO price - Yahoo Finance",
+      "description": "SpaceX stock slid on Wednesday, breaching a crucial price level.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-hits-all-time-low-dips-below-ipo-price-150542970.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7BE90DC58E98995AD87970852FB1FF35AA9969802364AD026E15D98DAA5789F9/subgraphmysterio/resizefill_w1200_h834;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F75bdfcf2-981c-4f3c-80a2-4812a65fac2a",
+      "publishedAt": "2026-07-15T20:13:12Z",
+      "content": "SpaceX (SPCX) stock slid on Wednesday, breaching a crucial price level.\r\nOn Wednesday, SpaceX shares dipped to a new all-time low of $132.75, dropping below its IPO price of $135, closing at $135.27.… [+2623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Leslie Josephs",
+      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs - CNBC",
+      "description": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.",
+      "url": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108319145-1781037965057-gettyimages-2280763717-jr_18752_2ksknfd9.jpeg?v=1784148586&w=1920&h=1080",
+      "publishedAt": "2026-07-15T20:02:58Z",
+      "content": "United Airlines' second-quarter results came in ahead of Wall Street estimates, but billions of dollars in added fuel costs continue to weigh on earnings, the carrier said Wednesday.\r\nHere is what Un… [+2521 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "description": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 17:29:26 GMT"
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "description": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 21:44:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "description": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 21:55:04 GMT"
+      "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+      "description": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 16:36:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Argentina face fine for Falklands banner in semi-final win",
-      "description": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 22:49:47 GMT"
+      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "description": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 13:08:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-      "description": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
-      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 23:02:37 GMT"
+      "title": "Fifa 'assessing match reports' over Falklands banner",
+      "description": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:44:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "More people around the world now favour China over the US, Pew study suggests",
-      "description": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
-      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 17:02:41 GMT"
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "description": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 17:22:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "US military to start testosterone  testing, Hegseth says",
-      "description": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 22:46:02 GMT"
+      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "description": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:52:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
-      "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 23:02:49 GMT"
+      "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
+      "description": "Smoke from more than 800 blazes has affected cities from Toronto to New York, as well as the US Midwest.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 19:58:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-      "description": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 21:21:19 GMT"
+      "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+      "description": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 21:22:09 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump Media to sell early access to key social posts",
+      "description": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 22:42:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "description": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 11:31:15 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "description": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:52:35 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Investigation into parking tickets for drivers queuing at petrol stations",
+      "description": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 17:19:20 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Who is the frontrunner to be the UK's next chancellor?",
+      "description": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 10:03:05 GMT"
     },
     {
       "source": "BBC",
       "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
       "description": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
       "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 23:00:42 GMT"
+      "publishedAt": "Thu, 16 Jul 2026 06:40:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "SpaceX share price drops below stock market debut",
-      "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
-      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 18:11:57 GMT"
+      "title": "UK economy returns to growth in May",
+      "description": "The modest growth reverses a slight contraction that had been seen the previous month.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 08:43:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
-      "description": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
-      "url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 22:25:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Salary information to be shown on job ads under new laws",
-      "description": "The government argues the move would help jobseekers and could reduce pay discrimination claims.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 18:46:26 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
-      "description": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 17:13:06 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Cash-strapped Thames Water poses big test for Burnham",
-      "description": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 12:09:08 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Brewdog co-founder James Watt launches bid to buy back beer firm",
-      "description": "Watt says he has made an offer to buy back the craft beer business months after it was sold to a US company.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vyv2v2vmzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 15:14:39 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Don't panic - five ways to stop your kids' endless scrolling",
-      "description": "Parenting experts share their tips on how to keep children's screen time under control.",
-      "url": "https://www.bbc.co.uk/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 11:13:40 GMT"
+      "title": "TikTok faces Ofcom investigation over child age checks",
+      "description": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 11:08:33 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 10,
-      "GLP-1": 12,
-      "Iran oil": 10,
-      "Federal Reserve": 8,
-      "Bitcoin": 69
+      "GLP-1": 31,
+      "Iran oil": 8,
+      "Federal Reserve": 6,
+      "Bitcoin": 73
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26269.23,
-      "change_pct": 1.53,
+      "price": 25881.95,
+      "change_pct": -0.86,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7572.4,
-      "change_pct": 0.76,
+      "price": 7533.77,
+      "change_pct": -0.13,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52658.64,
-      "change_pct": 0.3,
+      "price": 52552.97,
+      "change_pct": 0.09,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4062.9,
-      "change_pct": 0.04,
+      "price": 3982.0,
+      "change_pct": -1.53,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 80.21,
-      "change_pct": 1.1,
+      "price": 78.93,
+      "change_pct": -0.84,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64814.41,
-      "change_pct": -0.22,
+      "price": 63871.89,
+      "change_pct": -1.3,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 1.08,
+      "change_pct": -0.49,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.76,
-      "change_pct": -0.18,
+      "change_pct": -0.07,
       "symbol": "CNY=X"
     }
   }
