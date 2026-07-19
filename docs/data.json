@@ -1,104 +1,151 @@
 {
-  "date": "2026年07月19日",
-  "date_iso": "2026-07-19",
-  "generated_at": "2026-07-19T06:33:18.616848+08:00",
+  "date": "2026年07月20日",
+  "date_iso": "2026-07-20",
+  "generated_at": "2026-07-20T06:36:41.751758+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Erika Edwards, Sara G. Miller",
-      "title": "Taylor Farms recalls iceberg lettuce amid cyclosporiasis outbreak - NBC News",
-      "description": "Federal health officials have told people to avoid lettuce from Taco Bell restaurants in five states: Kentucky, Indiana, Michigan, Ohio and West Virginia.",
-      "url": "https://www.nbcnews.com/health/health-news/fda-names-source-cyclosporiasis-outbreak-rcna587899",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260716-iceberg-lettuce-ww-1457-482a0a.jpg",
-      "publishedAt": "2026-07-17T19:24:00Z",
-      "content": "Taylor Fresh Foods said Friday it was voluntarily removing all iceberg lettuce sourced from central Mexico from the U.S. \r\nSubscribe to read this story ad-free\r\nGet unlimited access to ad-free articl… [+3961 chars]"
+      "author": "Stan Choe",
+      "title": "The sell-off for AI stars worsens, while oil prices keep jumping - AP News",
+      "description": "The sell-off for AI winners deepened and yanked stock markets lower worldwide. The S&P 500 fell 1% Friday to finish its first losing week in the last three and only its third since March. The Dow Jones Industrial Average dropped 0.8%, and the Nasdaq composite…",
+      "url": "https://apnews.com/article/stocks-markets-ai-iran-trump-rates-65449e9565fba441a617f9517e097f5a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/66d10ef/2147483647/strip/true/crop/3842x2560+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2Fb0%2F02e4ff60507954a1302a09d15928%2Fd66fc1f89f8f49158f7a675feb8243c4",
+      "publishedAt": "2026-07-18T18:39:00Z",
+      "content": "NEW YORK (AP) The sell-off for winners of the artificial-intelligence boom deepened Friday and yanked stock markets lower worldwide. Oil prices, meanwhile, continued to jump because of the war with I… [+4871 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Stephen Miller says Trump administration is pursuing policy to debank illegal immigrants - Fox News",
+      "description": "Stephen Miller says the Trump administration is debanking illegal immigrants to shut down their financial access and drive self-deportation.",
+      "url": "https://www.foxnews.com/politics/stephen-miller-trump-administration-pursuing-policy-debank-illegal-immigrants",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/stephen-miller.png",
+      "publishedAt": "2026-07-18T18:23:50Z",
+      "content": "White House deputy chief of staff Stephen Miller said Friday that the Trump administration is seeking to debank illegal immigrants as an incentive for them to self-deport from the United States.\r\nMil… [+2180 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year - TechCrunch",
+      "description": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Honda-Prologue-at-Tesla-Supercharger1.jpg?resize=1200,801",
+      "publishedAt": "2026-07-18T16:30:00Z",
+      "content": "The Honda Prologue, you may have heard, is officially dead a decision the company confirmed to TechCrunch, removing the last all-electric vehicle from the automaker’s U.S. portfolio. The Prologue’s d… [+7949 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Sean Conlon, Chloe Taylor, Justina Lee, Fred Imbert",
-      "title": "S&P 500 falls 1%, heads for losing week, led by chipmakers; Netflix plunges: Live updates - CNBC",
-      "description": "The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued to strike Iran overnight.",
-      "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335480-17841345462026-07-15t165137z_1758727972_rc2demafvplp_rtrmadp_0_usa-stocks.jpeg?v=1784134685&w=1920&h=1080",
-      "publishedAt": "2026-07-17T19:12:00Z",
-      "content": "Stocks fell again on Friday, with Wall Street posting a weekly decline, as traders weighed the latest moves in semiconductor names along with recent quarterly reports.\r\nThe broad market index lost 1.… [+2757 chars]"
+      "author": "Claire Boston",
+      "title": "Foreclosures hit highest level since 2019, sparking interest from bargain hunters - Yahoo Finance",
+      "description": "Foreclosure sales can mean hefty discounts for buyers willing to brave complex closing process and potential renovations.",
+      "url": "https://finance.yahoo.com/real-estate/article/foreclosures-hit-highest-level-since-2019-sparking-interest-from-bargain-hunters-162602374.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E2E30D4CB874CA20CB9170922ADFF5C3DE8274640AA30CEF0C6E2755449718E7/subgraphmysterio/resizefill_w1200_h577;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Ffb13f9ad-3f59-4003-85d9-6c3837e133b7",
+      "publishedAt": "2026-07-18T16:26:02Z",
+      "content": "After years at near record-low levels, foreclosures are on the rise again. For some homebuyers, that can mean a rare opportunity to enter the market at lower prices. \r\nThe median foreclosed home sell… [+5384 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "KELOLAND.com"
       },
-      "author": "Mackenzie Tatananni",
-      "title": "Why This Surgical Robot Stock Is Still a Buy During Its Worst Day in 4 Years - Barron's",
-      "description": "Intuitive Surgical stock falls sharply after earnings, but this analyst believes investors are missing part of the picture.",
-      "url": "https://www.barrons.com/articles/intuitive-surgical-stock-price-earnings-3941c30a",
-      "urlToImage": "https://images.barrons.com/im-72447636/social",
-      "publishedAt": "2026-07-17T19:02:00Z",
-      "content": "Shares ofIntuitive Surgical, the undisputed leader in surgical robots, fell sharply following the companys latest quarterly earnings report. Is Wall Street overreacting?\r\nCopyright ©2026Dow Jones &am… [+69 chars]"
+      "author": "Eric Mayer, Perry Groten",
+      "title": "Sanford Health announces T. Denny has died - KELOLAND.com",
+      "description": "SIOUX FALLS, S.D. (KELO) — South Dakota’s most well-known billionaire has died. On Saturday morning, Sanford Health CEO Bill Gassen announced in an email to Sanford employees Thomas Denny Sanford died. Sanford was 90 years old and died on Saturday, according …",
+      "url": "https://www.keloland.com/news/local-news/sanford-health-announces-t-denny-has-died/",
+      "urlToImage": "https://www.keloland.com/wp-content/uploads/sites/103/2026/07/Denny-Sanford.jpg?w=1280",
+      "publishedAt": "2026-07-18T16:21:55Z",
+      "content": "SIOUX FALLS, S.D. (KELO) — South Dakotas most well-known billionaire has died.\r\nOn Saturday morning, Sanford Health CEO Bill Gassen announced in an email to Sanford employees Thomas Denny Sanford die… [+2308 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "description": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 21:12:28 GMT"
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "description": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 19:45:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "description": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 13:06:25 GMT"
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 12:53:20 GMT"
     },
     {
       "source": "BBC",
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "description": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 19:34:16 GMT"
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "description": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 18:25:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "description": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 19:04:09 GMT"
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "description": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 01:47:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "German politician resigns over surrogacy child controversy",
-      "description": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 15:23:31 GMT"
+      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "description": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 14:50:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
-      "description": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 11:10:20 GMT"
+      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "description": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 18:18:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-      "description": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 07:05:19 GMT"
+      "title": "Health officials identify source of US explosive diarrhoea outbreak",
+      "description": "The US Food and Drug Administration says iceberg lettuce supplied by Taylor Farms and sold at Taco Bell and Walmart locations was the source of cyclosporiasis infections.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 15:17:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 17:29:50 GMT"
+      "title": "Neighbours actor Terence Donovan dies aged 90",
+      "description": "His son, actor Jason Donovan, posted to social media that his father died on Saturday night peacefully in Melbourne, Australia",
+      "url": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 08:18:32 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+      "description": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
+      "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 18:35:16 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "description": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 01:47:59 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Chinese firm seeks compensation over British Steel nationalisation",
+      "description": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 10:59:07 GMT"
     },
     {
       "source": "BBC",
@@ -109,17 +156,17 @@
     },
     {
       "source": "BBC",
-      "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-      "description": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
-      "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 05:00:08 GMT"
+      "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
+      "description": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 14:27:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Five headaches Andy Burnham will have to deal with as PM",
-      "description": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
-      "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 05:59:36 GMT"
+      "title": "The hidden cost of the night shift and how to sleep it off",
+      "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
+      "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 00:01:55 GMT"
     },
     {
       "source": "BBC",
@@ -130,31 +177,10 @@
     },
     {
       "source": "BBC",
-      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-      "description": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 16:53:04 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "China hits out at British Steel nationalisation",
-      "description": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 16:44:22 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "The financial winners and losers from the World Cup",
       "description": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
       "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 17 Jul 2026 11:36:11 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-      "description": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 23:14:11 GMT"
     }
   ],
   "reuters": [],
@@ -162,9 +188,9 @@
     "finance_keywords": {
       "AI stocks": 6,
       "GLP-1": 10,
-      "Iran oil": 15,
-      "Federal Reserve": 7,
-      "Bitcoin": 62
+      "Iran oil": 24,
+      "Federal Reserve": 8,
+      "Bitcoin": 59
     },
     "trending_searches": []
   },
@@ -185,23 +211,23 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4018.8,
-      "change_pct": 0.83,
+      "price": 3999.3,
+      "change_pct": -0.33,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 81.78,
-      "change_pct": 3.58,
+      "price": 84.17,
+      "change_pct": 2.04,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64698.07,
-      "change_pct": 1.25,
+      "price": 64689.95,
+      "change_pct": -0.16,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.35,
-      "change_pct": -0.66,
+      "price": 1.34,
+      "change_pct": -0.69,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
