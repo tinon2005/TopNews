@@ -1,238 +1,225 @@
 {
-  "date": "2026年07月21日",
-  "date_iso": "2026-07-21",
-  "generated_at": "2026-07-21T07:34:15.134329+08:00",
+  "date": "2026年07月22日",
+  "date_iso": "2026-07-22",
+  "generated_at": "2026-07-22T07:15:31.935354+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Hannah Erin Lang, Julia Amann, Heather Haddon, Alison Sider, WSJ Staff, Caitlin McCabe, Heather Gillers",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Edge Higher; Oil Prices in Focus as Mideast Conflict Continues — Live Updates - WSJ",
+      "description": "Oil edges higher as Mideast tensions continue",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026",
+      "urlToImage": "https://images.wsj.net/im-34062673/social",
+      "publishedAt": "2026-07-21T00:40:00Z",
+      "content": "A Monday rally in chip stocks lost steam as AI-bubble anxieties and Mideast tensions continued to weigh on markets.\r\nThe PHLX Semiconductor Index finished the day 0.6% higher, but the chip benchmark … [+1175 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Fox Business"
       },
       "author": "Sophia Compton",
-      "title": "China cracks down on chatbot romances as birthrate crisis worsens: report - Fox Business",
-      "description": "The new rules reportedly aim to curb emotional dependence on AI chatbots as China grapples with a shrinking population and record-low birthrate.",
-      "url": "https://www.foxbusiness.com/technology/china-cracks-down-chatbot-romances-birthrate-crisis-worsens-report",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/china-flag-skyscrapers.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-19T23:26:00Z",
-      "content": "China is reportedly tightening restrictions on AI companion chatbots as the country grapples with a shrinking population and record-low birthrate.\r\nNew rules that went into effect Wednesday prohibit … [+2933 chars]"
+      "title": "New Boeing aircraft development hampered by backlog of existing orders, says CEO - Fox Business",
+      "description": "The aerospace giant is evaluating a possible new airplane design but says it must first improve its finances, technology and aircraft deliveries.",
+      "url": "https://www.foxbusiness.com/markets/new-boeing-aircraft-development-hampered-backlog-existing-orders-says-ceo",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/boeing-ceo-kelly-ortberg.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-20T23:39:00Z",
+      "content": "Boeing CEO Kelly Ortberg said the global aerospace company has begun early work on a possible new airplane design but is not yet ready to move forward.\r\nOrtberg, who became president and CEO in Augus… [+2792 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Jenny Lee",
-      "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says - CNBC",
-      "description": "Speaking in an exclusive interview with CNBC, TSMC's Wendell Huang said the fresh investment comes on the back of robust customer demand.",
-      "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108337070-1784504520587-108337070-1784504458735-gettyimages-2260914479-4075_48_th-0660-d.jpg?v=1784504533&w=1920&h=1080",
-      "publishedAt": "2026-07-19T23:09:49Z",
-      "content": "TSMC is racing to accelerate capacity at its Arizona factory as the company continues to see a \"multi-year demand mega trend\" from its customers, Chief Financial Officer Wendell Huang told CNBC.\r\nTSM… [+3338 chars]"
+      "author": "Hugh Son",
+      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices - CNBC",
+      "description": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
+      "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213166-1760638891612-gettyimages-2241014705-IMF_WORLD_BANK.jpeg?v=1784579291&w=1920&h=1080",
+      "publishedAt": "2026-07-20T23:01:01Z",
+      "content": "Jamie Dimon, chief executive officer of JPMorgan Chase &amp; Co., speaks during the 2025 Institute of International Finance annual membership meeting in Washington, Oct. 16, 2025.\r\nJPMorgan Chase CEO… [+3198 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Grace Thomas, Hallie Jackson",
-      "title": "How Burger King is preparing for the GLP-1 revolution - NBC News",
-      "description": "As weight loss drugs reshape how Americans eat, Burger King is gearing up for a future where customers still want fast food — just less of it.",
-      "url": "https://www.nbcnews.com/business/ceo-interviews/burger-king-glp1s-tom-curtis-rcna588024",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260717-burger-king-ceo-ew-154p-be5687.jpg",
-      "publishedAt": "2026-07-19T23:01:43Z",
-      "content": "As weight loss drugs reshape how Americans eat, Burger King is gearing up for a future where customers still want fast food just less of it.\r\nSubscribe to read this story ad-free\r\nGet unlimited acces… [+3709 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Maria Curi",
-      "title": "Top Pentagon official takes shot at OpenAI's Dean Ball - Axios",
-      "description": "\"Every industry/ecosystem has its supreme village idiot,\"  Defense official said today.",
-      "url": "https://www.axios.com/2026/07/19/pentagon-openai-dean-ball-trump-ai",
-      "urlToImage": "https://images.axios.com/gd2W4d-O-XzpQZW6XeqW67EtsxY=/0x52:5074x2906/1366x768/2026/07/19/1784497170597.jpeg",
-      "publishedAt": "2026-07-19T22:03:47Z",
-      "content": "State of play: The Trump administration is grappling with how to balance competition and cybersecurity concerns as increasingly capable Chinese AI models come onto the scene. \r\n<ul><li>Ball said the … [+1569 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "What to watch for after Jensen Huang’s Japan visit - TechCrunch",
-      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/getty-japan-flag-distance.jpg?resize=1200,827",
-      "publishedAt": "2026-07-19T21:16:07Z",
-      "content": "Nvidias chief Jensen Huang spent two days July 15 and 16 in Tokyo, courting Japans industrial and chip-supply elite, weeks after a keynote in Taiwan,and months after a visit to South Korea. He left w… [+5481 chars]"
+      "author": "WSJ",
+      "title": "Exclusive | Icahn to Sell Auto-Service Chain Pep Boys to Mavis for $700 Million - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/deals/icahn-to-sell-auto-service-chain-pep-boys-to-mavis-for-700-million-8b7b80f8",
+      "urlToImage": null,
+      "publishedAt": "2026-07-20T22:02:00Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Trump imposes 50% tariff on Canadian imports",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "description": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 19:57:38 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 18:07:34 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
       "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 22:26:34 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 17:33:22 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "description": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 12:48:37 GMT"
     },
     {
       "source": "BBC",
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "description": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
       "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:09:31 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 16:10:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "description": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:30:19 GMT"
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "description": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 15:54:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tate brothers appear in US court for extradition proceedings",
-      "description": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
-      "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 19:05:50 GMT"
+      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+      "description": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 16:44:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "description": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:03:24 GMT"
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "description": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 15:57:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "Rare identical quadruplets born in Australia",
-      "description": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 12:57:32 GMT"
+      "title": "Will AI help you do your job or replace you?",
+      "description": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+      "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 23:04:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "description": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 16:10:38 GMT"
+      "title": "VAT to be cut from household electricity bills in October",
+      "description": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 14:25:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Boy, 13, dies during World Cup celebrations in Spain",
-      "description": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 10:02:44 GMT"
+      "title": "Ozempic-maker accuses rival of false advertising",
+      "description": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 15:20:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
-      "description": "Buying on social media live streams is fast becoming regular consumer behaviour for many.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 23:06:04 GMT"
+      "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
+      "description": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
+      "url": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 10:30:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
-      "description": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
-      "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 18:44:55 GMT"
+      "title": "Lindt's Easter chocolate sales fall after price hike",
+      "description": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.",
+      "url": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 15:37:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Burnham has big ideas - but what will they cost?",
-      "description": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
-      "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:47:14 GMT"
+      "title": "Ryanair broken window may have been caused by 'foreign object'",
+      "description": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 13:10:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Burnham promises help with your money. How could it affect you?",
-      "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 18:22:46 GMT"
+      "title": "UK borrows less than expected in June but public finances remain a challenge",
+      "description": "Public finances for last month were better than expected but the UK is carrying major debt.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 12:36:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "The 20-somethings betting big on tech stocks",
-      "description": "The BBC hears from people about the risks and rewards of investing in technology shares.",
-      "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 22:00:41 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-      "description": "Firms have to balance hi-tech and age-old skills when training up young workers.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 23:07:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump imposes 50% tariff on Canadian imports",
-      "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 22:26:34 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-      "description": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 10:12:36 GMT"
+      "title": "Three reasons why UK electricity prices are so high",
+      "description": "The government has announced it will cut VAT on domestic electricity to zero but Britons still pay more for power than many other European nations.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 16:11:14 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 14,
-      "GLP-1": 13,
+      "AI stocks": 18,
+      "GLP-1": 14,
       "Iran oil": 19,
       "Federal Reserve": 12,
-      "Bitcoin": 79
+      "Bitcoin": 100
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25508.07,
-      "change_pct": -1.44,
+      "price": 25837.21,
+      "change_pct": 1.24,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7443.28,
-      "change_pct": -1.2,
+      "price": 7509.2,
+      "change_pct": 0.69,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51839.26,
-      "change_pct": -1.36,
+      "price": 52224.64,
+      "change_pct": 0.15,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4008.9,
-      "change_pct": -0.17,
+      "price": 4084.6,
+      "change_pct": 1.85,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 82.55,
-      "change_pct": 0.08,
+      "price": 84.67,
+      "change_pct": 1.73,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 65214.79,
-      "change_pct": 0.81,
+      "price": 66252.51,
+      "change_pct": 1.57,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": -0.13,
+      "change_pct": -0.42,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.76,
-      "change_pct": -0.22,
+      "price": 6.77,
+      "change_pct": -0.11,
       "symbol": "CNY=X"
     }
   }
