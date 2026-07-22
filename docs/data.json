@@ -1,225 +1,238 @@
 {
-  "date": "2026年07月22日",
-  "date_iso": "2026-07-22",
-  "generated_at": "2026-07-22T07:15:31.935354+08:00",
+  "date": "2026年07月23日",
+  "date_iso": "2026-07-23",
+  "generated_at": "2026-07-23T07:33:23.563418+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Hannah Erin Lang, Julia Amann, Heather Haddon, Alison Sider, WSJ Staff, Caitlin McCabe, Heather Gillers",
-      "title": "Stock Market Today: Nasdaq, S&P 500 Edge Higher; Oil Prices in Focus as Mideast Conflict Continues — Live Updates - WSJ",
-      "description": "Oil edges higher as Mideast tensions continue",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026",
-      "urlToImage": "https://images.wsj.net/im-34062673/social",
-      "publishedAt": "2026-07-21T00:40:00Z",
-      "content": "A Monday rally in chip stocks lost steam as AI-bubble anxieties and Mideast tensions continued to weigh on markets.\r\nThe PHLX Semiconductor Index finished the day 0.6% higher, but the chip benchmark … [+1175 chars]"
+      "author": "CNBC",
+      "title": "OpenAI appoints two new members to board of directors - CNBC",
+      "description": null,
+      "url": "https://www.cnbc.com/2026/07/21/openai-appoints-two-new-members-to-board-of-directors.html",
+      "urlToImage": null,
+      "publishedAt": "2026-07-21T21:17:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "William Gavin",
+      "title": "SpaceX’s stock snaps brutal losing streak ahead of key Starship rocket launch - MarketWatch",
+      "description": "Plus, investors just found out when insiders can start dumping their shares",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273",
+      "urlToImage": "https://images.mktw.net/im-80723995/social",
+      "publishedAt": "2026-07-21T20:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models - TechCrunch",
+      "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "publishedAt": "2026-07-21T20:56:55Z",
+      "content": "OpenAI admitted Tuesday that one of its AI models breached the systems of Hugging Face, the unaffiliated AI hosting platform, during an internal cybersecurity test that went awry. The models reported… [+3203 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Fox Business"
       },
-      "author": "Sophia Compton",
-      "title": "New Boeing aircraft development hampered by backlog of existing orders, says CEO - Fox Business",
-      "description": "The aerospace giant is evaluating a possible new airplane design but says it must first improve its finances, technology and aircraft deliveries.",
-      "url": "https://www.foxbusiness.com/markets/new-boeing-aircraft-development-hampered-backlog-existing-orders-says-ceo",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/boeing-ceo-kelly-ortberg.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-20T23:39:00Z",
-      "content": "Boeing CEO Kelly Ortberg said the global aerospace company has begun early work on a possible new airplane design but is not yet ready to move forward.\r\nOrtberg, who became president and CEO in Augus… [+2792 chars]"
+      "author": "Eric Revell",
+      "title": "Anduril, Archer Aviation unveil hybrid-electric VTOL for defense and commercial use - Fox Business",
+      "description": "Anduril unveiled Thunder at Farnborough Airshow, a hybrid-electric VTOL platform co-developed with Archer Aviation for defense and commercial use.",
+      "url": "https://www.foxbusiness.com/technology/anduril-archer-aviation-unveil-hybrid-electric-vtol-defense-commercial-use",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/archer-anduril-1.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-21T20:51:00Z",
+      "content": "Anduril and Archer Aviation on Monday announced the joint development of a vertical take-off and landing (VTOL) platform that can serve both commercial and defense applications.\r\nThe defense variant … [+2976 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Hugh Son",
-      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices - CNBC",
-      "description": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
-      "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213166-1760638891612-gettyimages-2241014705-IMF_WORLD_BANK.jpeg?v=1784579291&w=1920&h=1080",
-      "publishedAt": "2026-07-20T23:01:01Z",
-      "content": "Jamie Dimon, chief executive officer of JPMorgan Chase &amp; Co., speaks during the 2025 Institute of International Finance annual membership meeting in Washington, Oct. 16, 2025.\r\nJPMorgan Chase CEO… [+3198 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Exclusive | Icahn to Sell Auto-Service Chain Pep Boys to Mavis for $700 Million - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/deals/icahn-to-sell-auto-service-chain-pep-boys-to-mavis-for-700-million-8b7b80f8",
-      "urlToImage": null,
-      "publishedAt": "2026-07-20T22:02:00Z",
-      "content": null
+      "author": "Louis Juricic",
+      "title": "Supermicro shares surge 20% as robust margins, $60B backlog eclipse soft revenue - Yahoo Finance",
+      "description": "Investing.com -- Shares of Super Micro Computer (NASDAQ:SMCI) rocketed 20% in after-hours trading on Tuesday, driven by a blockbuster preliminary fourth-quar...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-shares-surge-20-robust-204607039.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-07-21T20:46:07Z",
+      "content": "Investing.com -- Shares of Super Micro Computer (NASDAQ:SMCI) rocketed 20% in after-hours trading on Tuesday, driven by a blockbuster preliminary fourth-quarter update that showcased record-breaking … [+1612 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "description": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 19:57:38 GMT"
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "description": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 23:21:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 18:07:34 GMT"
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "description": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 22:17:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 17:33:22 GMT"
+      "title": "Tankers make sharp U-turns after Houthi shipping threat",
+      "description": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 14:42:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "description": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 12:48:37 GMT"
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "description": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 23:06:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "description": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 16:10:56 GMT"
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "description": "Authorities are investigating the cause of the blaze in Lima as local media report\n it may have been arson.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 20:56:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-      "description": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 15:54:11 GMT"
+      "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+      "description": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
+      "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 14:14:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
-      "description": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 16:44:30 GMT"
+      "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+      "description": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 15:50:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
-      "description": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 15:57:29 GMT"
+      "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "description": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 17:54:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Will AI help you do your job or replace you?",
+      "title": "Some food prices have fallen – but inflation expected to rise from here",
+      "description": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 10:10:01 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Airport drop-off fees up by a third - here are the priciest",
+      "description": "The cost of parking closest to the terminal just for a few minutes has hit £10 at two of the UK's busiest airports.",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 23:21:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Will your job be replaced by AI? Here are the roles most affected",
       "description": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
       "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 23:04:42 GMT"
+      "publishedAt": "Wed, 22 Jul 2026 07:40:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "VAT to be cut from household electricity bills in October",
-      "description": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 14:25:22 GMT"
+      "title": "Former Lloyd's of London boss's relationship breached rules, firm says",
+      "description": "The insurance market's chairman said the CEO's conduct \"fell significantly below the standards expected of him\".",
+      "url": "https://www.bbc.co.uk/news/articles/cre48d34ewzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 17:08:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ozempic-maker accuses rival of false advertising",
-      "description": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 15:20:10 GMT"
+      "title": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
+      "description": "The BBC speaks to people around the country about their view on the newly-announced bus fare cap.",
+      "url": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 17:07:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
-      "description": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
-      "url": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:30:45 GMT"
+      "title": "Aston Martin secures £550m loan deal",
+      "description": "The luxury car maker says the loans will be used to fund current and future product plans.",
+      "url": "https://www.bbc.co.uk/news/articles/cjejx083jkeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 18:02:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lindt's Easter chocolate sales fall after price hike",
-      "description": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.",
-      "url": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 15:37:58 GMT"
+      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+      "description": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 11:40:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ryanair broken window may have been caused by 'foreign object'",
-      "description": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 13:10:49 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UK borrows less than expected in June but public finances remain a challenge",
-      "description": "Public finances for last month were better than expected but the UK is carrying major debt.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 12:36:29 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Three reasons why UK electricity prices are so high",
-      "description": "The government has announced it will cut VAT on domestic electricity to zero but Britons still pay more for power than many other European nations.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 16:11:14 GMT"
+      "title": "Most bus fares in England to be capped at £2 from January",
+      "description": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+      "url": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 12:26:03 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 18,
-      "GLP-1": 14,
-      "Iran oil": 19,
-      "Federal Reserve": 12,
-      "Bitcoin": 100
+      "AI stocks": 14,
+      "GLP-1": 13,
+      "Iran oil": 18,
+      "Federal Reserve": 27,
+      "Bitcoin": 79
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25837.21,
-      "change_pct": 1.24,
+      "price": 25690.9,
+      "change_pct": 0.72,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7509.2,
-      "change_pct": 0.69,
+      "price": 7498.96,
+      "change_pct": 0.75,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52224.64,
-      "change_pct": 0.15,
+      "price": 52218.58,
+      "change_pct": 0.73,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4084.6,
-      "change_pct": 1.85,
+      "price": 4123.2,
+      "change_pct": 1.28,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 84.67,
-      "change_pct": 1.73,
+      "price": 87.92,
+      "change_pct": 3.54,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 66252.51,
-      "change_pct": 1.57,
+      "price": 65938.86,
+      "change_pct": -0.85,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": -0.42,
+      "change_pct": -0.03,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.77,
-      "change_pct": -0.11,
+      "change_pct": 0.09,
       "symbol": "CNY=X"
     }
   }
