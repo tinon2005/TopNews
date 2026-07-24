@@ -1,232 +1,212 @@
 {
-  "date": "2026年07月24日",
-  "date_iso": "2026-07-24",
-  "generated_at": "2026-07-24T07:15:35.294861+08:00",
+  "date": "2026年07月25日",
+  "date_iso": "2026-07-25",
+  "generated_at": "2026-07-25T07:38:53.666726+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Megan  Cerullo",
-      "title": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
-      "description": "The case accuses OpenAI of practicing medicine without a license and failing to safeguard users seeking health advice.",
-      "url": "https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/22/e5e759fc-8d21-4668-bd54-8c460427154d/thumbnail/1200x630/5a2932fdb6875d5de90066477810af6c/gettyimages-1645690310.jpg",
-      "publishedAt": "2026-07-23T00:07:08Z",
-      "content": "A Florida man sued OpenAI on Wednesday, alleging ChatGPT's medical advice discouraged him from seeking treatment for symptoms that preceded a life-threatening pulmonary embolism, nearly costing him h… [+4726 chars]"
+      "author": "WSJ",
+      "title": "Reality Bites Elon Musk and His Tesla, SpaceX Believers - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/stocks/reality-bites-elon-musk-and-his-tesla-spacex-believers-1b639591",
+      "urlToImage": null,
+      "publishedAt": "2026-07-23T21:04:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Berkeley Lovelace Jr.",
-      "title": "Lettuce may be tip of the iceberg as cyclosporiasis spreads - NBC News",
-      "description": "Shredded iceberg lettuce likely isn’t the only source of cyclosporiasis that’s spreading in the U.S. this summer, but former top Food and Drug Administration officials say we may never be able to pinpoint every food behind the outbreaks.",
-      "url": "https://www.nbcnews.com/health/health-news/lettuce-may-tip-iceberg-cyclosporiasis-spreads-rcna588801",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260716-3x2-Cyclosporiasis-ew-148p-dd7257.jpg",
-      "publishedAt": "2026-07-22T22:55:05Z",
-      "content": "Shredded iceberg lettuce likely isnt the only source of cyclosporiasis thats spreading in the U.S. this summer, but former top Food and Drug Administration officials say we may never be able to pinpo… [+138 chars]"
+      "author": "Jasper Goodman",
+      "title": "Gallego eyes crypto bill ethics counteroffer, calling GOP proposal a ‘piece of s--t’ - Politico",
+      "description": "“Whatever piece of s--t they sent back to us, that was not a serious effort,” said Sen. Ruben Gallego (D-Ariz.).",
+      "url": "https://www.politico.com/live-updates/2026/07/23/congress/gallego-eyes-crypto-bill-ethics-counteroffer-calling-gop-proposal-a-piece-of-shit-01010651",
+      "urlToImage": "https://www.politico.com/dims4/default/ad74183/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9a%2Fca%2F7758e6db4cc3840383afa7eff11c%2Fu-s-congress-38873.jpg",
+      "publishedAt": "2026-07-23T21:00:39Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Samantha Subin, MacKenzie Sigalos, Jonathan Vanian, Jordan Novet",
-      "title": "Alphabet earnings updates: Stock sinks during analyst call as company hikes 2026 capex - CNBC",
-      "description": "Google parent Alphabet reported second-quarter earnings after the bell on Wednesday.",
-      "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267435-1784755787409-108267435-17715197272026-02-18t111630z_1778219502_rc2aojad5g3w_rtrmadp_0_india-ai-google.jpeg?v=1784755801&w=1920&h=1080",
-      "publishedAt": "2026-07-22T22:24:00Z",
-      "content": "Alphabet plans to call on third-party cloud providers to meet feverish computing demand.\r\n\"Given the supply constraints environment, we plan to expand the use of third-party capacity in Q3 as a bridg… [+1129 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Toby Alder",
-      "title": "US Stock Futures Slip on Alphabet, Oil Advances: Markets Wrap - Bloomberg.com",
-      "description": "Asian shares advanced as regional chipmakers gained on expectations they will benefit from the billions spent on the artificial intelligence buildout. Oil extended its rally.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7Q8IvsdjEng/v0/1200x799.jpg",
-      "publishedAt": "2026-07-22T22:12:30Z",
-      "content": "Asian shares advanced as regional chipmakers gained on expectations they will benefit from the billions spent on the artificial intelligence buildout. Oil extended its rally.\r\nMSCIs Asia Pacific equi… [+340 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Steven Tweedie, Lloyd Lee, Ben Shimkus, Rya Jetha, Tom Carter, Samuel O'Brient, Max Adams",
-      "title": "Tesla Q2 earnings recap: Stock falls after profit misses estimates - Business Insider",
-      "description": "Tesla's record Q2 vehicle deliveries helped drive $28.24 billion in revenue, but EPS came in far lower than expected. The stock slide 4% after hours.",
-      "url": "https://www.businessinsider.com/tesla-q2-earnings-updates-tsla-stock-elon-musk-spacex-2026-7#article",
-      "urlToImage": "https://i.insider.com/6a5fccf3ce52cb26b8392079?width=1200&format=jpeg",
-      "publishedAt": "2026-07-22T22:11:46Z",
-      "content": "\"Q2 was a strong quarter for our core vehicle, energy and services businesses as well as our manufacturing, infrastructure and AI initiatives,\" the company said in its earnings release.\r\nThe second-q… [+1296 chars]"
+      "author": "Jordan Novet",
+      "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion - CNBC",
+      "description": "Oracle will supply on-premises software to the U.S. Department of Defense.",
+      "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339513-1784838713932-gettyimages-2194583400-AFP_36V924J.jpeg?v=1784843479&w=1920&h=1080",
+      "publishedAt": "2026-07-23T21:00:25Z",
+      "content": "The Pentagon on Thursday announced a contract with Oracle worth almost $7 billion over a decade, a big win for the software maker, which has been punished by investors this year. The stock rose about… [+1912 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Oil prices hit $100 for the first time since May",
-      "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 15:31:00 GMT"
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "description": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 21:47:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "description": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 17:58:02 GMT"
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 18:51:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "description": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 19:17:42 GMT"
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "description": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 23:01:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "India activist ends hunger strike after 26 days",
-      "description": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 21:27:04 GMT"
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "description": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 17:37:59 GMT"
+      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "description": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 18:13:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-      "description": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 16:50:59 GMT"
+      "title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "description": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 21:02:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
-      "description": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 16:26:49 GMT"
+      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "description": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 13:33:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-      "description": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 11:39:11 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-      "description": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+      "title": "US hits dozens of countries with new wave of tariffs",
+      "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 23:03:29 GMT"
+      "publishedAt": "Fri, 24 Jul 2026 12:40:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK complacent about war threat, warns defence boss",
-      "description": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 23:04:19 GMT"
+      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+      "description": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 23:23:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "We split bills equally even when one of us earned a lot more",
-      "description": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
-      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 23:01:08 GMT"
+      "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+      "description": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 23:31:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+      "description": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
+      "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 14:02:26 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Watch: Another day, more Trump tariffs - but are they working?",
+      "description": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 10:21:31 GMT"
     },
     {
       "source": "BBC",
       "title": "UK mortgage rates rise to highest level for a month",
       "description": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
       "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 23:02:10 GMT"
+      "publishedAt": "Fri, 24 Jul 2026 09:44:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Oil prices hit $100 for the first time since May",
-      "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 15:31:00 GMT"
+      "title": "UK complacent about war threat, warns BAE boss",
+      "description": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 23 Jul 2026 23:04:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-      "description": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 20:58:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
-      "description": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
-      "url": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 14:27:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-      "description": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 16:20:45 GMT"
+      "title": "US hits dozens of countries with new wave of tariffs",
+      "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 12:40:44 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {},
+    "finance_keywords": {
+      "AI stocks": 13,
+      "GLP-1": 13,
+      "Iran oil": 15,
+      "Federal Reserve": 14,
+      "Bitcoin": 89
+    },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25137.69,
-      "change_pct": -2.71,
+      "price": 24975.82,
+      "change_pct": -2.78,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7408.3,
-      "change_pct": -1.34,
+      "price": 7411.98,
+      "change_pct": -1.16,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51711.65,
-      "change_pct": -0.98,
+      "price": 51947.25,
+      "change_pct": -0.52,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4051.2,
-      "change_pct": -2.31,
+      "price": 4055.7,
+      "change_pct": 0.22,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 92.18,
-      "change_pct": 6.16,
+      "price": 90.47,
+      "change_pct": -1.87,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 65135.07,
-      "change_pct": -1.46,
+      "price": 64075.6,
+      "change_pct": -1.49,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": -0.45,
+      "change_pct": -0.42,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.77,
-      "change_pct": -0.09,
+      "change_pct": -0.02,
       "symbol": "CNY=X"
     }
   }
