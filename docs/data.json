@@ -1,62 +1,96 @@
 {
-  "date": "2026年07月25日",
-  "date_iso": "2026-07-25",
-  "generated_at": "2026-07-25T07:38:53.666726+08:00",
+  "date": "2026年07月26日",
+  "date_iso": "2026-07-26",
+  "generated_at": "2026-07-26T07:16:28.780164+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "WSJ",
-      "title": "Reality Bites Elon Musk and His Tesla, SpaceX Believers - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/reality-bites-elon-musk-and-his-tesla-spacex-believers-1b639591",
-      "urlToImage": null,
-      "publishedAt": "2026-07-23T21:04:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Jasper Goodman",
-      "title": "Gallego eyes crypto bill ethics counteroffer, calling GOP proposal a ‘piece of s--t’ - Politico",
-      "description": "“Whatever piece of s--t they sent back to us, that was not a serious effort,” said Sen. Ruben Gallego (D-Ariz.).",
-      "url": "https://www.politico.com/live-updates/2026/07/23/congress/gallego-eyes-crypto-bill-ethics-counteroffer-calling-gop-proposal-a-piece-of-shit-01010651",
-      "urlToImage": "https://www.politico.com/dims4/default/ad74183/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9a%2Fca%2F7758e6db4cc3840383afa7eff11c%2Fu-s-congress-38873.jpg",
-      "publishedAt": "2026-07-23T21:00:39Z",
-      "content": null
+      "author": "Damian J. Troise",
+      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week - AP News",
+      "description": "Stocks drifted on Wall Street and oil prices fell for the first time in a week, even as heavy fighting in the Middle East again threatened to slow the global flow of oil. The S&P 500 was mostly unchanged Friday. The Dow Jones Industrial Average added 0.5%, an…",
+      "url": "https://apnews.com/article/stocks-markets-tariffs-oil-trump-ai-0b9c3b2aa5ca83eb391c1388efe03c97",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fbf126f/2147483647/strip/true/crop/4487x2990+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F37%2F79f4383f370e858a365af8d101b4%2F01365a992299415eaad718a6b5b79b7f",
+      "publishedAt": "2026-07-24T21:16:00Z",
+      "content": "NEW YORK (AP) Stocks drifted to a mixed finish on Wall Street Friday as oil prices slipped for the first time in a week.\r\nEvery major index lost ground overall for the week amid increasing pressure f… [+4536 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Jordan Novet",
-      "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion - CNBC",
-      "description": "Oracle will supply on-premises software to the U.S. Department of Defense.",
-      "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339513-1784838713932-gettyimages-2194583400-AFP_36V924J.jpeg?v=1784843479&w=1920&h=1080",
-      "publishedAt": "2026-07-23T21:00:25Z",
-      "content": "The Pentagon on Thursday announced a contract with Oracle worth almost $7 billion over a decade, a big win for the software maker, which has been punished by investors this year. The stock rose about… [+1912 chars]"
+      "author": "Daniel Howley",
+      "title": "Intel stock falls nearly 8% despite big Q2 earnings beat - Yahoo Finance",
+      "description": "Intel stock fell almost 8% on Friday after posting blowout Q2 earnings after the bell on Thursday.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/intel-stock-falls-nearly-8-despite-big-q2-earnings-beat-121538508.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1CF53899E55D53B908D908C2B4810FB6F6EA55736A0BAFA434444E25B6F45E02/subgraphmysterio/resizefill_w1200_h806;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2Fe71d93ab-3903-4d59-803b-30c8def0ddf9",
+      "publishedAt": "2026-07-24T20:44:56Z",
+      "content": "Intel (INTC) stock fell almost 8% on Friday after posting blowout Q2 earnings after the bell on Thursday, blowing past Wall Street's expectations on both the top and bottom lines and topping third qu… [+3494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "One type of Social Security adjustment could cut the 75-year shortfall in half - Fox Business",
+      "description": "A flat-rate COLA proposal could close 50% of Social Security's 75-year fiscal shortfall, but the cost of waiting since 1987 has been enormous.",
+      "url": "https://www.foxbusiness.com/politics/one-type-social-security-adjustment-could-cut-75-year-shortfall-half",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/us-capitol-dc.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-24T20:00:00Z",
+      "content": "Social Security's looming insolvency in under a decade could be delayed by a change to how the annual cost-of-living adjustment (COLA) is calculated, with a new analysis finding that it could cut the… [+4481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Bradford Betz",
+      "title": "Tech billionaire ordered to pay $645M to ex-wife in South Korea's ‘divorce of the century’ - Fox Business",
+      "description": "A South Korean court ordered SK Group Chairman Chey Tae-won to pay his former wife more than $640 million in the country’s largest divorce asset award.",
+      "url": "https://www.foxbusiness.com/lifestyle/tech-billionaire-ordered-pay-645m-ex-wife-south-koreas-divorce-century",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/5eba1eba-chey-tae-won.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-24T19:54:00Z",
+      "content": "A South Korean court ordered billionaire SK Group Chairman Chey Tae-won to pay his former wife more than $640 million in a divorce settlement that could force him to sell assets, borrow money or pled… [+2362 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "description": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:47:16 GMT"
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 17:13:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "description": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "description": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "description": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT"
     },
     {
       "source": "BBC",
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 18:51:17 GMT"
+      "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT"
     },
     {
       "source": "BBC",
@@ -67,17 +101,10 @@
     },
     {
       "source": "BBC",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "description": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 18:13:02 GMT"
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "description": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 22:49:59 GMT"
     },
     {
       "source": "BBC",
@@ -85,20 +112,6 @@
       "description": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
       "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 24 Jul 2026 21:02:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "description": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 13:33:06 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 12:40:44 GMT"
     },
     {
       "source": "BBC",
@@ -160,11 +173,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 13,
-      "GLP-1": 13,
-      "Iran oil": 15,
-      "Federal Reserve": 14,
-      "Bitcoin": 89
+      "AI stocks": 9,
+      "GLP-1": 15,
+      "Iran oil": 16,
+      "Federal Reserve": 13,
+      "Bitcoin": 78
     },
     "trending_searches": []
   },
@@ -185,28 +198,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4055.7,
-      "change_pct": 0.22,
+      "price": 4070.8,
+      "change_pct": 0.6,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 90.47,
-      "change_pct": -1.87,
+      "price": 89.31,
+      "change_pct": -3.12,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64075.6,
-      "change_pct": -1.49,
+      "price": 64359.11,
+      "change_pct": 0.41,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": -0.42,
+      "change_pct": -0.4,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.77,
-      "change_pct": -0.02,
+      "price": 6.76,
+      "change_pct": -0.16,
       "symbol": "CNY=X"
     }
   }
