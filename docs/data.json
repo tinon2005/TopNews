@@ -1,68 +1,89 @@
 {
-  "date": "2026年07月26日",
-  "date_iso": "2026-07-26",
-  "generated_at": "2026-07-26T07:16:28.780164+08:00",
+  "date": "2026年07月27日",
+  "date_iso": "2026-07-27",
+  "generated_at": "2026-07-27T04:53:10.090668+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Damian J. Troise",
-      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week - AP News",
-      "description": "Stocks drifted on Wall Street and oil prices fell for the first time in a week, even as heavy fighting in the Middle East again threatened to slow the global flow of oil. The S&P 500 was mostly unchanged Friday. The Dow Jones Industrial Average added 0.5%, an…",
-      "url": "https://apnews.com/article/stocks-markets-tariffs-oil-trump-ai-0b9c3b2aa5ca83eb391c1388efe03c97",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fbf126f/2147483647/strip/true/crop/4487x2990+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F37%2F79f4383f370e858a365af8d101b4%2F01365a992299415eaad718a6b5b79b7f",
-      "publishedAt": "2026-07-24T21:16:00Z",
-      "content": "NEW YORK (AP) Stocks drifted to a mixed finish on Wall Street Friday as oil prices slipped for the first time in a week.\r\nEvery major index lost ground overall for the week amid increasing pressure f… [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Daniel Howley",
-      "title": "Intel stock falls nearly 8% despite big Q2 earnings beat - Yahoo Finance",
-      "description": "Intel stock fell almost 8% on Friday after posting blowout Q2 earnings after the bell on Thursday.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/intel-stock-falls-nearly-8-despite-big-q2-earnings-beat-121538508.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1CF53899E55D53B908D908C2B4810FB6F6EA55736A0BAFA434444E25B6F45E02/subgraphmysterio/resizefill_w1200_h806;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2Fe71d93ab-3903-4d59-803b-30c8def0ddf9",
-      "publishedAt": "2026-07-24T20:44:56Z",
-      "content": "Intel (INTC) stock fell almost 8% on Friday after posting blowout Q2 earnings after the bell on Thursday, blowing past Wall Street's expectations on both the top and bottom lines and topping third qu… [+3494 chars]"
+      "author": "Stephen Clark",
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight - Ars Technica",
+      "description": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipflt13_1-1152x648.jpg",
+      "publishedAt": "2026-07-25T17:47:22Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Fox Business"
       },
-      "author": "Eric Revell",
-      "title": "One type of Social Security adjustment could cut the 75-year shortfall in half - Fox Business",
-      "description": "A flat-rate COLA proposal could close 50% of Social Security's 75-year fiscal shortfall, but the cost of waiting since 1987 has been enormous.",
-      "url": "https://www.foxbusiness.com/politics/one-type-social-security-adjustment-could-cut-75-year-shortfall-half",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/us-capitol-dc.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-24T20:00:00Z",
-      "content": "Social Security's looming insolvency in under a decade could be delayed by a change to how the annual cost-of-living adjustment (COLA) is calculated, with a new analysis finding that it could cut the… [+4481 chars]"
+      "author": "Amanda Macias",
+      "title": "Forget gasoline: This overlooked fuel could raise the price of nearly everything you buy - Fox Business",
+      "description": "Diesel prices surged from $3.56 to $5.13 per gallon after the Iran conflict, threatening to raise the prices of groceries and everyday essentials.",
+      "url": "https://www.foxbusiness.com/politics/forget-gasoline-overlooked-fuel-could-raise-price-nearly-everything-you-buy",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/flag-diesel-trucks.png?ve=1&tl=1",
+      "publishedAt": "2026-07-25T15:58:00Z",
+      "content": "The fuel most Americans never think about could become the Iran conflict's biggest economic consequence. While gasoline prices grab headlines, diesel quietly powers the trucks, farms, freight trains … [+3370 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Investor's Business Daily"
       },
-      "author": "Bradford Betz",
-      "title": "Tech billionaire ordered to pay $645M to ex-wife in South Korea's ‘divorce of the century’ - Fox Business",
-      "description": "A South Korean court ordered SK Group Chairman Chey Tae-won to pay his former wife more than $640 million in the country’s largest divorce asset award.",
-      "url": "https://www.foxbusiness.com/lifestyle/tech-billionaire-ordered-pay-645m-ex-wife-south-koreas-divorce-century",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/5eba1eba-chey-tae-won.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-24T19:54:00Z",
-      "content": "A South Korean court ordered billionaire SK Group Chairman Chey Tae-won to pay his former wife more than $640 million in a divorce settlement that could force him to sell assets, borrow money or pled… [+2362 chars]"
+      "author": null,
+      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus - Investor's Business Daily",
+      "description": "Apple, Amazon, Meta, Microsoft, SK Hynix loom with the Nasdaq breaking lower.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-BigWavePipe-08-adobe.jpg",
+      "publishedAt": "2026-07-25T15:36:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Haze Fan, Pei Li",
+      "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
+      "description": "DeepSeek has told prospective investors in its second fundraising round that it’s suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Liang Wenfeng about US-Chinese AI competition went viral.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOMuldH8BI_k/v1/1200x931.jpg",
+      "publishedAt": "2026-07-25T14:49:55Z",
+      "content": "DeepSeek has told prospective investors in its second fundraising round that its suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Li… [+617 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "More than 250,000 flee wildfires in France and Spain",
-      "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 17:13:40 GMT"
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "description": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 19:21:26 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "description": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 20:34:23 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 10:26:05 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 18:40:08 GMT"
     },
     {
       "source": "BBC",
@@ -80,13 +101,6 @@
     },
     {
       "source": "BBC",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "description": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
@@ -101,17 +115,24 @@
     },
     {
       "source": "BBC",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "description": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 22:49:59 GMT"
+      "title": "Water returning to Gatwick Airport after major outage",
+      "description": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 18:50:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "ICC top prosecutor removed over sexual misconduct allegations",
-      "description": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:02:30 GMT"
+      "title": "Rental searches for pet friendly properties drop after law change",
+      "description": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 00:00:49 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+      "description": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 00:17:50 GMT"
     },
     {
       "source": "BBC",
@@ -122,10 +143,10 @@
     },
     {
       "source": "BBC",
-      "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
-      "description": "The government wants to relax wedding laws so couples can get married almost anywhere.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 23:31:11 GMT"
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 10:14:41 GMT"
     },
     {
       "source": "BBC",
@@ -136,47 +157,26 @@
     },
     {
       "source": "BBC",
+      "title": "Paramount and Warner Bros pause $110bn merger amid legal challenge",
+      "description": "Until a judge reaches a final verdict – or until 1 June 2027 – the Hollywood studios will remain completely separate, competing operations.",
+      "url": "https://www.bbc.co.uk/news/articles/c8en74yz5e7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 21:49:25 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
       "description": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
       "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 24 Jul 2026 14:02:26 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Watch: Another day, more Trump tariffs - but are they working?",
-      "description": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
-      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 10:21:31 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UK mortgage rates rise to highest level for a month",
-      "description": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 09:44:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UK complacent about war threat, warns BAE boss",
-      "description": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 23:04:19 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 12:40:44 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 9,
+      "AI stocks": 4,
       "GLP-1": 15,
-      "Iran oil": 16,
-      "Federal Reserve": 13,
+      "Iran oil": 12,
+      "Federal Reserve": 9,
       "Bitcoin": 78
     },
     "trending_searches": []
@@ -199,22 +199,22 @@
     },
     "黃金": {
       "price": 4070.8,
-      "change_pct": 0.6,
+      "change_pct": 0.08,
       "symbol": "GC=F"
     },
     "WTI 原油": {
       "price": 89.31,
-      "change_pct": -3.12,
+      "change_pct": 0.0,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64359.11,
-      "change_pct": 0.41,
+      "price": 64595.33,
+      "change_pct": 0.44,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": -0.4,
+      "change_pct": -0.21,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
