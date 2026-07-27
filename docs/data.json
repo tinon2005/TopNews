@@ -1,225 +1,238 @@
 {
-  "date": "2026年07月27日",
-  "date_iso": "2026-07-27",
-  "generated_at": "2026-07-27T04:53:10.090668+08:00",
+  "date": "2026年07月28日",
+  "date_iso": "2026-07-28",
+  "generated_at": "2026-07-28T05:05:57.521458+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Stephen Clark",
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight - Ars Technica",
-      "description": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
-      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipflt13_1-1152x648.jpg",
-      "publishedAt": "2026-07-25T17:47:22Z",
-      "content": null
+      "author": "Sarah Min",
+      "title": "Nasdaq futures rally ahead of big week of earnings, Fed meeting: Live updates - CNBC",
+      "description": "The week ahead will have no shortage of challenges for the major averages.",
+      "url": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335406-1784129151297-Traders-Photo-20260715-KK-PRESS-004.jpg?v=1784129393&w=1920&h=1080",
+      "publishedAt": "2026-07-26T22:04:00Z",
+      "content": "U.S. stock futures rallied on Sunday night, and oil prices declined amid a pause in fighting between the U.S. and Iran over the weekend. Traders were also looking ahead to a demanding week of megacap… [+2120 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "News.com.au",
+      "title": "Elon Musk drops wild 5-year prediction about AI and humanity - New York Post",
+      "description": "“There really won’t be anything AI won’t be able to do better than humans, apart from being human, perhaps.”",
+      "url": "https://www.news.com.au/finance/work/at-work/decoupling-of-income-from-labour-are-we-on-the-cusp-of-an-aifuelled-age-of-abundance/news-story/7d680a5e720187d010c0dab223d63d7d",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-5n0krrwmt-1785099537262.jpg?quality=75&strip=all&1785085180&w=1200",
+      "publishedAt": "2026-07-26T21:37:00Z",
+      "content": "Is AI ushering in an age of abundance or a digital apocalypse?\r\nWhether people like it or not, its clear there is no stopping the artificial intelligence freight train now barrelling towards some kin… [+8112 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Fox Business"
       },
-      "author": "Amanda Macias",
-      "title": "Forget gasoline: This overlooked fuel could raise the price of nearly everything you buy - Fox Business",
-      "description": "Diesel prices surged from $3.56 to $5.13 per gallon after the Iran conflict, threatening to raise the prices of groceries and everyday essentials.",
-      "url": "https://www.foxbusiness.com/politics/forget-gasoline-overlooked-fuel-could-raise-price-nearly-everything-you-buy",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/flag-diesel-trucks.png?ve=1&tl=1",
-      "publishedAt": "2026-07-25T15:58:00Z",
-      "content": "The fuel most Americans never think about could become the Iran conflict's biggest economic consequence. While gasoline prices grab headlines, diesel quietly powers the trucks, farms, freight trains … [+3370 chars]"
+      "author": "Sophia Compton",
+      "title": "United reportedly approached Delta Air Lines about a potential merger - Fox Business",
+      "description": "The reported tie-up would have combined two of the nation’s largest airlines, but the preliminary discussions did not advance and both carriers ultimately moved on.",
+      "url": "https://www.foxbusiness.com/markets/united-reportedly-approached-delta-air-lines-potential-merger",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/united-airlines-flights.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-26T20:34:00Z",
+      "content": "United Airlines reportedly approached Delta Air Lines last year about a potential merger that would have combined two of the largest U.S. carriers.\r\nUnited CEO Scott Kirby contacted Delta CEO Ed Bast… [+2591 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "Newser"
       },
-      "author": null,
-      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus - Investor's Business Daily",
-      "description": "Apple, Amazon, Meta, Microsoft, SK Hynix loom with the Nasdaq breaking lower.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-BigWavePipe-08-adobe.jpg",
-      "publishedAt": "2026-07-25T15:36:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "John Johnson",
+      "title": "The 'Great Wealth Transfer' Is Hitting a Speed Bump - Newser",
+      "description": "Many boomers exhaust savings on long-term care, shrinking generational wealth",
+      "url": "https://www.newser.com/story/393357/the-great-wealth-transfer-is-hitting-a-speed-bump.html",
+      "urlToImage": "https://cdn.newser.com/image/1700523-12-20260726154118.jpeg",
+      "publishedAt": "2026-07-26T20:22:00Z",
+      "content": "Economists have been talking about the \"Great Wealth Transfer\" for a while now—the idea that baby boomers, collectively, are going to leave boatloads of money to their heirs. But a Washington Post an… [+1469 chars]"
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "9to5google.com"
       },
-      "author": "Haze Fan, Pei Li",
-      "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
-      "description": "DeepSeek has told prospective investors in its second fundraising round that it’s suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Liang Wenfeng about US-Chinese AI competition went viral.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOMuldH8BI_k/v1/1200x931.jpg",
-      "publishedAt": "2026-07-25T14:49:55Z",
-      "content": "DeepSeek has told prospective investors in its second fundraising round that its suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Li… [+617 chars]"
+      "author": "Abner Li",
+      "title": "What Google has teased about Gemini 4 - 9to5Google",
+      "description": "In the past week, Google has teased quite a bit about Gemini 4, as 3.5 Pro missed its June launch. The first mention of the...",
+      "url": "http://9to5google.com/2026/07/26/google-gemini-4-teases/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-07-26T20:07:00Z",
+      "content": "In the past week, Google has teased quite a bit about Gemini 4, as 3.5 Pro missed its June launch.\r\nThe first mention of the unsurprisingly named Gemini 4 coincided with the announcement of Gemini 3.… [+2382 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "description": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 19:21:26 GMT"
+      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+      "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 20:34:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "description": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 20:34:23 GMT"
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 15:59:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 10:26:05 GMT"
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 16:33:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 18:40:08 GMT"
+      "title": "More than 600 US military service members injured since Iran War began in February",
+      "description": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 13:31:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "description": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT"
+      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+      "description": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 12:33:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "description": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT"
+      "title": "Shots fired at US consulate in Toronto for a second time this year",
+      "description": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 16:56:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT"
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "description": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 14:04:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "description": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 23:01:06 GMT"
+      "title": "Oil price dives as US and Iran pause attacks",
+      "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 15:08:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Water returning to Gatwick Airport after major outage",
-      "description": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 18:50:47 GMT"
+      "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
+      "description": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
+      "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 18:49:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Rental searches for pet friendly properties drop after law change",
-      "description": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 00:00:49 GMT"
+      "title": "Cash recovered from ex-Nasa scientist turned scammer",
+      "description": "John Burford was jailed in 2025 after taking more than £1m from his victims.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2x2qprwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 16:00:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
-      "description": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 00:17:50 GMT"
+      "title": "How wildfires in France and Spain might affect your travel plans",
+      "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 13:21:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-      "description": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 23:23:53 GMT"
+      "title": "Oil price dives as US and Iran pause attacks",
+      "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 15:08:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 10:14:41 GMT"
+      "title": "Would you choose £50,000 over the chance of £1m?",
+      "description": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 23:11:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT"
+      "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
+      "description": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 10:19:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Paramount and Warner Bros pause $110bn merger amid legal challenge",
-      "description": "Until a judge reaches a final verdict – or until 1 June 2027 – the Hollywood studios will remain completely separate, competing operations.",
-      "url": "https://www.bbc.co.uk/news/articles/c8en74yz5e7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:49:25 GMT"
+      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+      "description": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 02:08:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-      "description": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 14:02:26 GMT"
+      "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
+      "description": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 14:17:56 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 4,
-      "GLP-1": 15,
-      "Iran oil": 12,
-      "Federal Reserve": 9,
-      "Bitcoin": 78
+      "AI stocks": 11,
+      "GLP-1": 17,
+      "Iran oil": 17,
+      "Federal Reserve": 16,
+      "Bitcoin": 93
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 24975.82,
-      "change_pct": -2.78,
+      "price": 24932.08,
+      "change_pct": -0.82,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7411.98,
-      "change_pct": -1.16,
+      "price": 7413.18,
+      "change_pct": 0.07,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51947.25,
-      "change_pct": -0.52,
+      "price": 52210.08,
+      "change_pct": 0.96,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4070.8,
-      "change_pct": 0.08,
+      "price": 4079.0,
+      "change_pct": 0.2,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 89.31,
-      "change_pct": 0.0,
+      "price": 81.68,
+      "change_pct": -8.54,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64595.33,
-      "change_pct": 0.44,
+      "price": 64837.93,
+      "change_pct": -0.77,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": -0.21,
+      "change_pct": -0.16,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.76,
-      "change_pct": -0.16,
+      "price": 6.77,
+      "change_pct": -0.11,
       "symbol": "CNY=X"
     }
   }
