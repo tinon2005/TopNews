@@ -1,199 +1,199 @@
 {
-  "date": "2026年07月29日",
-  "date_iso": "2026-07-29",
-  "generated_at": "2026-07-29T05:03:22.306394+08:00",
+  "date": "2026年07月30日",
+  "date_iso": "2026-07-30",
+  "generated_at": "2026-07-30T04:51:16.245032+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ines Ferré",
-      "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing - Yahoo Finance",
-      "description": "Growing fears of AI circular financing sent shares of Nvidia and the rest of the chip sector lower.",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-drops-nearly-5-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A3494F115E5F27E60D537E24A09F6EEFEC9293ECE18559F30D515EF69E3D4A1D/subgraphmysterio/resizefill_w1200_h815;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F61e60020-83a5-4868-a80b-43cade006cb8",
-      "publishedAt": "2026-07-27T20:05:55Z",
-      "content": "What happened: Nvidia (NVDA) stock tumbled nearly 5% on Monday, weighing on the rest of the chip sector. As a result of the pullback, Apple (AAPL) surpassed Nvidia as the world's most valuable public… [+2481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WOLF STREET"
-      },
-      "author": null,
-      "title": "Massive AI Data Center Investment Pushes the Economy & Prices: Durable Goods Orders - Wolf Street",
-      "description": null,
-      "url": "https://wolfstreet.com/2026/07/27/massive-ai-data-center-investment-pushes-the-economy-prices-durable-goods-orders/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-27T18:33:50Z",
-      "content": "Orders for computer &amp; electronic products; electrical equipment &amp; components; machinery incl. power generation equipment; fabricated metals products; and core capital goods all surged.\r\nTotal… [+4645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "Memory-Chip Stocks Micron, SK Hynix Drop After China Rival’s IPO - Investor's Business Daily",
-      "description": "Memory-chip stocks Micron and SK Hynix fell Monday after Chinese rival CXMT rocketed in its IPO on the Shanghai Stock Exchange.",
-      "url": "https://www.investors.com/news/technology/memory-chip-stocks-micron-sk-hynix-cxmt-ipo/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/stock-Micron-CEO-Sanjay-Mehrotra-1-company.jpg",
-      "publishedAt": "2026-07-27T18:12:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "MarketWatch"
       },
-      "author": "Tomi Kilgore, Joseph Adinolfi, Joy Wiltermuth, Jamie Chisholm, Nora Redmond",
-      "title": "Stock Market Today: Dow holds onto gains; S&P 500 and Nasdaq see red; Treasury yields and oil prices fall; investors eye Fed decision and big tech earnings - MarketWatch",
-      "description": "Stocks close mostly higher as oil prices drop on pause in Iran war strikes and as traders await the Federal Reserve's interest-rate decision on Wednesday.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-us-paused-strikes-iran-treasury-yields-fed-big-tech",
+      "author": "Isabel Wang, Tomi Kilgore, Jules Rimmer, Barbara Kollmeyer, Nora Redmond",
+      "title": "Stock Market Today: Dow rises 670 points after strong earnings from Coca-Cola and Sherwin-Williams; Nasdaq erases early losses despite a chip selloff - MarketWatch",
+      "description": "Chip stocks are extending the selloff on Tuesday, but the Dow is rising after strong earnings from Coca-Cola and Sherwin-Williams.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-earnings-federal-reserve-interest-rate-consumer-confidence",
       "urlToImage": "https://images.mktw.net/im-51746529/social",
-      "publishedAt": "2026-07-27T18:07:00Z",
+      "publishedAt": "2026-07-28T17:26:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "WSJ",
-      "title": "Nvidia Stock Slumps After Data-Center Report - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/nvidia-stock-slumps-after-data-center-report-i8YSwB1phOr8Gs1EtmNU",
-      "urlToImage": null,
-      "publishedAt": "2026-07-27T17:56:28Z",
-      "content": null
+      "author": "Matthew Hay Brown",
+      "title": "Canadian visits to U.S. plummet amid Trump tariffs, ‘51st state’ talk - The Washington Post",
+      "description": "« Canadian travel sentiment shifted abruptly » after President Donald Trump returned to office, analysts said.",
+      "url": "https://www.washingtonpost.com/world/2026/07/27/canadian-visits-us-plummet-amid-trump-tariffs-51st-state-talk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/44EXRYLQID5KBJ66DQFWAVTLSA_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-07-28T17:22:37Z",
+      "content": "Travel by Canadians to the United States fell 25 percent in 2025, Canadian government data shows, as President Donald Trump returned to the White House and Canadians opted to spend their vacation dol… [+14 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Barron's"
       },
-      "author": "Jessica Dickler",
-      "title": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers - CNBC",
-      "description": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its July meeting.",
-      "url": "https://www.cnbc.com/2026/07/27/fed-interest-rates-july.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323563-1781728922470-gettyimages-2281471656-fomc_fed_087_061726.jpeg?v=1784841107&w=1920&h=1080",
-      "publishedAt": "2026-07-27T12:15:01Z",
-      "content": "Federal Reserve Chairman Kevin Warsh concludes a news conference after a meeting of the Federal Open Market Committee, June 17, 2026.\r\nThe Federal Reserve is expected to hold interest rates unchanged… [+3951 chars]"
+      "author": "Al Root",
+      "title": "UPS Stock Drops on Strong Earnings. The Worst Should Be Over. - Barron's",
+      "description": "United Parcel Service reports adjusted second-quarter earnings per share of $1.76. Wall Street was looking for $1.66.",
+      "url": "https://www.barrons.com/articles/united-parcel-service-ups-earnings-stock-price-0ec7e102",
+      "urlToImage": "https://images.barrons.com/im-51702944/social",
+      "publishedAt": "2026-07-28T17:15:00Z",
+      "content": "United Parcel Servicestock rose initially after the company reported better-than-expected quarterly earnings on Tuesday, then slid. Still, it seems as if investors can finallylook forwardto growth an… [+159 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Johnson & Johnson agrees to pay $5.5B to settle talc lawsuits - Fox Business",
+      "description": "Johnson & Johnson says it will pay an estimated $5.5 billion to settle about 76,000 lawsuits alleging its baby powder and talc caused ovarian cancer.",
+      "url": "https://www.foxbusiness.com/markets/johnson-johnson-agrees-pay-5-5b-settle-talc-lawsuits",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/johnson_johnson_powder.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-28T16:17:00Z",
+      "content": "Johnson &amp; Johnson (J&amp;J) on Monday said it reached a settlement that it would pay an estimated $5.5 billion to settle tens of thousands of lawsuits alleging its baby powder and talc products c… [+3983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jared Blikre",
+      "title": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck - Yahoo Finance",
+      "description": "Semiconductor stocks are flashing red — under the market's hood, the rally is still running green.",
+      "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7CA404E0C34FBA34E5CBBBD34C1B2B58C33EC467EE220E53172A8584BD7DDB78/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F47b0ad4b-9745-4c5b-b299-65306e7c6eb0",
+      "publishedAt": "2026-07-28T16:13:42Z",
+      "content": "Semiconductor stocks are falling out of bed and flashing red. Under the market's hood, the rally is still running green.\r\nThe PHLX Semiconductor Index (^SOX) briefly broke below 11,000 Tuesday, now d… [+2412 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Christopher Rugaber",
+      "title": "Will tough talk be enough? Fed Chair Warsh faces pressure to combat inflation - AP News",
+      "description": "The Federal Reserve is expected to keep its key interest rate unchanged when it meets Wednesday, but chair Kevin Warsh is under increasing pressure to hike rates soon, a move that could provoke ire from President Donald Trump, who appointed him. The Iran war …",
+      "url": "https://apnews.com/article/federal-reserve-inflation-warsh-trump-rate-hike-6a7e8b53a187b1193a0ee7b58df680c2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cc04da1/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F83%2F3a655fad3aae5978dfa5daac8f4e%2Fb2d58e9dc0b9434ea8ed838f06b14423",
+      "publishedAt": "2026-07-28T14:28:00Z",
+      "content": "WASHINGTON (AP) The Federal Reserve is expected to keep its key interest rate unchanged when it meets Tuesday and Wednesday, but chair Kevin Warsh is under increasing pressure to hike rates soon, a m… [+6038 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "description": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 16:14:03 GMT"
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:41:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Uefa and PM criticise Infantino World Cup plan",
-      "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 15:36:29 GMT"
+      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "description": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 16:23:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "description": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 18:19:57 GMT"
+      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+      "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 20:21:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "description": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
-      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 16:37:02 GMT"
+      "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
+      "description": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 16:49:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "description": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 15:11:28 GMT"
+      "title": "Four women accuse Jared Leto of criminal sexual conduct",
+      "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 17:04:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-      "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 05:01:19 GMT"
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "description": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 17:21:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "US walks out of UN Security Council meeting during France's remarks",
-      "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 09:32:25 GMT"
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "description": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 15:33:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-      "description": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 11:50:59 GMT"
+      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "description": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 11:47:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "eBay agrees $56m settlement with bloggers over harassment case",
-      "description": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
-      "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 20:31:15 GMT"
+      "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
+      "description": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
+      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 20:32:50 GMT"
     },
     {
       "source": "BBC",
-      "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
-      "description": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 17:32:56 GMT"
+      "title": "Charities unable to pay staff after fraud alert",
+      "description": "Security fears saw CAF Bank, which serves 14,000 UK charities, suspend its online banking portal.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dlelz711o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:17:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
-      "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 16:35:05 GMT"
+      "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
+      "description": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
+      "url": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 15:32:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Horror maestro Mike Flanagan joins Henry Cavill on Warhammer adaptations",
-      "description": "The director is due to work on scripts based on the popular tabletop hobby, Games Workshop says.",
-      "url": "https://www.bbc.co.uk/news/articles/c62v8exggjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 13:59:24 GMT"
+      "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
+      "description": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 12:16:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Is it safe to travel to France and Spain right now?",
-      "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 13:54:20 GMT"
+      "title": "Matcha and protein pivot pays off for Greggs as profits rise",
+      "description": "UK's largest fast-food chain says it is changing its menu \"in line with changing tastes and trends\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 10:37:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "The 10 most overcrowded commuter trains revealed",
-      "description": "Overall, overcrowding in England and Wales fell slightly last year due to increased capacity, the government says.",
-      "url": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 14:17:57 GMT"
+      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
+      "description": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 23:00:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-      "description": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 01:53:58 GMT"
+      "title": "Andy Burnham wants to fix social care - what are the options?",
+      "description": "With Andy Burnham saying he wants to bring \"substantial change\" to social care in England, BBC Verify looks at what could be done.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 10:47:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "What you wear can help you get a job - here's how",
-      "description": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
-      "url": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 11:07:13 GMT"
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "description": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 11:35:35 GMT"
     }
   ],
   "reuters": [],
@@ -203,43 +203,43 @@
   },
   "market": {
     "NASDAQ": {
-      "price": 24876.91,
-      "change_pct": -0.4,
+      "price": 24442.94,
+      "change_pct": -1.96,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7428.78,
-      "change_pct": 0.23,
+      "price": 7316.15,
+      "change_pct": -1.31,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52747.32,
-      "change_pct": 1.54,
+      "price": 51594.14,
+      "change_pct": -1.18,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4027.5,
-      "change_pct": -1.15,
+      "price": 4124.6,
+      "change_pct": 2.19,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 79.18,
-      "change_pct": -4.15,
+      "price": 84.65,
+      "change_pct": 6.8,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 63871.59,
-      "change_pct": 0.23,
+      "price": 63464.24,
+      "change_pct": -0.64,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.33,
-      "change_pct": -0.41,
+      "price": 1.34,
+      "change_pct": 0.54,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.77,
-      "change_pct": -0.01,
+      "price": 6.75,
+      "change_pct": -0.17,
       "symbol": "CNY=X"
     }
   }
