@@ -1,130 +1,131 @@
 {
-  "date": "2026年08月01日",
-  "date_iso": "2026-08-01",
-  "generated_at": "2026-08-01T04:59:53.908972+08:00",
+  "date": "2026年08月02日",
+  "date_iso": "2026-08-02",
+  "generated_at": "2026-08-02T04:44:56.836312+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Stock Market Today: Microsoft Stock Rallies; Jersey Mike's IPO in Focus — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-07-30T20:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Paul R. La Monica",
-      "title": "Jersey Mike’s Stock Slides Below IPO Price in Market Debut - Barron's",
-      "description": "Jersey Mike’s stock fell below its IPO price in its first day of trading on Thursday. Its debut doesn’t bode well for investors’ IPO appetites.",
-      "url": "https://www.barrons.com/articles/jersey-mikes-stock-ipo-should-i-buy-f70af684",
-      "urlToImage": "https://images.barrons.com/im-17287516/social",
-      "publishedAt": "2026-07-30T20:23:00Z",
-      "content": "Jersey Mikes Subsis a sandwich chain that professes to make A Sub Above. Hot, cold. Meats and cheese are sliced in front of customers. And regulars know Mikes Way (onions, tomatoes, lettuce, oregano,… [+282 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Amazon Shares Jump as Cloud Sales Accelerate - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/amazon-earnings-q2-2026-amzn-stock-3daf95f7",
-      "urlToImage": null,
-      "publishedAt": "2026-07-30T20:13:00Z",
-      "content": null
-    },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Michael Wayland",
-      "title": "Rivian reduces 2026 spending plans, narrows earnings guidance - CNBC",
-      "description": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecasted losses this year as the company reported second-quarter results.",
-      "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342129-1785365055209-gettyimages-2281489926-AFP_B7GA7L9.jpeg?v=1785365123&w=1920&h=1080",
-      "publishedAt": "2026-07-30T20:06:59Z",
-      "content": "Rivian Automotive reduced its 2026 spending plans and slightly narrowed its previously forecasted losses this year as the company reported second-quarter results Thursday.\r\nThe revised guidance now i… [+3274 chars]"
+      "author": "Hugh Son",
+      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks - CNBC",
+      "description": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108076709-1734395364002-gettyimages-2157160096-291247final.jpeg?v=1758752392&w=1920&h=1080",
+      "publishedAt": "2026-07-31T18:20:01Z",
+      "content": "Clear Street, the prime brokerage startup that recently shelved plans for its own IPO, is now aiming to give investors access to some of Silicon Valley's hottest private companies before they go publ… [+2353 chars]"
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "Jessica Guynn",
-      "title": "The rent was already high. Then came the $200 work-from-home fee - usatoday.com",
-      "description": "For some tenants, rent on the sunlit one-bedroom in an upscale California neighborhood was $3,250. But if you worked from home? $200 more a month.",
-      "url": "https://www.usatoday.com/story/money/2026/07/30/remote-work-rental-fee-sparks-outrage/91101669007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/30/USAT/91107735007-20210630-t-140157-z-127427011-rc-2-c-4-o-9-eva-2-k-rtrmadp-3-usacourteviction.JPG?crop=4031,2268,x0,y211&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-07-30T18:01:00Z",
-      "content": "Minutes from downtown shops, equine trails and golf courses, \"the Cottage\" in a quiet upscale neighborhood in Walnut Creek, California was advertised as a newly built, sunlit one-bedroom, one-bathroo… [+3747 chars]"
+      "author": "Eric Revell",
+      "title": "Y'all Street launches: Texas Stock Exchange goes live in Dallas - Fox Business",
+      "description": "The TXSE debuted as the first major U.S. stock exchange to launch in decades, challenging the NYSE and Nasdaq for corporate listings and future IPOs.",
+      "url": "https://www.foxbusiness.com/markets/yall-street-launches-texas-stock-exchange-goes-live-dallas",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/dallas-metro-skyline.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-31T18:14:00Z",
+      "content": "A new rival to Wall Street officially debuted on Friday as the Texas Stock Exchange went fully live for the first time with trading available for all of its listed tickers.\r\nThe Texas Stock Exchange,… [+3091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Winning Florida lottery ticket allegedly stolen, redeemed by US Postal Service worker - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/winning-florida-lottery-ticket-allegedly-stolen-redeemed-us/story?id\\\\u003d135265020",
+      "urlToImage": null,
+      "publishedAt": "2026-07-31T18:10:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "The ban on robot vacuums won’t make them safer, only worse - The Verge",
+      "description": "You’ll have fewer robot floor cleaners to choose from and higher prices.",
+      "url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/all_the_robots.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-07-31T17:30:49Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYoull have fewer robot floor cleaners to choose from and higher prices.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics … [+10040 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 17:03:47 GMT"
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 20:09:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 15:18:31 GMT"
+      "title": "Call for 'full review' as pressure grows on Infantino",
+      "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 17:07:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
-      "description": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 20:22:46 GMT"
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "description": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 20:36:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 10:32:17 GMT"
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 05:01:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "description": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
-      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 14:26:07 GMT"
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 17:51:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Fifa says 'nobody selling football' as plan continues",
-      "description": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 08:21:37 GMT"
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 15:25:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 05:21:18 GMT"
+      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "description": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 16:16:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "description": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 08:09:17 GMT"
+      "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+      "description": "Security officials said the female attacker tried to enter the restaurant but was stopped by a security guard.",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 20:39:16 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+      "description": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 12:41:17 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "description": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 21:57:59 GMT"
     },
     {
       "source": "BBC",
@@ -149,17 +150,10 @@
     },
     {
       "source": "BBC",
-      "title": "Budget to be held in October, Healey announces",
-      "description": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+      "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
+      "description": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
       "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 15:58:42 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UK petrol prices hit highest level since Iran war began",
-      "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 11:19:23 GMT"
+      "publishedAt": "Sat, 01 Aug 2026 07:48:01 GMT"
     },
     {
       "source": "BBC",
@@ -170,27 +164,20 @@
     },
     {
       "source": "BBC",
-      "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
-      "description": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 30 Jul 2026 23:05:41 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "BP puts North Sea business up for sale",
-      "description": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
-      "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 15:36:21 GMT"
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 11:19:23 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 4,
-      "GLP-1": 7,
-      "Iran oil": 5,
-      "Federal Reserve": 5,
-      "Bitcoin": 63
+      "AI stocks": 3,
+      "GLP-1": 8,
+      "Iran oil": 6,
+      "Federal Reserve": 7,
+      "Bitcoin": 76
     },
     "trending_searches": []
   },
@@ -211,23 +198,23 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4107.7,
-      "change_pct": 0.19,
+      "price": 4107.0,
+      "change_pct": 0.17,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 84.55,
-      "change_pct": 1.15,
+      "price": 84.67,
+      "change_pct": 1.29,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 62892.4,
-      "change_pct": -2.83,
+      "price": 62535.77,
+      "change_pct": -0.44,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.87,
+      "change_pct": 0.86,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
