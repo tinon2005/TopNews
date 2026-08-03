@@ -1,117 +1,172 @@
 {
-  "date": "2026年08月03日",
-  "date_iso": "2026-08-03",
-  "generated_at": "2026-08-03T04:49:26.783021+08:00",
+  "date": "2026年08月04日",
+  "date_iso": "2026-08-04",
+  "generated_at": "2026-08-04T04:58:43.539431+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "The Seattle Times"
       },
-      "author": "James Cirrone",
-      "title": "Minnesota's ban on crypto ATMs goes into effect after citizens report losing nearly $1 million in scams - Fox Business",
-      "description": "Minnesota's ban on crypto ATMs went into effect on Saturday, and by Dec. 31, all existing machines across the state must be removed.",
-      "url": "https://www.foxbusiness.com/politics/minnesotas-ban-crypto-atms-goes-effect-after-citizens-report-losing-nearly-1-million-scams",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/walz-atm-split.png?ve=1&tl=1",
-      "publishedAt": "2026-08-01T14:36:00Z",
-      "content": "Minnesota’s ban on cryptocurrency ATMs took effect Saturday after state officials said residents had reported losing nearly $1 million in scams involving the machines since 2023.\r\nDemocratic Gov. Tim… [+3855 chars]"
+      "author": "Mike Lindblom",
+      "title": "Seattle light rail derailment leads to suspended service, shuttle buses - The Seattle Times",
+      "description": "Service remains disrupted on sections of the 1 Line and 2 Line.",
+      "url": "https://www.seattletimes.com/seattle-news/seattle-light-rail-train-derailment-leads-to-suspended-service-alternate-routes/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/08/08022026_light_rail_tzr_075633.jpg?d=1200x630",
+      "publishedAt": "2026-08-02T18:37:57Z",
+      "content": "An empty light rail train derailed at low speed entering Sound Transit’s International District/Chinatown Station late Saturday, which caused no injuries but blocked downtown trips for several hours … [+7086 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Financial Times"
       },
-      "author": "Bruce Gil",
-      "title": "SpaceX Agrees to Remove Temporary Gas Turbines at Colossus Data Center By 2027 - Gizmodo",
-      "description": "Elon Musk’s AI company has about a year to remove the unpermitted turbines.",
-      "url": "https://gizmodo.com/spacex-agrees-to-remove-temporary-gas-turbines-at-colossus-data-center-by-2027-2000793559",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Colossus-2-1200x675.jpg",
-      "publishedAt": "2026-08-01T13:55:37Z",
-      "content": "SpaceX has agreed to begin removing the temporary gas turbines powering part of its massive Colossus AI data center complex. But the last of them may stay up until July 2027.\r\nElon Musks rocket, sate… [+2572 chars]"
+      "author": null,
+      "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up - Financial Times",
+      "description": "Deal would create the world’s fourth-largest drugmaker by market value",
+      "url": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0cbe1d4a-e71d-4abd-9981-940d38bd22a6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-02T18:30:03Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Preston Fore",
-      "title": "Nvidia's CEO says ‘a lot’ of six-figure jobs in plumbing and construction are about to be unlocked - Fortune",
-      "description": "The AI boom is threatening white-collar jobs—but Jensen Huang says it's creating a six-figure opportunity for electricians and construction workers.",
-      "url": "https://fortune.com/article/jensen-huang-says-a-lot-of-six-figure-jobs-in-plumbing-and-construction-will-soon-be-unlocked-because-someone-needs-to-build-new-ai-centers/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2256813215-resize.png?resize=1200,600",
-      "publishedAt": "2026-08-01T13:31:00Z",
-      "content": "The job market has been a tough sell for many Gen Z graduates, with tariffs, economic uncertainty, and artificial intelligence reshaping hiring plans across corporate America. But according to Nvidia… [+3235 chars]"
+      "author": "Lauren Edmonds",
+      "title": "What smart people are saying about Trump Media charging for early access to the president's Truth Social posts - Business Insider",
+      "description": "Trump Media launched Truth API on Saturday, allowing early access to posts from prominent Truth Social accounts, including President Donald Trump's.",
+      "url": "https://www.businessinsider.com/trump-truth-social-early-access-api-markets-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a6f52d887737bff3ebda690?width=1200&format=jpeg",
+      "publishedAt": "2026-08-02T17:40:23Z",
+      "content": "There's a new way to make and lose money.\r\nTrump Media has officially launched the Truth API, a business-to-business data feed that provides customers with faster access to posts from prominent Truth… [+4744 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "TheStreet"
       },
-      "author": "Sarah Agostino",
-      "title": "Buying a condo with a mortgage may soon get more complicated. Here's why - CNBC",
-      "description": "New policies that apply to mortgages for condos take effect Aug. 3, and some experts are sounding the alarm that buyers may see delays or denials.",
-      "url": "https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108338585-1784734633441-gettyimages-486500728-000073058879_Unapproved.jpeg?v=1784734652&w=1920&h=1080",
-      "publishedAt": "2026-08-01T13:30:01Z",
-      "content": "Prospective homebuyers eyeing a condominium may soon discover that mortgage lenders are as interested in the condo building as they are in the buyer.\r\nNew condo-lending policies taking effect on Aug.… [+8126 chars]"
+      "author": "thestreet.com",
+      "title": "Defunct iconic tire brand files Chapter 11 bankruptcy to dissolve - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/retail/uniroyal-holding-files-chapter-11-bankruptcy-to-dissolve",
+      "urlToImage": null,
+      "publishedAt": "2026-08-02T16:01:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tastingtable.com"
+      },
+      "author": "Michelle Welsch",
+      "title": "McDonald's Celebrated 50 Years Of The Filet-O-Fish With A Complete Flop - tastingtable.com",
+      "description": "The McDonald's Filet-O-Fish is an iconic sandwich worthy of celebration. However, when the brand rolled Fish McBites, it was met with jeers.",
+      "url": "https://www.tastingtable.com/2222701/mcdonalds-filet-o-fish-fifty-year-anniversary-menu-flop/",
+      "urlToImage": "https://www.tastingtable.com/img/gallery/mcdonalds-celebrated-50-years-of-the-filet-o-fish-with-a-complete-flop/l-intro-1784915310.jpg",
+      "publishedAt": "2026-08-02T15:30:00Z",
+      "content": "The Filet-O-Fish has had dedicated fans since its launch in the 1960s. A franchise owner in Ohio saw his profits tanking during Lent, so he came up with a way to bring customers back,and the Filet-O-… [+1137 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 20:36:37 GMT"
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 18:04:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 11:12:00 GMT"
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 19:42:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 15:50:59 GMT"
+      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 15:57:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 10:32:28 GMT"
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 16:27:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 15:48:00 GMT"
+      "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+      "description": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 20:05:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
-      "description": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 11:49:40 GMT"
+      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+      "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 07:49:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 23:03:35 GMT"
+      "title": "Russian anti-war politician says he has fled the country",
+      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 15:41:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-      "description": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 16:37:02 GMT"
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 14:20:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 15:57:27 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+      "description": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 11:49:41 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "It may be easier to get your first mortgage than you think - here's why",
+      "description": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 09:55:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+      "description": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 11:18:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+      "description": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+      "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 04:10:16 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 07:30:52 GMT"
     },
     {
       "source": "BBC",
@@ -126,100 +181,58 @@
       "description": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
       "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 31 Jul 2026 21:57:59 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-      "description": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 12:19:20 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "AI firms must answer for rogue bots, says boss of hacked company",
-      "description": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 18:10:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Sainsbury's agrees to sell Argos for £120m",
-      "description": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 12:42:22 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
-      "description": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 07:48:01 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UK petrol prices hit highest level since Iran war began",
-      "description": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 11:19:23 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
-      "description": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 30 Jul 2026 23:05:41 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 3,
-      "GLP-1": 8,
-      "Iran oil": 6,
-      "Federal Reserve": 5,
-      "Bitcoin": 64
+      "AI stocks": 4,
+      "GLP-1": 7,
+      "Iran oil": 5,
+      "Federal Reserve": 4,
+      "Bitcoin": 60
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25373.85,
-      "change_pct": 3.81,
+      "price": 25913.9,
+      "change_pct": 3.15,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7489.72,
-      "change_pct": 2.37,
+      "price": 7600.5,
+      "change_pct": 2.19,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52485.03,
-      "change_pct": 1.73,
+      "price": 53178.41,
+      "change_pct": 1.86,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4107.0,
-      "change_pct": 1.43,
+      "price": 4113.0,
+      "change_pct": 0.15,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 84.67,
-      "change_pct": 0.0,
+      "price": 80.03,
+      "change_pct": -5.48,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 63412.19,
-      "change_pct": 1.03,
+      "price": 63742.93,
+      "change_pct": 0.41,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.35,
-      "change_pct": 0.95,
+      "price": 1.34,
+      "change_pct": -0.2,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.74,
-      "change_pct": -0.31,
+      "price": 6.75,
+      "change_pct": -0.05,
       "symbol": "CNY=X"
     }
   }
