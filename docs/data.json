@@ -1,238 +1,219 @@
 {
-  "date": "2026年08月04日",
-  "date_iso": "2026-08-04",
-  "generated_at": "2026-08-04T04:58:43.539431+08:00",
+  "date": "2026年08月05日",
+  "date_iso": "2026-08-05",
+  "generated_at": "2026-08-05T05:07:07.819183+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "The Seattle Times"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Mike Lindblom",
-      "title": "Seattle light rail derailment leads to suspended service, shuttle buses - The Seattle Times",
-      "description": "Service remains disrupted on sections of the 1 Line and 2 Line.",
-      "url": "https://www.seattletimes.com/seattle-news/seattle-light-rail-train-derailment-leads-to-suspended-service-alternate-routes/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/08/08022026_light_rail_tzr_075633.jpg?d=1200x630",
-      "publishedAt": "2026-08-02T18:37:57Z",
-      "content": "An empty light rail train derailed at low speed entering Sound Transit’s International District/Chinatown Station late Saturday, which caused no injuries but blocked downtown trips for several hours … [+7086 chars]"
+      "author": "Pras Subramanian",
+      "title": "SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview - Yahoo Finance",
+      "description": "SpaceX will report highly anticipated second quarter results on Tuesday after the bell, its first report as a public company.",
+      "url": "https://finance.yahoo.com/technology/article/spacexs-first-ever-earnings-report-comes-as-stock-hits-new-all-time-low-q2-preview-132323178.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A0A28CF0680567C659BCC41220EA278FDE25B98E5A7C848C5F93B9093F784FB4/subgraphmysterio/resizefill_w1200_h716;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fc699b5e7-8db7-4233-8dcb-dbe3bffcdf95",
+      "publishedAt": "2026-08-03T20:03:14Z",
+      "content": "SpaceX (SPCX) will report highly anticipated second quarter results on Tuesday after the bell its first report as a public company which comes as the stock has been in a free fall. \r\nSpaceX stock has… [+2785 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Seeking Alpha"
       },
-      "author": null,
-      "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up - Financial Times",
-      "description": "Deal would create the world’s fourth-largest drugmaker by market value",
-      "url": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0cbe1d4a-e71d-4abd-9981-940d38bd22a6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-08-02T18:30:03Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Nivedita Hazra",
+      "title": "Palantir Q2 on deck: Options market imply 9.3% swing after earnings (PLTR:NASDAQ) - Seeking Alpha",
+      "description": "Palantir (PLTR) Q2 earnings preview: options imply a 9.3% post-earnings move as calls dominate puts.",
+      "url": "https://seekingalpha.com/news/4623855-palantir-q2-on-deck-options-market-imply-93-swing-after-earnings",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1426101020/image_1426101020.jpg?io=getty-c-w630",
+      "publishedAt": "2026-08-03T18:34:26Z",
+      "content": "hapabapa\r\nAs Palantir (PLTR) prepares to report its second-quarter earnings on Monday, after the closing bell, analysts are pricing in an over 9% move in its post-earnings stock action.\r\nThe stock wa… [+70 chars]"
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Lauren Edmonds",
-      "title": "What smart people are saying about Trump Media charging for early access to the president's Truth Social posts - Business Insider",
-      "description": "Trump Media launched Truth API on Saturday, allowing early access to posts from prominent Truth Social accounts, including President Donald Trump's.",
-      "url": "https://www.businessinsider.com/trump-truth-social-early-access-api-markets-2026-8#article",
-      "urlToImage": "https://i.insider.com/6a6f52d887737bff3ebda690?width=1200&format=jpeg",
-      "publishedAt": "2026-08-02T17:40:23Z",
-      "content": "There's a new way to make and lose money.\r\nTrump Media has officially launched the Truth API, a business-to-business data feed that provides customers with faster access to posts from prominent Truth… [+4744 chars]"
+      "author": "Courtney Subramanian, Kevin Crowley",
+      "title": "Trump Hits Exxon, Chevron for Profits Amid Iran War He Launched - Bloomberg",
+      "description": "President Donald Trump scolded ExxonMobil Holdings Corp. and Chevron Corp. for their soaring profits, as oil prices surged amid the war in Iran he launched in February alongside Israel.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/trump-hits-exxon-chevron-for-profits-amid-iran-war-he-launched",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWiMeP1640_w/v1/1200x800.jpg",
+      "publishedAt": "2026-08-03T18:32:44Z",
+      "content": "President Donald Trump scolded ExxonMobil Holdings Corp. and Chevron Corp. for their soaring profits, as oil prices surged amid the war in Iran he launched in February alongside Israel. \r\nTrump on Mo… [+148 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "TheStreet"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "thestreet.com",
-      "title": "Defunct iconic tire brand files Chapter 11 bankruptcy to dissolve - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/retail/uniroyal-holding-files-chapter-11-bankruptcy-to-dissolve",
-      "urlToImage": null,
-      "publishedAt": "2026-08-02T16:01:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tastingtable.com"
-      },
-      "author": "Michelle Welsch",
-      "title": "McDonald's Celebrated 50 Years Of The Filet-O-Fish With A Complete Flop - tastingtable.com",
-      "description": "The McDonald's Filet-O-Fish is an iconic sandwich worthy of celebration. However, when the brand rolled Fish McBites, it was met with jeers.",
-      "url": "https://www.tastingtable.com/2222701/mcdonalds-filet-o-fish-fifty-year-anniversary-menu-flop/",
-      "urlToImage": "https://www.tastingtable.com/img/gallery/mcdonalds-celebrated-50-years-of-the-filet-o-fish-with-a-complete-flop/l-intro-1784915310.jpg",
-      "publishedAt": "2026-08-02T15:30:00Z",
-      "content": "The Filet-O-Fish has had dedicated fans since its launch in the 1960s. A franchise owner in Ohio saw his profits tanking during Lent, so he came up with a way to bring customers back,and the Filet-O-… [+1137 chars]"
+      "author": "Berkeley Lovelace Jr.",
+      "title": "Michigan reports 2 deaths in cyclosporiasis outbreak - NBC News",
+      "description": "Two people in Michigan who had contracted cyclosporiasis have died, the state Health and Human Services Department said Monday.",
+      "url": "https://www.nbcnews.com/health/health-news/cyclospora-outbreak-michigan-two-deaths-parasite-dehydration-rcna590612",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260803-cyclospora-vl-1158a-d0e886.jpg",
+      "publishedAt": "2026-08-03T18:27:05Z",
+      "content": "Two people in Michigan who had contracted cyclosporiasis have died, the state Health and Human Services Department said Monday.\r\nBoth people whose identities were not provided had significant underly… [+1804 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 18:04:30 GMT"
+      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 17:26:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 19:42:55 GMT"
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 19:00:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:57:27 GMT"
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 19:30:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 16:27:43 GMT"
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 11:19:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
-      "description": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 20:05:46 GMT"
+      "title": "Arrests in Egypt after people allegedly impersonate judges",
+      "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 19:25:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-      "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 07:49:33 GMT"
+      "title": "More than 170 migrants rescued after boat catches fire in Channel",
+      "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 19:45:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russian anti-war politician says he has fled the country",
-      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:41:08 GMT"
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 15:07:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 14:20:56 GMT"
+      "title": "How to avoid the worst of the Italian heat",
+      "description": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
+      "url": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 18:21:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:57:27 GMT"
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 19:00:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-      "description": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 11:49:41 GMT"
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "description": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 13:53:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "It may be easier to get your first mortgage than you think - here's why",
-      "description": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 09:55:36 GMT"
+      "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+      "description": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
+      "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 10:07:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
-      "description": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 11:18:10 GMT"
+      "title": "Campaigners denied appeal over Gatwick expansion",
+      "description": "An application to stop the two-runway operation is rejected, with judges calling it \"unarguable\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 12:25:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
-      "description": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
-      "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 04:10:16 GMT"
+      "title": "Apple issues new challenge against UK order for access to private user data",
+      "description": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 10:22:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 07:30:52 GMT"
+      "title": "Zinc dresses and ice creams - how to survive a heatwave wedding",
+      "description": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 23:20:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-      "description": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
-      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 12:41:17 GMT"
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 09:08:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-      "description": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 21:57:59 GMT"
+      "title": "Half-price rail travel extended to 18-year-olds",
+      "description": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 13:09:19 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 4,
-      "GLP-1": 7,
-      "Iran oil": 5,
-      "Federal Reserve": 4,
-      "Bitcoin": 60
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25913.9,
-      "change_pct": 3.15,
+      "price": 26584.99,
+      "change_pct": 4.77,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7600.5,
-      "change_pct": 2.19,
+      "price": 7736.52,
+      "change_pct": 3.3,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53178.41,
-      "change_pct": 1.86,
+      "price": 54085.88,
+      "change_pct": 3.05,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4113.0,
-      "change_pct": 0.15,
+      "price": 4134.9,
+      "change_pct": 2.51,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 80.03,
-      "change_pct": -5.48,
+      "price": 75.23,
+      "change_pct": -6.36,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 63742.93,
-      "change_pct": 0.41,
+      "price": 64260.01,
+      "change_pct": 1.26,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": -0.2,
+      "change_pct": -0.33,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.75,
-      "change_pct": -0.05,
+      "change_pct": 0.03,
       "symbol": "CNY=X"
     }
   }
