@@ -1,225 +1,219 @@
 {
-  "date": "2026年08月06日",
-  "date_iso": "2026-08-06",
-  "generated_at": "2026-08-06T05:03:16.770679+08:00",
+  "date": "2026年08月07日",
+  "date_iso": "2026-08-07",
+  "generated_at": "2026-08-07T08:51:31.138578+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Adam Levine",
-      "title": "AMD Reports Earnings on the Verge of a Sales Jump - barrons.com",
-      "description": "AMD reported solid but unspectacular second-quarter earnings results on Tuesday afternoon.",
-      "url": "https://www.barrons.com/articles/amd-earnings-stock-price-dca0d5fa",
-      "urlToImage": "https://images.barrons.com/im-06050188/social",
-      "publishedAt": "2026-08-04T20:21:00Z",
-      "content": "Advanced Micro Devicesreported solid but unspectacular second-quarter earnings results on Tuesday afternoon. Its shares were down sharply in after-hours trading. The stock had been up 7% during regul… [+116 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Lena H. Sun, Rachel Roubein",
-      "title": "CDC expands largest known cyclosporiasis outbreak to 15 states - The Washington Post",
-      "description": "Arkansas, Iowa, Missouri, Nebraska, New Hampshire and North Carolina have joined the outbreak tied to lettuce from Mexico, said a person familiar with the investigation.",
-      "url": "https://www.washingtonpost.com/health/2026/08/04/cdc-expands-largest-known-cyclospora-outbreak-15-states/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WS64K5LFE5QGLDORUCDEOGA2OU_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-04T19:54:13Z",
-      "content": "Arkansas, Iowa, Missouri, Nebraska, New Hampshire and North Carolina have joined the outbreak tied to lettuce from Mexico, said a person familiar with the investigation.\r\nAugust 4, 2026 at 4:13 p.m. … [+14 chars]"
+      "author": "Amaris Encinas, USA TODAY",
+      "title": "KFC responds to man who said his popcorn chicken bucket was shorted - Yahoo",
+      "description": "A customer decided to put KFC to the test, and it apparently failed to deliver by what he said was at least a 25-popcorn chicken bite margin.",
+      "url": "https://www.usatoday.com/story/money/food/2026/08/05/kfc-responds-popcorn-chicken-bucket/91183310007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/efc71cf801f3f27bf83a720e13045a042f87685525ad83bf4ca78f0c4fb9d3e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F7da27fea01cc33b47c27ef57afc8c450",
+      "publishedAt": "2026-08-05T21:28:10Z",
+      "content": "A customer decided to put KFC to the test, and it apparently failed to deliver by what he said was a significant margin of popcorn chicken bites.\r\nAtticus, a content creator, called out the brand in … [+2861 chars]"
     },
     {
       "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
-      "author": "Gabe Hauari, David Ferrara",
-      "title": "Days after John Oliver's dare, Buc-ee's sues again - USA Today",
-      "description": "Buc-ee's is suing a family-owned mini mart over its beaver logo, days after John Oliver mocked the chain's history of trademark lawsuits.",
-      "url": "https://www.usatoday.com/story/money/2026/08/04/bucees-sues-mini-mart-beaver-mascot/91162309007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/04/USAT/91162420007-20250630-t-112854-z-213086614-mt-1-usatoday-26561236-rtrmadp-3-buceesinrockinghamcountyopenedtothepublicjune-30.JPG?crop=4372,2459,x0,y410&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-04T19:43:00Z",
-      "content": "Days after being taunted by \"Last Week Tonight\" host John Oliver to sue him and HBO, popular gas station chain Buc-ee's has filed a lawsuit against a corner store in Ohio.\r\nAccording to a federal law… [+5544 chars]"
+      "author": "Daniel de Visé",
+      "title": "Older workers say Social Security is their retirement plan. Is that OK? - USA Today",
+      "description": "Nearly half of older workers plan to rely on Social Security in retirement, two recent surveys say. Retirement researchers are worried.",
+      "url": "https://www.usatoday.com/story/money/personalfinance/2026/08/05/social-security-retirement-plan-savings-magic-number/91163507007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/04/USAT/91169931007-retirement-7.jpg?crop=1023,576,x0,y133&width=1023&height=576&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-05T21:22:00Z",
+      "content": "Nearly half of older American workers expect to rely mainly on Social Security for income in retirement, according to a new report. \r\nTo many in the retirement industry, that is a worrisome statistic… [+6232 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships - TechCrunch",
+      "description": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "publishedAt": "2026-08-05T21:05:37Z",
+      "content": "The Justice Departments Civil Rights Division announced on Wednesday that OpenAI, and its once-subsidiary Statsig, signed a settlement that includes three years of oversight over the AI lab’s hiring … [+2230 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "TODAY"
       },
-      "author": "Ted Johnson",
-      "title": "Judge Sets Paramount-WBD Merger Antitrust Trial For March - Deadline",
-      "description": "A federal judge has set the Paramount-Warner Bros. Discovery merger trial for next March.",
-      "url": "http://deadline.com/2026/08/paramount-warner-bros-trial-1237016438/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/Paramount-and-Warner-Bros.-Water-Towers.jpg?w=1024",
-      "publishedAt": "2026-08-04T19:32:00Z",
-      "content": "UPDATED, with Paramount comment: A federal judge has set the Paramount-Warner Bros. Discovery merger trial for next March.\r\nThe date is much closer to the timeline sought by state attorneys general a… [+4151 chars]"
+      "author": "Caroline Kee",
+      "title": "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com",
+      "description": "Infections with cyclospora — what’s become known as the “explosive diarrhea” parasite — have been reported in almost every state in the U.S. as of early August.",
+      "url": "https://www.today.com/health/disease/cyclosporiasis-outbreak-states-map-2026-parasite-foods-avoid-diarrhea-rcna590935",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-07/explosive-diarrhea-parasite-cyclosporiasis-mh-07012026-f9ee58.jpg",
+      "publishedAt": "2026-08-05T20:45:29Z",
+      "content": "Infections with cyclospora whats become known as the explosive diarrhea parasite have been reported in almost every state in the U.S. as of early August. Health officials are still racing to find the… [+11150 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "description": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 18:53:51 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 07 Aug 2026 00:06:17 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 16:11:30 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 17:38:51 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+      "description": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 17:36:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+      "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 18:37:12 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+      "description": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 23:55:35 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "description": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 15:41:05 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 07 Aug 2026 00:06:17 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Argos is getting a makeover - but can it attract new shoppers?",
+      "description": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 23:03:48 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump imposes 15% tariff on key chip and solar panel material",
+      "description": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 07 Aug 2026 00:44:12 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "description": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
+      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 16:35:32 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "description": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
+      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 15:59:34 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Why airlines are warning over lithium-ion batteries",
+      "description": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 23:04:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "description": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 14:50:54 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 20:51:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 18:19:51 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Drone carrying explosives found at German airport, police say",
-      "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 20:01:51 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 20:03:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-      "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 11:19:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UN rights chief alarmed by rise in Iran executions since March",
-      "description": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 14:04:09 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "description": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
-      "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 12:33:43 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-      "description": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
-      "url": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 18:38:46 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Prioritise new jobs over green targets to win public contracts, firms told",
-      "description": "The changes are part of government efforts to tackle the youth unemployment crisis.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 10:10:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
-      "description": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 19:39:48 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
-      "description": "This year's harvest could be the worst on record due to the exceptionally dry spring and summer.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 08:53:01 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
-      "description": "More than 120 MPs and peers have asked John Healey to carry out an \"urgent review\" of repayments.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 18:38:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "The cost of being single – and how friends are teaming up to beat it",
-      "description": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
-      "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 23:21:08 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "How tech is helping in the battle against wildfires",
-      "description": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
-      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 23:21:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-      "description": "Elon Musk told investors that people were \"underestimating\" his company.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 14:04:43 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-      "description": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 22:10:00 GMT"
+      "publishedAt": "Thu, 06 Aug 2026 01:19:59 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 12,
-      "GLP-1": 13,
-      "Iran oil": 7,
-      "Federal Reserve": 5,
-      "Bitcoin": 88
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26363.44,
-      "change_pct": 1.73,
+      "price": 26348.35,
+      "change_pct": -0.89,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7723.55,
-      "change_pct": 1.62,
+      "price": 7709.96,
+      "change_pct": -0.34,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 54349.12,
-      "change_pct": 2.2,
+      "price": 53885.1,
+      "change_pct": -0.37,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4305.4,
-      "change_pct": 5.13,
+      "price": 4291.3,
+      "change_pct": 1.07,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 75.04,
-      "change_pct": -0.96,
+      "price": 78.32,
+      "change_pct": 4.12,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64739.99,
-      "change_pct": 1.07,
+      "price": 64234.55,
+      "change_pct": -0.04,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.28,
+      "change_pct": -0.13,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.75,
-      "change_pct": -0.05,
+      "price": 6.74,
+      "change_pct": -0.1,
       "symbol": "CNY=X"
     }
   }
