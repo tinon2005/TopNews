@@ -1,130 +1,137 @@
 {
-  "date": "2026年08月08日",
-  "date_iso": "2026-08-08",
-  "generated_at": "2026-08-08T04:35:59.437673+08:00",
+  "date": "2026年08月09日",
+  "date_iso": "2026-08-09",
+  "generated_at": "2026-08-09T04:23:13.556303+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Adam Clark",
+      "title": "Why SK Hynix’s $38 Billion Memory Splurge Is No Problem for Micron Stock - Barron's",
+      "description": "Micron stock shouldn’t face any real concern over the investment plans of its memory-chip peer SK Hynix.",
+      "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-a6ba5523",
+      "urlToImage": "https://images.barrons.com/im-88978474/social",
+      "publishedAt": "2026-08-07T18:17:00Z",
+      "content": "Micron Technologyfell on Friday after its South Korean peerSK Hynixshared details of its investment plans. It shouldnt be a long-term problem for the U.S. memory-chip maker, though.\r\nCopyright ©2026D… [+81 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Victoria Craw",
-      "title": "Chipotle, Qdoba remove jalapeños tied to salmonella outbreak that has spread to 27 states - The Washington Post",
-      "description": "The restaurants, linked to “illness clusters” in seven of the states, are no longer considered an ongoing risk, the CDC said.",
-      "url": "https://www.washingtonpost.com/health/2026/08/06/salmonella-outbreak-linked-jalapeo-peppers-sickens-hundreds-27-states/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/IJ7XB4XVGQI6XJE33FXS3LAJII.jpg&w=1440",
-      "publishedAt": "2026-08-06T16:17:08Z",
-      "content": "Hundreds of people in 27 states have been sickened ina salmonella outbreak linked to jalapeño peppers, including at Chipotle and Qdoba restaurants, the Centers for Disease Control and Prevention said."
+      "author": "Riley Beggin, Federica Cocco, Joyce Sohyun Lee, Amy Brittain",
+      "title": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? - The Washington Post",
+      "description": "Despite recent price hikes, the mysterious company is still offering a significant discount at 29 stations across Pennsylvania and New Jersey.",
+      "url": "https://www.washingtonpost.com/politics/2026/08/07/freedom-fuel-praised-by-trump-sells-cheap-gasoline-how/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YARFOCP7HMH2FP3CUD2UI54WYM_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-08-07T17:00:01Z",
+      "content": "PHILADELPHIA As a steady stream of drivers pulled into the Freedom Fuel Networks gas station on Roosevelt Boulevard this week, some pumps still had signs saying Red Lion, the stations brand as recent… [+17 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": "Sean O'Kane",
-      "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas - TechCrunch",
-      "description": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
-      "url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
-      "publishedAt": "2026-08-06T15:21:51Z",
-      "content": "Tesla and SpaceX said Thursday that “Terafab,” the advanced chip factory they are jointly developing, will be built in Grimes County, Texas, outside Houston, and that they will make an initial invest… [+3058 chars]"
+      "author": "Al Jazeera Staff",
+      "title": "US labour market sheds jobs in July as labour force participation slumps - Al Jazeera",
+      "description": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.",
+      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2023-04-07T222947Z_1537522823_RC2U90ACAN62_RTRMADP_3_USA-ECONOMY-JOBS-1786114500.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-07T16:28:49Z",
+      "content": "The United States labour market lost 23,000 jobs in July, with major declines across several sectors, including education, government and retail trade.\r\nOn Friday, the Bureau of Labor Statistics rele… [+3648 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Al Root",
-      "title": "Honeywell Aerospace Stock Plunges. Its First Standalone Quarter Was a Mess. - Barron's",
-      "description": "Honeywell Aerospace stock slides after the company cut full year 2026 financial guidance while many of its peers are increasing their outlooks.",
-      "url": "https://www.barrons.com/articles/honeywell-aerospace-earnings-stock-price-e9022b0c",
-      "urlToImage": "https://images.barrons.com/im-02456784/social",
-      "publishedAt": "2026-08-06T14:39:00Z",
-      "content": null
+      "author": "Avery Feldman, Trey Brown",
+      "title": "Buc-ee’s responds as beaver logo battle gains national attention - The Hill",
+      "description": "As the lawsuit between Buc-ee's and Beaver Mini Mart continues, the former is speaking out for the first time.",
+      "url": "https://thehill.com/business/6017079-buc-ees-beaver-logo-lawsuit-ohio/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/10/67150188c0f7e0.00575304.jpeg?w=1280",
+      "publishedAt": "2026-08-07T16:23:00Z",
+      "content": "Skip to content\r\nby Avery Feldman and Trey Brown - 08/07/26 12:23 PM ET\r\nby Avery Feldman and Trey Brown - 08/07/26 12:23 PM ET\r\nBEAVERCREEK, Ohio (WDTN) – As the lawsuit between Buc-ee’s and Beaver … [+1865 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "MarketWatch"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Jeffry Bartash",
-      "title": "Layoffs fall to the lowest level since the U.S. put men on the moon. Here’s what that says about the economy. - MarketWatch",
-      "description": "Rising sales and a labor shortage are deterring job cuts. Jobless claims haven’t been this low since 1969.",
-      "url": "https://www.marketwatch.com/story/layoffs-fall-to-the-lowest-level-since-the-u-s-put-men-on-the-moon-heres-what-that-says-about-the-economy-71f7bd23",
-      "urlToImage": "https://images.mktw.net/im-68540123/social",
-      "publishedAt": "2026-08-06T14:03:00Z",
-      "content": "The last time layoffs in the U.S. were as low as they are now, NASA was landing astronauts on the moon, young Americans were rocking out at Woodstock and President Richard Nixon was moving into the W… [+252 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Al Root",
-      "title": "SpaceX Stock Rises. Millions of Shares Unlock Today—Brace For More Volatility. - Barron's",
-      "description": "Up to 911.5 million shares of SpaceX become available to trade on Thursday.",
-      "url": "https://www.barrons.com/articles/spacex-stock-price-shares-unlock-today-94df2210",
-      "urlToImage": "https://images.barrons.com/im-25925594/social",
-      "publishedAt": "2026-08-06T13:56:00Z",
-      "content": "SpaceXinvestors, with their heads in the clouds after afirst-quarter earningscall that included trillion-dollar AI-fueledrevenue projections, have to come back to Earth to deal with more mundane matt… [+135 chars]"
+      "author": "Emily Forlini",
+      "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions - Fortune",
+      "description": "The compute cost of the investment is staggering, according to a talk the company gave at a security conference this week.",
+      "url": "https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1497792338-e1786116153406.jpg?resize=1200,600",
+      "publishedAt": "2026-08-07T16:17:00Z",
+      "content": "Three long weeks after OpenAIs agents autonomously hacked Hugging Face, the company finally shared an in-depth description this week of what actually happened, and a video of that account published o… [+4799 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Seven killed after Thai student opens fire at home and school",
-      "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
-      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 15:51:16 GMT"
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 19:18:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
-      "description": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 15:56:39 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 17:58:42 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 15:51:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "description": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 17:23:31 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "description": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 15:59:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "description": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 20:18:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 20:33:23 GMT"
+      "publishedAt": "Sat, 08 Aug 2026 14:25:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 17:42:54 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 09:22:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 16:13:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 15:38:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 00:34:14 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-      "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 08:32:57 GMT"
+      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "description": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 13:41:32 GMT"
     },
     {
       "source": "BBC",
@@ -174,23 +181,16 @@
       "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
       "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 07 Aug 2026 13:32:41 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 01:03:35 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 5,
-      "GLP-1": 12,
-      "Iran oil": 5,
-      "Federal Reserve": 9,
-      "Bitcoin": 80
+      "AI stocks": 3,
+      "GLP-1": 10,
+      "Iran oil": 7,
+      "Federal Reserve": 6,
+      "Bitcoin": 66
     },
     "trending_searches": []
   },
@@ -211,23 +211,23 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4398.6,
-      "change_pct": 3.69,
+      "price": 4399.7,
+      "change_pct": 3.72,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 76.99,
-      "change_pct": -0.39,
+      "price": 78.18,
+      "change_pct": 1.15,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64910.82,
-      "change_pct": 1.01,
+      "price": 65011.69,
+      "change_pct": 0.2,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.15,
+      "change_pct": 0.16,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
