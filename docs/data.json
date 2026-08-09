@@ -1,130 +1,117 @@
 {
-  "date": "2026年08月09日",
-  "date_iso": "2026-08-09",
-  "generated_at": "2026-08-09T04:23:13.556303+08:00",
+  "date": "2026年08月10日",
+  "date_iso": "2026-08-10",
+  "generated_at": "2026-08-10T04:26:26.032618+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "TheStreet"
       },
-      "author": "Adam Clark",
-      "title": "Why SK Hynix’s $38 Billion Memory Splurge Is No Problem for Micron Stock - Barron's",
-      "description": "Micron stock shouldn’t face any real concern over the investment plans of its memory-chip peer SK Hynix.",
-      "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-a6ba5523",
-      "urlToImage": "https://images.barrons.com/im-88978474/social",
-      "publishedAt": "2026-08-07T18:17:00Z",
-      "content": "Micron Technologyfell on Friday after its South Korean peerSK Hynixshared details of its investment plans. It shouldnt be a long-term problem for the U.S. memory-chip maker, though.\r\nCopyright ©2026D… [+81 chars]"
+      "author": "thestreet.com",
+      "title": "Doughnut, diner, and restaurant chain owner files Chapter 7 - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/restaurants/doughnut-diner-and-restaurant-chain-owner-pihakis-files-chapter-7-bankruptcy",
+      "urlToImage": null,
+      "publishedAt": "2026-08-08T17:30:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O'Brien",
+      "title": "Buc-ee’s dodges John Oliver to sue another small business - The Verge",
+      "description": "The host challenged the company to take on someone its own size.",
+      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2222931981.jpg?quality=90&strip=all&crop=0%2C8.3627418964046%2C100%2C83.274516207191&w=1200",
+      "publishedAt": "2026-08-08T15:47:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe host challenged the company to take on someone its own size.\r\nThe host challenged the company to take on someone its own size.\r\nby\r\nTerrence O'BrienClose\r\nPo… [+2914 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Meet the Media Industry’s Nerd-in-Chief - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/media/jonathan-roberts-people-inc-innovation-2d21b227",
+      "urlToImage": null,
+      "publishedAt": "2026-08-08T15:00:00Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Riley Beggin, Federica Cocco, Joyce Sohyun Lee, Amy Brittain",
-      "title": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? - The Washington Post",
-      "description": "Despite recent price hikes, the mysterious company is still offering a significant discount at 29 stations across Pennsylvania and New Jersey.",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/freedom-fuel-praised-by-trump-sells-cheap-gasoline-how/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YARFOCP7HMH2FP3CUD2UI54WYM_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-07T17:00:01Z",
-      "content": "PHILADELPHIA As a steady stream of drivers pulled into the Freedom Fuel Networks gas station on Roosevelt Boulevard this week, some pumps still had signs saying Red Lion, the stations brand as recent… [+17 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "US labour market sheds jobs in July as labour force participation slumps - Al Jazeera",
-      "description": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.",
-      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2023-04-07T222947Z_1537522823_RC2U90ACAN62_RTRMADP_3_USA-ECONOMY-JOBS-1786114500.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-07T16:28:49Z",
-      "content": "The United States labour market lost 23,000 jobs in July, with major declines across several sectors, including education, government and retail trade.\r\nOn Friday, the Bureau of Labor Statistics rele… [+3648 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Avery Feldman, Trey Brown",
-      "title": "Buc-ee’s responds as beaver logo battle gains national attention - The Hill",
-      "description": "As the lawsuit between Buc-ee's and Beaver Mini Mart continues, the former is speaking out for the first time.",
-      "url": "https://thehill.com/business/6017079-buc-ees-beaver-logo-lawsuit-ohio/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/10/67150188c0f7e0.00575304.jpeg?w=1280",
-      "publishedAt": "2026-08-07T16:23:00Z",
-      "content": "Skip to content\r\nby Avery Feldman and Trey Brown - 08/07/26 12:23 PM ET\r\nby Avery Feldman and Trey Brown - 08/07/26 12:23 PM ET\r\nBEAVERCREEK, Ohio (WDTN) – As the lawsuit between Buc-ee’s and Beaver … [+1865 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Emily Forlini",
-      "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions - Fortune",
-      "description": "The compute cost of the investment is staggering, according to a talk the company gave at a security conference this week.",
-      "url": "https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1497792338-e1786116153406.jpg?resize=1200,600",
-      "publishedAt": "2026-08-07T16:17:00Z",
-      "content": "Three long weeks after OpenAIs agents autonomously hacked Hugging Face, the company finally shared an in-depth description this week of what actually happened, and a video of that account published o… [+4799 chars]"
+      "author": "Steve Thompson, Lauren Kaori Gurley",
+      "title": "Unemployment improved, because thousands of workers disappeared. Where did they go? - The Washington Post",
+      "description": "The percentage of American workers ages 25 to 54 declined this year, and that’s not a good sign for the economy, experts say.",
+      "url": "https://www.washingtonpost.com/business/2026/08/08/us-economy-lost-jobs-unemployment-improved-due-workers-leaving-labor-force/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYKGFDFNIA4NA624IQKX6GO2S4_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-08-08T14:32:50Z",
+      "content": "The U.S. economy shed jobs in July, yet the unemployment rate improved an unusual pairing that points to a worrying story unfolding behind the numbers for some economists.\r\nThats because even as the … [+69 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 19:18:57 GMT"
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 14:18:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 15:56:39 GMT"
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 12:27:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 17:58:42 GMT"
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 18:03:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 15:51:11 GMT"
+      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+      "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 15:34:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "description": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 17:23:31 GMT"
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 16:18:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "description": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
-      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 15:59:37 GMT"
+      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "description": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 19:57:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "description": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
-      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 20:18:28 GMT"
+      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 04:32:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 14:25:19 GMT"
+      "title": "Puerto Rico rations water supplies due to intense drought",
+      "description": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 16:43:23 GMT"
     },
     {
       "source": "BBC",
@@ -163,10 +150,10 @@
     },
     {
       "source": "BBC",
-      "title": "Argos is getting a makeover - but can it attract new shoppers?",
-      "description": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 06 Aug 2026 23:03:48 GMT"
+      "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
+      "description": "Fans and creators say a revived MySpace must feel personal, not algorithm-driven.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 00:04:20 GMT"
     },
     {
       "source": "BBC",
@@ -186,11 +173,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 3,
+      "AI stocks": 4,
       "GLP-1": 10,
-      "Iran oil": 7,
+      "Iran oil": 9,
       "Federal Reserve": 6,
-      "Bitcoin": 66
+      "Bitcoin": 77
     },
     "trending_searches": []
   },
@@ -212,22 +199,22 @@
     },
     "黃金": {
       "price": 4399.7,
-      "change_pct": 3.72,
+      "change_pct": 1.36,
       "symbol": "GC=F"
     },
     "WTI 原油": {
       "price": 78.18,
-      "change_pct": 1.15,
+      "change_pct": 0.0,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 65011.69,
-      "change_pct": 0.2,
+      "price": 65069.49,
+      "change_pct": 0.25,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.16,
+      "change_pct": 0.19,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
