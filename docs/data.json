@@ -1,225 +1,225 @@
 {
-  "date": "2026年08月10日",
-  "date_iso": "2026-08-10",
-  "generated_at": "2026-08-10T04:26:26.032618+08:00",
+  "date": "2026年08月11日",
+  "date_iso": "2026-08-11",
+  "generated_at": "2026-08-11T04:36:43.136813+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "TheStreet"
+        "name": "Fox Business"
       },
-      "author": "thestreet.com",
-      "title": "Doughnut, diner, and restaurant chain owner files Chapter 7 - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/restaurants/doughnut-diner-and-restaurant-chain-owner-pihakis-files-chapter-7-bankruptcy",
-      "urlToImage": null,
-      "publishedAt": "2026-08-08T17:30:53Z",
-      "content": null
+      "author": "Eric Mack",
+      "title": "Wendy's loses status as second-largest burger chain after 6-year run - Fox Business",
+      "description": "Burger King reclaimed the No. 2 U.S. burger chain spot from Wendy's after its revamped Whopper and multiyear turnaround drove same-store sales up 8.5%.",
+      "url": "https://www.foxbusiness.com/economy/wendys-loses-status-second-largest-burger-chain-after-6-year-run",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/wendys-restaurant-drive-thru-ohio.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-09T18:27:00Z",
+      "content": "Wendy’s has lost its place as America’s runner-up to McDonald's, ending a six-year run as the second-largest burger chain, being surpassed by a resurgent Burger King.\r\nBurger King reclaimed the No. 2… [+6453 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Terrence O'Brien",
-      "title": "Buc-ee’s dodges John Oliver to sue another small business - The Verge",
-      "description": "The host challenged the company to take on someone its own size.",
-      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2222931981.jpg?quality=90&strip=all&crop=0%2C8.3627418964046%2C100%2C83.274516207191&w=1200",
-      "publishedAt": "2026-08-08T15:47:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe host challenged the company to take on someone its own size.\r\nThe host challenged the company to take on someone its own size.\r\nby\r\nTerrence O'BrienClose\r\nPo… [+2914 chars]"
+      "author": "Anthony Thompson",
+      "title": "Verizon outage resolved after customers report service issues Saturday - USA Today",
+      "description": "Verizon resolved a voice service outage Saturday that affected a limited number of customers in the East and parts of the Midwest..",
+      "url": "https://www.usatoday.com/story/tech/2026/08/08/verizon-outage-thousands-report-phone-service-issues/91229709007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/27/USAT/90286111007-20211122-t-231105-z-858078009-rc-2-vzq-91-cnn-4-rtrmadp-3-verizonresults-1.JPG?crop=8191,4609,x0,y427&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-09T16:23:00Z",
+      "content": "Verizon customers reported problems with their wireless service on Saturday, Aug. 8, according to Downdetector, a website that tracks service outages based on user reports.\r\nAs of about 5:25 p.m. ET,… [+1161 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Islands.com"
       },
-      "author": "WSJ",
-      "title": "Meet the Media Industry’s Nerd-in-Chief - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/media/jonathan-roberts-people-inc-innovation-2d21b227",
-      "urlToImage": null,
-      "publishedAt": "2026-08-08T15:00:00Z",
-      "content": null
+      "author": "Kristin Conard",
+      "title": "This Airline Outshines Delta And Southwest For The Best Domestic Airline In 2026 - islands.com",
+      "description": "JSX outshines Delta and Southwest for the \"Best Domestic Airline\" in 2026, according to Travel+Leisure, and offers flights to 28 different destinations.",
+      "url": "https://www.islands.com/2231845/jsx-best-domestic-airline-2026-not-delta-southwest-outshines/",
+      "urlToImage": "https://www.islands.com/img/gallery/this-airline-outshines-delta-and-southwest-for-the-best-domestic-airline-in-2026/l-intro-1786036915.jpg",
+      "publishedAt": "2026-08-09T16:00:00Z",
+      "content": "When it comes to choosing what airline to book for your next vacation, there are all kinds of considerations. Some people may look strictly at price for a seat, others could be focused on on-time arr… [+1426 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "Steve Thompson, Lauren Kaori Gurley",
-      "title": "Unemployment improved, because thousands of workers disappeared. Where did they go? - The Washington Post",
-      "description": "The percentage of American workers ages 25 to 54 declined this year, and that’s not a good sign for the economy, experts say.",
-      "url": "https://www.washingtonpost.com/business/2026/08/08/us-economy-lost-jobs-unemployment-improved-due-workers-leaving-labor-force/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYKGFDFNIA4NA624IQKX6GO2S4_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-08T14:32:50Z",
-      "content": "The U.S. economy shed jobs in July, yet the unemployment rate improved an unusual pairing that points to a worrying story unfolding behind the numbers for some economists.\r\nThats because even as the … [+69 chars]"
+      "author": "Amanda Macias",
+      "title": "The $15 quick meal is disappearing except in these American cities - foxbusiness.com",
+      "description": "DoorDash's so-called Cheeseburger Index reveals a burger, fries and soda costs $12.94 in Austin but $28.28 in Anchorage, exposing stark local gaps for the same meal.",
+      "url": "https://www.foxbusiness.com/economy/15-quick-meal-disappearing-except-american-cities",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/eating-burger-iStock.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-09T14:03:00Z",
+      "content": "For Americans looking for an affordable meal out, geography can make a big difference in what they pay for a cheeseburger, fries and a soda.\r\nA $15 bill is still enough to cover a cheeseburger, fries… [+2504 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 14:18:10 GMT"
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:34:25 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 12:27:26 GMT"
+      "title": "World's oceans hit record-high July temperatures",
+      "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 10:24:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 18:03:55 GMT"
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:43:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-      "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 15:34:04 GMT"
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 19:17:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 16:18:10 GMT"
+      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+      "description": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 16:52:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-      "description": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 19:57:28 GMT"
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "description": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 17:50:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 04:32:06 GMT"
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 20:16:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "Puerto Rico rations water supplies due to intense drought",
-      "description": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 16:43:23 GMT"
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 18:28:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-      "description": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 13:41:32 GMT"
+      "title": "Thames Water gave finance boss a £1m signing-on fee",
+      "description": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:49:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "How a 90-second power outage sparked chaos for rail commuters",
-      "description": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 16:11:32 GMT"
+      "title": "Ban on 'subscription traps' brought forward by three months",
+      "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 09:57:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Goodwin considers selling part of defence business",
-      "description": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
-      "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 15:22:51 GMT"
+      "title": "Consortium advances talks for stake in Liverpool",
+      "description": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 13:16:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Surprise fall in US jobs last month as slow summer continues",
-      "description": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 14:03:55 GMT"
+      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
+      "description": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
+      "url": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 15:10:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 09:22:03 GMT"
+      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "description": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 05:00:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-      "description": "Fans and creators say a revived MySpace must feel personal, not algorithm-driven.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 00:04:20 GMT"
+      "title": "'You could smell someone' who worked at Raleigh",
+      "description": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 05:10:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why airlines are warning over lithium-ion batteries",
-      "description": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 06 Aug 2026 23:04:40 GMT"
+      "title": "You could be missing out on £150 off your energy bill - here's how to check",
+      "description": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 23:47:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 13:32:41 GMT"
+      "title": "Water outage forces Chessington theme park to close",
+      "description": "Chessington says all tickets booked for Monday can be used on a future date.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:24:53 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 4,
-      "GLP-1": 10,
-      "Iran oil": 9,
-      "Federal Reserve": 6,
-      "Bitcoin": 77
+      "AI stocks": 8,
+      "GLP-1": 16,
+      "Iran oil": 14,
+      "Federal Reserve": 8,
+      "Bitcoin": 99
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26690.62,
-      "change_pct": 1.24,
+      "price": 26605.36,
+      "change_pct": 0.98,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7757.64,
-      "change_pct": 0.44,
+      "price": 7753.11,
+      "change_pct": 0.56,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 54036.93,
-      "change_pct": -0.57,
+      "price": 53975.98,
+      "change_pct": 0.17,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4399.7,
-      "change_pct": 1.36,
+      "price": 4448.0,
+      "change_pct": 1.1,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 78.18,
-      "change_pct": 0.0,
+      "price": 82.25,
+      "change_pct": 5.21,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 65069.49,
-      "change_pct": 0.25,
+      "price": 64069.95,
+      "change_pct": -1.2,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.19,
+      "change_pct": 0.39,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.74,
-      "change_pct": -0.19,
+      "change_pct": -0.06,
       "symbol": "CNY=X"
     }
   }
