@@ -1,225 +1,219 @@
 {
-  "date": "2026年08月11日",
-  "date_iso": "2026-08-11",
-  "generated_at": "2026-08-11T04:36:43.136813+08:00",
+  "date": "2026年08月12日",
+  "date_iso": "2026-08-12",
+  "generated_at": "2026-08-12T04:37:48.925584+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Forbes"
       },
-      "author": "Eric Mack",
-      "title": "Wendy's loses status as second-largest burger chain after 6-year run - Fox Business",
-      "description": "Burger King reclaimed the No. 2 U.S. burger chain spot from Wendy's after its revamped Whopper and multiyear turnaround drove same-store sales up 8.5%.",
-      "url": "https://www.foxbusiness.com/economy/wendys-loses-status-second-largest-burger-chain-after-6-year-run",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/wendys-restaurant-drive-thru-ohio.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-09T18:27:00Z",
-      "content": "Wendy’s has lost its place as America’s runner-up to McDonald's, ending a six-year run as the second-largest burger chain, being surpassed by a resurgent Burger King.\r\nBurger King reclaimed the No. 2… [+6453 chars]"
+      "author": "Nina Bambysheva",
+      "title": "$5.5 Trillion Bet: Why Every Major Bank Is Racing To Put Wall Street On The Blockchain - Forbes",
+      "description": "Larry Fink, CEO of BlackRock, the world’s largest asset manager has called tokenization “the next generation for markets.” After a decade of hype, false starts and promising pilots, mainstream financial institutions are moving real assets onto blockchains in …",
+      "url": "https://www.forbes.com/sites/ninabambysheva/2026/08/10/why-tokenization-otherwise-known-as-wall-streets-great-rewiring-finally-looks-real/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a79cf59e5bbe12c5df27712/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-10T18:32:02Z",
+      "content": "Larry Fink, CEO of BlackRock, the world's largest asset manager with $15 trillion in assets, Tuesday, Jan. 20, 2026. (AP Photo/Markus Schreiber)\r\nCopyright 2026 The Associated Press. All rights reser… [+15739 chars]"
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Anthony Thompson",
-      "title": "Verizon outage resolved after customers report service issues Saturday - USA Today",
-      "description": "Verizon resolved a voice service outage Saturday that affected a limited number of customers in the East and parts of the Midwest..",
-      "url": "https://www.usatoday.com/story/tech/2026/08/08/verizon-outage-thousands-report-phone-service-issues/91229709007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/27/USAT/90286111007-20211122-t-231105-z-858078009-rc-2-vzq-91-cnn-4-rtrmadp-3-verizonresults-1.JPG?crop=8191,4609,x0,y427&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-09T16:23:00Z",
-      "content": "Verizon customers reported problems with their wireless service on Saturday, Aug. 8, according to Downdetector, a website that tracks service outages based on user reports.\r\nAs of about 5:25 p.m. ET,… [+1161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Islands.com"
-      },
-      "author": "Kristin Conard",
-      "title": "This Airline Outshines Delta And Southwest For The Best Domestic Airline In 2026 - islands.com",
-      "description": "JSX outshines Delta and Southwest for the \"Best Domestic Airline\" in 2026, according to Travel+Leisure, and offers flights to 28 different destinations.",
-      "url": "https://www.islands.com/2231845/jsx-best-domestic-airline-2026-not-delta-southwest-outshines/",
-      "urlToImage": "https://www.islands.com/img/gallery/this-airline-outshines-delta-and-southwest-for-the-best-domestic-airline-in-2026/l-intro-1786036915.jpg",
-      "publishedAt": "2026-08-09T16:00:00Z",
-      "content": "When it comes to choosing what airline to book for your next vacation, there are all kinds of considerations. Some people may look strictly at price for a seat, others could be focused on on-time arr… [+1426 chars]"
+      "author": "Rachel Frazin",
+      "title": "US emergency oil reserve falls below 300M barrels for first time since 1980s - The Hill",
+      "description": "The U.S.’s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago. New Energy Department data shows that the Strategic Petroleum Reserve (SPR) contained 298.7 million barrels as of Friday. Th…",
+      "url": "https://thehill.com/policy/energy-environment/6020738-spr-drops-below-300m-barrels/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/05/strategic-petroluem-reserve_getty.jpg?w=1280",
+      "publishedAt": "2026-08-10T17:07:00Z",
+      "content": "Skip to content\r\nThe U.S.’s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago.\r\nNew Energy Department data\r\n shows that the St… [+1465 chars]"
     },
     {
       "source": {
         "id": null,
+        "name": "New York Post"
+      },
+      "author": "Zain Khan",
+      "title": "Passenger who died mid-air on LAX-bound flight identified as 22-year-old - New York Post",
+      "description": "An investigation was underway into what killed a 22-year-old man who died on a flight from Dallas to Los",
+      "url": "https://nypost.com/2026/08/10/us-news/man-who-died-on-lax-bound-flight-idd-as-22-year-old/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40271292.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-08-10T17:00:00Z",
+      "content": "An investigation was underway into what killed a 22-year-old man who died on a flight from Dallas to Los Angeles.\r\nThe Los Angeles County medical examiner’s office identified the man as Rain McMillan… [+1698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Fox Business"
       },
-      "author": "Amanda Macias",
-      "title": "The $15 quick meal is disappearing except in these American cities - foxbusiness.com",
-      "description": "DoorDash's so-called Cheeseburger Index reveals a burger, fries and soda costs $12.94 in Austin but $28.28 in Anchorage, exposing stark local gaps for the same meal.",
-      "url": "https://www.foxbusiness.com/economy/15-quick-meal-disappearing-except-american-cities",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/eating-burger-iStock.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-09T14:03:00Z",
-      "content": "For Americans looking for an affordable meal out, geography can make a big difference in what they pay for a cheeseburger, fries and a soda.\r\nA $15 bill is still enough to cover a cheeseburger, fries… [+2504 chars]"
+      "author": "Matthew Kazin",
+      "title": "Powerball jackpot soars to $905M, eighth-largest in game's history - Fox Business",
+      "description": "The Powerball jackpot climbed to an estimated $905 million with an estimated cash value of $391.9 million after there was no winner in Saturday's drawing.",
+      "url": "https://www.foxbusiness.com/lifestyle/powerball-jackpot-latest-drawing-august-2026",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/powerball-ticket.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-10T16:55:00Z",
+      "content": "The Powerball jackpot surged to an estimated $905 million ahead of Monday night's drawing, making it the eighth-largest prize in the game's history.\r\nThe pot grew after no ticket matched all six numb… [+2112 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 14:34:25 GMT"
+      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 19:09:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "World's oceans hit record-high July temperatures",
-      "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 10:24:46 GMT"
+      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 20:04:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 14:43:08 GMT"
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 14:47:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 19:17:11 GMT"
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 16:19:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "description": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 16:52:47 GMT"
+      "title": "Russia releases former US Marine reported in poor health",
+      "description": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 17:02:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "description": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 17:50:29 GMT"
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 15:24:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 20:16:34 GMT"
+      "title": "France bans unsolicited telemarketing calls",
+      "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 14:19:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "New train service connects Finland and Sweden for first time in decades",
-      "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 18:28:11 GMT"
+      "title": "Former judge removed by Orbán elected Hungarian president",
+      "description": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
+      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 18:34:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thames Water gave finance boss a £1m signing-on fee",
-      "description": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 14:49:46 GMT"
+      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+      "description": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+      "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 23:32:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ban on 'subscription traps' brought forward by three months",
-      "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:57:54 GMT"
+      "title": "Tributes to co-founder of John Pye auction house",
+      "description": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 20:22:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Consortium advances talks for stake in Liverpool",
-      "description": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 13:16:51 GMT"
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 12:09:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
-      "description": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
-      "url": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 15:10:33 GMT"
+      "title": "France bans unsolicited telemarketing calls",
+      "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 14:19:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-      "description": "Tech companies are not modelling their own claims of the technology giving people more free time.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:32 GMT"
+      "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
+      "description": "Trump Media expects the controversial service, which launched this month, to provide a new revenue stream, as it posts a quarterly loss.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 08:08:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "'You could smell someone' who worked at Raleigh",
-      "description": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 05:10:15 GMT"
+      "title": "Eclipse chasers scramble for glasses as stocks run low",
+      "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 16:31:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "You could be missing out on £150 off your energy bill - here's how to check",
-      "description": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 23:47:30 GMT"
+      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+      "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 08:44:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Water outage forces Chessington theme park to close",
-      "description": "Chessington says all tickets booked for Monday can be used on a future date.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 14:24:53 GMT"
+      "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
+      "description": "The woman who found the chocolate bar during a house clearance compares it with today's Mars Bars.",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 09:08:46 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 8,
-      "GLP-1": 16,
-      "Iran oil": 14,
-      "Federal Reserve": 8,
-      "Bitcoin": 99
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26605.36,
-      "change_pct": 0.98,
+      "price": 26445.44,
+      "change_pct": -0.92,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7753.11,
-      "change_pct": 0.56,
+      "price": 7728.2,
+      "change_pct": -0.38,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53975.98,
-      "change_pct": 0.17,
+      "price": 53791.85,
+      "change_pct": -0.45,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4448.0,
-      "change_pct": 1.1,
+      "price": 4430.0,
+      "change_pct": 1.56,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 82.25,
-      "change_pct": 5.21,
+      "price": 83.38,
+      "change_pct": 1.52,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64069.95,
-      "change_pct": -1.2,
+      "price": 63627.92,
+      "change_pct": -0.44,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.39,
+      "change_pct": 0.11,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.74,
-      "change_pct": -0.06,
+      "price": 6.75,
+      "change_pct": -0.04,
       "symbol": "CNY=X"
     }
   }
