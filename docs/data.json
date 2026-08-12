@@ -1,219 +1,225 @@
 {
-  "date": "2026年08月12日",
-  "date_iso": "2026-08-12",
-  "generated_at": "2026-08-12T04:37:48.925584+08:00",
+  "date": "2026年08月13日",
+  "date_iso": "2026-08-13",
+  "generated_at": "2026-08-13T04:38:23.014506+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Nina Bambysheva",
-      "title": "$5.5 Trillion Bet: Why Every Major Bank Is Racing To Put Wall Street On The Blockchain - Forbes",
-      "description": "Larry Fink, CEO of BlackRock, the world’s largest asset manager has called tokenization “the next generation for markets.” After a decade of hype, false starts and promising pilots, mainstream financial institutions are moving real assets onto blockchains in …",
-      "url": "https://www.forbes.com/sites/ninabambysheva/2026/08/10/why-tokenization-otherwise-known-as-wall-streets-great-rewiring-finally-looks-real/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a79cf59e5bbe12c5df27712/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-10T18:32:02Z",
-      "content": "Larry Fink, CEO of BlackRock, the world's largest asset manager with $15 trillion in assets, Tuesday, Jan. 20, 2026. (AP Photo/Markus Schreiber)\r\nCopyright 2026 The Associated Press. All rights reser… [+15739 chars]"
+      "author": "WSJ",
+      "title": "Stock Market Today: Dow, Nasdaq Sink; Oil Nears $90; Intel, Trump Media in Focus — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-08-11T18:24:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Rachel Frazin",
-      "title": "US emergency oil reserve falls below 300M barrels for first time since 1980s - The Hill",
-      "description": "The U.S.’s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago. New Energy Department data shows that the Strategic Petroleum Reserve (SPR) contained 298.7 million barrels as of Friday. Th…",
-      "url": "https://thehill.com/policy/energy-environment/6020738-spr-drops-below-300m-barrels/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/05/strategic-petroluem-reserve_getty.jpg?w=1280",
-      "publishedAt": "2026-08-10T17:07:00Z",
-      "content": "Skip to content\r\nThe U.S.’s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago.\r\nNew Energy Department data\r\n shows that the St… [+1465 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Zain Khan",
-      "title": "Passenger who died mid-air on LAX-bound flight identified as 22-year-old - New York Post",
-      "description": "An investigation was underway into what killed a 22-year-old man who died on a flight from Dallas to Los",
-      "url": "https://nypost.com/2026/08/10/us-news/man-who-died-on-lax-bound-flight-idd-as-22-year-old/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40271292.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-08-10T17:00:00Z",
-      "content": "An investigation was underway into what killed a 22-year-old man who died on a flight from Dallas to Los Angeles.\r\nThe Los Angeles County medical examiner’s office identified the man as Rain McMillan… [+1698 chars]"
+      "author": "Beth Mole",
+      "title": "Less than 2.5% of Taylor Farms’ recalled lettuce went to Taco Bells - Ars Technica",
+      "description": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
+      "url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2287552371-1024x648.jpg",
+      "publishedAt": "2026-08-11T18:00:14Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "CNBC"
       },
-      "author": "Matthew Kazin",
-      "title": "Powerball jackpot soars to $905M, eighth-largest in game's history - Fox Business",
-      "description": "The Powerball jackpot climbed to an estimated $905 million with an estimated cash value of $391.9 million after there was no winner in Saturday's drawing.",
-      "url": "https://www.foxbusiness.com/lifestyle/powerball-jackpot-latest-drawing-august-2026",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/powerball-ticket.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-10T16:55:00Z",
-      "content": "The Powerball jackpot surged to an estimated $905 million ahead of Monday night's drawing, making it the eighth-largest prize in the game's history.\r\nThe pot grew after no ticket matched all six numb… [+2112 chars]"
+      "author": "Diana Olick",
+      "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately - CNBC",
+      "description": "The CEO of the nation's largest single-family rental landlord said the new law banning large-scale investors from the market will lower prices in the long term.",
+      "url": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108347976-1786466278371-gettyimages-1779889378-HOMES_TANNER.jpeg?v=1786466301&w=1920&h=1080",
+      "publishedAt": "2026-08-11T16:54:38Z",
+      "content": "The CEO of Invitation Homes, the nation's largest single-family rental landlord, said he believes the recently passed housing bill that bans investors like him from buying existing homes will eventua… [+3000 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Flight-Tracking Platform Sues Kalshi Over Flight Cancellation Prediction Markets - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/airlines/flightaware-sues-kalshi-flight-data-421221d1",
+      "urlToImage": null,
+      "publishedAt": "2026-08-11T16:48:00Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 19:09:52 GMT"
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 17:47:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 20:04:11 GMT"
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 16:14:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 14:47:28 GMT"
+      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "description": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 19:21:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
-      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 16:19:44 GMT"
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 20:16:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia releases former US Marine reported in poor health",
-      "description": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 17:02:22 GMT"
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 11:28:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lebanon parliament votes to abolish death penalty",
-      "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 15:24:07 GMT"
+      "title": "LA Lakers to be sold in record $12.5bn deal",
+      "description": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 16:11:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "France bans unsolicited telemarketing calls",
-      "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 14:19:45 GMT"
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "description": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 16:35:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Former judge removed by Orbán elected Hungarian president",
-      "description": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
-      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 18:34:39 GMT"
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 16:34:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-      "description": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
-      "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 23:32:10 GMT"
+      "title": "Trump sued over Truth Social's $100,000 early access service",
+      "description": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 17:48:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tributes to co-founder of John Pye auction house",
-      "description": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 20:22:40 GMT"
+      "title": "Discord ordered to suspend livestreams in Brazil",
+      "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 17:10:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 12:09:26 GMT"
+      "title": "Burnham warned Iran war could hit UK growth next year",
+      "description": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 14:17:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "France bans unsolicited telemarketing calls",
-      "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 14:19:45 GMT"
+      "title": "US inflation eases as food and fuel costs cool",
+      "description": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 17:03:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
-      "description": "Trump Media expects the controversial service, which launched this month, to provide a new revenue stream, as it posts a quarterly loss.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:08:30 GMT"
+      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+      "description": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 23:00:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Eclipse chasers scramble for glasses as stocks run low",
-      "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 16:31:43 GMT"
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 23:03:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:44:52 GMT"
+      "title": "Bakery buys comedian's former sites after closure",
+      "description": "Bakery business Janes Pantry confirms its plans to reopen at least 20 of the Coughlans shops.",
+      "url": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 12:46:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
-      "description": "The woman who found the chocolate bar during a house clearance compares it with today's Mars Bars.",
-      "url": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 09:08:46 GMT"
+      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+      "description": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
+      "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 07:30:16 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {},
+    "finance_keywords": {
+      "AI stocks": 4,
+      "GLP-1": 7,
+      "Iran oil": 5,
+      "Federal Reserve": 4,
+      "Bitcoin": 52
+    },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26445.44,
-      "change_pct": -0.92,
+      "price": 26588.49,
+      "change_pct": -0.06,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7728.2,
-      "change_pct": -0.38,
+      "price": 7748.5,
+      "change_pct": -0.06,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53791.85,
-      "change_pct": -0.45,
+      "price": 53770.27,
+      "change_pct": -0.38,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4430.0,
-      "change_pct": 1.56,
+      "price": 4467.6,
+      "change_pct": 1.93,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 83.38,
-      "change_pct": 1.52,
+      "price": 82.88,
+      "change_pct": -0.38,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 63627.92,
-      "change_pct": -0.44,
+      "price": 63494.17,
+      "change_pct": -0.09,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.11,
+      "change_pct": -0.13,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.75,
-      "change_pct": -0.04,
+      "price": 6.74,
+      "change_pct": -0.07,
       "symbol": "CNY=X"
     }
   }
