@@ -1,130 +1,130 @@
 {
-  "date": "2026年08月15日",
-  "date_iso": "2026-08-15",
-  "generated_at": "2026-08-15T04:26:03.361235+08:00",
+  "date": "2026年08月16日",
+  "date_iso": "2026-08-16",
+  "generated_at": "2026-08-16T04:16:56.529729+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "Barron's"
       },
-      "author": "Steve Kopack",
-      "title": "Stocks rise and interest rates fall after inflation report - nbcnews.com",
-      "description": "Stocks rose and bond yields fell sharply Thursday after a fresh read on business inflation showed prices were broadly flat in July.",
-      "url": "https://www.nbcnews.com/business/markets/stocks-bonds-ppi-inflation-rcna592331",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260813-new-york-stock-exchange-vl-1052a-2d720d.jpg",
-      "publishedAt": "2026-08-13T18:01:33Z",
-      "content": "Stocks rose and bond yields fell sharply Thursday after a fresh read on business inflation showed prices were broadly flat in July.\r\nThe report fueled optimism on Wall Street that the Federal Reserve… [+3425 chars]"
+      "author": "George Glover, Kit Norton",
+      "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today’s Market - Barron's",
+      "description": "Sandisk trades higher with several Wall Street firms responding positively to the company’s long-term revenue growth plan.",
+      "url": "https://www.barrons.com/articles/stock-movers-0ed39f6f",
+      "urlToImage": "https://images.barrons.com/im-88808064/social",
+      "publishedAt": "2026-08-14T18:02:00Z",
+      "content": "Stocks traded lowerFriday as earlier gains evaporated. Investors continued to speculate about the Federal Reserves next move on interest rates following a cooler-than-expectedwholesale inflation read… [+103 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Tim Fernholz",
-      "title": "OpenAI hires new CRO as executive shake-up continues - TechCrunch",
-      "description": "Dali Rajic will take over as OpenAI's top salesperson.",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
-      "publishedAt": "2026-08-13T17:07:13Z",
-      "content": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab’s top sales job.\r\nThe … [+2125 chars]"
+      "author": "Ashley Belanger",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case - Ars Technica",
+      "description": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg",
+      "publishedAt": "2026-08-14T17:26:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Katherine Doherty, Archie Hunter, Nicola M White",
+      "title": "DOJ, CFTC Investigating Iron Ore Trader Radiant World’s Deals - Bloomberg.com",
+      "description": "The Justice Department and a US financial regulator are probing transactions around Radiant World, the private firm that has rapidly risen to become one of the world’s largest iron ore traders, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/doj-cftc-investigating-iron-ore-trader-radiant-world-s-deals",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFj_hfwjDkqE/v0/1200x800.jpg",
+      "publishedAt": "2026-08-14T16:59:08Z",
+      "content": "The Justice Department and a US financial regulator are probing transactions around Radiant World, the private firm that has rapidly risen to become one of the worlds largest iron ore traders, accord… [+413 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Barron's"
       },
-      "author": "Eric Revell",
-      "title": "Major PBMs to boost prescription drug price transparency through TrumpRx - Fox Business",
-      "description": "Dr. Mehmet Oz says the TrumpRx deal with nine pharmacy benefit managers will boost drug cost transparency and drive down prescription prices.",
-      "url": "https://www.foxbusiness.com/politics/major-pbms-boost-prescription-drug-price-transparency-through-trumprx",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/pharmacy-tech.png?ve=1&tl=1",
-      "publishedAt": "2026-08-13T16:37:00Z",
-      "content": "A group of nine pharmacy benefit managers (PBMs) announced Thursday that they will work with an industry group to boost the transparency of prescription drug pricing through the TrumpRx platform.\r\nFO… [+3136 chars]"
+      "author": "Patrick O’Donnell",
+      "title": "SpaceX Stock Drops as Musk’s Rockets Face a Fresh Rival - Barron's",
+      "description": "SpaceX stock has gained around 19% in the week since the first tranche of shares were unlocked last Thursday and another release is coming next week.",
+      "url": "https://www.barrons.com/articles/spacex-stock-price-unlocked-rival-52f9fc3a",
+      "urlToImage": "https://images.barrons.com/im-87139323/social",
+      "publishedAt": "2026-08-14T16:31:00Z",
+      "content": "Another tranche ofSpaceXstock will be unlocked and free to trade next week. It will be the second since the company came to market two months ago.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Ri… [+46 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Cut"
+        "name": "CNBC"
       },
-      "author": "Emma Childs",
-      "title": "Phoebe Gates’s Phia Drama Is Getting Even Stickier - The Cut",
-      "description": "Phoebe Gates reportedly knew her AI shopping company was profiting on sales it shouldn’t have, according to a report from Bloomberg. Under U.S. law, the activities are persecuted as wire fraud, with a maximum penalty of 20 years in federal prison.",
-      "url": "http://www.thecut.com/article/phoebe-gates-phia-drama-cookie-stuffing.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/bf5/b4e/68de814d7cdc050838b4774c3cf928c16b-phoebe-phia.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-08-13T16:19:39Z",
-      "content": "Phia co-founders Phoebe Gates (yes, as in the daughter of Microsofts Bill) and Sophia Kianni are in hot water. According to a new report from Bloomberg, the entrepreneurs knowingly pushed for feature… [+3073 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Victoria Craw",
-      "title": "$1 billion Powerball jackpot has a winner - The Washington Post",
-      "description": "The prize is the eighth largest in Powerball history. The player with the winning numbers can choose a lump sum of $450 million or a series of payments made over 29 years.",
-      "url": "https://www.washingtonpost.com/nation/2026/08/13/104-billion-powerball-drawing-finds-winner/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKBBELY2J6M4QJXPJD5DFE6M4A_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-13T16:14:58Z",
-      "content": "A Powerball player is waking up much richer after winning the $1.04 billion jackpot Wednesday night scooping up the eighth-largest prize in the games history. \r\nA single ticket sold in Illinois match… [+233 chars]"
+      "author": "Ashley Capoot, Kate Rooney",
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO - CNBC",
+      "description": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349722-1786712900728-gettyimages-2285138968-kd1_9383_mmure7bl.jpeg?v=1786712921&w=1920&h=1080",
+      "publishedAt": "2026-08-14T15:45:15Z",
+      "content": "When OpenAI hired Denise Dresser from Slack to be its chief revenue officer in December, Fidji Simo, a top-ranking executive, said in a blog post that Dresser's \"experience will help us make AI usefu… [+7754 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 18:25:38 GMT"
+      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 20:00:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 12:19:21 GMT"
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 19:16:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 17:03:17 GMT"
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 16:02:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Unprecedented' rain in Japan kills eight people",
-      "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 10:36:14 GMT"
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 19:41:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "description": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 13:18:08 GMT"
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+      "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 14 Aug 2026 17:36:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 10:55:39 GMT"
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 13:41:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "France's top court blocks social media ban for under-15s",
-      "description": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 16:35:06 GMT"
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 19:34:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump asks Supreme Court to allow ballroom work to continue",
-      "description": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 19:05:22 GMT"
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "description": "The fire burning through the major park was described as the country's worst in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 17:47:42 GMT"
     },
     {
       "source": "BBC",
@@ -135,10 +135,10 @@
     },
     {
       "source": "BBC",
-      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
       "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
       "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 19:17:16 GMT"
+      "publishedAt": "Sat, 15 Aug 2026 03:58:31 GMT"
     },
     {
       "source": "BBC",
@@ -163,6 +163,13 @@
     },
     {
       "source": "BBC",
+      "title": "Protein or pickled garlic? What's new in ice cream",
+      "description": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+      "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 14 Aug 2026 21:20:19 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
       "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
@@ -174,23 +181,16 @@
       "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
       "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 13 Aug 2026 22:00:10 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Water bills set to rise for many after firms permitted extra funding",
-      "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 13:38:30 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 4,
-      "GLP-1": 7,
+      "AI stocks": 3,
+      "GLP-1": 9,
       "Iran oil": 5,
       "Federal Reserve": 4,
-      "Bitcoin": 66
+      "Bitcoin": 48
     },
     "trending_searches": []
   },
@@ -211,18 +211,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4428.8,
-      "change_pct": 1.49,
+      "price": 4437.3,
+      "change_pct": 1.69,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 82.41,
-      "change_pct": 1.43,
+      "price": 82.4,
+      "change_pct": 1.42,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 62869.48,
-      "change_pct": -0.84,
+      "price": 63000.01,
+      "change_pct": 0.04,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
@@ -231,8 +231,8 @@
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.74,
-      "change_pct": -0.04,
+      "price": 6.73,
+      "change_pct": -0.16,
       "symbol": "CNY=X"
     }
   }
