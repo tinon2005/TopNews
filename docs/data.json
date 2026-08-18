@@ -1,232 +1,238 @@
 {
-  "date": "2026年08月18日",
-  "date_iso": "2026-08-18",
-  "generated_at": "2026-08-18T04:20:29.679087+08:00",
+  "date": "2026年08月19日",
+  "date_iso": "2026-08-19",
+  "generated_at": "2026-08-19T04:17:54.814913+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Legal Sports Report"
       },
-      "author": "Amanda Macias",
-      "title": "A historic shortage is squeezing an American dinner staple and relief could be years away - Fox Business",
-      "description": "Tyson Foods closes beef facilities as America's cattle herd hits a 75-year low, driven by persistent drought that forced ranchers to sell early.",
-      "url": "https://www.foxbusiness.com/politics/historic-shortage-squeezing-american-dinner-staple-relief-could-years-away",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/rancher-cattle-shortage.png?ve=1&tl=1",
-      "publishedAt": "2026-08-16T19:18:00Z",
-      "content": "Relief from high beef prices may depend on something that can’t be fixed overnight: rebuilding America’s shrinking cattle herd.\r\nAmerica’s ranchers are facing their smallest cattle herd in 75 years, … [+2687 chars]"
+      "author": "Corey Sharp",
+      "title": "Fraud Prevention Deal Renewed Between FanDuel, GeoComply - LegalSportsReport",
+      "description": "GeoComply and FanDuel extend their identity verification partnership with a new multi-year deal ahead of NFL season.",
+      "url": "https://www.legalsportsreport.com/273008/fanduel-geocomply-renew-partnership-ahead-of-nfl-season/",
+      "urlToImage": "https://www.legalsportsreport.com/wp-content/uploads/2026/08/081726-geocomply.jpg",
+      "publishedAt": "2026-08-17T18:00:12Z",
+      "content": "FanDuel and GeoComply have renewed their long-running partnership with a new multi-year deal, extending its 13 years of collaboration on identity verification and fraud prevention just as the industr… [+1924 chars]"
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Fox News",
-      "title": "Viral Italian spritz cocktail — no, not Aperol — makes a summer splash in the US - New York Post",
-      "description": "Move over Hugo and Aperol spritz, there’s a new trendy drink in town.",
-      "url": "https://www.foxnews.com/food-drink/move-over-aperol-viral-italian-spritz-arrives-us-eye-catching-twist",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40365710.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-08-16T17:38:00Z",
-      "content": "Sarti Rosa is making a splash with its United States debut.\r\nThe new spirit in town, previously only available in Europe, is officially hitting liquor stores across the country and it’s become a vira… [+4029 chars]"
+      "author": "Julia Amann, David Uberti, Sam Goldfarb, Heather Gillers, Micah Maidenberg, Robb M. Stewart, WSJ Staff, Hannah Erin Lang, Peter Rudegeair, Natasha Khan, Shradha Dinesh",
+      "title": "Stock Market Today: Dow Slips; AI Stocks, Iran Tensions in Focus — Live Updates - WSJ",
+      "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026",
+      "urlToImage": "https://images.wsj.net/im-925349/social",
+      "publishedAt": "2026-08-17T17:49:00Z",
+      "content": "Bonds faced fresh pressure Monday, with the 30-year Treasury yield poised to finish the day at a 19-year high.\r\nYields, which rise when bond prices fall, took a sharper leg up as Brent crude prices j… [+1271 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Anthony Ha",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
-      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-      "publishedAt": "2026-08-16T16:53:51Z",
-      "content": "Anthropic CEO Dario Amodei recently pushed back against the idea that he’s been painting an overly pessimistic picture of artificial intelligence and how it might shape the future.\r\nAmodeis comments … [+3625 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mashed.com"
-      },
-      "author": "Michelle Washmuth",
-      "title": "10 Rules To Know Before Your First Visit To Raising Cane's - Mashed",
-      "description": "We've rounded up some of the rules that Caniacs say you should follow to have the most memorable (and delicious) first time dining at Raising Cane's.",
-      "url": "https://www.mashed.com/2236265/raising-canes-rules-know-first-visit/",
-      "urlToImage": "https://www.mashed.com/img/gallery/10-rules-to-know-before-your-first-visit-to-raising-canes/l-intro-1786633612.jpg",
-      "publishedAt": "2026-08-16T16:23:00Z",
-      "content": "Whenever you are trying out a new restaurant, you may find yourself wanting to try a little bit of everything. Since the Raising Cane's menu is so limited, the good news is that it is actually pretty… [+891 chars]"
+      "author": "WSJ",
+      "title": "L3Harris Ousts CEO After Investigation Into Conduct - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/l3harris-parts-ways-with-chairman-ceo-kubasik-over-conduct-bb651136",
+      "urlToImage": null,
+      "publishedAt": "2026-08-17T17:32:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Chron.com"
+        "name": "Natesilver.net"
       },
-      "author": "Michael Shapiro",
-      "title": "Texas H-E-B stores remove over 50 recalled items from shelves - Chron",
-      "description": "The affected products were distributed to retail customers in Texas and Louisiana between July 3, 2026, and August 5, 2026.",
-      "url": "https://www.chron.com/news/article/heb-recall-salmonella-risk-texas-22390421.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/06/00/31219772/3/rawImage.jpg",
-      "publishedAt": "2026-08-16T16:14:18Z",
-      "content": "A collection of items sold at Texas H-E-B stores were recalled due to concerns of salmonella. \r\nHouston Chronicle/Hearst Newspap/Houston Chronicle via Getty Imag\r\nTexas grocer H-E-B confirmed Friday … [+2822 chars]"
+      "author": "Nate Silver",
+      "title": "Why does everyone hate data centers? - Silver Bulletin",
+      "description": "My chat with Jasmine Sun about what role data centers could play in the midterms, how the backlash caught Silicon Valley by surprise — and why Claude can be so weird.",
+      "url": "https://www.natesilver.net/p/why-does-everyone-hate-data-centers",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!g0Hb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84db3846-17c9-4923-8080-4514b15d7a1f_2400x1260.jpeg",
+      "publishedAt": "2026-08-17T17:25:26Z",
+      "content": "One of my philosophies for this newsletter is to write about the things that Im thinking about anyway. But theres long been a deficiency when it comes to our coverage of AI, which occupies more and m… [+71331 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Josh Sisco, Natasha Mascarenhas, Sarah Frier",
+      "title": "Andreessen Horowitz Focus of DOJ Probe Over Board Directors - Bloomberg.com",
+      "description": "Venture capital firm Andreessen Horowitz is the focus of a Justice Department antitrust probe over whether its investment partners are improperly serving on the boards of competing artificial intelligence companies, according to people familiar with the matte…",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/andreessen-horowitz-focus-of-doj-probe-over-board-directors",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igUJ4dIN3OcA/v1/1200x800.jpg",
+      "publishedAt": "2026-08-17T17:13:50Z",
+      "content": "Venture capital firm Andreessen Horowitz is the focus of a Justice Department antitrust probe over whether its investment partners are improperly serving on the boards of competing artificial intelli… [+539 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 19:25:05 GMT"
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 12:36:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 13:16:50 GMT"
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 17:15:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 16:17:34 GMT"
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 13:13:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "description": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 18:00:55 GMT"
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "description": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 17:54:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "description": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 18:03:23 GMT"
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "description": "Recovery efforts continue in what is the country's deadliest transport disaster.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 12:04:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 17:31:36 GMT"
+      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 16:00:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "US hiker dies after being struck by lightning on Mount Etna",
-      "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
-      "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 12:23:26 GMT"
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 19:52:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 18:39:39 GMT"
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 08:44:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Virgin takes step towards running Channel Tunnel rail services",
-      "description": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 12:46:25 GMT"
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 18:20:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "How switching your bank account could earn you up to £220",
-      "description": "New research suggests staying put is costing British savers billions in missed interest every year.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 16 Aug 2026 23:14:47 GMT"
+      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+      "description": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 12:52:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ferrari's first ever electric car sold for record $40m",
-      "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 02:22:04 GMT"
+      "title": "Wetherspoons bans customers playing music from phones in pubs",
+      "description": "The pub chain says the decision follows complaints about \"other people's videos and amplified phone conversations\".",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 15:23:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
-      "description": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 05:00:25 GMT"
+      "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
+      "description": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
+      "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 07:52:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Changing pubs into homes to be made harder under new rules",
-      "description": "The rules will come into force on Monday along with other changes to planning policy.",
-      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 07:04:21 GMT"
+      "title": "From jumpers to slug pellets - how British wool is back in demand",
+      "description": "An increased demand in wool has meant prices have increased more than 70% in the last year.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 11:18:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Protein or pickled garlic? What's new in ice cream",
-      "description": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
-      "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 21:20:19 GMT"
+      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
+      "description": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 12:27:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Sainsbury's branch halts AI use as shopper ejected",
-      "description": "Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter.",
-      "url": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 04:57:21 GMT"
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 16:22:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
-      "description": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 12:43:09 GMT"
+      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+      "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
+      "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 09:26:41 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {},
+    "finance_keywords": {
+      "AI stocks": 7,
+      "GLP-1": 8,
+      "Iran oil": 10,
+      "Federal Reserve": 5,
+      "Bitcoin": 61
+    },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26644.91,
-      "change_pct": -0.59,
+      "price": 26289.71,
+      "change_pct": -1.64,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7745.06,
-      "change_pct": -0.69,
+      "price": 7691.76,
+      "change_pct": -1.21,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53459.78,
-      "change_pct": -0.71,
+      "price": 53343.4,
+      "change_pct": -0.72,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4473.8,
-      "change_pct": 0.82,
+      "price": 4397.7,
+      "change_pct": -0.45,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 84.64,
-      "change_pct": 2.72,
+      "price": 84.14,
+      "change_pct": -0.43,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64273.13,
-      "change_pct": 2.32,
+      "price": 64587.15,
+      "change_pct": 0.13,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.39,
+      "change_pct": -0.13,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.74,
-      "change_pct": -0.05,
+      "price": 6.73,
+      "change_pct": -0.13,
       "symbol": "CNY=X"
     }
   }
