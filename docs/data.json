@@ -1,238 +1,238 @@
 {
-  "date": "2026年08月20日",
-  "date_iso": "2026-08-20",
-  "generated_at": "2026-08-20T04:21:02.612869+08:00",
+  "date": "2026年08月21日",
+  "date_iso": "2026-08-21",
+  "generated_at": "2026-08-21T04:22:36.532714+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "MarketWatch"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Christine Idzelis, Joy Wiltermuth, Jamie Chisholm, Nora Redmond",
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq close lower, with tech under pressure as semi stocks sell off; Home Depot reports earnings - MarketWatch",
-      "description": "Major U.S. stock indexes dropped for a third straight day as shares of semiconductor companies slumped and Treasury yields remained near multiyear highs after a modest retreat. Tech stocks sold off, dragging down the S&P 500.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-bond-sell-off-yield-us-30-year-treasury-home-depot-results",
-      "urlToImage": "https://images.mktw.net/im-51746529/social",
-      "publishedAt": "2026-08-18T20:02:00Z",
-      "content": null
+      "author": "Sam Sutton, Victoria Guida",
+      "title": "‘Drop in the bucket’: Why Wall Street will shrug off Bessent’s bond market plans - Politico",
+      "description": "The action by Treasury Secretary Scott Bessent comes amid a selloff of longer-term U.S. government debt.",
+      "url": "https://www.politico.com/news/2026/08/19/treasury-buy-back-debt-bond-market-pain-01041461",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F39%2F5a%2F3327c44f4f45b16ca3d8663ba36a%2Ftrump-4-853.jpg",
+      "publishedAt": "2026-08-19T20:08:00Z",
+      "content": "Trump has spoken about how bond yields react to his agenda, and famously hit pause on his Liberation Day tariffs after the market got yippy. Bessent a former hedge fund executive with strong relation… [+2513 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Fox Business"
       },
-      "author": null,
-      "title": "Soaring diesel prices rip across US economy - Financial Times",
-      "description": "Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections",
-      "url": "https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0ba63d42-6a56-444c-a55b-c2c75978183b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-08-18T19:33:02Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Sophia Compton",
+      "title": "State Farm customers are getting a historic $5B payout: Here’s who qualifies - Fox Business",
+      "description": "State Farm is returning a record $5 billion to eligible auto customers nationwide, with payments rolling out in waves over several months.",
+      "url": "https://www.foxbusiness.com/lifestyle/state-farm-customers-getting-historic-5b-payout-heres-who-qualifies",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Southern-California-Traffic.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-19T19:52:00Z",
+      "content": "State Farm Mutual Automobile Insurance recently began distributing a record $5 billion dividend to qualifying auto insurance customers, marking the largest payout of its kind in the company's more th… [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Moderna Shares More Than Double on Success of mRNA Cancer Vaccine - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/health/pharma/moderna-merck-vaccine-succeeds-in-preventing-melanoma-from-returning-540e9e18",
+      "urlToImage": null,
+      "publishedAt": "2026-08-19T19:49:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Kevin Stankiewicz, Jeff Marks",
-      "title": "Retail giant Costco sets its sights on a new kind of product: Medicare Advantage - CNBC",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "url": "https://www.cnbc.com/2026/08/18/costco-sets-its-sights-on-a-new-kind-of-product-medicare-advantage.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340047-1784921823819-gettyimages-2055602097-COSTCO_EARNS.jpeg?v=1787079449&w=1920&h=1080",
-      "publishedAt": "2026-08-18T19:08:02Z",
-      "content": null
+      "author": "Ashley Capoot, Kate Rooney",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - CNBC",
+      "description": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188497-1755694394554-SG-Friar-02.jpg?v=1787167443&w=1920&h=1080",
+      "publishedAt": "2026-08-19T19:23:36Z",
+      "content": "OpenAI CFO Sarah Friar told employees during an all-hands meeting on Wednesday that the artificial intelligence lab \"will be a public company in 2027,\" but that it could make its public market debut … [+3498 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Nauman Khan",
-      "title": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets - Yahoo Finance",
-      "description": "AI Stocks Under Pressure: Nvidia, AMD and Micron Sink as Geopolitical Risks Rise",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-lead-chip-180635152.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-08-18T18:06:35Z",
-      "content": "This article first appeared on GuruFocus.\r\nNvidia (NASDAQ:NVDA) and other major semiconductor stocks dipped Tuesday as renewed uncertainty around U.S.-Iran negotiations pressured the broader market a… [+1126 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Ina Fried",
-      "title": "OpenAI to rewrite its safety rules post-Hugging Face - Axios",
-      "description": "The changes follow the Hugging Face incident and increased cybersecurity risk of new Astra model",
-      "url": "https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework",
-      "urlToImage": "https://images.axios.com/dPnwRi2uL3n5d2iB5CORvLsDOJ0=/1366x768/smart/2024/09/11/194549-1726083949968.jpg",
-      "publishedAt": "2026-08-18T17:59:35Z",
-      "content": "Driving the news: OpenAI said Tuesday that it is in the process of rewriting its main security document, known as the Preparedness Framework, now that models are approaching or reaching the critical … [+1826 chars]"
+      "author": "Sarah Perez",
+      "title": "AI was supposed to win people over by now — it hasn’t - TechCrunch",
+      "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "publishedAt": "2026-08-19T19:11:40Z",
+      "content": "Despite its technological progress, AI’s reputation out in the real world is getting worse. On Wednesday, Axios reported that the National Republican Senatorial Committee sent a memo to top AI compan… [+5600 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 15:33:32 GMT"
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "description": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 19:52:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 17:23:42 GMT"
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 18:55:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 17:16:28 GMT"
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 17:14:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "South Korea shortens war games with US, citing Washington request",
-      "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 17:39:49 GMT"
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 06:08:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 16:31:48 GMT"
+      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 20:08:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 19:53:05 GMT"
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 12:38:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 19:59:14 GMT"
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 02:05:20 GMT"
     },
     {
       "source": "BBC",
-      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 12:25:30 GMT"
+      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "description": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 13:04:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Inflation is heating up but don't expect another crisis",
-      "description": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
-      "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 11:27:39 GMT"
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 10:05:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "description": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 16:12:27 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-      "description": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 11:08:42 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US long-term borrowing costs ease after government steps in",
+      "title": "US national debt passes $40tn after doubling in a decade",
       "description": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
       "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 19:26:06 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 06:23:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Track defect found near derailment site - report",
-      "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 14:06:42 GMT"
+      "title": "Walmart sales under strain as US shoppers pull back",
+      "description": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 17:59:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "The critical tech staying safe by going underground",
-      "description": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
-      "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 23:25:21 GMT"
+      "title": "I quit my £80,000 job to make ice cream - here's how",
+      "description": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
+      "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 23:08:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-      "description": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 23:14:49 GMT"
+      "title": "Bernard Matthews confirms closure of Derby factory",
+      "description": "Bernard Matthews Foods says its Shaftesbury Street factory will close by the end of 2026.",
+      "url": "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 16:27:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "US retail giant receives $1bn boost from tariff refunds",
-      "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 17:07:49 GMT"
+      "title": "Danone €1bn takeover of Huel approved by watchdog",
+      "description": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 13:24:57 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
+      "description": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
+      "url": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 16:31:44 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
+      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 09:13:18 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 4,
+      "AI stocks": 3,
       "GLP-1": 6,
       "Iran oil": 5,
-      "Federal Reserve": 6,
-      "Bitcoin": 87
+      "Federal Reserve": 3,
+      "Bitcoin": 79
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26331.09,
-      "change_pct": -1.18,
+      "price": 26067.17,
+      "change_pct": -0.85,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7707.98,
-      "change_pct": -0.48,
+      "price": 7641.16,
+      "change_pct": -0.66,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53463.05,
-      "change_pct": 0.01,
+      "price": 52759.21,
+      "change_pct": -1.1,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4568.7,
-      "change_pct": 4.64,
+      "price": 4580.3,
+      "change_pct": 2.02,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 84.2,
-      "change_pct": -0.87,
+      "price": 86.53,
+      "change_pct": 0.82,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 68665.9,
-      "change_pct": 6.16,
+      "price": 72728.17,
+      "change_pct": 5.0,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.36,
-      "change_pct": 0.39,
+      "change_pct": 0.67,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.72,
-      "change_pct": -0.3,
+      "change_pct": -0.31,
       "symbol": "CNY=X"
     }
   }
