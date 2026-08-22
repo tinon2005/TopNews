@@ -1,130 +1,130 @@
 {
-  "date": "2026年08月22日",
-  "date_iso": "2026-08-22",
-  "generated_at": "2026-08-22T04:19:56.494856+08:00",
+  "date": "2026年08月23日",
+  "date_iso": "2026-08-23",
+  "generated_at": "2026-08-23T04:17:01.451760+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bailey Lipschultz, Shirin Ghaffary",
-      "title": "Anthropic Expects to Match SpaceX’s Record IPO Size or Top It - Bloomberg.com",
-      "description": "Anthropic PBC expects to match or beat the size of SpaceX’s record-setting initial public offering, according to people familiar with the matter, in the latest sign of overwhelming demand from investors looking to profit from the artificial intelligence boom.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMtzLwK8SJR0/v2/1200x800.jpg",
-      "publishedAt": "2026-08-20T19:22:23Z",
-      "content": "Anthropic PBC expects to match or beat the size of SpaceXs record-setting initial public offering, according to people familiar with the matter, in the latest sign of overwhelming demand from investo… [+328 chars]"
-    },
     {
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "Kayla Steinberg",
-      "title": "At Walmart, billions in tariff refunds soften the blow from slower sales growth - NBC News",
-      "description": "Walmart says it has received nearly $3 billion in tariff refunds — and used some of that windfall to cut prices for consumers strained by inflation.",
-      "url": "https://www.nbcnews.com/business/consumer/walmart-earnings-tariffs-sales-growth-rcna593450",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260819-walmart-ew-546p-573908.jpg",
-      "publishedAt": "2026-08-20T18:58:10Z",
-      "content": "Walmart says it has received nearly $3 billion in tariff refunds and used some of that windfall to cut prices for consumers strained by inflation.\r\nThe refunds helped boost Walmarts profit, according… [+3789 chars]"
+      "author": "Jane Weaver",
+      "title": "Eye drops recalled over possible contamination, FDA reports - NBC News",
+      "description": "The FDA reported that bottles of Clear Eyes Maximum Itchy Eye Relief have been recalled over potential contamination.",
+      "url": "https://www.nbcnews.com/health/health-news/eye-drops-sold-nationwide-recalled-possible-contamination-fda-reports-rcna593718",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260821-clear-eyes-recall-mn-1100-a8cc4c.jpg",
+      "publishedAt": "2026-08-21T17:59:46Z",
+      "content": "The Food and Drug Administration reported that bottles of Clear Eyes Maximum Itchy Eye Relief have been voluntarily recalled over potential contamination.\r\nAccording to the FDA notice, the 0.5-fluid-… [+972 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Fannie Mae Hit by Turmoil in Senior Ranks as at Least 10 Executives Depart - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/regulation/fannie-mae-hit-by-turmoil-in-senior-ranks-as-at-least-10-executives-depart-9f0f40e0",
+      "urlToImage": null,
+      "publishedAt": "2026-08-21T17:57:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lena H. Sun",
+      "title": "Taylor Farms lettuce may have reached 7 more states, D.C. and Puerto Rico - The Washington Post",
+      "description": "The best-by dates for these recalled products have passed, officials said, and they should no longer be available for sale in stores or restaurants.",
+      "url": "https://www.washingtonpost.com/health/2026/08/21/taylor-farms-lettuce-may-have-reached-7-more-states-dc-puerto-rico/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RC2H5JE6TV5JAGUKFW7LLT5GDQ.JPG&w=1440",
+      "publishedAt": "2026-08-21T17:52:16Z",
+      "content": "The best-by dates for these recalled products have passed, officials said, and they should no longer be available for sale in stores or restaurants.\r\nAugust 21, 2026 at 9:20 a.m. EDT1 minute ago"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "BBC News"
       },
-      "author": "Jennifer Schonberger",
-      "title": "One day after doubling Treasury buybacks, Bessent says he's ready to boost them further to push down long-term yields - Yahoo Finance",
-      "description": "Bessent said the Treasury's buyback program of government debt could surpass the $4 billion announced on Wednesday.",
-      "url": "https://finance.yahoo.com/economy/article/one-day-after-doubling-treasury-buybacks-bessent-says-hes-ready-to-boost-them-further-to-push-down-long-term-yields-181218236.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/AA0B0F41798FF6158EA5802CB45708F7511BEAEE401A8CD76F3386F0146125F7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F49537f2f-9b66-4605-8ae4-dc0bc5ff8e06",
-      "publishedAt": "2026-08-20T18:12:18Z",
-      "content": "Treasury Secretary Scott Bessent signaled that he is willing to expand the Treasury Department's buyback program as long-term bond yields rebounded on Thursday, one day after he announced a doubling … [+4851 chars]"
+      "author": null,
+      "title": "US borrowing costs rise as attempts to ease rates prove short-lived - BBC",
+      "description": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
+      "url": "https://www.bbc.com/news/articles/cvg92p3ez17o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4911/live/003dd3f0-9d81-11f1-adf5-2dc21c9cc109.jpg",
+      "publishedAt": "2026-08-21T16:45:09Z",
+      "content": "Earlier this week, the Treasury Department said it would buy back more debt in a bid to lower rates being charged by investors on global bond markets, which governments and major corporations rely on… [+16 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Ty Roush",
-      "title": "Why Is Moderna Stock Down Today? - Forbes",
-      "description": "The biotech giant posted positive trial results of a cancer vaccine, boosting shares at a record-setting pace before investors pulled back.",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/08/20/moderna-stock-plunges-25-wiping-out-18-billion-after-historic-cancer-vaccine-breakthrough/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a873803fbce03f7a98f08f7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-20T17:28:58Z",
-      "content": "Modernas stock retreated on Thursday following a record-setting jump a day earlier, cutting more than $18 billion from the companys market valuation, as investors appeared to pull back after the biot… [+2849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Moz Farooque ACCA",
-      "title": "SpaceX Stock Gets Worrying Signal Before Unlock - Yahoo Finance",
-      "description": "Another wave of shares could test recent buying strength",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-gets-worrying-signal-170250532.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-08-20T17:02:50Z",
-      "content": "This article first appeared on GuruFocus.\r\nSpaceX (NASDAQ:SPCX) stock faces another major supply test as roughly 319 million shares become eligible for trading on Aug. 20, just as technical indicator… [+2407 chars]"
+      "author": "Rachel Barber",
+      "title": "‘Where’s the humanity?’ Why job seekers say hiring is ‘broken’ - USA Today",
+      "description": "Fierce competition, AI, and a lack of trust in employers have further complicated the hiring process for job seekers. Why some feel it is \"broken.\"",
+      "url": "https://www.usatoday.com/story/money/economy/2026/08/21/job-seekers-say-hiring-is-broken-why/91370272007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/19/USAT/91373897007-20250612-t-131759-z-7809795-rc-2-qddamii-0-t-rtrmadp-3-usatrumpworkers.JPG?crop=6499,3656,x0,y339&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-21T16:26:00Z",
+      "content": "After getting a layoff notice in May, engineer Todd Hendricks, 46, started his job search. One Friday, he signed on to Zoom for the coding round of a multistep interview process and waited for someon… [+10169 chars]"
     }
   ],
   "bbc": [
+    {
+      "source": "BBC",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 20:10:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 20:02:46 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:48:06 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:13:16 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "description": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 16:57:19 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 14:35:11 GMT"
+    },
     {
       "source": "BBC",
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 19:49:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 05:47:32 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 15:58:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "description": "One suspect is in custody, but police have not disclosed a possible motive.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 18:27:15 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 13:44:43 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "One killed in sword attack at Swedish school",
-      "description": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 19:22:05 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "description": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
-      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 18:09:38 GMT"
     },
     {
       "source": "BBC",
@@ -135,10 +135,10 @@
     },
     {
       "source": "BBC",
-      "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
-      "description": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
       "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 15:34:06 GMT"
+      "publishedAt": "Sat, 22 Aug 2026 00:40:47 GMT"
     },
     {
       "source": "BBC",
@@ -185,13 +185,7 @@
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 5,
-      "Iran oil": 1,
-      "Federal Reserve": 2,
-      "Bitcoin": 73
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
@@ -206,23 +200,23 @@
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53277.01,
+      "price": 53277.0,
       "change_pct": -0.35,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4674.0,
-      "change_pct": 3.49,
+      "price": 4680.6,
+      "change_pct": 3.64,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 86.66,
-      "change_pct": -1.33,
+      "price": 87.06,
+      "change_pct": -0.88,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77412.3,
-      "change_pct": 6.0,
+      "price": 77427.13,
+      "change_pct": -1.16,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
