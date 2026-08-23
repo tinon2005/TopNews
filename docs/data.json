@@ -1,165 +1,152 @@
 {
-  "date": "2026年08月23日",
-  "date_iso": "2026-08-23",
-  "generated_at": "2026-08-23T04:17:01.451760+08:00",
+  "date": "2026年08月24日",
+  "date_iso": "2026-08-24",
+  "generated_at": "2026-08-24T04:16:37.480031+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Jane Weaver",
-      "title": "Eye drops recalled over possible contamination, FDA reports - NBC News",
-      "description": "The FDA reported that bottles of Clear Eyes Maximum Itchy Eye Relief have been recalled over potential contamination.",
-      "url": "https://www.nbcnews.com/health/health-news/eye-drops-sold-nationwide-recalled-possible-contamination-fda-reports-rcna593718",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260821-clear-eyes-recall-mn-1100-a8cc4c.jpg",
-      "publishedAt": "2026-08-21T17:59:46Z",
-      "content": "The Food and Drug Administration reported that bottles of Clear Eyes Maximum Itchy Eye Relief have been voluntarily recalled over potential contamination.\r\nAccording to the FDA notice, the 0.5-fluid-… [+972 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Exclusive | Fannie Mae Hit by Turmoil in Senior Ranks as at Least 10 Executives Depart - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/regulation/fannie-mae-hit-by-turmoil-in-senior-ranks-as-at-least-10-executives-depart-9f0f40e0",
-      "urlToImage": null,
-      "publishedAt": "2026-08-21T17:57:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Lena H. Sun",
-      "title": "Taylor Farms lettuce may have reached 7 more states, D.C. and Puerto Rico - The Washington Post",
-      "description": "The best-by dates for these recalled products have passed, officials said, and they should no longer be available for sale in stores or restaurants.",
-      "url": "https://www.washingtonpost.com/health/2026/08/21/taylor-farms-lettuce-may-have-reached-7-more-states-dc-puerto-rico/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RC2H5JE6TV5JAGUKFW7LLT5GDQ.JPG&w=1440",
-      "publishedAt": "2026-08-21T17:52:16Z",
-      "content": "The best-by dates for these recalled products have passed, officials said, and they should no longer be available for sale in stores or restaurants.\r\nAugust 21, 2026 at 9:20 a.m. EDT1 minute ago"
+      "author": null,
+      "title": "Red Lobster brings back Endless Shrimp after promotion helped push chain toward bankruptcy - Fox News",
+      "description": "Red Lobster rebuilt its Endless Shrimp promotion with stronger financial discipline and limited-time pricing after the permanent offer fueled bankruptcy.",
+      "url": "https://www.foxnews.com/food-drink/red-lobster-brings-back-endless-shrimp-promotion-helped-push-chain-toward-bankruptcy",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/red_lobster_001.jpg",
+      "publishedAt": "2026-08-22T18:56:09Z",
+      "content": "Red Lobster is once again offering its Endless Shrimp promotion, which contributed to millions of dollars in losses before the seafood chain filed for bankruptcy two years ago.\r\nThe company told Fox … [+3991 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "US borrowing costs rise as attempts to ease rates prove short-lived - BBC",
-      "description": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-      "url": "https://www.bbc.com/news/articles/cvg92p3ez17o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4911/live/003dd3f0-9d81-11f1-adf5-2dc21c9cc109.jpg",
-      "publishedAt": "2026-08-21T16:45:09Z",
-      "content": "Earlier this week, the Treasury Department said it would buy back more debt in a bid to lower rates being charged by investors on global bond markets, which governments and major corporations rely on… [+16 chars]"
+      "author": "Michelle Fox",
+      "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway - CNBC",
+      "description": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
+      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351625-17871534152026-08-19t152922z_1488525833_rc2r1nalvhpd_rtrmadp_0_usa-trump.jpeg?v=1787153453&w=1920&h=1080",
+      "publishedAt": "2026-08-22T17:33:53Z",
+      "content": "President Donald Trump disclosed just over 1,000 financial transactions for the month of June in what appears to be broad reshuffling of his portfolio. \r\nThe president rotated in and out of stocks, b… [+3667 chars]"
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Rachel Barber",
-      "title": "‘Where’s the humanity?’ Why job seekers say hiring is ‘broken’ - USA Today",
-      "description": "Fierce competition, AI, and a lack of trust in employers have further complicated the hiring process for job seekers. Why some feel it is \"broken.\"",
-      "url": "https://www.usatoday.com/story/money/economy/2026/08/21/job-seekers-say-hiring-is-broken-why/91370272007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/19/USAT/91373897007-20250612-t-131759-z-7809795-rc-2-qddamii-0-t-rtrmadp-3-usatrumpworkers.JPG?crop=6499,3656,x0,y339&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-21T16:26:00Z",
-      "content": "After getting a layoff notice in May, engineer Todd Hendricks, 46, started his job search. One Friday, he signed on to Zoom for the coding round of a multistep interview process and waited for someon… [+10169 chars]"
+      "author": "Eric Esposito",
+      "title": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive - Yahoo Finance",
+      "description": "Bonds are anything but boring right now. In fact, Mohamed El-Erian believes the surge in bond yields could trigger a “structural economic shift” that makes e...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/F693EF4FEAD7FCC97B08EBDB9F7E31453D4424451AEBB7727863FB7E82292064/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Feed0fcaa92063f9ac35d6b8cdbd58cf8.jpg",
+      "publishedAt": "2026-08-22T16:00:00Z",
+      "content": "For economist Mohamed El-Erian, sky-high interest rates on U.S. bonds are the harbinger of an even greater affordability crisis.\r\n\"This is no ordinary bond-market sell-off,\" El-Erian announced in his… [+4576 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Phil Clark",
+      "title": "Civil society groups push FTC to sue AI companies over book destruction - Mashable",
+      "description": "Deliberately destroying rare books might be the final straw in the eyes of the Federal Trade Commission.",
+      "url": "https://mashable.com/tech/civil-society-groups-urge-the-ftc-to-bring-antitrust-suit-against-ai-companies",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00TNsios4YW5BCyMDtYNVut/hero-image.fill.size_1200x675.v1787412841.png",
+      "publishedAt": "2026-08-22T15:47:09Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 12:56:43 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 20:10:00 GMT"
+      "publishedAt": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 20:02:46 GMT"
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 18:17:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT"
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 12:52:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 13:48:06 GMT"
+      "title": "France links sharp rise in drownings to heatwaves",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 17:39:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 13:13:16 GMT"
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 11:50:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "description": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 16:57:19 GMT"
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 18:17:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 14:35:11 GMT"
+      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 15:54:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT"
+      "title": "Struggling households need more help with bills, energy industry says",
+      "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 10:11:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-      "description": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 11:20:57 GMT"
+      "title": "CrossCountry cancels 'almost all' UK services after power cut",
+      "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 14:05:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 00:40:47 GMT"
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-      "description": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 16:45:09 GMT"
+      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+      "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 02:48:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
-      "description": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
-      "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 10:02:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "description": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
-      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 22:59:35 GMT"
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 10:02:23 GMT"
     },
     {
       "source": "BBC",
@@ -170,22 +157,28 @@
     },
     {
       "source": "BBC",
-      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-      "description": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
-      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 09:45:11 GMT"
+      "title": "Les used a QR code to download a parking app - but it was a scam",
+      "description": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 06:23:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why the US economy is ringing alarm bells",
-      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 08:38:18 GMT"
+      "title": "More students planning to live at home for university over 'insane' living costs",
+      "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 23:01:58 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {},
+    "finance_keywords": {
+      "AI stocks": 1,
+      "GLP-1": 4,
+      "Iran oil": 2,
+      "Federal Reserve": 1,
+      "Bitcoin": 46
+    },
     "trending_searches": []
   },
   "market": {
@@ -200,28 +193,28 @@
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53277.0,
+      "price": 53277.01,
       "change_pct": -0.35,
       "symbol": "^DJI"
     },
     "黃金": {
       "price": 4680.6,
-      "change_pct": 3.64,
+      "change_pct": 1.22,
       "symbol": "GC=F"
     },
     "WTI 原油": {
       "price": 87.06,
-      "change_pct": -0.88,
+      "change_pct": 0.0,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77427.13,
-      "change_pct": -1.16,
+      "price": 77285.33,
+      "change_pct": 0.26,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.36,
-      "change_pct": 0.35,
+      "change_pct": 0.21,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
