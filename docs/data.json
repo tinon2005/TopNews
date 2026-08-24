@@ -1,225 +1,238 @@
 {
-  "date": "2026年08月24日",
-  "date_iso": "2026-08-24",
-  "generated_at": "2026-08-24T04:16:37.480031+08:00",
+  "date": "2026年08月25日",
+  "date_iso": "2026-08-25",
+  "generated_at": "2026-08-25T04:24:20.815238+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katie Roof",
+      "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion - Business Insider",
+      "description": "Hugging Face, an AI developer platform, has been exploring a potential $13 billion sale, highlighting its key role in the AI ecosystem.",
+      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a8b3f198a99fa493d60f430?width=1200&format=jpeg",
+      "publishedAt": "2026-08-23T19:21:51Z",
+      "content": "The AI industry's next blockbuster acquisition may not be another model maker.\r\nHugging Face,whose platform helps developers discover, share, and build AI models, has been exploring a sale that could… [+1369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Sheetal Banchariya",
+      "title": "Malibu farmers market where Simon Cowell, Cindy Crawford and Hailey Bieber go is evicted - New York Post",
+      "description": "The market regularly draws high-profile locals. Over the years, stars like Simon Cowell, Tori Spelling, Téa Leoni, Suzanne Somers, and fashion designer Betsey Johnson",
+      "url": "https://nypost.com/2026/08/23/us-news/malibu-farmers-market-where-simon-cowell-cindy-crawford-and-hailey-bieber-go-is-evicted/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-g24opv0vk-1787511851509.jpg?quality=75&strip=all&1787497544&w=1200",
+      "publishedAt": "2026-08-23T19:09:00Z",
+      "content": "Hollywood celebrities’ favorite farmers market in Malibu has been ordered to immediately shift base amid rising concerns for public safety.\r\nThe Legacy Park hotspot had been operating at the location… [+2933 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Doha Madani, Austin Mullen, Matteo Moschella",
+      "title": "NYPD probes fresh video of people climbing out of Manhattan manhole - NBC News",
+      "description": "New York police are investigating a new video of three people emerging from a manhole in Manhattan, months after similar incidents were deemed to pose no threat to the public.",
+      "url": "https://www.nbcnews.com/news/us-news/nypd-probes-fresh-video-people-climbing-manhattan-manhole-rcna593991",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260310-nypd-car-vsb-1824-c5c155.jpg",
+      "publishedAt": "2026-08-23T18:36:14Z",
+      "content": "New York police are investigating a new video of three people emerging from a manhole in Manhattan, months after similar incidents were deemed to pose no threat to the public. \r\nA video posted to Tik… [+2629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
       },
       "author": null,
-      "title": "Red Lobster brings back Endless Shrimp after promotion helped push chain toward bankruptcy - Fox News",
-      "description": "Red Lobster rebuilt its Endless Shrimp promotion with stronger financial discipline and limited-time pricing after the permanent offer fueled bankruptcy.",
-      "url": "https://www.foxnews.com/food-drink/red-lobster-brings-back-endless-shrimp-promotion-helped-push-chain-toward-bankruptcy",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/red_lobster_001.jpg",
-      "publishedAt": "2026-08-22T18:56:09Z",
-      "content": "Red Lobster is once again offering its Endless Shrimp promotion, which contributed to millions of dollars in losses before the seafood chain filed for bankruptcy two years ago.\r\nThe company told Fox … [+3991 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Michelle Fox",
-      "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway - CNBC",
-      "description": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
-      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351625-17871534152026-08-19t152922z_1488525833_rc2r1nalvhpd_rtrmadp_0_usa-trump.jpeg?v=1787153453&w=1920&h=1080",
-      "publishedAt": "2026-08-22T17:33:53Z",
-      "content": "President Donald Trump disclosed just over 1,000 financial transactions for the month of June in what appears to be broad reshuffling of his portfolio. \r\nThe president rotated in and out of stocks, b… [+3667 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Eric Esposito",
-      "title": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive - Yahoo Finance",
-      "description": "Bonds are anything but boring right now. In fact, Mohamed El-Erian believes the surge in bond yields could trigger a “structural economic shift” that makes e...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/F693EF4FEAD7FCC97B08EBDB9F7E31453D4424451AEBB7727863FB7E82292064/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Feed0fcaa92063f9ac35d6b8cdbd58cf8.jpg",
-      "publishedAt": "2026-08-22T16:00:00Z",
-      "content": "For economist Mohamed El-Erian, sky-high interest rates on U.S. bonds are the harbinger of an even greater affordability crisis.\r\n\"This is no ordinary bond-market sell-off,\" El-Erian announced in his… [+4576 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Phil Clark",
-      "title": "Civil society groups push FTC to sue AI companies over book destruction - Mashable",
-      "description": "Deliberately destroying rare books might be the final straw in the eyes of the Federal Trade Commission.",
-      "url": "https://mashable.com/tech/civil-society-groups-urge-the-ftc-to-bring-antitrust-suit-against-ai-companies",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00TNsios4YW5BCyMDtYNVut/hero-image.fill.size_1200x675.v1787412841.png",
-      "publishedAt": "2026-08-22T15:47:09Z",
+      "title": "A Twitch streamer is suing Amazon, alleging his broadcasts were used to train AI without his permission - Eurogamer",
+      "description": null,
+      "url": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers",
+      "urlToImage": null,
+      "publishedAt": "2026-08-23T16:55:20Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Zachary Folk",
+      "title": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes",
+      "description": "The president made over 1,000 stock transactions, according to the most recent disclosure form released on Saturday.",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/23/trump-made-big-stock-trades-in-spacex-palantir-and-tech-companies-in-june/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8b1560fb2b969861812752/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-23T15:46:17Z",
+      "content": "President Donald Trump made more than 1,000 stock trades in June, according to an ethics filing\r\n published on Saturdayincluding buying stock in SpaceX over a week after its IPO and trading major tec… [+3956 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 12:56:43 GMT"
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 19:12:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 19:11:30 GMT"
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 17:29:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 18:17:37 GMT"
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 10:40:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 12:52:08 GMT"
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:56:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "France links sharp rise in drownings to heatwaves",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 17:39:33 GMT"
+      "title": "King of Norway's health has worsened, palace says",
+      "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 08:31:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 11:50:59 GMT"
+      "title": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "description": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 17:24:25 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 18:17:34 GMT"
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
-      "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 15:54:32 GMT"
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:14:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Struggling households need more help with bills, energy industry says",
-      "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 10:11:21 GMT"
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 19:12:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "CrossCountry cancels 'almost all' UK services after power cut",
-      "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 14:05:16 GMT"
+      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+      "description": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+      "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 16:50:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 19:11:30 GMT"
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 07:00:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-      "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
-      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 02:48:41 GMT"
+      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
+      "description": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
+      "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 23:25:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mayors to get powers to overrule local councils on planning decisions",
-      "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 10:02:23 GMT"
+      "title": "Manga-inspired theme park to be built near Paris",
+      "description": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 19:57:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "How landscape gardening is being electrified",
-      "description": "The switch to quieter electric equipment is not going as fast as some would like.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 23:12:38 GMT"
+      "title": "Rail companies sued for £5m over oil spill caused by derailment",
+      "description": "More than 400,000 litres of fuel spilled in the area causing an \"environmental disaster\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 16:30:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Les used a QR code to download a parking app - but it was a scam",
-      "description": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 06:23:54 GMT"
+      "title": "Pubs and hotels could see business rates reformed after review",
+      "description": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 09:41:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "More students planning to live at home for university over 'insane' living costs",
-      "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 23:01:58 GMT"
+      "title": "How to get £2,000 to play computer games at university",
+      "description": "Roehampton University offers students a year;y scholarship to play esports alongside their studies.",
+      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 23:23:55 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 4,
+      "GLP-1": 5,
       "Iran oil": 2,
-      "Federal Reserve": 1,
-      "Bitcoin": 46
+      "Federal Reserve": 2,
+      "Bitcoin": 59
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26180.46,
-      "change_pct": -0.57,
+      "price": 25980.19,
+      "change_pct": -0.33,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7674.37,
-      "change_pct": -0.44,
+      "price": 7652.86,
+      "change_pct": 0.15,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53277.01,
-      "change_pct": -0.35,
+      "price": 53417.16,
+      "change_pct": 1.25,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4680.6,
-      "change_pct": 1.22,
+      "price": 4707.1,
+      "change_pct": 0.57,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 87.06,
-      "change_pct": 0.0,
+      "price": 85.01,
+      "change_pct": -2.35,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77285.33,
-      "change_pct": 0.26,
+      "price": 78702.57,
+      "change_pct": 1.22,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.36,
-      "change_pct": 0.21,
+      "change_pct": -0.08,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.71,
-      "change_pct": -0.26,
+      "price": 6.72,
+      "change_pct": -0.02,
       "symbol": "CNY=X"
     }
   }
