@@ -1,62 +1,103 @@
 {
-  "date": "2026年08月26日",
-  "date_iso": "2026-08-26",
-  "generated_at": "2026-08-26T04:22:50.767292+08:00",
+  "date": "2026年08月27日",
+  "date_iso": "2026-08-27",
+  "generated_at": "2026-08-27T06:40:17.134346+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Anissa Gardizy",
+      "title": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company - WSJ",
+      "description": "Chris Malone joins a string of recent high-level executive departures as the AI giant heads toward an IPO and ramps up its spending on computing power",
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "urlToImage": "https://images.wsj.net/im-93725424/social",
+      "publishedAt": "2026-08-25T21:30:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Warren Buffett's Favorite 'Forever' Stock Hits A Buy Point After Big Rally - Investor's Business Daily",
-      "description": "Coca-Cola stock is considered one of Warren Buffett's most famous and successful investments. Coke is one of his oldest investments too.",
-      "url": "https://www.investors.com/news/warren-buffett-coca-cola-stock-favorite-forever-holding/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/BMF26_buffett_coke_032026_AP.jpg",
-      "publishedAt": "2026-08-24T20:07:00Z",
+      "title": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index rises Tuesday as Treasury yields and oil prices drop. Nvidia, Micron and Sandisk rebound.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/08/WallStreetFinance-adobe.jpg",
+      "publishedAt": "2026-08-25T20:46:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Georg Szalai",
-      "title": "California AG Calls Off Paramount-Warner Bros. Meeting, Accusing Company of “Playing Games” - The Hollywood Reporter",
-      "description": "“Not only did Paramount leak the alleged substance of settlement discussions, but they misrepresented these discussions, demonstrating a lack of good faith,” says Rob Bonta.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/california-bonta-cancels-paramount-wbd-deal-meeting-games-1236679548/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2290505696.jpg?crop=0px%2C29px%2C5000px%2C2798px&resize=1440%2C810",
-      "publishedAt": "2026-08-24T18:41:17Z",
-      "content": "A planned Monday meeting between David Ellison’s Paramount and California state officials, designed to kick off ‌settlement talks over the state’s lawsuit to block the entertainment company’s propose… [+2322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Tomi Kilgore, Steve Goldstein, Barbara Kollmeyer, Nora Redmond",
-      "title": "Stock Market Today: Dow rises but S&P 500, Nasdaq decline; oil prices dip after 'Operation Outcast' against Iran was announced - MarketWatch",
-      "description": "Follow all the latest U.S. market action for Monday here.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-jackson-hole",
-      "urlToImage": "https://images.mktw.net/im-51746529/social",
-      "publishedAt": "2026-08-24T17:51:00Z",
+      "author": "WSJ",
+      "title": "Stock Market Today: Nasdaq Rises as Effects of Bessent's 'D-Day' Look Contained — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-08-25T20:20:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "Investor's Business Daily"
       },
-      "author": "Jennifer Maas",
-      "title": "Disney Offers Executives Voluntary Early Retirement Packages Amid Overall Cost-Cutting Plans - Variety",
-      "description": "Disney is offering longtime executives early retirement packages amid larger cost-cutting efforts and ongoing layoffs.",
-      "url": "https://variety.com/2026/film/news/disney-offers-execs-voluntary-retirement-packages-1236841676/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/Josh-DAmaro-Disney.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-08-24T17:38:00Z",
-      "content": "Disney is offering longtime executives early retirement packages amid larger cost-cutting efforts and ongoing layoffs.\r\nThe offer, announced in a memo to staff sent by Senior EVP and Chief People Off… [+4575 chars]"
+      "author": null,
+      "title": "Intuit Beats Fiscal Q4 Targets But Misses With Outlook - Investor's Business Daily",
+      "description": "Intuit handily beat Wall Street's targets for its fiscal fourth quarter but disappointed with its guidance. Intuit stock fell.",
+      "url": "https://www.investors.com/news/technology/intuit-stock-fiscal-q4-2026-earnings/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/08/stock-Intuit-software-company.jpg",
+      "publishedAt": "2026-08-25T20:12:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Former Forbes Editor Got $6 Million for Helping Magazine’s Partner With Sale - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/media/former-forbes-editor-got-6-million-for-helping-magazines-partner-with-sale-e892131a",
+      "urlToImage": null,
+      "publishedAt": "2026-08-25T19:43:00Z",
+      "content": null
     }
   ],
   "bbc": [
+    {
+      "source": "BBC",
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+      "description": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 11:32:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "description": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
+      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:42:03 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+      "description": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+      "url": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 15:42:45 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "description": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+      "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 22:02:18 GMT"
+    },
     {
       "source": "BBC",
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -66,160 +107,132 @@
     },
     {
       "source": "BBC",
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 11:53:36 GMT"
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 08:17:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 19:48:14 GMT"
+      "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+      "description": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+      "url": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 19:19:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 19:30:37 GMT"
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 08:01:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Brain disease in dead NFL players 'higher than previously shown'",
-      "description": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 11:54:40 GMT"
+      "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+      "description": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 22:03:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 08:52:17 GMT"
+      "title": "Nvidia revenue doubles on continued AI demand",
+      "description": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+      "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 21:49:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 15:58:20 GMT"
+      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+      "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 11:03:50 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "description": "The footage shows dozens of men, women and children sitting in a forest.",
-      "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 16:40:11 GMT"
+      "title": "Why high energy bills look like they are here to stay",
+      "description": "The government is under pressure to support billpayers when domestic energy prices predicted to rise further.",
+      "url": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 10:10:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 08:08:26 GMT"
+      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+      "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
+      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 21:27:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "description": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 15:04:52 GMT"
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 25 Aug 2026 23:09:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Burnham refuses to rule out tax rises in autumn Budget",
-      "description": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 06:40:33 GMT"
+      "title": "Reform proposes £30 tax rebate for HMRC phone delays",
+      "description": "People on hold to HMRC for more than 30 minutes would get a tax credit under plans announced by Robert Jenrick.",
+      "url": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:41:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "New 10p coin enters circulation - will you spot one?",
-      "description": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
-      "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 23:03:42 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "description": "Tips are central to US dining culture but some eateries think that they are unfair.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 23:04:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "OnlyFans owner was paid over $700m before his death",
-      "description": "The site hosts a range of subscription-based content from cooking to fitness videos, but it is best known for pornography.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 10:09:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "description": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 02:49:22 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-      "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
-      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 12:10:13 GMT"
+      "title": "Why Tesla has been caught up in a massive car recall in China",
+      "description": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 03:33:59 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 1,
-      "GLP-1": 5,
-      "Iran oil": 3,
-      "Federal Reserve": 2,
-      "Bitcoin": 63
+      "AI stocks": 3,
+      "GLP-1": 7,
+      "Iran oil": 2,
+      "Federal Reserve": 4,
+      "Bitcoin": 56
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26151.3,
-      "change_pct": -0.11,
+      "price": 26130.2,
+      "change_pct": 0.58,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7677.28,
-      "change_pct": 0.04,
+      "price": 7675.7,
+      "change_pct": 0.3,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53577.4,
-      "change_pct": 0.56,
+      "price": 53463.88,
+      "change_pct": 0.09,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4724.0,
-      "change_pct": 1.79,
+      "price": 4664.3,
+      "change_pct": 0.56,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 80.58,
-      "change_pct": -5.21,
+      "price": 81.86,
+      "change_pct": -0.61,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 78917.14,
-      "change_pct": -0.06,
+      "price": 78605.94,
+      "change_pct": 0.05,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.37,
-      "change_pct": -0.01,
+      "price": 1.36,
+      "change_pct": -0.31,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.72,
-      "change_pct": -0.02,
+      "change_pct": 0.0,
       "symbol": "CNY=X"
     }
   }
