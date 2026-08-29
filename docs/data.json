@@ -1,72 +1,85 @@
 {
-  "date": "2026年08月29日",
-  "date_iso": "2026-08-29",
-  "generated_at": "2026-08-29T10:39:13.941573+08:00",
+  "date": "2026年08月30日",
+  "date_iso": "2026-08-30",
+  "generated_at": "2026-08-30T06:14:53.591448+08:00",
   "newsapi": [
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Evan Halper",
-      "title": "$900 million from a canceled wind deal will benefit a Trump donor - The Washington Post",
-      "description": "The Trump administration’s latest deal to abandon offshore wind projects and boost investment in fossil fuels is set to deliver a windfall to a private equity firm run by one of President Donald Trump’s major donors.",
-      "url": "https://www.washingtonpost.com/business/2026/08/27/how-wind-projects-got-replaced-by-900-million-payday-trump-donors-firm/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/D2IDZS5BHVIP22VVYLTCDDDOIE.jpg&w=1440",
-      "publishedAt": "2026-08-27T22:36:08Z",
-      "content": "The Trump administrations latest deal to cancel offshore wind projects and boost fossil fuel energy development instead is generating a huge payday for one of the presidents million-dollar donors.\r\nB… [+293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jennifer Schonberger",
-      "title": "Investors, Fed watchers want one thing from Kevin Warsh in his Jackson Hole debut: Clarity - Yahoo Finance",
-      "description": "The stage is set for Federal Reserve Chairman Kevin Warsh's first Jackson Hole speech on Friday.",
-      "url": "https://finance.yahoo.com/economy/policy/article/investors-fed-watchers-want-one-thing-from-kevin-warsh-in-his-jackson-hole-debut-clarity-215704020.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fd018b83c84e43f884d1fe3fa949b145db5d4e9edccab2664358296126129813/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fe92995a2-8510-41cf-8529-154ea2c09eb9_be6773ca5b42e4202089ec7eaa65369f57db28f97760a2a3d081cad7a429e012.jpg",
-      "publishedAt": "2026-08-27T21:57:04Z",
-      "content": "The stage is set for Federal Reserve Chairman Kevin Warsh's first Jackson Hole speech on Friday, offering the new head a chance to clarify the central bank's strategy to bring down inflation and rebu… [+5104 chars]"
+      "author": "Lena H. Sun",
+      "title": "Cyclospora lettuce outbreak now tied to 20 states - The Washington Post",
+      "description": "The best-by dates for these recalled products have passed, and the lettuce should no longer be available in stores or restaurants, or available for purchase.",
+      "url": "https://www.washingtonpost.com/health/2026/08/28/cyclospora-lettuce-outbreak-now-tied-20-states/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/U4N53JE7ZBEJKU3PJCBTP4SVVY.JPG&w=1440",
+      "publishedAt": "2026-08-28T19:45:00Z",
+      "content": "The Centers for Disease Control and Prevention added Georgia, Tennessee and Texas to the multistate cyclospora outbreak tied to iceberg lettuce from Taylor Farms de Mexico, expanding the outbreak to … [+9 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Annika Kim Constantino",
-      "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients - CNBC",
-      "description": "The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new treatment.",
-      "url": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355149-1787838771893-Untitled-1.jpg?v=1787838821&w=1920&h=1080",
-      "publishedAt": "2026-08-27T21:49:18Z",
-      "content": "The Food and Drug Administration approved a once-daily HIV pill from Gilead that could help simplify care for some patients, the company announced Thursday. \r\nThe drug, marketed as Bixlenvo, is aimed… [+6607 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
-      "urlToImage": null,
-      "publishedAt": "2026-08-27T21:46:00Z",
-      "content": null
+      "author": "Luke Fountain",
+      "title": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson - CNBC",
+      "description": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.",
+      "url": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355925-1787942125378-Untitled-2.jpg?v=1787948797&w=1920&h=1080",
+      "publishedAt": "2026-08-28T19:23:18Z",
+      "content": "Treasury Secretary Scott Bessent unleashed a scathing personal attack on Sen. Elizabeth Warren Friday, accusing the MassachusettsDemocrat of misunderstanding foreign exchange markets while leaving se… [+3067 chars]"
     },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "Matthew Perrone",
-      "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states - AP News",
-      "description": "U.S. officials have confirmed cases of a parasitic illness tied to lettuce in three more states. Thursday's announcement by the Food and Drug Administration means the outbreak now involves 20 states and more than 11,400 people. The new states are Georgia, Ten…",
-      "url": "https://apnews.com/article/lettuce-cyclospora-fda-cdc-outbreak-mexico-19899950075127fb664282dd73cccfc9",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e0ba805/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fba%2F2310576107315dce22dde910ce29%2F2f307289f234471f84ef6031ef44a629",
-      "publishedAt": "2026-08-27T21:29:00Z",
-      "content": "WASHINGTON (AP) Parasitic illness cases linked to recalled iceberg lettuce have now been confirmed in 20 states, federal health officials said Thursday, expanding the scope of the largest outbreak of… [+1812 chars]"
+      "author": "Stan Choe",
+      "title": "US stocks drift lower after expectations rise for the Fed to hike rates to get handle on inflation - AP News",
+      "description": "U.S. stocks are drifting lower while expectations rise for the Federal Reserve to hike interest rates soon to get the nation’s high inflation under control. The S&P 500 fell 0.3% after flipping between modest gains and losses. The Dow Jones Industrial Average…",
+      "url": "https://apnews.com/article/stocks-markets-oil-ai-nvidia-0a655f1c042b059279343443d5802907",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c931bc3/2147483647/strip/true/crop/8167x5442+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2F32%2Ff89d341bfacfc7e44e84141af10b%2Fcc272e29ac6040739519f83195b2a4aa",
+      "publishedAt": "2026-08-28T18:38:00Z",
+      "content": "NEW YORK (AP) U.S. stocks are drifting lower Friday while expectations rise for the Federal Reserve to hike interest rates soon to get the nations high inflation under control.\r\nThe S&amp;P 500 fell … [+4503 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim Fernholz",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets - TechCrunch",
+      "description": "There's a lot of capital pouring into the business of giving models away.",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "publishedAt": "2026-08-28T18:19:40Z",
+      "content": "Everyone’s waiting for Nvidia to confirm this week’s most interesting tech deal: A reported $13 billion acquisition of Hugging Face, a platform for sharing open-weight AI models and benchmarks.\r\nNow … [+4342 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Marshall Cohen",
+      "title": "States can regulate prediction markets as gambling, federal appeals court rules - CNN",
+      "description": "A federal appeals court ruled Friday that states can regulate prediction markets like gambling, dealing a major blow to the booming industry.",
+      "url": "https://www.cnn.com/2026/08/28/business/states-prediction-markets-gambling-federal-appeals-court",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26106744262160.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-08-28T18:17:58Z",
+      "content": "A federal appeals court ruled Friday that states can regulate prediction markets like gambling, dealing a major blow to the booming industry.\r\nThere are still related lawsuits pending across the coun… [+3641 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Christopher Rugaber",
+      "title": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated - AP News",
+      "description": "Federal Reserve Chair Kevin Warsh says inflation is still too high and suggested the central bank may have to raise interest rates in the coming months to bring it down, a clearer signal than he has sent before about his economic outlook. In his first high-pr…",
+      "url": "https://apnews.com/article/federal-reserve-warsh-interest-trump-inflation-ab896df808df3a5a3fa8b943ac5f3867",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0cf5063/2147483647/strip/true/crop/5461x3639+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2Fe1%2Fda99e9a61136159e8b5d6a48fc44%2F1f47e65257c54a62ad84848e20b038cf",
+      "publishedAt": "2026-08-28T16:07:00Z",
+      "content": "JACKSON HOLE, Wyoming (AP) Federal Reserve Chair Kevin Warsh said Friday that inflation is still too high and suggested the central bank may have to raise interest rates in the coming months to bring… [+6528 chars]"
     }
   ],
   "bbc": [
@@ -75,14 +88,35 @@
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 22:05:41 GMT"
+      "publishedAt": "Sat, 29 Aug 2026 03:54:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-      "description": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 29 Aug 2026 01:21:43 GMT"
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 20:13:16 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 17:52:42 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 19:06:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "description": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 19:44:54 GMT"
     },
     {
       "source": "BBC",
@@ -93,20 +127,6 @@
     },
     {
       "source": "BBC",
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 19:40:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 29 Aug 2026 00:46:02 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
       "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
@@ -114,24 +134,17 @@
     },
     {
       "source": "BBC",
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 13:50:34 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 19:05:23 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-      "description": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 29 Aug 2026 01:21:43 GMT"
+      "publishedAt": "Sat, 29 Aug 2026 16:15:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 16:15:56 GMT"
     },
     {
       "source": "BBC",
@@ -187,10 +200,10 @@
   "trends": {
     "finance_keywords": {
       "AI stocks": 2,
-      "GLP-1": 8,
+      "GLP-1": 7,
       "Iran oil": 3,
-      "Federal Reserve": 6,
-      "Bitcoin": 60
+      "Federal Reserve": 3,
+      "Bitcoin": 65
     },
     "trending_searches": []
   },
@@ -211,18 +224,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4504.1,
-      "change_pct": -2.29,
+      "price": 4529.9,
+      "change_pct": -1.73,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 83.44,
-      "change_pct": -0.11,
+      "price": 83.4,
+      "change_pct": -0.16,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77666.09,
-      "change_pct": -0.22,
+      "price": 78134.23,
+      "change_pct": 0.38,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
