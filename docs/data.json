@@ -1,158 +1,151 @@
 {
-  "date": "2026年08月28日",
-  "date_iso": "2026-08-28",
-  "generated_at": "2026-08-28T11:59:37.129191+08:00",
+  "date": "2026年08月29日",
+  "date_iso": "2026-08-29",
+  "generated_at": "2026-08-29T10:39:13.941573+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Katie Roof, Geoff Weiss, Ashley Stewart",
-      "title": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider",
-      "description": "Nvidia has held talks to acquire Hugging Face for more than $13 billion as the chip giant expands its AI dealmaking.",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8#article",
-      "urlToImage": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
-      "publishedAt": "2026-08-27T00:36:55Z",
-      "content": "Nvidia has been in talks to acquire Hugging Face, the popular AI platform for sharing and building with open-source models, in what could be one of the chip giant's biggest deals yet.\r\nThe two partie… [+2197 chars]"
-    },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Daniel Wu",
-      "title": "FDA approves pancreatic cancer drug that extends patients’ lives - The Washington Post",
-      "description": "In trials, Revolution Medicines’ daraxonrasib nearly doubled average survival times for one of the deadliest cancers.",
-      "url": "https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark-pancreatic-cancer-drug-daraxonrasib/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DVLK46Z33WJCFZ4N575MPJ5IMQ.jpg&w=1440",
-      "publishedAt": "2026-08-26T23:54:38Z",
-      "content": "The Food and Drug Administration has approved a new pancreatic cancer drug, a pill that nearly doubled patients average survival times for one of the deadliest cancers when taken instead of chemother… [+3 chars]"
+      "author": "Evan Halper",
+      "title": "$900 million from a canceled wind deal will benefit a Trump donor - The Washington Post",
+      "description": "The Trump administration’s latest deal to abandon offshore wind projects and boost investment in fossil fuels is set to deliver a windfall to a private equity firm run by one of President Donald Trump’s major donors.",
+      "url": "https://www.washingtonpost.com/business/2026/08/27/how-wind-projects-got-replaced-by-900-million-payday-trump-donors-firm/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/D2IDZS5BHVIP22VVYLTCDDDOIE.jpg&w=1440",
+      "publishedAt": "2026-08-27T22:36:08Z",
+      "content": "The Trump administrations latest deal to cancel offshore wind projects and boost fossil fuel energy development instead is generating a huge payday for one of the presidents million-dollar donors.\r\nB… [+293 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Rebecca Bellan, Kirsten Korosec",
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’ - TechCrunch",
-      "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-      "publishedAt": "2026-08-26T23:47:18Z",
-      "content": "Amazon and Nvidia just got a lot closer. The two companies announced Wednesday an expanded partnership that includes a deal to add another 2 million Nvidia GPU chips to Amazons data centers.\r\nThese G… [+5207 chars]"
+      "author": "Jennifer Schonberger",
+      "title": "Investors, Fed watchers want one thing from Kevin Warsh in his Jackson Hole debut: Clarity - Yahoo Finance",
+      "description": "The stage is set for Federal Reserve Chairman Kevin Warsh's first Jackson Hole speech on Friday.",
+      "url": "https://finance.yahoo.com/economy/policy/article/investors-fed-watchers-want-one-thing-from-kevin-warsh-in-his-jackson-hole-debut-clarity-215704020.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fd018b83c84e43f884d1fe3fa949b145db5d4e9edccab2664358296126129813/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fe92995a2-8510-41cf-8529-154ea2c09eb9_be6773ca5b42e4202089ec7eaa65369f57db28f97760a2a3d081cad7a429e012.jpg",
+      "publishedAt": "2026-08-27T21:57:04Z",
+      "content": "The stage is set for Federal Reserve Chairman Kevin Warsh's first Jackson Hole speech on Friday, offering the new head a chance to clarify the central bank's strategy to bring down inflation and rebu… [+5104 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Kif Leswing",
-      "title": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates - CNBC",
-      "description": "Nvidia reported better-than-expected results and issued guidance that sailed past analyst estimates.",
-      "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787679622&w=1920&h=1080",
-      "publishedAt": "2026-08-26T23:42:00Z",
-      "content": "Nvidia reported better-than-expected fiscal second-quarter results and issued revenue guidance that topped estimates. The stock jumped 4% on the company's forecast for next fiscal year. \r\nHere's how … [+1660 chars]"
+      "author": "Annika Kim Constantino",
+      "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients - CNBC",
+      "description": "The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new treatment.",
+      "url": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355149-1787838771893-Untitled-1.jpg?v=1787838821&w=1920&h=1080",
+      "publishedAt": "2026-08-27T21:49:18Z",
+      "content": "The Food and Drug Administration approved a once-daily HIV pill from Gilead that could help simplify care for some patients, the company announced Thursday. \r\nThe drug, marketed as Bixlenvo, is aimed… [+6607 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
+      "urlToImage": null,
+      "publishedAt": "2026-08-27T21:46:00Z",
+      "content": null
     },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "Christopher Rugaber",
-      "title": "Fed governor Lisa Cook slams Trump’s renewed threat to fire her - AP News",
-      "description": "Federal Reserve governor Lisa Cook says the Trump administration has no legal basis to remove her from the central bank’s governing board. Her response to renewed threats from the White House came in a letter late Wednesday. Trump first sought to fire Cook a …",
-      "url": "https://apnews.com/article/cook-trump-federal-reserve-84ce7b0d49e4400d5130a50c83e8cead",
-      "urlToImage": "https://dims.apnews.com/dims4/default/db0b2a5/2147483647/strip/true/crop/5443x3627+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2Ff0%2Fc25541a6934b411840b4f36a99ee%2Fc850bacea5714292b63bb31bdc065190",
-      "publishedAt": "2026-08-26T23:22:00Z",
-      "content": "WASHINGTON (AP) Federal Reserve governor Lisa Cook said the Trump administration has no legal basis to remove her from the central banks governing board in a letter late Wednesday responding to renew… [+1659 chars]"
+      "author": "Matthew Perrone",
+      "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states - AP News",
+      "description": "U.S. officials have confirmed cases of a parasitic illness tied to lettuce in three more states. Thursday's announcement by the Food and Drug Administration means the outbreak now involves 20 states and more than 11,400 people. The new states are Georgia, Ten…",
+      "url": "https://apnews.com/article/lettuce-cyclospora-fda-cdc-outbreak-mexico-19899950075127fb664282dd73cccfc9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e0ba805/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fba%2F2310576107315dce22dde910ce29%2F2f307289f234471f84ef6031ef44a629",
+      "publishedAt": "2026-08-27T21:29:00Z",
+      "content": "WASHINGTON (AP) Parasitic illness cases linked to recalled iceberg lettuce have now been confirmed in 20 states, federal health officials said Thursday, expanding the scope of the largest outbreak of… [+1812 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-      "description": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
-      "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 03:23:56 GMT"
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 22:05:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "description": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
-      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 03:15:35 GMT"
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "description": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 01:21:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-      "description": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 17:05:22 GMT"
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 00:32:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
-      "description": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
-      "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 20:39:16 GMT"
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 19:40:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
-      "description": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 17:42:04 GMT"
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 00:46:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-      "description": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 14:17:24 GMT"
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 00:56:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Two killed in 'domestic violence incident' at school near Berlin",
-      "description": "Police have arrested a 19-year-old male suspect after an incident in which two people were killed near the German capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 17:07:32 GMT"
+      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+      "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 13:50:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-      "description": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 11:23:28 GMT"
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 19:05:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Military veterans told they owe thousands of pounds over clerical error",
-      "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 23:06:22 GMT"
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "description": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 01:21:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "Time is running out for cyber security, warn top tech firms",
-      "description": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 19:44:27 GMT"
+      "title": "Wife of man who died after turbulence sues airline",
+      "description": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 17:47:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-      "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 03:41:59 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Selena Gomez pushes back against 'absurd' fraud claims",
-      "description": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
-      "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 23:08:42 GMT"
+      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+      "description": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 15:15:26 GMT"
     },
     {
       "source": "BBC",
@@ -163,6 +156,13 @@
     },
     {
       "source": "BBC",
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 03:41:59 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "Overcooked? Why robotic pizza makers are failing",
       "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
       "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
@@ -170,69 +170,69 @@
     },
     {
       "source": "BBC",
-      "title": "'Cowboy builders' targeted in new government clampdown",
-      "description": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 21:44:02 GMT"
+      "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
+      "description": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
+      "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 05:53:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
-      "description": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
-      "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 20:03:34 GMT"
+      "title": "Military veterans told they owe thousands of pounds over clerical error",
+      "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 27 Aug 2026 23:06:22 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 2,
-      "GLP-1": 6,
-      "Iran oil": 2,
-      "Federal Reserve": 3,
-      "Bitcoin": 51
+      "GLP-1": 8,
+      "Iran oil": 3,
+      "Federal Reserve": 6,
+      "Bitcoin": 60
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26541.35,
-      "change_pct": 1.49,
+      "price": 26402.42,
+      "change_pct": 1.04,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7730.99,
-      "change_pct": 0.7,
+      "price": 7711.76,
+      "change_pct": 0.47,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53569.44,
-      "change_pct": -0.01,
+      "price": 53559.99,
+      "change_pct": 0.18,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4632.7,
-      "change_pct": 0.75,
+      "price": 4504.1,
+      "change_pct": -2.29,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 83.15,
-      "change_pct": 1.12,
+      "price": 83.44,
+      "change_pct": -0.11,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 79848.15,
-      "change_pct": -0.52,
+      "price": 77666.09,
+      "change_pct": -0.22,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.36,
-      "change_pct": -0.06,
+      "price": 1.35,
+      "change_pct": -0.44,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.72,
-      "change_pct": -0.04,
+      "change_pct": -0.03,
       "symbol": "CNY=X"
     }
   }
