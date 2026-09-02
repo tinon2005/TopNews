@@ -1,238 +1,225 @@
 {
-  "date": "2026年09月02日",
-  "date_iso": "2026-09-02",
-  "generated_at": "2026-09-02T06:20:09.748440+08:00",
+  "date": "2026年09月03日",
+  "date_iso": "2026-09-03",
+  "generated_at": "2026-09-03T06:17:39.700351+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Medora Lee",
-      "title": "Florida cities sweep top 3 places for retirees in 2026 - USA Today",
-      "description": "WalletHub's 2026 report names Orlando, Miami, and Tampa as the top U.S. cities for retirees due to low taxes.",
-      "url": "https://www.usatoday.com/story/money/personal-finance/retirement/2026/08/31/best-places-retire-2026-florida/91545567007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/31/USAT/91545704007-20260305-t-150922-z-1038877127-mt-1-usatoday-28405694-rtrmadp-3-stoopingoverarowinthegardenhehastendedfor-20.JPG?crop=1976,1112,x0,y458&width=1976&height=1112&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-31T21:45:00Z",
-      "content": "The Sunshine State continues to shine brightly as the top place to retire in WalletHub's annual Best and Worst Places to Retire report.\r\nCities in Florida swept the top three spots in the budgeting t… [+5616 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Dee-Ann Durbin",
-      "title": "Judge says Smucker’s lawsuit against Trader Joe’s over frozen sandwiches can proceed. - AP News",
-      "description": "A federal judge says J.M. Smucker can proceed with its lawsuit against Trader Joe’s over frozen sandwiches that Smucker argues are too similar to its Uncrustables. Smucker sued Trader Joe’s in federal court in Ohio last fall. The suit alleges that Trader Joe’…",
-      "url": "https://apnews.com/article/smucker-trader-joes-uncrustables-sandwiches-lawsuit-peanut-butter-f9f8c119b3bec81f023100c788c0d925",
-      "urlToImage": "https://dims.apnews.com/dims4/default/65ca019/2147483647/strip/true/crop/7645x5094+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2F83%2Fb3af1c83ca04d3986f1bf1262808%2F41d8e6c3558946bdb3d66d6b43d41109",
-      "publishedAt": "2026-08-31T21:12:00Z",
-      "content": "A federal judge has ruled that J.M. Smucker can proceed with a lawsuit against Trader Joes over frozen sandwiches that Smucker claims are too similar to its Uncrustables.\r\nSmucker sued Trader Joes in… [+2350 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Luke Fountain",
-      "title": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII - CNBC",
-      "description": "Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.",
-      "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108356651-17882054262026-08-31t192221z_1044813194_rc2v9naio0mc_rtrmadp_0_usa-trump.jpeg?v=1788205526&w=1920&h=1080",
-      "publishedAt": "2026-08-31T20:50:01Z",
-      "content": "President Donald Trump said Monday that the U.S. economy could grow at rates as high as 20%, while arguing that even such rapid growth should not prompt the Federal Reserve to raise interest rates.\r\n… [+2457 chars]"
+      "author": "Sean Conlon, Justina Lee, Fred Imbert",
+      "title": "Dow falls more than 400 points, oil rises after new U.S. strikes against Iran - CNBC",
+      "description": "Stocks fell on Tuesday, the first day of September, as inflation worries and elevated oil prices lifted bond yields around the world.",
+      "url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
+      "publishedAt": "2026-09-01T22:04:35Z",
+      "content": "Stocks fell on Tuesday, the first day of September, as inflation worries and elevated oil prices lifted bond yields in the U.S. and abroad, raising concern about whether the Federal Reserve will tigh… [+2337 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Fox Business"
       },
-      "author": "Callum Keown, Kit Norton, Mariapaula Gonzalez",
-      "title": "Tesla, PG&E, Nvidia, SLB, Pinterest, and More Stocks That Explain Today’s Market - Barron's",
-      "description": "Tesla is the best-performing stock in the S&P 500 ahead of anticipated self-driving updates.",
-      "url": "https://www.barrons.com/articles/stock-movers-3aad06c8",
-      "urlToImage": "https://images.barrons.com/im-85845973/social",
-      "publishedAt": "2026-08-31T20:31:00Z",
-      "content": "Stocks fell to start the weekas oil prices rose after the U.S. launched its first strikes against Iran in weeks. The odds of an interest-rate rate hike in September also continued to increase after F… [+164 chars]"
+      "author": "Bonny Chu",
+      "title": "Nearly 150,000 Ford vehicles recalled after defect raises risk of sudden power loss while driving - Fox Business",
+      "description": "The recall affects 148,663 Ford Mustang vehicles after a wiring defect was found to potentially cause sudden stalling and power loss.",
+      "url": "https://www.foxbusiness.com/lifestyle/nearly-150k-ford-vehicles-recalled-defect-raises-risk-sudden-power-loss-driving",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/10/0/0/0416cdcc-ford-dealership-iStock.jpg?ve=1&tl=1",
+      "publishedAt": "2026-09-01T21:58:00Z",
+      "content": "Federal regulators announced a significant safety recall affecting nearly 150,000 Ford Mustang vehicles over a critical defect that could cause a sudden loss of engine power while driving. \r\nThe reca… [+4012 chars]"
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Elizabeth Stanton",
-      "title": "Treasury 10-Year Yield Tops 4.75%, Highest Since January 2025 - Bloomberg.com",
-      "description": "The US 10-year yield topped 4.75% on Monday for the first time since January 2025 as rising oil prices bolstered expectations that the Federal Reserve will hike interest rates.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/treasury-10-year-yield-tops-4-75-highest-since-january-2025",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMJpyuC.yvY/v1/1200x800.jpg",
-      "publishedAt": "2026-08-31T20:20:07Z",
-      "content": "The US 10-year yield topped 4.75% on Monday for the first time since January 2025 as rising oil prices bolstered expectations that the Federal Reserve will hike interest rates. \r\nThe selloff extended… [+322 chars]"
+      "author": "wsj.com",
+      "title": "Exclusive | Travis Kelce Buys Lakefront Ohio Home for $5.35 Million - wsj.com",
+      "description": null,
+      "url": "https://www.wsj.com/real-estate/luxury-homes/travis-kelce-ohio-home-550ef5fc",
+      "urlToImage": null,
+      "publishedAt": "2026-09-01T21:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ines Ferré",
+      "title": "Dell stock surges on record orders for AI servers - Yahoo Finance",
+      "description": "Dell stock surged following the server maker's quarterly results on Tuesday.",
+      "url": "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/534f02925d81c22d0897aa86a30b3a80cb9753ab548b023db5bb3293b35732a5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F9b932b0b-6050-4bec-9003-3c01c9851a4b",
+      "publishedAt": "2026-09-01T20:56:29Z",
+      "content": "What happened: Dell Technologies (DELL) stock surged as much as 10% in after-hours on Tuesday.\r\nWhat's behind the move: The maker of laptops and servers raised guidance and posted record revenue and … [+1325 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 21:05:22 GMT"
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:33:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "US strikes Iran as state media reports four killed at wedding party",
-      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 21:34:27 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 16:49:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 11:47:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+      "description": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 20:12:32 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "description": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 19:05:31 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:21:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
       "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 21:48:28 GMT"
+      "publishedAt": "Wed, 02 Sep 2026 15:33:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 05:00:34 GMT"
+      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+      "description": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
+      "url": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 13:20:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-      "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
-      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 16:11:18 GMT"
+      "title": "Why are UK borrowing costs rising and what does it mean for me?",
+      "description": "Some government borrowing costs have hit their highest level for 28 years - what does it mean for you?",
+      "url": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 11:05:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-      "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 15:33:14 GMT"
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:21:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 20:05:23 GMT"
+      "title": "Lords call for AI 'kill switch' powers in UK",
+      "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 14:41:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ariana Grande ends tour and steps back from public life",
-      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 21:41:05 GMT"
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
+      "description": "The company says cutting roles would make its operations \"simpler and faster\".",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 16:51:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pistol in a lake gives hope for French cold case",
-      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
-      "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 16:33:29 GMT"
+      "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
+      "description": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 23:26:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-      "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 16:36:42 GMT"
+      "title": "Will self-flying planes transform the skies?",
+      "description": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 23:27:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Shein valued at $26bn after long-awaited stock market debut",
-      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 10:01:26 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "description": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 10:18:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
-      "description": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 23:37:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ikea cuts prices as customers struggle with rising cost of living",
-      "description": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
-      "url": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 12:21:52 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
-      "description": "Just after Jo Hooper landed her dream role at 30, she struggled with burnout and had to take time off work.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 14:19:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 21:28:49 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US borrowing costs hit fresh highs over inflation fears",
-      "description": "The effective interest rate on 10 years rose to 4.79%, its highest level since January 2025, as oil prices surged.",
-      "url": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 15:51:51 GMT"
+      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "description": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 01:27:34 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 4,
-      "GLP-1": 11,
-      "Iran oil": 11,
-      "Federal Reserve": 5,
-      "Bitcoin": 80
+      "AI stocks": 5,
+      "GLP-1": 10,
+      "Iran oil": 7,
+      "Federal Reserve": 6,
+      "Bitcoin": 77
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26099.77,
-      "change_pct": -1.15,
+      "price": 26217.83,
+      "change_pct": -0.58,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7631.47,
-      "change_pct": -1.04,
+      "price": 7666.6,
+      "change_pct": -0.25,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52766.88,
-      "change_pct": -1.48,
+      "price": 53061.95,
+      "change_pct": -0.23,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4376.5,
-      "change_pct": -1.23,
+      "price": 4435.9,
+      "change_pct": 2.02,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 90.87,
-      "change_pct": 5.96,
+      "price": 90.75,
+      "change_pct": 0.59,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77197.09,
-      "change_pct": -1.72,
+      "price": 77148.96,
+      "change_pct": -0.33,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": -0.16,
+      "change_pct": -0.49,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.71,
-      "change_pct": -0.23,
+      "price": 6.72,
+      "change_pct": -0.11,
       "symbol": "CNY=X"
     }
   }
