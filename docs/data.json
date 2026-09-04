@@ -1,238 +1,245 @@
 {
-  "date": "2026年09月04日",
-  "date_iso": "2026-09-04",
-  "generated_at": "2026-09-04T06:11:32.129843+08:00",
+  "date": "2026年09月05日",
+  "date_iso": "2026-09-05",
+  "generated_at": "2026-09-05T06:02:52.938391+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "WSJ",
-      "title": "U.S. Stocks Climb as Bond Yields Stay in Spotlight - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/investing/oil-hovers-close-to-95-as-middle-east-conflict-further-pressures-bonds-877d8321",
-      "urlToImage": null,
-      "publishedAt": "2026-09-02T19:08:56Z",
-      "content": null
+      "author": "Jake Conley",
+      "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - Yahoo Finance",
+      "description": "Nvidia will pay roughly $13 billion to acquire the open-weight AI platform Hugging Face, the company confirmed on Thursday.",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4fd0aec4f6bf28418cbf0427256863445789abc739ba96b1527e49a7dbb04e44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ff82dae40-4363-11ed-bffa-da11af28a41d_5207744486f6f2de26e0a02f4cab602257586ecdd6452a4c390b1570131546c7.jpg",
+      "publishedAt": "2026-09-03T20:18:03Z",
+      "content": "Nvidia (NVDA) on Thursday confirmed its plans to acquire the open-weight AI platform Hugging Face for roughly $13 billion, sending its shares up roughly 2%.\r\nThe deal will see Nvidia pay $12.93 billi… [+4558 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Brad Bourque",
-      "title": "Here are some of REI’s best Labor Day sale deals - theverge.com",
-      "description": "The outdoor retailer’s end-of-summer sale includes gear like tents and jackets, but the best deal might be on socks.",
-      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Garmin-InReach-Mini-3-Lifestyle-Press-Image.jpeg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "publishedAt": "2026-09-02T18:56:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe outdoor retailers end-of-summer sale includes gear like tents and jackets, but the best deal might be on socks.\r\nThe outdoor retailers end-of-summer sale inc… [+2248 chars]"
+      "author": "William Wilkes",
+      "title": "VW Approves Plan to Cut 50,000 More Jobs in Broad Overhaul - Bloomberg.com",
+      "description": "Volkswagen AG’s supervisory board backed a sweeping overhaul that calls for 50,000 additional job cuts, far fewer models and a smaller industrial footprint, giving Chief Executive Officer Oliver Blume his clearest mandate yet to remake Europe’s biggest carmak…",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDs3IFbnBJaI/v0/1200x800.jpg",
+      "publishedAt": "2026-09-03T19:06:29Z",
+      "content": "Volkswagen AGs supervisory board backed a sweeping overhaul that calls for 50,000 additional job cuts, far fewer models and a smaller industrial footprint, giving Chief Executive Officer Oliver Blume… [+381 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Sophia Cai, Charles Rollet",
+      "title": "Zuckerberg opposed White House AI proposal in private call with Trump - Politico",
+      "description": "The Trump administration is now considering both a FINRA-style approach and David Sacks’ industry-led approach as potential paths forward.",
+      "url": "https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa7%2F0a%2F06be4e9f48e78d606ee21e2e77f5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2233061076",
+      "publishedAt": "2026-09-03T18:32:00Z",
+      "content": "The debate comes at a fraught moment for the administration. AI agents are increasingly able to browse the web, operate software and write code with limited human supervision, and have escaped human … [+2400 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Ina Fried",
+      "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts - Axios",
+      "description": "Executives say this could mark the moment when artificial general intelligence equals human capabilities.",
+      "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+      "urlToImage": "https://images.axios.com/1WBM3-KVcVPMQvbRndQWELRQJXs=/0x0:1280x720/1366x768/2026/09/03/1788450549349.jpg",
+      "publishedAt": "2026-09-03T18:08:52Z",
+      "content": "Driving the news: Brockman says he personally believes OpenAI has reached AGI, while leaving users to decide whether Astra meets that definition.\r\n<ul><li>\"I think it might be about this model,\" Broc… [+3804 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "CNBC"
       },
-      "author": "Angela Palumbo",
-      "title": "Dell Stock Soars on Blowout Q2 Earnings and Raised Guidance - Barron's",
-      "description": "Dell reported better-than-expected second-quarter financial results after the stock market closed on Tuesday.",
-      "url": "https://www.barrons.com/articles/ell-stock-soars-q2-earnings-guidance-beat-d07d0ee7",
-      "urlToImage": "https://images.barrons.com/im-41263687/social",
-      "publishedAt": "2026-09-02T18:50:00Z",
-      "content": "Dell Technologiesstock was climbing on Wednesday after the hardware company reported a major earnings and revenue beat that was powered by artificial-intelligence demand.\r\nCopyright ©2026Dow Jones &a… [+70 chars]"
+      "author": "Michael Wayland",
+      "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S. - CNBC",
+      "description": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
+      "url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333834-1783918441707-gettyimages-2283163436-_DSC4514JPG.jpeg?v=1783918460&w=1920&h=1080",
+      "publishedAt": "2026-09-03T16:51:13Z",
+      "content": "DETROIT Major automakers operating in the U.S. are increasing pressure on Congress to permanently ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.… [+1834 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "Stock Market Today: Dow, Small Caps Lead Rise; Palo Alto Networks Triggers Sell Rule (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index rises Tuesday after surprise jobs data. AI stock Credo plunges on earnings.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-ai-stock-credo-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-Dell-NvidiaBlackwell-company.jpg",
-      "publishedAt": "2026-09-02T18:28:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Travel+Leisure"
-      },
-      "author": "https://www.facebook.com/travelandleisure/",
-      "title": "Cyclosporiasis Cases Are Surging Across 48 States—Here Are the Foods Linked to the ‘Explosive Diarrhea’ Parasite - Travel + Leisure",
-      "description": "The CDC has confirmed more than 17,000 cases this season as health officials investigate outbreaks tied to contaminated fresh produce.",
-      "url": "https://www.travelandleisure.com/cyclospora-cases-surge-across-again-12075772",
-      "urlToImage": "https://www.travelandleisure.com/thmb/SLE_-_NMqohhGgtMMUuY6forwqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-iceburg-lettus-CYCLOSPORIASIS0826-17483db553bd43a6aa1aa5f7a9f13450.jpg",
-      "publishedAt": "2026-09-02T18:03:00Z",
-      "content": "More than 17,000 cases of the gastrointestinal parasitic infection cyclosporiasis have been recorded across the country, marking a significant increase compared to past years.\r\nThe Centers for Diseas… [+2536 chars]"
+      "author": "Sean Conlon, Lee Ying Shan, Tobias Burns",
+      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - CNBC",
+      "description": "Investors grew hopeful that the Federal Reserve may leave interest rates unchanged this month.",
+      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340023-17849188482026-07-24t145944z_940041411_rc2dkma3djbf_rtrmadp_0_usa-stocks.jpeg?v=1788450583&w=1920&h=1080",
+      "publishedAt": "2026-09-03T16:05:00Z",
+      "content": "Equities moved higher on Thursday, while Treasury yields pulled back, as investors grew hopeful that the Federal Reserve may leave interest rates unchanged this month.\r\nThe S&amp;P 500 rose 1.2%, whi… [+2220 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 06:01:54 GMT"
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 16:49:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-      "description": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 11:35:52 GMT"
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 14:40:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-      "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
-      "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 18:04:34 GMT"
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 11:54:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 15:05:57 GMT"
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 16:02:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 09:37:34 GMT"
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 04:06:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-      "description": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-      "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 20:49:05 GMT"
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 20:03:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "description": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-      "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 10:37:06 GMT"
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 17:14:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-      "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 13:54:49 GMT"
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 19:44:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-      "description": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
-      "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 13:26:54 GMT"
+      "title": "Stock up on food to prepare for extreme weather, minister says",
+      "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+      "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 10:40:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 16:32:05 GMT"
+      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+      "description": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 17:23:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-      "description": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
-      "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 12:50:14 GMT"
+      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+      "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 05:59:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Almost half of households do not see benefits of economic growth, report says",
-      "description": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
-      "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 05:47:11 GMT"
+      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
+      "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 07:19:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
-      "description": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
-      "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 23:25:50 GMT"
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "description": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 13:05:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why wait? Business grads buying firms to install themselves as CEO",
-      "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
-      "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 23:13:44 GMT"
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 05:09:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-      "description": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
-      "url": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 23:24:06 GMT"
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 07:00:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 15:35:47 GMT"
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+      "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 11:48:24 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 3,
-      "GLP-1": 8,
-      "Iran oil": 5,
-      "Federal Reserve": 5,
-      "Bitcoin": 96
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26584.06,
-      "change_pct": 1.86,
+      "price": 26506.99,
+      "change_pct": 1.1,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7747.71,
-      "change_pct": 1.52,
+      "price": 7718.6,
+      "change_pct": 0.68,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53686.11,
-      "change_pct": 1.74,
+      "price": 53414.25,
+      "change_pct": 0.66,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4520.9,
-      "change_pct": 3.54,
+      "price": 4477.2,
+      "change_pct": -0.32,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 91.63,
-      "change_pct": 0.68,
+      "price": 91.22,
+      "change_pct": -0.09,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 81463.71,
-      "change_pct": 5.39,
+      "price": 79684.3,
+      "change_pct": -1.95,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.07,
+      "change_pct": 0.24,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.72,
-      "change_pct": -0.04,
+      "price": 6.7,
+      "change_pct": -0.26,
       "symbol": "CNY=X"
     }
   }
