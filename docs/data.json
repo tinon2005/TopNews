@@ -1,143 +1,130 @@
 {
-  "date": "2026年09月05日",
-  "date_iso": "2026-09-05",
-  "generated_at": "2026-09-05T06:02:52.938391+08:00",
+  "date": "2026年09月06日",
+  "date_iso": "2026-09-06",
+  "generated_at": "2026-09-06T05:51:51.221332+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Barron's"
       },
-      "author": "Jake Conley",
-      "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - Yahoo Finance",
-      "description": "Nvidia will pay roughly $13 billion to acquire the open-weight AI platform Hugging Face, the company confirmed on Thursday.",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4fd0aec4f6bf28418cbf0427256863445789abc739ba96b1527e49a7dbb04e44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ff82dae40-4363-11ed-bffa-da11af28a41d_5207744486f6f2de26e0a02f4cab602257586ecdd6452a4c390b1570131546c7.jpg",
-      "publishedAt": "2026-09-03T20:18:03Z",
-      "content": "Nvidia (NVDA) on Thursday confirmed its plans to acquire the open-weight AI platform Hugging Face for roughly $13 billion, sending its shares up roughly 2%.\r\nThe deal will see Nvidia pay $12.93 billi… [+4558 chars]"
+      "author": "Shaina Mishkin",
+      "title": "FICO Stock Plunges as FHFA Pushes VantageScore and Threatens Credit Bureau Model - Barron's",
+      "description": "Equifax, Experian, and TransUnion are “overcharging Americans,” according to Bill Pulte, the head of the Federal Housing Finance Agency.",
+      "url": "https://www.barrons.com/articles/fico-stock-plunges-fhfa-vantagescore-credit-bureaus-ee4e60af",
+      "urlToImage": "https://images.barrons.com/im-22411473/social",
+      "publishedAt": "2026-09-04T19:48:00Z",
+      "content": "Shares ofFair Isaac,Equifax,TransUnion, andExperianwere all falling on Friday following Thursday night social media posts from Bill Pulte, the head of the Federal Housing Finance Agency.\r\nCopyright ©… [+86 chars]"
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "Financial Times"
       },
-      "author": "William Wilkes",
-      "title": "VW Approves Plan to Cut 50,000 More Jobs in Broad Overhaul - Bloomberg.com",
-      "description": "Volkswagen AG’s supervisory board backed a sweeping overhaul that calls for 50,000 additional job cuts, far fewer models and a smaller industrial footprint, giving Chief Executive Officer Oliver Blume his clearest mandate yet to remake Europe’s biggest carmak…",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDs3IFbnBJaI/v0/1200x800.jpg",
-      "publishedAt": "2026-09-03T19:06:29Z",
-      "content": "Volkswagen AGs supervisory board backed a sweeping overhaul that calls for 50,000 additional job cuts, far fewer models and a smaller industrial footprint, giving Chief Executive Officer Oliver Blume… [+381 chars]"
+      "author": null,
+      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - ft.com",
+      "description": "AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week",
+      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F22e10a41-a8e7-41c2-b6cd-f6fda20dca00.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-09-04T19:46:21Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Nathaniel Rodriguez",
+      "title": "Publix, Walmart, other grocers under investigation over beef prices - thehill.com",
+      "description": "The Department of Justice is expanding its investigation into beef affordability in the United States to include eight of the largest grocers in the country.",
+      "url": "https://thehill.com/business/6071478-publix-walmart-doj-scrutiny-grocers-beef-prices/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP885137627141-e1788548404891.jpg?w=1280",
+      "publishedAt": "2026-09-04T19:01:00Z",
+      "content": "Skip to content\r\nby Nathaniel Rodriguez - 09/04/26 3:01 PM ET\r\nby Nathaniel Rodriguez - 09/04/26 3:01 PM ET\r\nTAMPA, Fla. (WFLA) — The Department of Justice (DOJ) is expanding its investigation into b… [+2131 chars]"
     },
     {
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "author": "Sophia Cai, Charles Rollet",
-      "title": "Zuckerberg opposed White House AI proposal in private call with Trump - Politico",
-      "description": "The Trump administration is now considering both a FINRA-style approach and David Sacks’ industry-led approach as potential paths forward.",
-      "url": "https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa7%2F0a%2F06be4e9f48e78d606ee21e2e77f5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2233061076",
-      "publishedAt": "2026-09-03T18:32:00Z",
-      "content": "The debate comes at a fraught moment for the administration. AI agents are increasingly able to browse the web, operate software and write code with limited human supervision, and have escaped human … [+2400 chars]"
+      "author": "Sam Ogozalek",
+      "title": "Trump administration opens probe into Tesla’s self-driving Cybercab - Politico",
+      "description": "The National Highway Traffic Safety Administration said it is reviewing the rollout of the vehicle in Austin, Texas, over a self-certification issue.",
+      "url": "https://www.politico.com/news/2026/09/04/trump-cybercab-musk-probe-01064706",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2F02%2Fa75ac3cb497ea6552f75574b8778%2Ftesla-cybercab-18722.jpg",
+      "publishedAt": "2026-09-04T18:23:00Z",
+      "content": "In a notice, the National Highway Traffic Safety Administration said Tesla had notified the agency that it self-certified the driverless cars as being compliant with applicable federal safety standar… [+1194 chars]"
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Ina Fried",
-      "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts - Axios",
-      "description": "Executives say this could mark the moment when artificial general intelligence equals human capabilities.",
-      "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-      "urlToImage": "https://images.axios.com/1WBM3-KVcVPMQvbRndQWELRQJXs=/0x0:1280x720/1366x768/2026/09/03/1788450549349.jpg",
-      "publishedAt": "2026-09-03T18:08:52Z",
-      "content": "Driving the news: Brockman says he personally believes OpenAI has reached AGI, while leaving users to decide whether Astra meets that definition.\r\n<ul><li>\"I think it might be about this model,\" Broc… [+3804 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Michael Wayland",
-      "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S. - CNBC",
-      "description": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
-      "url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333834-1783918441707-gettyimages-2283163436-_DSC4514JPG.jpeg?v=1783918460&w=1920&h=1080",
-      "publishedAt": "2026-09-03T16:51:13Z",
-      "content": "DETROIT Major automakers operating in the U.S. are increasing pressure on Congress to permanently ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.… [+1834 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sean Conlon, Lee Ying Shan, Tobias Burns",
-      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - CNBC",
-      "description": "Investors grew hopeful that the Federal Reserve may leave interest rates unchanged this month.",
-      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340023-17849188482026-07-24t145944z_940041411_rc2dkma3djbf_rtrmadp_0_usa-stocks.jpeg?v=1788450583&w=1920&h=1080",
-      "publishedAt": "2026-09-03T16:05:00Z",
-      "content": "Equities moved higher on Thursday, while Treasury yields pulled back, as investors grew hopeful that the Federal Reserve may leave interest rates unchanged this month.\r\nThe S&amp;P 500 rose 1.2%, whi… [+2220 chars]"
+      "author": "Tucker  Reals, Khaled  Wassef",
+      "title": "Live Updates: Iran war drives U.S. diesel price to record high as Vance downplays the conflict and its impact - cbsnews.com",
+      "description": "Vance says gas prices could have been \"much higher were it not for our efforts,\" as the Iran war pushes pump prices to expected Labor Day weekend records.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/04/88540391-b677-4a79-bb2f-eb817e45718b/thumbnail/1200x630/956e4121bd440b1f2cbb29bc740e5047/us-diesel-price-iran-war-2291635611.jpg",
+      "publishedAt": "2026-09-04T18:17:00Z",
+      "content": "An Iranian government spokeswoman acknowledged Friday that the country is facing economic pressure and shortages, insisting that officials do not deny the difficulties confronting regular Iranians.\r\n… [+2269 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 16:49:15 GMT"
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 21:39:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 14:40:00 GMT"
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 20:41:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 11:54:51 GMT"
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 16:02:32 GMT"
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 15:22:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-      "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 04:06:41 GMT"
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "description": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 21:00:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 20:03:52 GMT"
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 21:29:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
-      "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 17:14:21 GMT"
+      "title": "What different world maps get right - and what they get wrong",
+      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 16:14:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
-      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 19:44:40 GMT"
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 09:12:48 GMT"
     },
     {
       "source": "BBC",
@@ -198,7 +185,13 @@
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {},
+    "finance_keywords": {
+      "AI stocks": 2,
+      "GLP-1": 6,
+      "Iran oil": 5,
+      "Federal Reserve": 3,
+      "Bitcoin": 59
+    },
     "trending_searches": []
   },
   "market": {
@@ -218,18 +211,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4477.2,
-      "change_pct": -0.32,
+      "price": 4476.6,
+      "change_pct": -0.34,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 91.22,
-      "change_pct": -0.09,
+      "price": 91.48,
+      "change_pct": 0.2,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 79684.3,
-      "change_pct": -1.95,
+      "price": 79916.98,
+      "change_pct": 0.31,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
