@@ -1,102 +1,110 @@
 {
-  "date": "2026年09月06日",
-  "date_iso": "2026-09-06",
-  "generated_at": "2026-09-06T05:51:51.221332+08:00",
+  "date": "2026年09月07日",
+  "date_iso": "2026-09-07",
+  "generated_at": "2026-09-07T05:55:05.680485+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Gothamist"
       },
-      "author": "Shaina Mishkin",
-      "title": "FICO Stock Plunges as FHFA Pushes VantageScore and Threatens Credit Bureau Model - Barron's",
-      "description": "Equifax, Experian, and TransUnion are “overcharging Americans,” according to Bill Pulte, the head of the Federal Housing Finance Agency.",
-      "url": "https://www.barrons.com/articles/fico-stock-plunges-fhfa-vantagescore-credit-bureaus-ee4e60af",
-      "urlToImage": "https://images.barrons.com/im-22411473/social",
-      "publishedAt": "2026-09-04T19:48:00Z",
-      "content": "Shares ofFair Isaac,Equifax,TransUnion, andExperianwere all falling on Friday following Thursday night social media posts from Bill Pulte, the head of the Federal Housing Finance Agency.\r\nCopyright ©… [+86 chars]"
+      "author": "https://gothamist.com/staff/ramsey-khalifeh",
+      "title": "MTA worker killed by D train near Yankee Stadium in the Bronx - Gothamist",
+      "description": "Moet McCullum is the second construction flagger killed in the subways in three years.",
+      "url": "https://gothamist.com/news/mta-worker-killed-by-d-train-near-yankee-stadium-in-the-bronx",
+      "urlToImage": "https://api-prod.gothamist.com/images/359024/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2026-09-05T18:40:00Z",
+      "content": "An MTA construction flagger with only 11 months on the job was killed by a passing D train Thursday night, officials said.\r\nThe death of Moet McCullum, 41, marks the second deadly incident involving … [+1902 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - ft.com",
-      "description": "AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week",
-      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F22e10a41-a8e7-41c2-b6cd-f6fda20dca00.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-04T19:46:21Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Steve Liesman",
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms - CNBC",
+      "description": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108347529-1786391464606-108347529-1786391400825-gettyimages-2277700921-0d6a1940_h7ptqyou.jpg?v=1786396230&w=1920&h=1080",
+      "publishedAt": "2026-09-05T18:10:58Z",
+      "content": "Ten days ahead of a meeting in which the Federal Reserve will likely consider raising interest rates, the Trump administration looks to be in a full-court press to halt the hike in its tracks.\r\nIn th… [+5487 chars]"
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "Nathaniel Rodriguez",
-      "title": "Publix, Walmart, other grocers under investigation over beef prices - thehill.com",
-      "description": "The Department of Justice is expanding its investigation into beef affordability in the United States to include eight of the largest grocers in the country.",
-      "url": "https://thehill.com/business/6071478-publix-walmart-doj-scrutiny-grocers-beef-prices/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP885137627141-e1788548404891.jpg?w=1280",
-      "publishedAt": "2026-09-04T19:01:00Z",
-      "content": "Skip to content\r\nby Nathaniel Rodriguez - 09/04/26 3:01 PM ET\r\nby Nathaniel Rodriguez - 09/04/26 3:01 PM ET\r\nTAMPA, Fla. (WFLA) — The Department of Justice (DOJ) is expanding its investigation into b… [+2131 chars]"
+      "author": "Angela Barbuti",
+      "title": "Shoppers at BJ’s Wholesale Club finally realize what initials in store name stand for - New York Post",
+      "description": "Fans of members-only retail chain BJ’s Wholesale Club are finally finding out what the initials in the store’s name stand for.",
+      "url": "https://nypost.com/2026/09/05/lifestyle/shoppers-at-bjs-wholesale-club-finally-realize-what-initials-in-store-name-stand-for/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/BJs-Name.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-05T17:46:00Z",
+      "content": "It seems discount shopping is a family affair.\r\nSome fans of members-only retail chain BJs Wholesale Club are only just finding out what the initials in the stores name stand for.\r\nAlthough customers… [+1385 chars]"
     },
     {
       "source": {
-        "id": "politico",
-        "name": "Politico"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Sam Ogozalek",
-      "title": "Trump administration opens probe into Tesla’s self-driving Cybercab - Politico",
-      "description": "The National Highway Traffic Safety Administration said it is reviewing the rollout of the vehicle in Austin, Texas, over a self-certification issue.",
-      "url": "https://www.politico.com/news/2026/09/04/trump-cybercab-musk-probe-01064706",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2F02%2Fa75ac3cb497ea6552f75574b8778%2Ftesla-cybercab-18722.jpg",
-      "publishedAt": "2026-09-04T18:23:00Z",
-      "content": "In a notice, the National Highway Traffic Safety Administration said Tesla had notified the agency that it self-certified the driverless cars as being compliant with applicable federal safety standar… [+1194 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Tucker  Reals, Khaled  Wassef",
-      "title": "Live Updates: Iran war drives U.S. diesel price to record high as Vance downplays the conflict and its impact - cbsnews.com",
-      "description": "Vance says gas prices could have been \"much higher were it not for our efforts,\" as the Iran war pushes pump prices to expected Labor Day weekend records.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/04/88540391-b677-4a79-bb2f-eb817e45718b/thumbnail/1200x630/956e4121bd440b1f2cbb29bc740e5047/us-diesel-price-iran-war-2291635611.jpg",
-      "publishedAt": "2026-09-04T18:17:00Z",
-      "content": "An Iranian government spokeswoman acknowledged Friday that the country is facing economic pressure and shortages, insisting that officials do not deny the difficulties confronting regular Iranians.\r\n… [+2269 chars]"
+      "author": "wsj.com",
+      "title": "The Next Big Opportunity in Data Centers: Insuring Them - wsj.com",
+      "description": null,
+      "url": "https://www.wsj.com/finance/the-next-big-opportunity-in-data-centers-insuring-them-f133f3cb",
+      "urlToImage": null,
+      "publishedAt": "2026-09-05T17:19:00Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:39:02 GMT"
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 21:37:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 20:41:59 GMT"
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 20:41:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT"
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 20:52:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 15:22:41 GMT"
+      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 16:00:21 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 16:54:34 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 08:05:22 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "description": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 17:00:56 GMT"
     },
     {
       "source": "BBC",
@@ -107,24 +115,10 @@
     },
     {
       "source": "BBC",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:29:38 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "What different world maps get right - and what they get wrong",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 16:14:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 09:12:48 GMT"
+      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+      "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 16:32:59 GMT"
     },
     {
       "source": "BBC",
@@ -132,6 +126,13 @@
       "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
       "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 04 Sep 2026 10:40:23 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 23:20:00 GMT"
     },
     {
       "source": "BBC",
@@ -149,10 +150,10 @@
     },
     {
       "source": "BBC",
-      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-      "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 07:19:06 GMT"
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 05:09:02 GMT"
     },
     {
       "source": "BBC",
@@ -163,34 +164,20 @@
     },
     {
       "source": "BBC",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 05:09:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 07:00:10 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-      "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 11:48:24 GMT"
+      "title": "Jaguar Land Rover confirms planned job cuts",
+      "description": "The firm says it needs to save about £1.7bn over the next two years.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 13:22:17 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 2,
-      "GLP-1": 6,
+      "GLP-1": 7,
       "Iran oil": 5,
-      "Federal Reserve": 3,
-      "Bitcoin": 59
+      "Federal Reserve": 4,
+      "Bitcoin": 70
     },
     "trending_searches": []
   },
@@ -212,22 +199,22 @@
     },
     "黃金": {
       "price": 4476.6,
-      "change_pct": -0.34,
+      "change_pct": 1.06,
       "symbol": "GC=F"
     },
     "WTI 原油": {
       "price": 91.48,
-      "change_pct": 0.2,
+      "change_pct": 0.0,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 79916.98,
-      "change_pct": 0.31,
+      "price": 79940.59,
+      "change_pct": 0.15,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.24,
+      "change_pct": 0.25,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
