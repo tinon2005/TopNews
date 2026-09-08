@@ -1,238 +1,238 @@
 {
-  "date": "2026年09月08日",
-  "date_iso": "2026-09-08",
-  "generated_at": "2026-09-08T06:27:50.448291+08:00",
+  "date": "2026年09月09日",
+  "date_iso": "2026-09-09",
+  "generated_at": "2026-09-09T06:18:51.652119+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Doha Madani, Jay Blackman, Juliette Arcodia",
-      "title": "Plane with Amazon logo crashes outside Miami airport - NBC News",
-      "description": "An Amazon-branded cargo plane crashed just outside Miami International Airport on Sunday afternoon.",
-      "url": "https://www.nbcnews.com/news/us-news/amazon-plane-crash-miami-rcna596369",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260906-amazon-plane-crash-miami-ww-1249-eb20e5.jpg",
-      "publishedAt": "2026-09-06T20:34:25Z",
-      "content": "An Amazon-branded cargo plane crashed just outside Miami International Airport on Sunday afternoon.\r\nThe Boeing 767-300 cargo aircraft overran the runway around 2 p.m. ET while landing, according to … [+1689 chars]"
-    },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "Dylan Lovan",
-      "title": "A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - AP News",
-      "description": "U.S. ostrich farmers say they’re finding new customers who developed a red meat allergy triggered by tick bites. Ostrich meat is red when raw and has a taste similar to beef. Kentucky farmer Brent Williams was diagnosed about seven years ago with alpha-gal sy…",
-      "url": "https://apnews.com/article/kentucky-farm-alphagal-tick-ostrich-steak-allergy-15cedc20aac4f0650e0d24d05a577139",
-      "urlToImage": "https://dims.apnews.com/dims4/default/76369bc/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F35%2F13%2F4a63e989df94377bfa12764cfb38%2F3da1c44719de47ed846337fee891ad3d",
-      "publishedAt": "2026-09-06T17:00:00Z",
-      "content": "DANVILLE, Ky. (AP) When a friend approached Brent Williams four years ago with a business proposition to start an ostrich farm, he was more than intrigued he had a personal motivation as someone who … [+6195 chars]"
+      "author": "David Fischer, Marc Levy, Jeffrey Collins",
+      "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
+      "description": "Investigators are looking into why an Amazon cargo jet ran off a runway at Miami International Airport, killing five people. The crash happened Sunday when the Boeing 767 overran the runway and hit an SUV and a van. The van was carrying members of a cleaning …",
+      "url": "https://apnews.com/article/cargo-plane-crash-miami-airport-amazon-prime-d5118998e880f380a3fd8786e35fd9bb",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fc72dc4/2147483647/strip/true/crop/5764x3841+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F38%2F4a85f89656b51d34d06773929c91%2F9a6bc10414b541eda6866b3bea94d94f",
+      "publishedAt": "2026-09-07T21:41:00Z",
+      "content": "MIAMI (AP) The five people killed when an Amazon cargo jet ran off a runway at Miami International Airport were all inside a van carrying seven people from a cleaning company, and an SUV hit outside … [+6747 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": "Anthony Ha",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business - TechCrunch",
-      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-      "publishedAt": "2026-09-06T16:45:00Z",
-      "content": "Earlier this summer, Travis Kalanicks Atoms announced a $1.7 billion funding round led by Andreessen Horowitz. But even after raising that mega round, the Uber founder remained a bit cagey about what… [+1034 chars]"
+      "author": null,
+      "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US - Al Jazeera",
+      "description": "Trump targets aeroplane maker again, accusing Canada of unfair practices and threatening to block sales in the US.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9f025053782-1788805712.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-07T21:20:29Z",
+      "content": "United States President Donald Trump has said that Canada-based aeroplane maker Bombardier can no longer sell in the US unless they start manufacturing their planes in the United States.\r\nNO MORE SEL… [+1798 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "TheStreet"
       },
-      "author": "Britt Ross",
-      "title": "Labor Day sales 2026: The best expert-approved deals from Amazon, Apple, Hoka, Patagonia and more up to 75% off - Yahoo",
-      "description": "We found the best bargains to scoop up this holiday weekend, from fall wardrobe essentials to back-to-school tech.",
-      "url": "https://shopping.yahoo.com/deals/breaking-news/article/labor-day-sales-2026-the-best-expert-approved-deals-from-amazon-apple-hoka-patagonia-and-more-up-to-75-off-204203986.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4d3a39e12b60c3f83fc39d86df6a55a7f817e2a17efc51d4a5711a70244930f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flabor-day-sales_1156.png",
-      "publishedAt": "2026-09-06T16:36:51Z",
-      "content": "For many of us, Labor Day signals summer's unofficial send-off and whether you're sad to see the warm weather go or you're already craving sweater weather, there's one thing we can all agree on: a gr… [+33626 chars]"
+      "author": "thestreet.com",
+      "title": "Barbecue chain closed more restaurants than it admitted - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/restaurants/dickeys-bbq-pit-closed-more-restaurants-than-it-admitted",
+      "urlToImage": null,
+      "publishedAt": "2026-09-07T21:11:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "WFAA.com"
       },
-      "author": "Kirsten Korosec",
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag - techcrunch.com",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-      "publishedAt": "2026-09-06T16:08:00Z",
-      "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free just click TechC… [+6833 chars]"
+      "author": "WFAA",
+      "title": "AT&T outages hit Dallas area: 'Severe' impact from fiber issues hit internet, other services - WFAA",
+      "description": null,
+      "url": "https://www.wfaa.com/article/news/local/att-outage-dallas-texas/287-d12d4412-abfa-444e-b3ea-0caf32407ca9",
+      "urlToImage": null,
+      "publishedAt": "2026-09-07T19:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Outraged cruise passengers sound off about 'immense disappointment' after abrupt cancellation - Fox News",
+      "description": "Serenade of the Seas by Royal Caribbean canceled a recent Alaska cruise after delays, leaving passengers stranded and disappointed in Vancouver with limited amenities.",
+      "url": "https://www.foxnews.com/travel/outraged-cruise-passengers-sound-off-immense-disappointment-after-abrupt-cancellation",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/royal_carribean_cruise.jpg",
+      "publishedAt": "2026-09-07T19:20:36Z",
+      "content": "Passengers aboard a cruise ship preparing to set sail for Alaska were left scrambling recently after the cruise line abruptly canceled the trip citing unspecified technical problems.\r\nThe seven-night… [+4213 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 22:23:03 GMT"
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 19:11:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 21:12:37 GMT"
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 21:46:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 14:04:01 GMT"
+      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 14:46:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-      "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 14:50:50 GMT"
+      "title": "Renoir paintings worth millions stolen in French museum heist",
+      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+      "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 13:35:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israeli strikes in southern Lebanese village kill 12",
-      "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 13:39:23 GMT"
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 11:09:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 15:27:50 GMT"
+      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 17:10:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
-      "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
-      "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 09:31:26 GMT"
+      "title": "British widow faces deportation from Sweden after 22 years",
+      "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 18:02:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 07:03:44 GMT"
+      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
+      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 13:58:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Next wins key appeal to overturn £30m equal pay ruling",
-      "description": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
-      "url": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 16:25:41 GMT"
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 20:57:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-      "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 15:41:52 GMT"
+      "title": "Sapporo to move some beer production from Canada to US after tariffs",
+      "description": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
+      "url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 17:41:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
-      "description": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 14:36:37 GMT"
+      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+      "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+      "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 15:19:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
-      "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 16:05:37 GMT"
+      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 21:46:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "The £70 refund letter that isn't a scam",
-      "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 08:50:55 GMT"
+      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+      "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
+      "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 09:00:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why are European countries moving their gold out of North America?",
-      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 01:42:09 GMT"
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 09:17:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 14:57:30 GMT"
+      "title": "UK's third-biggest taxpayer to leave for Greece",
+      "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 09:33:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 02:26:12 GMT"
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 11:09:54 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 3,
+      "AI stocks": 4,
       "GLP-1": 8,
       "Iran oil": 7,
-      "Federal Reserve": 5,
-      "Bitcoin": 61
+      "Federal Reserve": 4,
+      "Bitcoin": 55
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26506.99,
-      "change_pct": 1.1,
+      "price": 26421.41,
+      "change_pct": -0.61,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7718.6,
-      "change_pct": 0.68,
+      "price": 7673.52,
+      "change_pct": -0.96,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53414.25,
-      "change_pct": 0.66,
+      "price": 52786.07,
+      "change_pct": -1.68,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4458.1,
-      "change_pct": 0.64,
+      "price": 4396.9,
+      "change_pct": -0.95,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 92.65,
-      "change_pct": 1.28,
+      "price": 94.33,
+      "change_pct": 1.4,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 79179.23,
-      "change_pct": -1.46,
+      "price": 78469.52,
+      "change_pct": -0.82,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.09,
+      "change_pct": 0.18,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.7,
-      "change_pct": -0.28,
+      "price": 6.71,
+      "change_pct": -0.01,
       "symbol": "CNY=X"
     }
   }
