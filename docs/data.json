@@ -1,238 +1,212 @@
 {
-  "date": "2026年09月09日",
-  "date_iso": "2026-09-09",
-  "generated_at": "2026-09-09T06:18:51.652119+08:00",
+  "date": "2026年09月10日",
+  "date_iso": "2026-09-10",
+  "generated_at": "2026-09-10T06:12:09.716401+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "David Fischer, Marc Levy, Jeffrey Collins",
-      "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
-      "description": "Investigators are looking into why an Amazon cargo jet ran off a runway at Miami International Airport, killing five people. The crash happened Sunday when the Boeing 767 overran the runway and hit an SUV and a van. The van was carrying members of a cleaning …",
-      "url": "https://apnews.com/article/cargo-plane-crash-miami-airport-amazon-prime-d5118998e880f380a3fd8786e35fd9bb",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fc72dc4/2147483647/strip/true/crop/5764x3841+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F38%2F4a85f89656b51d34d06773929c91%2F9a6bc10414b541eda6866b3bea94d94f",
-      "publishedAt": "2026-09-07T21:41:00Z",
-      "content": "MIAMI (AP) The five people killed when an Amazon cargo jet ran off a runway at Miami International Airport were all inside a van carrying seven people from a cleaning company, and an SUV hit outside … [+6747 chars]"
+      "author": "Alex Harring",
+      "title": "Stock futures are little changed after losing session; Brent crude tops $99 per barrel: Live updates - CNBC",
+      "description": "The three major averages posted losses in Tuesday's regular trading.",
+      "url": "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359875-17888859092026-09-08t164028z_1466658885_rc22fnav82e2_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
+      "publishedAt": "2026-09-08T22:03:36Z",
+      "content": "Stock futures are near flat Tuesday evening after a losing day as oil prices continue their ascent.\r\nDow Jones Industrial Average futures lost 15 points. S&amp;P 500 futures and Nasdaq 100 futures al… [+1446 chars]"
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": null,
-      "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US - Al Jazeera",
-      "description": "Trump targets aeroplane maker again, accusing Canada of unfair practices and threatening to block sales in the US.",
-      "url": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9f025053782-1788805712.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-07T21:20:29Z",
-      "content": "United States President Donald Trump has said that Canada-based aeroplane maker Bombardier can no longer sell in the US unless they start manufacturing their planes in the United States.\r\nNO MORE SEL… [+1798 chars]"
+      "author": "Steven  Yablonski, Anna  McAllister",
+      "title": "Amazon plane crash victims identified as NTSB investigates cause of deadly incident at Miami International Airport - CBS News",
+      "description": "The Amazon cargo plane crashed off the end of a runway at Miami International Airport on Sunday, leaving five people dead and five others injured.",
+      "url": "https://www.cbsnews.com/miami/news/amazon-cargo-plane-crash-victim-names-miami-september-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/08/d662fbce-1e94-401f-9ba9-389ee65d1e54/thumbnail/1200x630/091809f3ac4f61414391a7d7dab26e2f/cbsmiami-mia-crash-mdso-update-1.jpg",
+      "publishedAt": "2026-09-08T21:57:23Z",
+      "content": "The Miami-Dade Sheriff's Office released the names of the five people who were killed when an Amazon cargo plane overshot a runway at Miami International Airport on Sunday, slammed into vehicles near… [+6105 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "TheStreet"
+        "name": "CNBC"
       },
-      "author": "thestreet.com",
-      "title": "Barbecue chain closed more restaurants than it admitted - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/restaurants/dickeys-bbq-pit-closed-more-restaurants-than-it-admitted",
-      "urlToImage": null,
-      "publishedAt": "2026-09-07T21:11:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WFAA.com"
-      },
-      "author": "WFAA",
-      "title": "AT&T outages hit Dallas area: 'Severe' impact from fiber issues hit internet, other services - WFAA",
-      "description": null,
-      "url": "https://www.wfaa.com/article/news/local/att-outage-dallas-texas/287-d12d4412-abfa-444e-b3ea-0caf32407ca9",
-      "urlToImage": null,
-      "publishedAt": "2026-09-07T19:46:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Outraged cruise passengers sound off about 'immense disappointment' after abrupt cancellation - Fox News",
-      "description": "Serenade of the Seas by Royal Caribbean canceled a recent Alaska cruise after delays, leaving passengers stranded and disappointed in Vancouver with limited amenities.",
-      "url": "https://www.foxnews.com/travel/outraged-cruise-passengers-sound-off-immense-disappointment-after-abrupt-cancellation",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/royal_carribean_cruise.jpg",
-      "publishedAt": "2026-09-07T19:20:36Z",
-      "content": "Passengers aboard a cruise ship preparing to set sail for Alaska were left scrambling recently after the cruise line abruptly canceled the trip citing unspecified technical problems.\r\nThe seven-night… [+4213 chars]"
+      "author": "Sara Salinas",
+      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents - CNBC",
+      "description": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
+      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359131-1788544747353-260904_cn_03_con_AI_Hedge_Fund_rc00_03_33_22Still006_1.png?v=1788544795&w=1920&h=1080",
+      "publishedAt": "2026-09-08T21:38:14Z",
+      "content": "Hedge-fund manager Brian Kelly has his staff working 24/7, yet his payroll costs are a fraction of what they once were. \r\nThat's because Kelly who previously ran a cryptocurrency hedge fund created h… [+2675 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 19:11:39 GMT"
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 21:23:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 21:46:31 GMT"
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 17:06:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 14:46:16 GMT"
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 16:46:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Renoir paintings worth millions stolen in French museum heist",
-      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
-      "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 13:35:28 GMT"
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "description": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 20:22:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 11:09:54 GMT"
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 13:29:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 17:10:54 GMT"
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 10:20:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "description": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 18:02:42 GMT"
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
+      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 16:30:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "description": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
-      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 13:58:32 GMT"
+      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+      "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 15:01:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-      "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 20:57:09 GMT"
+      "title": "Air traffic failure was avoidable, says transport secretary",
+      "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 18:21:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Sapporo to move some beer production from Canada to US after tariffs",
-      "description": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
-      "url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 17:41:42 GMT"
+      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 20:00:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
-      "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
-      "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 15:19:43 GMT"
+      "title": "What are my rights if my flight is cancelled or delayed?",
+      "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 08:04:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 21:46:21 GMT"
+      "title": "Learner drivers still forced to wait months to book tests",
+      "description": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 11:57:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-      "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
-      "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 09:00:28 GMT"
+      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+      "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 12:20:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 09:17:48 GMT"
+      "title": "Should promotion depend on how workers use AI?",
+      "description": "More companies are tying career progression to AI use: is that fair?",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 23:05:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK's third-biggest taxpayer to leave for Greece",
-      "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 09:33:35 GMT"
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 15:34:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 11:09:54 GMT"
+      "title": "I'm 27 and I've already written my will - here's why",
+      "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 23:04:17 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 4,
-      "GLP-1": 8,
-      "Iran oil": 7,
-      "Federal Reserve": 4,
-      "Bitcoin": 55
+      "AI stocks": 3,
+      "GLP-1": 11,
+      "Iran oil": 6,
+      "Federal Reserve": 5,
+      "Bitcoin": 53
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26421.41,
-      "change_pct": -0.61,
+      "price": 26253.34,
+      "change_pct": -0.96,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7673.52,
-      "change_pct": -0.96,
+      "price": 7636.36,
+      "change_pct": -1.07,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52786.07,
-      "change_pct": -1.68,
+      "price": 52380.66,
+      "change_pct": -1.94,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4396.9,
-      "change_pct": -0.95,
+      "price": 4448.5,
+      "change_pct": 1.24,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 94.33,
-      "change_pct": 1.4,
+      "price": 97.25,
+      "change_pct": 4.54,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 78469.52,
-      "change_pct": -0.82,
+      "price": 77943.6,
+      "change_pct": -0.63,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.18,
+      "change_pct": 0.02,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.71,
-      "change_pct": -0.01,
+      "price": 6.7,
+      "change_pct": -0.2,
       "symbol": "CNY=X"
     }
   }
