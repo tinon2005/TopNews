@@ -1,117 +1,111 @@
 {
-  "date": "2026年09月12日",
-  "date_iso": "2026-09-12",
-  "generated_at": "2026-09-12T06:10:31.864974+08:00",
+  "date": "2026年09月13日",
+  "date_iso": "2026-09-13",
+  "generated_at": "2026-09-13T05:54:10.644089+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Hollywood Reporter"
       },
-      "author": "Sarah Min, Lee Ying Shan, Darla Mercado, CFP®, Davis Giangiulio",
-      "title": "Stocks retreat as U.S. oil prices top $100, threatening economy: Live updates - CNBC",
-      "description": "Stocks dropped Thursday after U.S. oil prices topped $100 a barrel.",
-      "url": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353342-1787583279875-gettyimages-2291322538-AFP_C6DP8QM.jpeg?v=1787583470&w=1920&h=1080",
-      "publishedAt": "2026-09-10T22:08:57Z",
-      "content": "Stocks dropped Thursday after U.S. oil prices topped $100 a barrel, amid growing fears of higher inflation from a prolonged war in the Middle East. \r\nThe Dow Jones Industrial Average closed down 316.… [+2734 chars]"
+      "author": "Winston Cho",
+      "title": "Paramount Settlement Talks With California Moving Forward - The Hollywood Reporter",
+      "description": "The two sides will sit down to discuss a deal resolving the case at the end of October.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-settlement-talks-with-california-moving-forward-1236697830/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2290505982.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-09-11T19:25:35Z",
+      "content": "Paramount and California Attorney General Rob Bonta will sit down for two straight days at the end of October to explore a deal settling the state’s lawsuit challenging the studio’s $111 billion bid … [+1857 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": null,
-      "title": "Oracle Stock Jumps As Earnings Beat Estimates, Cloud Infrastructure Growth Accelerates - Investor's Business Daily",
-      "description": "Oracle stock jumped late Thursday after the tech giant reported fiscal first-quarter results that beat expectations.",
-      "url": "https://www.investors.com/news/technology/oracle-stock-orcl-q1-earnings-aug-2026-ai/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/09/Oracle-AI-World-2025-conference-1024x683.jpg",
-      "publishedAt": "2026-09-10T21:30:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Brent D. Griffiths",
+      "title": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider",
+      "description": "\"Sorry, but asking Jacob about AI extinction risk is like asking your AC guy about climate change,\" Hugging Face CEO Clement Delangue wrote on X.",
+      "url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9#article",
+      "urlToImage": "https://i.insider.com/6aa43b54cc23a829a3b9072d?width=1200&format=jpeg",
+      "publishedAt": "2026-09-11T18:25:39Z",
+      "content": "Hugging Face CEO Clement Delangue questioned the focus on a former Anthropic researcher who said AI workers privately fear the technology could kill all humans.\r\n\"Sorry, but asking Jacob about AI ext… [+3072 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Louis Casiano",
-      "title": "Major Seattle CEOs demand 100-day action plan on public safety from socialist Mayor Katie Wilson - Fox Business",
-      "description": "Top executives from major corporations have sent a letter to Mayor Katie Wilson demanding immediate, measurable action on crime and homelessness in Seattle.",
-      "url": "https://www.foxbusiness.com/politics/major-seattle-ceos-demand-100-day-action-plan-public-safety-from-socialist-mayor-katie-wilson",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/seattle-mayor-katie-wilson.jpg?ve=1&tl=1",
-      "publishedAt": "2026-09-10T21:27:00Z",
-      "content": "Seattle business leaders, including the CEOs of major corporations such as Starbucks and Microsoft, are urging socialist Mayor Katie Wilson and other city officials to take swift action on public saf… [+3308 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek - TechCrunch",
-      "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-      "publishedAt": "2026-09-10T20:57:30Z",
-      "content": "A new report released Thursday by Anthropic alleged persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.\r\n “… [+2738 chars]"
+      "author": "Niina H. Farah",
+      "title": "Court deals first blow to Trump’s coal rescue campaign - Politico",
+      "description": "The ruling casts a pall on the administration's orders requiring six coal plants across the country to stay online past their retirement dates.",
+      "url": "https://www.politico.com/news/2026/09/11/court-deals-first-blow-to-trumps-coal-rescue-campaign-01072134",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fde%2F14%2F36855a9a480884d23eb37c671f2d%2Fu-s-congress-49624.jpg",
+      "publishedAt": "2026-09-11T17:27:00Z",
+      "content": "The Departments position would empower it to pick its preferred power sources in Michigan or, presumably, any other state and order them to operate without regard to the multiple procedural and subst… [+1263 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 21:54:56 GMT"
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 16:00:59 GMT"
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 15:50:23 GMT"
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 21:25:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 12:04:46 GMT"
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 19:36:50 GMT"
     },
     {
       "source": "BBC",
-      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 10:50:04 GMT"
+      "title": "French officials investigate if malicious act caused train derailment",
+      "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 15:05:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 08:15:25 GMT"
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+      "url": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 16:55:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 17:32:44 GMT"
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 05:55:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Philippine rescuers board ferry 40 hours after blaze began",
-      "description": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
-      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 06:33:15 GMT"
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 15:09:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US prices remain high as fuel costs squeeze household budgets",
+      "description": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
+      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 14:22:42 GMT"
     },
     {
       "source": "BBC",
@@ -122,10 +116,10 @@
     },
     {
       "source": "BBC",
-      "title": "US prices remain high as fuel costs squeeze household budgets",
-      "description": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
-      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 14:22:42 GMT"
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+      "description": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+      "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 20:37:29 GMT"
     },
     {
       "source": "BBC",
@@ -140,13 +134,6 @@
       "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
       "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 11 Sep 2026 10:17:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "I asked my husband to pay into my pension when we had a child - here's why",
-      "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-      "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 10 Sep 2026 23:04:30 GMT"
     },
     {
       "source": "BBC",
@@ -173,11 +160,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
+      "AI stocks": 1,
       "GLP-1": 6,
-      "Iran oil": 4,
-      "Federal Reserve": 7,
-      "Bitcoin": 53
+      "Iran oil": 2,
+      "Federal Reserve": 2,
+      "Bitcoin": 44
     },
     "trending_searches": []
   },
@@ -198,23 +185,23 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4390.0,
-      "change_pct": 0.58,
+      "price": 4408.9,
+      "change_pct": 1.02,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 99.99,
-      "change_pct": -2.43,
+      "price": 100.05,
+      "change_pct": -2.37,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77097.04,
-      "change_pct": 0.69,
+      "price": 77247.17,
+      "change_pct": 0.1,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": -0.17,
+      "change_pct": -0.16,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
