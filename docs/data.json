@@ -1,46 +1,20 @@
 {
-  "date": "2026年09月14日",
-  "date_iso": "2026-09-14",
-  "generated_at": "2026-09-14T06:02:49.376486+08:00",
+  "date": "2026年09月15日",
+  "date_iso": "2026-09-15",
+  "generated_at": "2026-09-15T06:54:53.201581+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "TheStreet"
+        "name": "CNBC"
       },
-      "author": "thestreet.com",
-      "title": "Jewelry chain closes 53 stores after shutting down 2 brands - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/retail/signet-jewelers-store-closures",
-      "urlToImage": null,
-      "publishedAt": "2026-09-12T21:20:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Bloomberg.com",
-      "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-09-12T21:20:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "From Portland to Buffalo, these are 5 of the best chicken wing destinations across America - Fox News",
-      "description": "From award-winning sauces in Portland to a legendary Buffalo tavern, these five restaurants across the U.S. serve some of the best chicken wings in America.",
-      "url": "https://www.foxnews.com/food-drink/portland-buffalo-5-best-chicken-wing-destinations-across-america",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/944bb58f-dipping_chicken_wings.jpg",
-      "publishedAt": "2026-09-12T20:37:20Z",
-      "content": "Saucy, spicy, mild, fried, smoked however theyre prepared, chicken wings are an American staple, especially during football season.\r\nWings have come a long way since their humble beginnings in Buffal… [+3409 chars]"
+      "author": "Alex Harring",
+      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
+      "description": "The three major averages are coming off a losing week.",
+      "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
+      "publishedAt": "2026-09-13T22:25:00Z",
+      "content": "Stock futures fell Sunday night as investors monitored a major shakeup in the pipeline for artificial intelligence initial public offerings amid growing safety concerns, along with the latest oil mov… [+2071 chars]"
     },
     {
       "source": {
@@ -48,191 +22,217 @@
         "name": "TechCrunch"
       },
       "author": "Anthony Ha",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 - TechCrunch",
-      "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
-      "publishedAt": "2026-09-12T20:19:16Z",
-      "content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.\r\nAltman was interviewed recently by Fortune editor in chief Alyson Shont… [+949 chars]"
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock - TechCrunch",
+      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
+      "publishedAt": "2026-09-13T20:49:38Z",
+      "content": "Oracle co-founder and executive chairman Larry Ellison has canceled a planned sale of his Oracle stock, the company announced on Saturday.\r\nOracle had previously disclosed in a regulatory filing that… [+623 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "WSJ",
-      "title": "J&J Is In Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion - WSJ",
+      "author": null,
+      "title": "‘Slowing things down’: Trade wars hit global electrification shift - Politico",
       "description": null,
-      "url": "https://www.wsj.com/business/deals/j-j-is-in-talks-to-sell-its-hips-and-knees-business-to-apollo-for-20-billion-3018cc4e",
+      "url": "https://www.politico.com/news/2026/09/13/trade-wars-are-going-electric-the-planet-could-pay-the-price-01068417",
       "urlToImage": null,
-      "publishedAt": "2026-09-12T19:40:00Z",
+      "publishedAt": "2026-09-13T20:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "One Mile at a Time"
+      },
+      "author": "Ben Schlappig",
+      "title": "My PS LAX Experience: Is The Private Terminal Worth The $1,295 Price Tag? - One Mile at a Time",
+      "description": "Is PS LAX's $1,295 private terminal worth it? A firsthand look at The Salon's food, drinks, private TSA checkpoint, and tarmac transfer to your flight.",
+      "url": "https://onemileatatime.com/insights/ps-lax-private-terminal/",
+      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2026/09/PS-LAX-24-1.jpeg",
+      "publishedAt": "2026-09-13T19:51:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Andy Kalmowitz",
+      "title": "Costco Is Rationing Oil And Doubling Its Price As Supply Dwindles - Jalopnik",
+      "description": "Since motor oil comes from the same barrel as gas and diesel, refineries can make more money refining crude into fuel rather than the motor oil Costco sells.",
+      "url": "https://www.jalopnik.com/2256151/costco-rationing-oil-doubling-price-as-supply-dwindles/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/costco-is-rationing-oil-and-doubling-its-price-as-supply-dwindles/l-intro-1789146759.jpg",
+      "publishedAt": "2026-09-13T19:25:00Z",
+      "content": "I'm sure you've already noticed, but oil prices are getting downright absurd. Now, those inflated costs are coming for Costco's motor oil. The wholesale retailer may be known for its solidly low pric… [+1370 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 11:31:39 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 19:14:21 GMT"
+      "publishedAt": "Mon, 14 Sep 2026 12:18:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 18:49:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 18:20:22 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "description": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 21:17:15 GMT"
+      "publishedAt": "Mon, 14 Sep 2026 08:36:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 13:30:38 GMT"
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 14:08:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 14:25:56 GMT"
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "description": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 11:28:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 11:23:42 GMT"
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 21:29:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 19:34:36 GMT"
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 08:58:27 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "description": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 16:48:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+      "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 22:10:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Government set to nationalise troubled steel firm",
+      "description": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 19:06:46 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Petrol and diesel prices hit highest since 2022",
+      "description": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 11:42:52 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Rent rises set to speed up in gloomy forecast for tenants",
+      "description": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 23:05:45 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Heading off to uni? Here's what to insure against theft",
+      "description": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 08:13:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+      "description": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 22:01:39 GMT"
     },
     {
       "source": "BBC",
       "title": "'Culture shift' needed in how UK does business, PM urges",
-      "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+      "description": "Burnham says those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
       "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 21:30:21 GMT"
+      "publishedAt": "Mon, 14 Sep 2026 14:22:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 14:53:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 09:05:10 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 19:34:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Iceland to open first store in the Falklands",
-      "description": "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
-      "url": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 20:50:54 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Interest rates could rise again across the world – here's why",
-      "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 13:35:29 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-      "description": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
-      "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 20:37:29 GMT"
+      "title": "MPs and Lords call for new law to address AI threat to human rights",
+      "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 08:07:08 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 9,
-      "Iran oil": 3,
-      "Federal Reserve": 3,
-      "Bitcoin": 50
+      "AI stocks": 8,
+      "GLP-1": 17,
+      "Iran oil": 7,
+      "Federal Reserve": 8,
+      "Bitcoin": 85
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26333.03,
-      "change_pct": 0.3,
+      "price": 26186.41,
+      "change_pct": 0.4,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7656.98,
-      "change_pct": 0.27,
+      "price": 7619.98,
+      "change_pct": 0.37,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52573.29,
-      "change_pct": 0.37,
+      "price": 52421.2,
+      "change_pct": 0.69,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4408.9,
-      "change_pct": 0.98,
+      "price": 4336.2,
+      "change_pct": -0.36,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 100.05,
-      "change_pct": 0.0,
+      "price": 101.96,
+      "change_pct": 0.56,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77106.19,
-      "change_pct": -0.21,
+      "price": 78554.11,
+      "change_pct": 2.23,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": -0.2,
+      "change_pct": -0.04,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.71,
-      "change_pct": -0.04,
+      "price": 6.7,
+      "change_pct": -0.12,
       "symbol": "CNY=X"
     }
   }
