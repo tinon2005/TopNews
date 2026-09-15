@@ -1,238 +1,238 @@
 {
-  "date": "2026年09月15日",
-  "date_iso": "2026-09-15",
-  "generated_at": "2026-09-15T06:54:53.201581+08:00",
+  "date": "2026年09月16日",
+  "date_iso": "2026-09-16",
+  "generated_at": "2026-09-16T06:40:17.355710+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Alex Harring",
-      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
-      "description": "The three major averages are coming off a losing week.",
-      "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
-      "publishedAt": "2026-09-13T22:25:00Z",
-      "content": "Stock futures fell Sunday night as investors monitored a major shakeup in the pipeline for artificial intelligence initial public offerings amid growing safety concerns, along with the latest oil mov… [+2071 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock - TechCrunch",
-      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-      "publishedAt": "2026-09-13T20:49:38Z",
-      "content": "Oracle co-founder and executive chairman Larry Ellison has canceled a planned sale of his Oracle stock, the company announced on Saturday.\r\nOracle had previously disclosed in a regulatory filing that… [+623 chars]"
-    },
     {
       "source": {
         "id": "politico",
         "name": "Politico"
       },
+      "author": "Jasper Goodman",
+      "title": "Gillibrand privately urges Dems to advance crypto bill - Politico",
+      "description": "Sen. Kirsten Gillibrand's posture on the legislation puts her at odds with progressives in her party.",
+      "url": "https://www.politico.com/live-updates/2026/09/14/congress/gillibrand-privately-urges-dems-to-advance-crypto-bill-01075514",
+      "urlToImage": "https://www.politico.com/dims4/default/566f2e4/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcb%2F15%2F3e19e67a4e1191d3e5a1eb47cfe1%2Fu-s-congress-695-3.jpg",
+      "publishedAt": "2026-09-14T21:56:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Stan Choe",
+      "title": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump - AP News",
+      "description": "AI stocks slid worldwide after leaders of the industry warned a slowdown is needed for the safety of humanity. Another climb in oil prices, meanwhile, briefly sent the yield on the 10-year Treasury to 5% on Monday for the first time since 2023. Despite all th…",
+      "url": "https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/24943e2/2147483647/strip/true/crop/8010x5337+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2F60%2Fe5aeb8dfefb3c618e2ffce96b7e4%2Ff53e742cf6494b8da85c2cc1e4e254a6",
+      "publishedAt": "2026-09-14T20:16:00Z",
+      "content": "NEW YORK (AP) Artificial-intelligence stocks slid worldwide Monday after leaders of the industry warned a slowdown is needed for the safety of humanity. Another jump in oil prices, meanwhile, briefly… [+5341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
       "author": null,
-      "title": "‘Slowing things down’: Trade wars hit global electrification shift - Politico",
-      "description": null,
-      "url": "https://www.politico.com/news/2026/09/13/trade-wars-are-going-electric-the-planet-could-pay-the-price-01068417",
-      "urlToImage": null,
-      "publishedAt": "2026-09-13T20:00:00Z",
-      "content": null
+      "title": "How Carney plans to sell Canada to the world's biggest investors - BBC",
+      "description": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+      "url": "https://www.bbc.com/news/articles/c0m3neyyzm7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b067/live/866137e0-adff-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-14T19:29:12Z",
+      "content": "Over roughly 24 hours, Carney hopes to pitch them on Canada's energy and resource sectors, as well as the countrys political stability, in the hopes of getting them to invest in AI, defence, transpor… [+54 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "One Mile at a Time"
+        "id": "msnbc",
+        "name": "MS Now"
       },
-      "author": "Ben Schlappig",
-      "title": "My PS LAX Experience: Is The Private Terminal Worth The $1,295 Price Tag? - One Mile at a Time",
-      "description": "Is PS LAX's $1,295 private terminal worth it? A firsthand look at The Salon's food, drinks, private TSA checkpoint, and tarmac transfer to your flight.",
-      "url": "https://onemileatatime.com/insights/ps-lax-private-terminal/",
-      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2026/09/PS-LAX-24-1.jpeg",
-      "publishedAt": "2026-09-13T19:51:03Z",
-      "content": null
+      "author": "Jake Traylor, Jacqueline Alemany, Lindsey Pipia",
+      "title": "Trump privately met with OpenAI’s Sam Altman at GOP convention - MS NOW",
+      "description": "Altman, Elon Musk and Anthropic chief Dario Amodei all urged an artificial intelligence slowdown over the weekend. The president says the only control AI needs is a strong president.",
+      "url": "https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations",
+      "urlToImage": "https://www.ms.now/wp-content/uploads/2026/09/260914-donald-trump-openai-gop-midterm-convention-zz.webp?crop=0px,0px,2500px,1313px&w=1200&h=630",
+      "publishedAt": "2026-09-14T19:12:24Z",
+      "content": "President Donald Trump met privately with OpenAI chief executive Sam Altman backstage at the Republican midterm convention on Thursday, days after a former researcher for the company publicly accused… [+2791 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Jalopnik"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Andy Kalmowitz",
-      "title": "Costco Is Rationing Oil And Doubling Its Price As Supply Dwindles - Jalopnik",
-      "description": "Since motor oil comes from the same barrel as gas and diesel, refineries can make more money refining crude into fuel rather than the motor oil Costco sells.",
-      "url": "https://www.jalopnik.com/2256151/costco-rationing-oil-doubling-price-as-supply-dwindles/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/costco-is-rationing-oil-and-doubling-its-price-as-supply-dwindles/l-intro-1789146759.jpg",
-      "publishedAt": "2026-09-13T19:25:00Z",
-      "content": "I'm sure you've already noticed, but oil prices are getting downright absurd. Now, those inflated costs are coming for Costco's motor oil. The wholesale retailer may be known for its solidly low pric… [+1370 chars]"
+      "author": "Catherina Gioino",
+      "title": "Long COVID’s brain fog finally has a biological explanation: Dopamine loss - Fortune",
+      "description": "Scientists found up to 20% less dopamine nerve density in long COVID patients, and say the damage tracks closely with specific symptoms.",
+      "url": "https://fortune.com/2026/09/14/long-covid-brain-fog-symptoms-dopamine-nerve-terminals/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1276505371-e1789405428129.jpg?resize=1200,600",
+      "publishedAt": "2026-09-14T18:55:00Z",
+      "content": "For years, long COVID has been defined almost entirely by what patients report feeling: fatigue, brain fog, memory lapses, a loss of motivation that wont lift. Doctors have struggled to treat a sympt… [+3968 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 11:31:39 GMT"
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 21:07:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 12:18:13 GMT"
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 11:40:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 08:36:09 GMT"
+      "title": "What weapon could the US have put into space?",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 14:23:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
-      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 14:08:12 GMT"
+      "title": "South African president vows justice as more women's bodies found near Johannesburg",
+      "description": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
+      "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 18:01:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "description": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 11:28:36 GMT"
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 16:13:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Legendary costume designer Bob Mackie dies aged 87",
-      "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 21:29:12 GMT"
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 20:34:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
-      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 08:58:27 GMT"
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 16:55:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-      "description": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 16:48:10 GMT"
+      "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
+      "description": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 21:54:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-      "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 22:13:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US borrowing costs hit highest level since 2007",
+      "description": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+      "url": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 19:35:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+      "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+      "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 11:05:42 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 08:49:31 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "description": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 23:08:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
       "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 22:10:10 GMT"
+      "publishedAt": "Tue, 15 Sep 2026 00:32:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Government set to nationalise troubled steel firm",
-      "description": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 19:06:46 GMT"
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 02:50:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Petrol and diesel prices hit highest since 2022",
-      "description": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 11:42:52 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Rent rises set to speed up in gloomy forecast for tenants",
-      "description": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 23:05:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Heading off to uni? Here's what to insure against theft",
-      "description": "What should new students consider to keep your belongings safe and covered by insurance?",
-      "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 08:13:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-      "description": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 22:01:39 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'Culture shift' needed in how UK does business, PM urges",
-      "description": "Burnham says those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-      "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 14:22:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "MPs and Lords call for new law to address AI threat to human rights",
-      "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 08:07:08 GMT"
+      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+      "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 23:07:56 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 8,
-      "GLP-1": 17,
-      "Iran oil": 7,
-      "Federal Reserve": 8,
-      "Bitcoin": 85
+      "AI stocks": 4,
+      "GLP-1": 16,
+      "Iran oil": 6,
+      "Federal Reserve": 12,
+      "Bitcoin": 79
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26186.41,
-      "change_pct": 0.4,
+      "price": 25981.57,
+      "change_pct": -1.33,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7619.98,
-      "change_pct": 0.37,
+      "price": 7585.73,
+      "change_pct": -0.93,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52421.2,
-      "change_pct": 0.69,
+      "price": 52093.11,
+      "change_pct": -0.91,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4336.2,
-      "change_pct": -0.36,
+      "price": 4338.1,
+      "change_pct": -0.32,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 101.96,
-      "change_pct": 0.56,
+      "price": 105.39,
+      "change_pct": 3.95,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 78554.11,
-      "change_pct": 2.23,
+      "price": 75569.39,
+      "change_pct": -3.32,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": -0.04,
+      "change_pct": -0.35,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.7,
-      "change_pct": -0.12,
+      "change_pct": -0.11,
       "symbol": "CNY=X"
     }
   }
