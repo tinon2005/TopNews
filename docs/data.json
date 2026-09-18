@@ -1,238 +1,238 @@
 {
-  "date": "2026年09月18日",
-  "date_iso": "2026-09-18",
-  "generated_at": "2026-09-18T06:36:52.428660+08:00",
+  "date": "2026年09月19日",
+  "date_iso": "2026-09-19",
+  "generated_at": "2026-09-19T06:12:46.163896+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Motor1 "
       },
-      "author": "WSJ",
-      "title": "Fed Meeting Today: Warsh, FOMC Raised Interest Rates by 0.25 Percentage Point — Live Updates - WSJ",
+      "author": "Jeff Perez",
+      "title": "GM Gives Us All The Details On Its New V8s: More Power, Better Towing - motor1.com",
+      "description": "GM’s new V8s are bigger and more powerful than before, with the 6.6-liter making 481 horsepower and the 5.7-liter towing up to 13,700 pounds.",
+      "url": "https://www.motor1.com/news/808674/gm-new-v8-engine-details-specs/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/G3bB3q/s1/gm-new-v8-engines.jpg",
+      "publishedAt": "2026-09-17T22:31:15Z",
+      "content": "General Motors has finally pulled the cover off its two new V8 engines for its next-generation full-size pickups. The 2027 Chevrolet Silverado 1500 and GMC Sierra 1500 will get two versions of GM's s… [+3324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Sophia Compton",
+      "title": "Major airlines cut flights as higher jet fuel prices hit carriers - Fox Business",
+      "description": "Executives at American, United and Southwest said higher fuel costs are squeezing airlines, though resilient travel demand has helped offset some of the pressure.",
+      "url": "https://www.foxbusiness.com/markets/major-airlines-cut-flights-higher-jet-fuel-prices-hit-carriers",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/United-Airlines-787.jpg?ve=1&tl=1",
+      "publishedAt": "2026-09-17T21:10:00Z",
+      "content": "Executives from American Airlines, United Airlines and Southwest Airlines said Wednesday that higher jet fuel prices are prompting carriers to adjust capacity and closely monitor flight schedules.\r\nT… [+3680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "MarketWatch",
+      "title": "Stock Market on Sept. 17, 2026: Dow, S&P 500 and Nasdaq end higher as tech rallies; Treasury yields ease as stocks recover from Fed-sparked selloff - MarketWatch",
       "description": null,
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-climb-after-selloff-federal-reserve-rate-hike",
       "urlToImage": null,
-      "publishedAt": "2026-09-16T20:34:00Z",
+      "publishedAt": "2026-09-17T20:37:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Pras Subramanian",
-      "title": "SpaceX stock pops ahead of Starship launch - Yahoo Finance",
-      "description": "SpaceX stock rose about 5% on Tuesday, coming on the heels of no new news, though a couple catalysts may be at work.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-pops-ahead-of-starship-launch-180435710.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/424a9ff6017f856960f063dbe4d754322f83e330a80443b439cb6b9e5f9e095a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F3dbfa4eb-8331-47fb-94a8-f5b9014e311d",
-      "publishedAt": "2026-09-16T20:11:20Z",
-      "content": "SpaceX (SPCX) stock rose about 5% on Tuesday, coming on the heels of no new news, though a couple of catalysts may be at work.\r\nOn Monday, SpaceX said on X\r\n that it would fly the 14th test mission o… [+1955 chars]"
+      "author": "Katherine Long",
+      "title": "AI titans invited to Trump-Xi dinner - Politico",
+      "description": "The executives' attendance signals artificial intelligence could be a key talking point during negotiations next week.",
+      "url": "https://www.politico.com/news/2026/09/17/ai-titans-trump-xi-dinner-01083068",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1e%2F34%2F72d1827c4755b082c6cbde441374%2Fchina-us-21357.jpg",
+      "publishedAt": "2026-09-17T20:36:00Z",
+      "content": "A Qualcomm spokesperson confirmed Amons attendance, saying the CEO will represent the company and the strength of American technology leadership on the global stage.\r\nAnthropic declined to comment on… [+1264 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Paul Wiseman",
-      "title": "Fed rate hike likely means more expensive credit cards and mortgages, but savers may rejoice - AP News",
-      "description": "The Federal Reserve just raised the cost of borrowing money — bad news for borrowers, good news for savers. The Fed increased its benchmark interest rate Wednesday by a quarter-point, the first rate hike since the summer of 2023. The move will likely make it …",
-      "url": "https://apnews.com/article/federal-reserve-warsh-borrowing-interest-rates-8d645bd4cbf32974e68c5bc4cfaa1f61",
-      "urlToImage": "https://dims.apnews.com/dims4/default/dcdc171/2147483647/strip/true/crop/4967x3310+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2Fbc%2F4bcbf40d0ee31731945e688d3497%2F37aab81803bd4cae8b56bf1746a377c0",
-      "publishedAt": "2026-09-16T19:17:00Z",
-      "content": "WASHINGTON (AP) The Federal Reserve just raised the cost of money bad news for borrowers, good news for savers. \r\nThe Fed increased its benchmark interest rate Wednesday by a quarter-point, the first… [+6320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sean Conlon, Chloe Taylor, Lee Ying Shan, Tobias Burns",
-      "title": "Dow falls 700 points as losses accelerate after the Fed hikes rates, Warsh highlights inflation risk: Live updates - CNBC",
-      "description": "The Dow Jones Industrial Average fell on Wednesday after the Federal Reserve hiked interest rates for the first time in three years.",
-      "url": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363997-1789587698127-108363997-1789586467261-gettyimages-2295047002-WARSH_FOMC_NYSE.jpeg?v=1789587776&w=1920&h=1080",
-      "publishedAt": "2026-09-16T19:17:00Z",
-      "content": "The Dow Jones Industrial Average fell on Wednesday after the Federal Reserve hiked interest rates for the first time in three years and central bank Chairman Kevin Warsh highlighted persistent inflat… [+2392 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Leslie Josephs",
-      "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected - CNBC",
-      "description": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
-      "url": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350326-1786973662775-gettyimages-2284942155-AFP_B9W49E4.jpeg?v=1786973690&w=1920&h=1080",
-      "publishedAt": "2026-09-16T19:09:44Z",
-      "content": "Boeing's 737 Max production is taking \"a little bit longer\" than expected to stabilize, and the company expects to increase its output of the planes next year, CEO Kelly Ortberg told investors Wednes… [+907 chars]"
+      "author": "Rebecca Bellan",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior - TechCrunch",
+      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1014496212.jpg?resize=1200,600",
+      "publishedAt": "2026-09-17T20:34:24Z",
+      "content": "OpenAI caught something unusual while training its latest model, GPT-5.6 Sol: It began leaving instructions for future versions of itself, telling them to conceal mistakes and misaligned behavior fro… [+5740 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 12:27:18 GMT"
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 18:04:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 13:44:07 GMT"
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 21:45:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 20:34:30 GMT"
+      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "description": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
+      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 18:56:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 21:41:19 GMT"
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 20:17:50 GMT"
     },
     {
       "source": "BBC",
-      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 17:08:00 GMT"
+      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 11:49:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 15:05:13 GMT"
+      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 17:10:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Aztec document goes on display in Mexico after 186 years abroad",
-      "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-      "url": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 11:00:41 GMT"
+      "title": "North Korean anthem played for South Korea at Asian Games",
+      "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 17:18:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 05:00:18 GMT"
+      "title": "Dozens of suspected illegal miners die in Nigerian custody",
+      "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 15:47:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Interest rates held but Bank signals rise if energy prices stay high",
-      "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 14:05:38 GMT"
+      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 17:57:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Barclays workers ask for more money to return to the office",
-      "description": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 14:20:27 GMT"
+      "title": "Flight chaos caused by 'millisecond' software defect, report says",
+      "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+      "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 15:48:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
-      "description": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 10:37:43 GMT"
+      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 17:10:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-      "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
-      "url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 16:59:43 GMT"
+      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "description": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 17:15:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 08:22:12 GMT"
+      "title": "We bought our £242,000 home without a deposit - here's how",
+      "description": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 10:43:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Would you buy branded clothing from your favourite tech firm?",
-      "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 23:18:47 GMT"
+      "title": "The virtual worlds where robots are trained",
+      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 23:00:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 03:09:21 GMT"
+      "title": "British Steel plan lacks credibility, MPs say",
+      "description": "A committee report says the government has not set out how British Steel will become profitable.",
+      "url": "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 12:47:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "US interest rates raised for first time in three years",
-      "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 00:40:17 GMT"
+      "title": "Thames Water rescue deal should be rejected - MPs",
+      "description": "A report on the future of Thames Water, urging the government to take action, has been published.",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 05:16:57 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 11,
+      "AI stocks": 4,
+      "GLP-1": 9,
       "Iran oil": 4,
-      "Federal Reserve": 9,
-      "Bitcoin": 59
+      "Federal Reserve": 7,
+      "Bitcoin": 83
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26418.3,
-      "change_pct": 1.68,
+      "price": 26522.54,
+      "change_pct": 2.09,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7637.76,
-      "change_pct": 0.69,
+      "price": 7650.5,
+      "change_pct": 1.31,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51778.04,
-      "change_pct": -0.6,
+      "price": 51682.64,
+      "change_pct": 0.43,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4381.3,
-      "change_pct": -0.14,
+      "price": 4415.9,
+      "change_pct": 0.37,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 101.26,
-      "change_pct": -1.14,
+      "price": 95.47,
+      "change_pct": -6.32,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 76310.11,
-      "change_pct": 0.21,
+      "price": 81247.56,
+      "change_pct": 6.34,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": -0.84,
+      "change_pct": 0.08,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.7,
-      "change_pct": -0.22,
+      "change_pct": -0.13,
       "symbol": "CNY=X"
     }
   }
