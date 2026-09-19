@@ -1,130 +1,130 @@
 {
-  "date": "2026年09月19日",
-  "date_iso": "2026-09-19",
-  "generated_at": "2026-09-19T06:12:46.163896+08:00",
+  "date": "2026年09月20日",
+  "date_iso": "2026-09-20",
+  "generated_at": "2026-09-20T06:04:21.796187+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Jeff Perez",
-      "title": "GM Gives Us All The Details On Its New V8s: More Power, Better Towing - motor1.com",
-      "description": "GM’s new V8s are bigger and more powerful than before, with the 6.6-liter making 481 horsepower and the 5.7-liter towing up to 13,700 pounds.",
-      "url": "https://www.motor1.com/news/808674/gm-new-v8-engine-details-specs/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/G3bB3q/s1/gm-new-v8-engines.jpg",
-      "publishedAt": "2026-09-17T22:31:15Z",
-      "content": "General Motors has finally pulled the cover off its two new V8 engines for its next-generation full-size pickups. The 2027 Chevrolet Silverado 1500 and GMC Sierra 1500 will get two versions of GM's s… [+3324 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Sophia Compton",
-      "title": "Major airlines cut flights as higher jet fuel prices hit carriers - Fox Business",
-      "description": "Executives at American, United and Southwest said higher fuel costs are squeezing airlines, though resilient travel demand has helped offset some of the pressure.",
-      "url": "https://www.foxbusiness.com/markets/major-airlines-cut-flights-higher-jet-fuel-prices-hit-carriers",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/United-Airlines-787.jpg?ve=1&tl=1",
-      "publishedAt": "2026-09-17T21:10:00Z",
-      "content": "Executives from American Airlines, United Airlines and Southwest Airlines said Wednesday that higher jet fuel prices are prompting carriers to adjust capacity and closely monitor flight schedules.\r\nT… [+3680 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "MarketWatch"
       },
-      "author": "MarketWatch",
-      "title": "Stock Market on Sept. 17, 2026: Dow, S&P 500 and Nasdaq end higher as tech rallies; Treasury yields ease as stocks recover from Fed-sparked selloff - MarketWatch",
-      "description": null,
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-climb-after-selloff-federal-reserve-rate-hike",
-      "urlToImage": null,
-      "publishedAt": "2026-09-17T20:37:00Z",
+      "author": "Christine Idzelis, Tomi Kilgore, Steve Goldstein, Nora Redmond",
+      "title": "Stock Market Today: S&P 500, Nasdaq turn modestly higher, Dow remains down as 10-year Treasury yield rises to 5% and oil prices hold at $100 a barrel - MarketWatch",
+      "description": "The U.S. stock market ended Friday with the S&P 500 and Nasdaq each posting modest gains. But the Dow fell, booking its worst week since March amid higher Treasury rates and elevated oil prices.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-rise-saudi-arabia-reportedly-up-capacity-pipeline",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-09-18T19:27:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "politico",
-        "name": "Politico"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Katherine Long",
-      "title": "AI titans invited to Trump-Xi dinner - Politico",
-      "description": "The executives' attendance signals artificial intelligence could be a key talking point during negotiations next week.",
-      "url": "https://www.politico.com/news/2026/09/17/ai-titans-trump-xi-dinner-01083068",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1e%2F34%2F72d1827c4755b082c6cbde441374%2Fchina-us-21357.jpg",
-      "publishedAt": "2026-09-17T20:36:00Z",
-      "content": "A Qualcomm spokesperson confirmed Amons attendance, saying the CEO will represent the company and the strength of American technology leadership on the global stage.\r\nAnthropic declined to comment on… [+1264 chars]"
+      "author": "Jeremy Hsu",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion - Ars Technica",
+      "description": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-2560x1440.jpg",
+      "publishedAt": "2026-09-18T19:20:50Z",
+      "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Investor's Business Daily"
       },
-      "author": "Rebecca Bellan",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior - TechCrunch",
-      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1014496212.jpg?resize=1200,600",
-      "publishedAt": "2026-09-17T20:34:24Z",
-      "content": "OpenAI caught something unusual while training its latest model, GPT-5.6 Sol: It began leaving instructions for future versions of itself, telling them to conceal mistakes and misaligned behavior fro… [+5740 chars]"
+      "author": null,
+      "title": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index falls Friday as oil prices reverse higher. Apple, AMD, Micron and Sandisk are key movers.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+      "publishedAt": "2026-09-18T18:58:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "George Glover",
+      "title": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds. - Barron's",
+      "description": "Bitcoin price has shown its resilience, rallying despite two potential setbacks.",
+      "url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
+      "urlToImage": "https://images.barrons.com/im-01596420/social",
+      "publishedAt": "2026-09-18T18:32:00Z",
+      "content": "Palantir, AT&amp;T, and Spotify have lagged the market in 2026, but UBS rates each of the stocks as strong buys."
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jon Brodkin",
+      "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar - Ars Technica",
+      "description": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
+      "publishedAt": "2026-09-18T17:57:41Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 18:04:38 GMT"
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 11:36:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 21:45:19 GMT"
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 20:16:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "description": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
-      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 18:56:17 GMT"
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 19:13:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 20:17:50 GMT"
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 14:05:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 11:49:46 GMT"
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 21:01:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-      "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 17:10:58 GMT"
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 13:39:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 17:18:09 GMT"
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 22:05:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 15:47:28 GMT"
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 23:04:41 GMT"
     },
     {
       "source": "BBC",
@@ -186,11 +186,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 4,
-      "GLP-1": 9,
-      "Iran oil": 4,
-      "Federal Reserve": 7,
-      "Bitcoin": 83
+      "AI stocks": 5,
+      "GLP-1": 17,
+      "Iran oil": 14,
+      "Federal Reserve": 20,
+      "Bitcoin": 100
     },
     "trending_searches": []
   },
@@ -211,28 +211,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4415.9,
-      "change_pct": 0.37,
+      "price": 4424.9,
+      "change_pct": 0.57,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 95.47,
-      "change_pct": -6.32,
+      "price": 96.08,
+      "change_pct": -5.72,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 81247.56,
-      "change_pct": 6.34,
+      "price": 80957.92,
+      "change_pct": 0.07,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.08,
+      "change_pct": 0.07,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.7,
-      "change_pct": -0.13,
+      "price": 6.69,
+      "change_pct": -0.26,
       "symbol": "CNY=X"
     }
   }
