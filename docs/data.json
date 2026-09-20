@@ -1,95 +1,123 @@
 {
-  "date": "2026年09月20日",
-  "date_iso": "2026-09-20",
-  "generated_at": "2026-09-20T06:04:21.796187+08:00",
+  "date": "2026年09月21日",
+  "date_iso": "2026-09-21",
+  "generated_at": "2026-09-21T06:08:18.993851+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "MarketWatch"
+        "id": "axios",
+        "name": "Axios"
       },
-      "author": "Christine Idzelis, Tomi Kilgore, Steve Goldstein, Nora Redmond",
-      "title": "Stock Market Today: S&P 500, Nasdaq turn modestly higher, Dow remains down as 10-year Treasury yield rises to 5% and oil prices hold at $100 a barrel - MarketWatch",
-      "description": "The U.S. stock market ended Friday with the S&P 500 and Nasdaq each posting modest gains. But the Dow fell, booking its worst week since March amid higher Treasury rates and elevated oil prices.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-rise-saudi-arabia-reportedly-up-capacity-pipeline",
-      "urlToImage": "https://images.mktw.net/im-51746529/social",
-      "publishedAt": "2026-09-18T19:27:00Z",
+      "author": "Ben Berkowitz",
+      "title": "Anthropic tops $100 billion revenue pace, report says - Axios",
+      "description": "The company is reportedly on track for an IPO this year.",
+      "url": "https://www.axios.com/2026/09/18/anthropic-100-billion-revenue",
+      "urlToImage": "https://images.axios.com/LdiOyHlUbOUB2_nsLWrEzukKR2g=/0x152:4000x2402/1366x768/2026/09/18/1789770567187.jpeg",
+      "publishedAt": "2026-09-19T21:41:50Z",
+      "content": "The big picture: Anthropic didn't exist six years ago.\r\n<ul><li>By the end of this year it could be one of America's 50 largest companies by revenue and ten largest by market capitalization. </li><li… [+562 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba",
+      "urlToImage": null,
+      "publishedAt": "2026-09-19T20:53:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Jeremy Hsu",
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion - Ars Technica",
-      "description": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-2560x1440.jpg",
-      "publishedAt": "2026-09-18T19:20:50Z",
-      "content": null
+      "author": "Jason Ma",
+      "title": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune",
+      "description": "\"If interest begets debt, and debt begets interest, eventually debt will spin out of control. A fiscal crisis, once unthinkable, is now a distinct possibility.\"",
+      "url": "https://fortune.com/2026/09/19/treasury-yields-cbo-forecasts-us-debt-interest-costs-deficits/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295424378-e1789842889208.jpg?resize=1200,600",
+      "publishedAt": "2026-09-19T19:31:00Z",
+      "content": "The 10-year Treasury yield topped 5% this past week, hitting the highest level since 2007 and blowing way past forecasts for borrowing costs over the next decade.According to the Congressional Budget… [+3702 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": null,
-      "title": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index falls Friday as oil prices reverse higher. Apple, AMD, Micron and Sandisk are key movers.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
-      "publishedAt": "2026-09-18T18:58:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Anthony Ha",
+      "title": "Google’s Gemini is the latest AI model to hack other companies - TechCrunch",
+      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "publishedAt": "2026-09-19T17:30:00Z",
+      "content": "Googles Gemini accessed the protected systems of three other companies in what The Wall Street Journal reports were the AI models first autonomous hacks.\r\nSimilar to OpenAIs breach of Hugging Face, t… [+982 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "George Glover",
-      "title": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds. - Barron's",
-      "description": "Bitcoin price has shown its resilience, rallying despite two potential setbacks.",
-      "url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
-      "urlToImage": "https://images.barrons.com/im-01596420/social",
-      "publishedAt": "2026-09-18T18:32:00Z",
-      "content": "Palantir, AT&amp;T, and Spotify have lagged the market in 2026, but UBS rates each of the stocks as strong buys."
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jon Brodkin",
-      "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar - Ars Technica",
-      "description": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
-      "publishedAt": "2026-09-18T17:57:41Z",
-      "content": null
+      "author": "Kaitlyn Huamani",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
+      "description": "A new lawsuit claims that Anthropic, OpenAI, SpaceXAI and Google illegally agreed to slow their AI development. Filed Friday in the U.S. District Court for the Northern District of California, the suit argues that this coordination violates antitrust laws and…",
+      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1d6c313/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2Fa3%2Ffe28d00714c2188b5c28ecb88366%2Fcaa7ccddb1e84a408b718cebb5126263",
+      "publishedAt": "2026-09-19T16:32:00Z",
+      "content": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development. \r\nThe lawsuit, which was filed Friday in the U.S. District Court … [+3691 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 11:36:55 GMT"
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 20:21:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 04:49:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
+      "description": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 16:36:43 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "description": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 21:17:22 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "description": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 19:04:11 GMT"
     },
     {
       "source": "BBC",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 20:16:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 19:13:49 GMT"
+      "publishedAt": "Sat, 19 Sep 2026 23:49:26 GMT"
     },
     {
       "source": "BBC",
@@ -100,10 +128,45 @@
     },
     {
       "source": "BBC",
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 21:01:56 GMT"
+      "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
+      "description": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 11:22:21 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+      "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+      "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 14:42:42 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 23:01:57 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Chiltern Railways renationalised after 30 years",
+      "description": "It joins Great British Railways as part of government plans to save money and improve services.",
+      "url": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
+      "description": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 14:05:15 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Billionaire Man United owner says he has lost confidence in the UK",
+      "description": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 23:06:16 GMT"
     },
     {
       "source": "BBC",
@@ -114,83 +177,20 @@
     },
     {
       "source": "BBC",
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 22:05:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
-      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 23:04:41 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
       "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 18 Sep 2026 17:57:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Flight chaos caused by 'millisecond' software defect, report says",
-      "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-      "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 15:48:58 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-      "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 17:10:58 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "description": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 17:15:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "We bought our £242,000 home without a deposit - here's how",
-      "description": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 10:43:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "The virtual worlds where robots are trained",
-      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 23:00:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "British Steel plan lacks credibility, MPs say",
-      "description": "A committee report says the government has not set out how British Steel will become profitable.",
-      "url": "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 12:47:15 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Thames Water rescue deal should be rejected - MPs",
-      "description": "A report on the future of Thames Water, urging the government to take action, has been published.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 05:16:57 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 5,
-      "GLP-1": 17,
-      "Iran oil": 14,
-      "Federal Reserve": 20,
-      "Bitcoin": 100
+      "AI stocks": 8,
+      "GLP-1": 20,
+      "Iran oil": 20,
+      "Federal Reserve": 23,
+      "Bitcoin": 93
     },
     "trending_searches": []
   },
@@ -212,17 +212,17 @@
     },
     "黃金": {
       "price": 4424.9,
-      "change_pct": 0.57,
+      "change_pct": 0.0,
       "symbol": "GC=F"
     },
     "WTI 原油": {
       "price": 96.08,
-      "change_pct": -5.72,
+      "change_pct": -4.21,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 80957.92,
-      "change_pct": 0.07,
+      "price": 81024.99,
+      "change_pct": -0.26,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
