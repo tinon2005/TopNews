@@ -1,46 +1,46 @@
 {
-  "date": "2026年09月21日",
-  "date_iso": "2026-09-21",
-  "generated_at": "2026-09-21T06:08:18.993851+08:00",
+  "date": "2026年09月22日",
+  "date_iso": "2026-09-22",
+  "generated_at": "2026-09-22T06:57:58.504607+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "Ben Berkowitz",
-      "title": "Anthropic tops $100 billion revenue pace, report says - Axios",
-      "description": "The company is reportedly on track for an IPO this year.",
-      "url": "https://www.axios.com/2026/09/18/anthropic-100-billion-revenue",
-      "urlToImage": "https://images.axios.com/LdiOyHlUbOUB2_nsLWrEzukKR2g=/0x152:4000x2402/1366x768/2026/09/18/1789770567187.jpeg",
-      "publishedAt": "2026-09-19T21:41:50Z",
-      "content": "The big picture: Anthropic didn't exist six years ago.\r\n<ul><li>By the end of this year it could be one of America's 50 largest companies by revenue and ten largest by market capitalization. </li><li… [+562 chars]"
+      "author": "Nina Joudeh",
+      "title": "California flight attendants erupt as ‘illegal’ new FAA plan announced - New York Post",
+      "description": "The Federal Aviation Administration wants to exempt pilots and flight attendants from state meal-break laws, arguing that federal airline rules override local requirements.",
+      "url": "https://nypost.com/2026/09/20/us-news/california-flight-attendants-erupt-as-illegal-new-faa-plan-announced/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141874965.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-20T20:23:00Z",
+      "content": "California flight attendants are up in arms over a new Federal Aviation Administration plan that could strip them of their state-mandated meal breaks, with unions blasting the move as plainly unlawfu… [+4036 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Supercarblondie.com"
       },
-      "author": "WSJ",
-      "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba",
-      "urlToImage": null,
-      "publishedAt": "2026-09-19T20:53:00Z",
-      "content": null
+      "author": "Ben Thompson",
+      "title": "US man who installed solar film onto roof of his Tesla Model 3 shares how useful they've been one month in - supercarblondie.com",
+      "description": "This American man installed solar film on the roof of his Tesla Model 3 and gave his verdict on whether they'd been useful after a month",
+      "url": "https://supercarblondie.com/solar-film-tesla-model-3-review/",
+      "urlToImage": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Tesla-solar-film-featured.webp",
+      "publishedAt": "2026-09-20T20:09:00Z",
+      "content": "An American man who installed solar film onto the roof of his Tesla Model 3 gave an update after one month.\r\nAs his channel name suggests, YouTuber Mostly Offgrid is looking to reduce his dependency … [+3974 chars]"
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Jason Ma",
-      "title": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune",
-      "description": "\"If interest begets debt, and debt begets interest, eventually debt will spin out of control. A fiscal crisis, once unthinkable, is now a distinct possibility.\"",
-      "url": "https://fortune.com/2026/09/19/treasury-yields-cbo-forecasts-us-debt-interest-costs-deficits/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295424378-e1789842889208.jpg?resize=1200,600",
-      "publishedAt": "2026-09-19T19:31:00Z",
-      "content": "The 10-year Treasury yield topped 5% this past week, hitting the highest level since 2007 and blowing way past forecasts for borrowing costs over the next decade.According to the Congressional Budget… [+3702 chars]"
+      "author": null,
+      "title": "Mom gives birth in KFC parking lot and gives newborn fitting fast-food nickname - Fox News",
+      "description": "Katie Murphy delivered baby Cody in a Kentucky Fried Chicken parking lot in Bromsgrove, Worcestershire, England, earning him the name Colonel Cody.",
+      "url": "https://www.foxnews.com/food-drink/mom-gives-birth-kfc-parking-lot-newborn-fitting-fast-food-nickname",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/katie-murphy-gives-birth-kfc-bromsgrove.png",
+      "publishedAt": "2026-09-20T20:07:46Z",
+      "content": "A mother had a unique labor and delivery experience on Aug. 29, giving birth to her baby boy in the parking lot of a KFC restaurant in Bromsgrove, a town in Worcestershire, England.\r\nKatie Murphy, 33… [+2176 chars]"
     },
     {
       "source": {
@@ -48,191 +48,204 @@
         "name": "TechCrunch"
       },
       "author": "Anthony Ha",
-      "title": "Google’s Gemini is the latest AI model to hack other companies - TechCrunch",
-      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "publishedAt": "2026-09-19T17:30:00Z",
-      "content": "Googles Gemini accessed the protected systems of three other companies in what The Wall Street Journal reports were the AI models first autonomous hacks.\r\nSimilar to OpenAIs breach of Hugging Face, t… [+982 chars]"
+      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio - techcrunch.com",
+      "description": "Many of The Boring Company's announced project have not materialized.",
+      "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+      "publishedAt": "2026-09-20T19:38:48Z",
+      "content": "Elon Musk recently claimed that his tunneling startup The Boring Company is working on a simple precursor Hyperloop between Austin and San Antonio that will reduce the journey between the two cities … [+1035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": null,
+      "title": "Man jumps overboard from Carnival cruise ship headed to Long Beach - KTLA",
+      "description": null,
+      "url": "https://ktla.com/news/local-news/man-jumps-overboard-from-carnival-cruise-ship-headed-to-long-beach/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-20T19:32:42Z",
+      "content": null
     },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "Kaitlyn Huamani",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-      "description": "A new lawsuit claims that Anthropic, OpenAI, SpaceXAI and Google illegally agreed to slow their AI development. Filed Friday in the U.S. District Court for the Northern District of California, the suit argues that this coordination violates antitrust laws and…",
-      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1d6c313/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2Fa3%2Ffe28d00714c2188b5c28ecb88366%2Fcaa7ccddb1e84a408b718cebb5126263",
-      "publishedAt": "2026-09-19T16:32:00Z",
-      "content": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development. \r\nThe lawsuit, which was filed Friday in the U.S. District Court … [+3691 chars]"
+      "author": "Christopher Rugaber",
+      "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News",
+      "description": "President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when it comes to longer-term borrowing costs, economists say. The economy is grow…",
+      "url": "https://apnews.com/article/federal-reserve-interest-rates-inflation-a633de46f84a3487f3bdc03f788188fa",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c61be33/2147483647/strip/true/crop/7796x5195+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F52%2Fad960f499fc601b9aa6141f411d5%2Fac7bb56a5e484304a5ff4a9513f04f68",
+      "publishedAt": "2026-09-20T13:45:00Z",
+      "content": "WASHINGTON (AP) President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when … [+4706 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 20:21:40 GMT"
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 14:14:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT"
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 22:48:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 04:49:11 GMT"
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 16:54:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump says triumphal arch will be military complex with drones and snipers",
-      "description": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 16:36:43 GMT"
+      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 17:48:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-      "description": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 21:17:22 GMT"
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 20:26:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "description": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
-      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 19:04:11 GMT"
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+      "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 00:05:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 23:49:26 GMT"
+      "title": "Xhaka under investigation over Covid-19 certificate",
+      "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 15:24:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Converse pulls 'deeply upsetting' advert after backlash",
-      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
-      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 14:05:01 GMT"
+      "title": "Seven Ethiopian rebel groups form new alliance",
+      "description": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 17:02:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-      "description": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 11:22:21 GMT"
+      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+      "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 21:34:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-      "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
-      "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 14:42:42 GMT"
+      "title": "Repeated air traffic control failures leave us in worrying territory",
+      "description": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 16:39:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Not all AI workers think the tech could kill everyone",
-      "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 23:01:57 GMT"
+      "title": "Flights at major US airports delayed after cable cut by construction workers",
+      "description": "Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 22:54:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Chiltern Railways renationalised after 30 years",
-      "description": "It joins Great British Railways as part of government plans to save money and improve services.",
-      "url": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT"
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+      "description": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 20:21:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
-      "description": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 14:05:15 GMT"
+      "title": "What are my rights if my flight is cancelled or delayed?",
+      "description": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
+      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 10:28:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Billionaire Man United owner says he has lost confidence in the UK",
-      "description": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 23:06:16 GMT"
+      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+      "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 04:00:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 13:39:32 GMT"
+      "title": "Tories pledge to bring back tax-free shopping for tourists",
+      "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 10:37:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 17:57:30 GMT"
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 05:50:56 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 8,
-      "GLP-1": 20,
-      "Iran oil": 20,
-      "Federal Reserve": 23,
-      "Bitcoin": 93
+      "AI stocks": 5,
+      "GLP-1": 19,
+      "Iran oil": 5,
+      "Federal Reserve": 10,
+      "Bitcoin": 83
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26522.54,
-      "change_pct": 2.09,
+      "price": 27122.09,
+      "change_pct": 2.66,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7650.5,
-      "change_pct": 1.31,
+      "price": 7764.7,
+      "change_pct": 1.66,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51682.64,
-      "change_pct": 0.43,
+      "price": 52048.83,
+      "change_pct": 0.52,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4424.9,
-      "change_pct": 0.0,
+      "price": 4394.9,
+      "change_pct": 0.25,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 96.08,
-      "change_pct": -4.21,
+      "price": 92.07,
+      "change_pct": -0.32,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 81024.99,
-      "change_pct": -0.26,
+      "price": 86351.67,
+      "change_pct": 6.42,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.07,
+      "change_pct": 0.1,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.69,
-      "change_pct": -0.26,
+      "price": 6.68,
+      "change_pct": -0.34,
       "symbol": "CNY=X"
     }
   }
