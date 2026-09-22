@@ -1,33 +1,59 @@
 {
-  "date": "2026年09月22日",
-  "date_iso": "2026-09-22",
-  "generated_at": "2026-09-22T06:57:58.504607+08:00",
+  "date": "2026年09月23日",
+  "date_iso": "2026-09-23",
+  "generated_at": "2026-09-23T06:40:27.397424+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "MarketWatch"
       },
-      "author": "Nina Joudeh",
-      "title": "California flight attendants erupt as ‘illegal’ new FAA plan announced - New York Post",
-      "description": "The Federal Aviation Administration wants to exempt pilots and flight attendants from state meal-break laws, arguing that federal airline rules override local requirements.",
-      "url": "https://nypost.com/2026/09/20/us-news/california-flight-attendants-erupt-as-illegal-new-faa-plan-announced/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141874965.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-20T20:23:00Z",
-      "content": "California flight attendants are up in arms over a new Federal Aviation Administration plan that could strip them of their state-mandated meal breaks, with unions blasting the move as plainly unlawfu… [+4036 chars]"
+      "author": "Tomi Kilgore, Nora Redmond, Steve Goldstein",
+      "title": "Stock Market Today: Nasdaq ends at a record high; S&P 500 not far behind as falling oil prices fuel a stock rally - MarketWatch",
+      "description": "The Nasdaq Composite logged a record close and the S&P 500 ended not far behind, boosted by a resurgence in mega-capitalization tech stocks and falling oil prices.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-us-statement-shipments-strait-of-hormuz",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-09-21T20:13:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Supercarblondie.com"
+        "name": "Fox Business"
       },
-      "author": "Ben Thompson",
-      "title": "US man who installed solar film onto roof of his Tesla Model 3 shares how useful they've been one month in - supercarblondie.com",
-      "description": "This American man installed solar film on the roof of his Tesla Model 3 and gave his verdict on whether they'd been useful after a month",
-      "url": "https://supercarblondie.com/solar-film-tesla-model-3-review/",
-      "urlToImage": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Tesla-solar-film-featured.webp",
-      "publishedAt": "2026-09-20T20:09:00Z",
-      "content": "An American man who installed solar film onto the roof of his Tesla Model 3 gave an update after one month.\r\nAs his channel name suggests, YouTuber Mostly Offgrid is looking to reduce his dependency … [+3974 chars]"
+      "author": "Stephen Sorace, Sophia Compton",
+      "title": "FAA grounds flights at major Northeast airports after fiber line cut - Fox Business",
+      "description": "An Amtrak construction crew accidentally cut a fiber-optic line, disrupting flights at Newark Liberty, JFK, LaGuardia and other Northeast airports.",
+      "url": "https://www.foxbusiness.com/economy/faa-grounds-flights-major-northeast-airports-fiber-line-cut",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/Philadelphia-International-Airport.jpg?ve=1&tl=1",
+      "publishedAt": "2026-09-21T20:03:00Z",
+      "content": "An Amtrak construction crew accidentally cut a fiber-optic line in New Jersey, triggering a telecommunications outage that forced the Federal Aviation Administration (FAA) to pause flights across par… [+2909 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Dee-Ann Durbin",
+      "title": "Operator of 314 Wendy’s locations in the US files for bankruptcy protection - AP News",
+      "description": "One of the largest U.S. franchisees for Wendy’s has filed for bankruptcy protection after the restaurant chain tried to terminate its franchise agreement. Meritage Hospitality Group, which operates 314 Wendy’s restaurants in 15 states, said in a statement las…",
+      "url": "https://apnews.com/article/wendys-franchisee-bankruptcy-meritage-5404c2e8e18e2fde34d7369e727408e5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/62c0f4f/2147483647/strip/true/crop/5397x3596+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2Fb5%2Ff069943253ab69eacfc463a18c18%2F59c2d445c4d4407c98a9475ac0053984",
+      "publishedAt": "2026-09-21T19:51:00Z",
+      "content": "One of the largest U.S. franchisees for Wendys has filed for bankruptcy protection after the restaurant chain tried to terminate its franchise agreement.\r\nMeritage Hospitality Group, which operates 3… [+2116 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch - TechCrunch",
+      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "publishedAt": "2026-09-21T19:19:21Z",
+      "content": "Meta’s latest AI app, Muse, could be the social giant’s next major hit, new data suggests. According to just- released estimates from market intelligence provider Apptopia, Muse’s app on mobile devic… [+3249 chars]"
     },
     {
       "source": {
@@ -35,217 +61,178 @@
         "name": "Fox News"
       },
       "author": null,
-      "title": "Mom gives birth in KFC parking lot and gives newborn fitting fast-food nickname - Fox News",
-      "description": "Katie Murphy delivered baby Cody in a Kentucky Fried Chicken parking lot in Bromsgrove, Worcestershire, England, earning him the name Colonel Cody.",
-      "url": "https://www.foxnews.com/food-drink/mom-gives-birth-kfc-parking-lot-newborn-fitting-fast-food-nickname",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/katie-murphy-gives-birth-kfc-bromsgrove.png",
-      "publishedAt": "2026-09-20T20:07:46Z",
-      "content": "A mother had a unique labor and delivery experience on Aug. 29, giving birth to her baby boy in the parking lot of a KFC restaurant in Bromsgrove, a town in Worcestershire, England.\r\nKatie Murphy, 33… [+2176 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio - techcrunch.com",
-      "description": "Many of The Boring Company's announced project have not materialized.",
-      "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-      "publishedAt": "2026-09-20T19:38:48Z",
-      "content": "Elon Musk recently claimed that his tunneling startup The Boring Company is working on a simple precursor Hyperloop between Austin and San Antonio that will reduce the journey between the two cities … [+1035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "author": null,
-      "title": "Man jumps overboard from Carnival cruise ship headed to Long Beach - KTLA",
-      "description": null,
-      "url": "https://ktla.com/news/local-news/man-jumps-overboard-from-carnival-cruise-ship-headed-to-long-beach/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T19:32:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Christopher Rugaber",
-      "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News",
-      "description": "President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when it comes to longer-term borrowing costs, economists say. The economy is grow…",
-      "url": "https://apnews.com/article/federal-reserve-interest-rates-inflation-a633de46f84a3487f3bdc03f788188fa",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c61be33/2147483647/strip/true/crop/7796x5195+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F52%2Fad960f499fc601b9aa6141f411d5%2Fac7bb56a5e484304a5ff4a9513f04f68",
-      "publishedAt": "2026-09-20T13:45:00Z",
-      "content": "WASHINGTON (AP) President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when … [+4706 chars]"
+      "title": "Frightening object caught by TSA inside passenger's baseball bat-shaped flashlight - Fox News",
+      "description": "A concealed knife hidden inside a baseball bat-shaped flashlight was found sewn into a bag's lining at Tampa International Airport in Florida by TSA officers. An expert shares analysis.",
+      "url": "https://www.foxnews.com/travel/frightening-object-caught-tsa-inside-passengers-baseball-bat-shaped-flashlight",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/baseball-bat-discovery-tsa.jpg",
+      "publishedAt": "2026-09-21T19:04:16Z",
+      "content": "A passenger's attempt to bring an unusual item through airport security in Florida quickly caught the attention of highly trained Transportation Security Administration (TSA) officers.\r\nAt Tampa Inte… [+2950 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 14:14:16 GMT"
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+      "description": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 21:50:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 22:48:33 GMT"
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 06:03:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 16:54:56 GMT"
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 21:36:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "First UK charges brought over 1994 Rwanda genocide",
-      "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 17:48:23 GMT"
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 20:59:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 20:26:41 GMT"
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 19:47:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 00:05:11 GMT"
+      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 12:54:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "Xhaka under investigation over Covid-19 certificate",
-      "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 15:24:51 GMT"
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 19:06:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Seven Ethiopian rebel groups form new alliance",
-      "description": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 17:02:47 GMT"
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 13:58:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-      "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 21:34:32 GMT"
+      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+      "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 15:43:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "Repeated air traffic control failures leave us in worrying territory",
-      "description": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 16:39:01 GMT"
+      "title": "Trump says he would back ban on diesel exports",
+      "description": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 20:41:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Flights at major US airports delayed after cable cut by construction workers",
-      "description": "Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 22:54:49 GMT"
+      "title": "New EU industry rules would damage UK, warns Burnham",
+      "description": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 21:18:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-      "description": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 20:21:18 GMT"
+      "title": "'We screwed up': Doordash admits underpaying New York workers",
+      "description": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 16:50:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "What are my rights if my flight is cancelled or delayed?",
-      "description": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
-      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 10:28:17 GMT"
+      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+      "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 08:52:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 04:00:38 GMT"
+      "title": "Spain battles climate change on several fronts",
+      "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 09:11:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tories pledge to bring back tax-free shopping for tourists",
-      "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 10:37:23 GMT"
+      "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+      "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+      "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 16:50:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 05:50:56 GMT"
+      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+      "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+      "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 23:01:26 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 5,
-      "GLP-1": 19,
-      "Iran oil": 5,
-      "Federal Reserve": 10,
-      "Bitcoin": 83
+      "AI stocks": 2,
+      "GLP-1": 6,
+      "Iran oil": 2,
+      "Federal Reserve": 3,
+      "Bitcoin": 43
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 27122.09,
-      "change_pct": 2.66,
+      "price": 27244.28,
+      "change_pct": 2.72,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7764.7,
-      "change_pct": 1.66,
+      "price": 7764.64,
+      "change_pct": 1.49,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52048.83,
-      "change_pct": 0.52,
+      "price": 51863.69,
+      "change_pct": 0.35,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4394.9,
-      "change_pct": 0.25,
+      "price": 4401.6,
+      "change_pct": 0.4,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 92.07,
-      "change_pct": -0.32,
+      "price": 89.68,
+      "change_pct": -6.37,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 86351.67,
-      "change_pct": 6.42,
+      "price": 86225.23,
+      "change_pct": -0.44,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.34,
-      "change_pct": 0.1,
+      "price": 1.33,
+      "change_pct": -0.33,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.68,
-      "change_pct": -0.34,
+      "price": 6.7,
+      "change_pct": 0.02,
       "symbol": "CNY=X"
     }
   }
