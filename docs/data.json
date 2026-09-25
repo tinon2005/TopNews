@@ -1,7 +1,7 @@
 {
-  "date": "2026年09月25日",
-  "date_iso": "2026-09-25",
-  "generated_at": "2026-09-25T06:58:00.321744+08:00",
+  "date": "2026年09月26日",
+  "date_iso": "2026-09-26",
+  "generated_at": "2026-09-26T07:01:42.604538+08:00",
   "newsapi": [
     {
       "source": {
@@ -9,204 +9,230 @@
         "name": "NBC News"
       },
       "author": "Steve Kopack",
-      "title": "Treasury yields surge to near 20-year high as oil jumps back above $102 per barrel - NBC News",
-      "description": "The yields on U.S. Treasury bonds surged Wednesday as oil prices  also climbed.",
-      "url": "https://www.nbcnews.com/business/energy/treasury-yields-oil-stocks-rcna599398",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260515-U-e08d64.jpg",
-      "publishedAt": "2026-09-23T20:28:38Z",
-      "content": "The yields on U.S. Treasury bonds jumped Wednesday and oil prices rose, sending stocks tumbling as investors braced for the prospect of future Fed rate hikes.\r\nThe yield on the 10-year Treasury bond,… [+4683 chars]"
+      "title": "Bond yields surge to fresh two-decade highs but oil prices buffeted by Iran headlines - NBC News",
+      "description": "Key U.S. Treasury yields surged to fresh two-decade highs Thursday, as the price of oil returned to $105 per barrel.",
+      "url": "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-truck-gas-station-ch-1644-79c704.jpg",
+      "publishedAt": "2026-09-24T20:13:38Z",
+      "content": "Key U.S. Treasury yields surged to fresh two-decade highs Thursday, as the price of oil jumped to as high as $108 per barrel.\r\nThe yield on the 30-year U.S. Treasury bond soared as high as 5.47%, a l… [+6216 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Frank  Andrews, Khaled  Wassef",
+      "title": "Iran War Updates: Oil prices back up as U.S. and Iran trade fresh threats to expand 7-month war - CBS News",
+      "description": "As Iran responds to Trump's threat of annihilation with its own warning of a possible \"new front\" in the war, global oil prices are rising again.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/24/7e337c61-643a-4be1-b6ea-7e44f9a6e1bf/thumbnail/1200x630/c7237f6ff0603616f9250860d32fa3e9/cape-dao-tanker-strait-of-hormuz.png",
+      "publishedAt": "2026-09-24T19:43:00Z",
+      "content": "The United Arab Emirates has suspended flights operated by Iran's airlines to comply with U.S. sanctions over the Iran war, Iran's semi-official ISNA news agency reported Thursday.\r\n\"All flights by I… [+1756 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Amy B Wang",
+      "title": "Nearly 170,000 pounds of raw meat recalled for false inspection labels - The Washington Post",
+      "description": "The affected products were produced before Sept. 22 and may have false USDA inspection labels that say “EST. 1363.”",
+      "url": "https://www.washingtonpost.com/nation/2026/09/24/nearly-170000-pounds-raw-meat-recalled-false-inspection-labels/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE5D2S5L7GOKDW7PWXAUGMZBN4_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-09-24T18:34:42Z",
+      "content": "Nearly 170,000 pounds of raw meat products are being recalled because they were falsely labeled as having gone through federal inspection, according to the U.S. Department of Agriculture.\r\nNorth Caro… [+282 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WLWT Cincinnati"
+        "name": "CNBC"
       },
-      "author": "Fletcher Keel, Emily Sanderson, Brian Hamrick",
-      "title": "Police: 9 arrested after protesters chain themselves to Kroger headquarters - wlwt.com",
-      "description": "Nine people were arrested after an animal rights protest outside Kroger's downtown headquarters resulted in a police response, police said.",
-      "url": "https://www.wlwt.com/article/kroger-cincinnati-hq-animal-rights-protest-roads-blocked/73849847",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/b2004c29-1cee-4015-ac3b-a764b96e4bef.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-09-23T19:39:00Z",
-      "content": "CINCINNATINine animal rights activists were arrested Wednesday outside Kroger's corporate headquarters in downtown Cincinnati after chaining themselves to the building during a protest demanding the … [+2554 chars]"
+      "author": "Sean Conlon, Sarah Min, Chloe Taylor, Justina Lee, Ananya Chetia",
+      "title": "S&P 500 is little changed as traders weigh rising yields against optimism over Strait of Hormuz reopening: Live updates - CNBC",
+      "description": "Treasury yields kept marching higher, with traders anticipating further rate hikes from the Federal Reserve.",
+      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108362436-1789395218757-gettyimages-2295226903-mms19273_rfosksrw.jpeg?v=1789395248&w=1920&h=1080",
+      "publishedAt": "2026-09-24T18:33:10Z",
+      "content": "The Dow Jones Industrial Average fell for a third straight session on Thursday, as Treasury yields at multidecade highs continued to weigh on the most cyclical parts of the market. \r\nThe 30-stock ind… [+2797 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Eric Revell",
-      "title": "McDonald’s to spend $8.5B on revamping restaurants, tech and franchise support - Fox Business",
-      "description": "McDonald's plans to provide $8.5 billion in franchisee support through 2036 as part of its NEXT strategy to modernize restaurants and boost growth.",
-      "url": "https://www.foxbusiness.com/markets/mcdonalds-spend-8-5b-revamping-restaurants-tech-franchise-support",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/mcdonalds-employee-customer-restaurant.jpg?ve=1&tl=1",
-      "publishedAt": "2026-09-23T18:57:00Z",
-      "content": "McDonald's on Wednesday announced new details as part of its long-term growth strategy, which will include a focus on upgrading restaurants and staff training, at an investor day at the corporate hea… [+3073 chars]"
+      "author": "Ashley Belanger",
+      "title": "New Jersey fines data center $1.1M after satellite pics expose 62 gas generators - Ars Technica",
+      "description": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DataOne-drone-image-via-Sustain-SJ-1152x648.jpg",
+      "publishedAt": "2026-09-24T18:20:58Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 21:21:47 GMT"
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 20:47:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
-      "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 17:49:20 GMT"
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 13:56:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 18:06:40 GMT"
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "description": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 15:06:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 19:02:36 GMT"
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "description": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 19:13:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 19:18:12 GMT"
+      "title": "Trump's plans for massive arch move ahead",
+      "description": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 18:27:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 19:32:59 GMT"
+      "title": "Students strike across Germany in protest against military service",
+      "description": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 15:36:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 17:55:44 GMT"
+      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "description": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 13:23:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 15:37:45 GMT"
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 03:57:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Reported assaults on Britain's rail services rise by more than a third",
-      "description": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 15:38:50 GMT"
+      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+      "description": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+      "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 16:00:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "£170 a bag? Protein users squeezed as prices soar",
-      "description": "Consumers are feeling the pinch from the rising cost of protein.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 23:12:01 GMT"
+      "title": "Man City found guilty of breaking financial rules",
+      "description": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 20:11:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 00:50:24 GMT"
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 09:48:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 18:06:40 GMT"
+      "title": "UK diesel price close to all-time high",
+      "description": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 10:50:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "How the oil capital of the US welcomed a solar power boom",
-      "description": "Texas is now the country's biggest producer of solar-farmed electricity.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 23:12:22 GMT"
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 13:56:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT"
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "description": "Where do America's X-plane projects fit in an era of cheap drones?",
+      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 23:03:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-      "description": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-      "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 21:25:01 GMT"
+      "title": "'We're all broke': Would you chase a friend for £5?",
+      "description": "What's the smallest amount of money you would ask a friend to pay you back?",
+      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 23:00:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Rolls-Royce signs 'multi-million' engine deal",
-      "description": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 10:14:47 GMT"
+      "title": "Farmers down 240 million litres of milk after heat",
+      "description": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 05:30:13 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 6,
-      "Iran oil": 3,
-      "Federal Reserve": 3,
-      "Bitcoin": 39
+      "GLP-1": 4,
+      "Iran oil": 2,
+      "Federal Reserve": 2,
+      "Bitcoin": 31
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26939.37,
-      "change_pct": 0.01,
+      "price": 27068.72,
+      "change_pct": 0.49,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7704.13,
-      "change_pct": -0.02,
+      "price": 7743.41,
+      "change_pct": 0.49,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51349.98,
-      "change_pct": -0.31,
+      "price": 51828.62,
+      "change_pct": 0.62,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4305.9,
-      "change_pct": -0.29,
+      "price": 4320.5,
+      "change_pct": 0.52,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 94.46,
-      "change_pct": 2.5,
+      "price": 92.44,
+      "change_pct": -2.29,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 84223.03,
-      "change_pct": -0.19,
+      "price": 84078.71,
+      "change_pct": -0.36,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": -0.94,
+      "change_pct": 0.03,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.7,
-      "change_pct": 0.06,
+      "price": 6.71,
+      "change_pct": 0.02,
       "symbol": "CNY=X"
     }
   }
