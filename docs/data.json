@@ -1,130 +1,158 @@
 {
-  "date": "2026年09月26日",
-  "date_iso": "2026-09-26",
-  "generated_at": "2026-09-26T07:01:42.604538+08:00",
+  "date": "2026年09月27日",
+  "date_iso": "2026-09-27",
+  "generated_at": "2026-09-27T06:19:24.528593+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Steve Kopack",
-      "title": "Bond yields surge to fresh two-decade highs but oil prices buffeted by Iran headlines - NBC News",
-      "description": "Key U.S. Treasury yields surged to fresh two-decade highs Thursday, as the price of oil returned to $105 per barrel.",
-      "url": "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-truck-gas-station-ch-1644-79c704.jpg",
-      "publishedAt": "2026-09-24T20:13:38Z",
-      "content": "Key U.S. Treasury yields surged to fresh two-decade highs Thursday, as the price of oil jumped to as high as $108 per barrel.\r\nThe yield on the 30-year U.S. Treasury bond soared as high as 5.47%, a l… [+6216 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Frank  Andrews, Khaled  Wassef",
-      "title": "Iran War Updates: Oil prices back up as U.S. and Iran trade fresh threats to expand 7-month war - CBS News",
-      "description": "As Iran responds to Trump's threat of annihilation with its own warning of a possible \"new front\" in the war, global oil prices are rising again.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/24/7e337c61-643a-4be1-b6ea-7e44f9a6e1bf/thumbnail/1200x630/c7237f6ff0603616f9250860d32fa3e9/cape-dao-tanker-strait-of-hormuz.png",
-      "publishedAt": "2026-09-24T19:43:00Z",
-      "content": "The United Arab Emirates has suspended flights operated by Iran's airlines to comply with U.S. sanctions over the Iran war, Iran's semi-official ISNA news agency reported Thursday.\r\n\"All flights by I… [+1756 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Amy B Wang",
-      "title": "Nearly 170,000 pounds of raw meat recalled for false inspection labels - The Washington Post",
-      "description": "The affected products were produced before Sept. 22 and may have false USDA inspection labels that say “EST. 1363.”",
-      "url": "https://www.washingtonpost.com/nation/2026/09/24/nearly-170000-pounds-raw-meat-recalled-false-inspection-labels/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PE5D2S5L7GOKDW7PWXAUGMZBN4_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-09-24T18:34:42Z",
-      "content": "Nearly 170,000 pounds of raw meat products are being recalled because they were falsely labeled as having gone through federal inspection, according to the U.S. Department of Agriculture.\r\nNorth Caro… [+282 chars]"
+      "author": "Ben Lefebvre, Meredith Lee Hill",
+      "title": "White House eyes diesel fuel moves that fall short of export ban - Politico",
+      "description": "No final decision has been made yet on how to lower record-high diesel prices.",
+      "url": "https://www.politico.com/news/2026/09/25/white-house-diesel-fuel-01092922",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Faf%2Fdc%2F791080cf474fa6b112c2bde3a377%2Fu-s-congress-2118.jpg",
+      "publishedAt": "2026-09-25T19:29:00Z",
+      "content": "Earlier on Friday, GOP Alabama Gov. Kay Ivey directed state law enforcement officials to halt enforcement of the dyed-diesel rules for 120 days.\r\nSuspending any federal-level taxes on fuel would requ… [+2504 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Sean Conlon, Sarah Min, Chloe Taylor, Justina Lee, Ananya Chetia",
-      "title": "S&P 500 is little changed as traders weigh rising yields against optimism over Strait of Hormuz reopening: Live updates - CNBC",
-      "description": "Treasury yields kept marching higher, with traders anticipating further rate hikes from the Federal Reserve.",
-      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108362436-1789395218757-gettyimages-2295226903-mms19273_rfosksrw.jpeg?v=1789395248&w=1920&h=1080",
-      "publishedAt": "2026-09-24T18:33:10Z",
-      "content": "The Dow Jones Industrial Average fell for a third straight session on Thursday, as Treasury yields at multidecade highs continued to weigh on the most cyclical parts of the market. \r\nThe 30-stock ind… [+2797 chars]"
+      "author": "Sean Conlon, Justina Lee, Tobias Burns",
+      "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge: Live updates - CNBC",
+      "description": "Wall Street gets set to wrap up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.",
+      "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108368166-17903510302026-09-25t154129z_1909425411_rc2dqnah6o8f_rtrmadp_0_usa-stocks.jpeg?v=1790351148&w=1920&h=1080",
+      "publishedAt": "2026-09-25T19:04:00Z",
+      "content": "U.S. equities rose on Friday as Wall Street wrapped up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.\r\nThe S&amp;P 500 climbed 0.51% to close at 7,743… [+2508 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "Ashley Belanger",
-      "title": "New Jersey fines data center $1.1M after satellite pics expose 62 gas generators - Ars Technica",
-      "description": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DataOne-drone-image-via-Sustain-SJ-1152x648.jpg",
-      "publishedAt": "2026-09-24T18:20:58Z",
-      "content": null
+      "author": "Eric Revell",
+      "title": "Costco receives $184M in tariff refunds, says most will go toward lower prices - Fox Business",
+      "description": "Costco reinvested the majority of $184 million in tariff refunds into lower prices on produce, meat, beverages, home furnishings and hardware.",
+      "url": "https://www.foxbusiness.com/markets/costco-receives-184m-tariff-refunds-says-most-go-toward-lower-prices",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/costco-nj.png?ve=1&tl=1",
+      "publishedAt": "2026-09-25T18:24:00Z",
+      "content": "Costco on Thursday said it received $184 million in tariff refunds in the company's fourth quarter, the majority of which was reinvested into lower pricing for members shopping at the retail giant's … [+2958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ben Cost",
+      "title": "Meta users are hot for ‘thicc’ new AI assistant mascot — Jolly: ‘Some of y’all way too thirsty’ - New York Post",
+      "description": "They want to get their Jollies off.",
+      "url": "https://nypost.com/2026/09/25/tech/pervy-meta-users-lust-over-thirst-trap-muse-mascot/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142481789.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-25T18:17:00Z",
+      "content": "He puts the a– in “assistant.”\r\nOnline hornballs have been lusting over Meta’s new Muse assistant after the tech firm’s AI wizards gave it a NSFW makeover.\r\nDubbed Jolly, the avatar is the default ma… [+2605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index rises Friday on U.S.-Iran peace hopes. Micron stock and Sandisk rally Friday.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-micron-sandisk/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+      "publishedAt": "2026-09-25T18:12:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 20:47:49 GMT"
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 22:15:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 13:56:16 GMT"
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "description": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 19:48:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "description": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 15:06:41 GMT"
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 12:47:25 GMT"
     },
     {
       "source": "BBC",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "description": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:13:35 GMT"
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "description": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 15:48:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump's plans for massive arch move ahead",
-      "description": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 18:27:46 GMT"
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "description": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 22:04:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Students strike across Germany in protest against military service",
-      "description": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 15:36:22 GMT"
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "description": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 19:59:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "description": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 13:23:33 GMT"
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "description": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 21:13:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 03:57:09 GMT"
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 07:21:30 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 02:50:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 10:05:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Clubs seek legal advice over Man City charges compensation",
+      "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 20:13:53 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "'We're all broke': Would you chase a friend for £5?",
+      "description": "What's the smallest amount of money you would ask a friend to pay you back?",
+      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 23:00:45 GMT"
     },
     {
       "source": "BBC",
@@ -132,13 +160,6 @@
       "description": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
       "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 25 Sep 2026 16:00:44 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Man City found guilty of breaking financial rules",
-      "description": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 20:11:12 GMT"
     },
     {
       "source": "BBC",
@@ -156,42 +177,15 @@
     },
     {
       "source": "BBC",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 13:56:16 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "X-planes: Are they needed in the new era of drones?",
       "description": "Where do America's X-plane projects fit in an era of cheap drones?",
       "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 24 Sep 2026 23:03:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'We're all broke': Would you chase a friend for £5?",
-      "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 23:00:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Farmers down 240 million litres of milk after heat",
-      "description": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-      "url": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 05:30:13 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 1,
-      "GLP-1": 4,
-      "Iran oil": 2,
-      "Federal Reserve": 2,
-      "Bitcoin": 31
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
@@ -211,18 +205,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4320.5,
-      "change_pct": 0.52,
+      "price": 4321.2,
+      "change_pct": 0.54,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 92.44,
-      "change_pct": -2.29,
+      "price": 92.41,
+      "change_pct": -2.33,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 84078.71,
-      "change_pct": -0.36,
+      "price": 84269.75,
+      "change_pct": 0.28,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
@@ -231,8 +225,8 @@
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.71,
-      "change_pct": 0.02,
+      "price": 6.7,
+      "change_pct": -0.11,
       "symbol": "CNY=X"
     }
   }
