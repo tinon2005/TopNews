@@ -1,238 +1,225 @@
 {
-  "date": "2026年09月28日",
-  "date_iso": "2026-09-28",
-  "generated_at": "2026-09-28T06:46:05.169179+08:00",
+  "date": "2026年09月29日",
+  "date_iso": "2026-09-29",
+  "generated_at": "2026-09-29T08:08:30.581089+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Amelia Lucas",
-      "title": "Trump says he approved new fuel economy standards rolling back Biden-era rules - CNBC",
-      "description": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
-      "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108236093-1764784788711-gettyimages-2249777843-_m0a1995_il9os5ws.jpeg?v=1764784809&w=1920&h=1080",
-      "publishedAt": "2026-09-26T20:50:06Z",
-      "content": "President Donald Trump on Saturday said he approved new fuel economy standards, reversing former President Joe Biden's stricter policies meant to fuel electric vehicle adoption.\r\nSince the Corporate … [+1618 chars]"
+      "author": "Justina Lee, Fred Imbert",
+      "title": "Stock futures slip after winning week on Wall Street: Live updates - CNBC",
+      "description": "The Dow eked out a 0.3% advance last week, snapping a three-week slide.",
+      "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363714-1789572211685-108363714-17895721022026-09-16t151959z_4801821_rc2dknacke3t_rtrmadp_0_usa-stocks.jpeg?v=1789572229&w=1920&h=1080",
+      "publishedAt": "2026-09-27T22:18:00Z",
+      "content": "Stock futures fell slightly on Sunday night following a winning week despite Treasury yields spiking to multiyear highs. \r\nDow Jones Industrial Average futures pulled back 97 points, or 0.2%. S&amp;P… [+2122 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Popular pantry product can't legally be called peanut butter — here's why - Fox News",
+      "description": "Skippy must add the word \"spread\" to its natural peanut butter label due to FDA regulations requiring at least 90% peanut content in every single jar.",
+      "url": "https://www.foxnews.com/food-drink/popular-pantry-product-cant-legally-called-peanut-butter-heres-why",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/spoonfull-of-peanut-butter.jpg",
+      "publishedAt": "2026-09-27T20:25:36Z",
+      "content": "Peanut butter is a spread by definition, but when the word \"spread\" appears on a peanut butter jar label, it's most likely satisfying a legal requirement rather than acting as a simple descriptor.\r\nS… [+2620 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "TheStreet"
       },
-      "author": "Leslie Josephs",
-      "title": "Boeing flags 737 Max software glitch affecting some automated approach functions - CNBC",
-      "description": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
-      "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080",
-      "publishedAt": "2026-09-26T20:30:40Z",
-      "content": "Boeing said it flagged a software glitch last month on some 737 Max aircraft that could affect certain landing procedures, as the manufacturer seeks federal approval for the fourth and final model in… [+2501 chars]"
+      "author": "thestreet.com",
+      "title": "Walmart, Aldi, and Kroger follow Costco’s lead - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/retail/walmart-aldi-and-kroger-follow-costcos-lead",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T20:17:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Elaine Mallon",
-      "title": "Alabama teens getting their own version of TikTok under sweeping $100M deal - Fox Business",
-      "description": "TikTok must disable its \"For You\" page for minors and enforce two-hour daily screen time limits under a landmark $100 million Alabama settlement.",
-      "url": "https://www.foxbusiness.com/politics/alabama-teens-getting-own-version-tiktok-under-sweeping-100m-deal",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/TikTok-app.jpg?ve=1&tl=1",
-      "publishedAt": "2026-09-26T19:58:00Z",
-      "content": "Alabama teenagers using TikTok will soon face two-hour daily limits, overnight curfews and an end to the app's customized \"For You\" page after the social media giant reached a $100 million settlement… [+3541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Sonya Gugliara",
-      "title": "Exclusive | NJ rapper raped former radio show host in Brooklyn hotel: lawsuit - New York Post",
-      "description": "Domonique Hayes, 40, claims Keyon Hart, 45, who goes by Snake IIz, ignored her repeated pleas to stop as he sexually assaulted her on July 4, 2025.",
-      "url": "https://nypost.com/2026/09/26/us-news/nj-rapper-allegedly-raped-former-radio-show-host-in-brooklyn-hotel-lawsuit/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141459600.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-26T19:56:00Z",
-      "content": "A former radio host has accused a New Jersey rapper of raping her while was she drunk and barely conscious inside a Coney Island hotel room, according to a shocking lawsuit.\r\nDomonique Hayes, 40, cla… [+3883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Titus Wu",
-      "title": "Convicted Theranos fraudster Elizabeth Holmes issues ominous threat from prison: ‘I’ll burn them’ - nypost.com",
-      "description": "The disgraced tech founder remains in a federal prison for cheating investors.",
-      "url": "https://nypost.com/2026/09/26/tech/convicted-theranos-fraudster-elizabeth-holmes-issues-ominous-threat-from-prison/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-7bphftk1z-1790450301773.jpg?quality=75&strip=all&1790435974&w=1200",
-      "publishedAt": "2026-09-26T19:21:00Z",
-      "content": "Imprisoned Theranos fraudster Elizabeth Holmes posted a cryptic threat against apparent enemies who “put my childs health and safety at risk” using fiery language and imagery in the ominous dispatch.… [+3245 chars]"
+      "author": "Anne D'Innocenzio",
+      "title": "Walmart says it's not using personal information to set prices as it expands digital shelf labels - apnews.com",
+      "description": "Walmart is aiming to assuage customers' fears about its new pricing technology as it rolls out digital price labels at its stores. In a statement posted online, Walmart Inc.’s CEO John Furner vowed that the Bentonville, Arkansas-based retailer isn’t using per…",
+      "url": "https://apnews.com/article/walmart-pricing-dynamic-pricing-1488b3614058c9452426c0e2e656f653",
+      "urlToImage": "https://dims.apnews.com/dims4/default/93ed35a/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa1%2Fc1%2F5b243123ceec4a81ff021844062f%2F62e909d0797344a8adb808d4e4f5dcdd",
+      "publishedAt": "2026-09-27T19:59:00Z",
+      "content": "NEW YORK (AP) Walmart is aiming to assuage customers fears about its new pricing technology as it rolls out digital price labels at its stores.\r\nIn a statement posted on the companys website, Walmart… [+2177 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 07:44:11 GMT"
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 21:16:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 14:09:22 GMT"
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 14:57:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 20:04:21 GMT"
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 17:26:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "description": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 21:46:53 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+      "description": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 15:39:19 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "description": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+      "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 17:15:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "description": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 20:23:12 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Four bodies found after avalanche hits Himalayan climbing group",
+      "description": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
       "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 17:05:26 GMT"
+      "publishedAt": "Mon, 28 Sep 2026 16:13:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "Four killed in helicopter crash near Montreal",
-      "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 02:43:10 GMT"
+      "title": "Burnham to unveil public body to invest in electricity grid",
+      "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 23:35:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 12:34:26 GMT"
+      "title": "Warning more homes will be uninsurable due to flood risk",
+      "description": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 23:10:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Venezuela releases dozens of political prisoners as election calls grow",
-      "description": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 15:56:25 GMT"
+      "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+      "description": "Content creation degrees aim to help people make money from their social media posts.",
+      "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 23:10:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-      "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 19:47:21 GMT"
+      "title": "UK tries to stop Trump's diesel export ban",
+      "description": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 20:39:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Andy Burnham refuses to back third runway at Heathrow",
-      "description": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
-      "url": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 11:22:32 GMT"
+      "title": "What a US diesel export ban could mean for you",
+      "description": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+      "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 18:18:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Faisal Islam: The two big decisions the chancellor must make",
-      "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-      "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 23:00:42 GMT"
+      "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+      "description": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 17:45:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 02:50:56 GMT"
+      "title": "UK diesel price hits all-time high, the RAC says",
+      "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 20:42:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Could an iced coffee freeze you out of the job market?",
-      "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-      "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 10:05:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Clubs seek legal advice over Man City charges compensation",
-      "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 20:13:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "description": "Where do America's X-plane projects fit in an era of cheap drones?",
-      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 23:03:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'We're all broke': Would you chase a friend for £5?",
-      "description": "What's the smallest amount of money you would ask a friend to pay you back?",
-      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 23:00:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Heathrow Airport warns third runway could be delayed by four years",
-      "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-      "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 16:32:42 GMT"
+      "title": "What is the Budget and what could be in it?",
+      "description": "Chancellor John Healey will set out his plans for UK taxes in October.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 17:14:16 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 1,
+      "AI stocks": 4,
       "GLP-1": 5,
       "Iran oil": 7,
-      "Federal Reserve": 3,
-      "Bitcoin": 33
+      "Federal Reserve": 4,
+      "Bitcoin": 31
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 27068.72,
-      "change_pct": 0.49,
+      "price": 26820.38,
+      "change_pct": -0.44,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7743.41,
-      "change_pct": 0.49,
+      "price": 7683.69,
+      "change_pct": -0.27,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51828.62,
-      "change_pct": 0.62,
+      "price": 51481.51,
+      "change_pct": 0.26,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4297.4,
-      "change_pct": -0.55,
+      "price": 4158.7,
+      "change_pct": -0.23,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 93.64,
-      "change_pct": 1.33,
+      "price": 93.15,
+      "change_pct": 0.59,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 84128.02,
-      "change_pct": -0.33,
+      "price": 83491.95,
+      "change_pct": 0.0,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": -0.09,
+      "change_pct": 0.14,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.7,
-      "change_pct": -0.11,
+      "price": 6.71,
+      "change_pct": -0.04,
       "symbol": "CNY=X"
     }
   }
