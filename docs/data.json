@@ -1,225 +1,238 @@
 {
-  "date": "2026年10月01日",
-  "date_iso": "2026-10-01",
-  "generated_at": "2026-10-01T07:23:46.433196+08:00",
+  "date": "2026年10月02日",
+  "date_iso": "2026-10-02",
+  "generated_at": "2026-10-02T07:38:56.070716+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Adam Levine",
+      "title": "Micron Reports Another Dazzling Earnings Quarter. The Stock Isn’t Moving. - Barron's",
+      "description": "For the fourth quarter, analysts project sales growth of 354% to $51 billion, and an eye-popping gross margin of 85%, all records for Micron.",
+      "url": "https://www.barrons.com/articles/micron-earnings-stock-price-6c25895f",
+      "urlToImage": "https://images.barrons.com/im-41036839/social",
+      "publishedAt": "2026-09-30T22:24:00Z",
+      "content": "Memory-makerMicron Technologyreported surging fourth-quarter earnings on Wednesday afternoon as its memory chips continued to benefit from the artificial-intelligence boom. Its shares are up 1.6% in … [+159 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Danielle Douglas-Gabriel",
-      "title": "Student loan borrowers get more time to enroll in autopay for a debt discount - The Washington Post",
-      "description": "Borrowers will now have until Dec. 31 instead of Sept. 30 to take advantage of a one-percentage-point discount, the Education Department said.",
-      "url": "https://www.washingtonpost.com/education/2026/09/29/student-loan-borrowers-get-more-time-enroll-autopay-debt-discount/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HJ2LBACAM4I6LMWEV5GGDA5YWQ.jpg&w=1440",
-      "publishedAt": "2026-09-29T22:09:57Z",
-      "content": "Federal student loan borrowers will have until the end of the year, instead of the end of this month, to enroll in autopay for a hefty discount on their debt, the Education Department said Tuesday.\r\n… [+359 chars]"
+      "author": "Ian Duncan",
+      "title": "FTC launches broad investigation into Anthropic, OpenAI - The Washington Post",
+      "description": "The probe reflects a focus by Trump administration officials on using existing laws to tame artificial intelligence safety risks.",
+      "url": "https://www.washingtonpost.com/technology/2026/09/30/ftc-launches-broad-investigation-into-anthropic-openai/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALRR72EG4VGPXOMNKV65SDFTMI_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-09-30T21:59:21Z",
+      "content": "The Federal Trade Commission has opened a broad investigation into the safety of artificial intelligence systems made by Anthropic and OpenAI, a senior agency official said Wednesday.\r\nThe full exten… [+244 chars]"
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Avery Lotz",
-      "title": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
-      "description": "\"OpenAI is responsible for the conduct of its agents,\" the advocacy group suing argued.",
-      "url": "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach",
-      "urlToImage": "https://images.axios.com/bMUrmZeA9VCKc2S9dJVOGkqpOsA=/0x0:1920x1080/1366x768/2026/09/08/1788898881919.jpeg",
-      "publishedAt": "2026-09-29T21:34:05Z",
-      "content": "<ul><li>The case tests an increasingly urgent question as AI agents gain power: Who bears legal responsibility when an agent blows past its guardrails and causes real-world harm?</li></ul>Driving the… [+2865 chars]"
+      "author": "Evan Halper",
+      "title": "How the U.S. got oil shipments moving and what it would take to bring prices down - The Washington Post",
+      "description": "Crude oil shipments through the Strait of Hormuz have begun to approach prewar levels. But analysts expect fuel prices to remain high.",
+      "url": "https://www.washingtonpost.com/business/2026/09/30/why-rebound-oil-shipments-isnt-bringing-big-drop-prices/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/WG4JLOMJOWF6RWOCP43KWPLLNE.JPG&w=1440",
+      "publishedAt": "2026-09-30T21:51:35Z",
+      "content": "Crude oil is moving through the Strait of Hormuz at a pace that is starting to approach prewar levels, a notable rebound for the worlds most critical oil choke point. \r\nThat restored flow is mainly t… [+155 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Hugh Son",
-      "title": "Goldman Sachs CEO succession planning faces one big problem - CNBC",
-      "description": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369799-1790711959824-Waldron_Solomon.jpg?v=1790712098&w=1920&h=1080",
-      "publishedAt": "2026-09-29T20:50:10Z",
-      "content": "Goldman Sachs is on top of Wall Street right now, advising on more than $1 trillion in merger deals and generating more than $12 billion in equities revenue in the first six months of the year alone.… [+2893 chars]"
+      "author": "WSJ",
+      "title": "A Tech-Fueled Stock Market Powers Through, but Limps Into the Fourth Quarter - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/stocks/a-tech-fueled-stock-market-powers-through-but-limps-into-the-fourth-quarter-47eac700",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T21:39:36Z",
+      "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Marina Temkin",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation - TechCrunch",
-      "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-      "publishedAt": "2026-09-29T19:52:37Z",
-      "content": "OpenAI is in talks with investors to raise at least $30 billion in a pre-IPO funding round at a valuation of roughly $1.4 trillion, Bloomberg reported on Tuesday.\r\nInvestors are eager to pour more fu… [+1028 chars]"
+      "author": "Jay Peters",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now - The Verge",
+      "description": "Google’s new AI frontier model is Gemini 4 Argon, but it’s launching first to select “cyber defenders” to ensure it has appropriate safeguards.",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-09-30T20:41:41Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGemini 4 Argon is launching first in a limited capacity so Google can make sure its not misaligned.\r\nGemini 4 Argon is launching first in a limited capacity so G… [+2598 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 21:36:31 GMT"
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 22:28:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-      "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 17:14:03 GMT"
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 22:52:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
-      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 17:11:08 GMT"
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 19:59:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-      "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 15:29:11 GMT"
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 19:38:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
-      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 22:01:16 GMT"
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 20:30:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 14:53:02 GMT"
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 14:05:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 11:36:23 GMT"
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 11:37:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "description": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
-      "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 15:04:32 GMT"
+      "title": "Japan raises permanent residency fee by 20 times",
+      "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 02:57:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "Vape prices to rise as new tax takes effect",
-      "description": "Vaping is about to becoming more expensive due to a new tax on products.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 23:02:11 GMT"
+      "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+      "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 22:21:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Energy bills are going up - here's what you can do about it",
-      "description": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 23:01:32 GMT"
+      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+      "description": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+      "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 23:00:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Household energy bills forecast to see biggest rise in four years",
-      "description": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 14:36:45 GMT"
+      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 23:32:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "description": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-      "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 14:00:33 GMT"
+      "title": "HMRC urged to scrutinise tax implications of Man City case",
+      "description": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 18:21:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Greggs to shut four factories and cut 740 jobs",
-      "description": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 15:03:22 GMT"
+      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+      "description": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
+      "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 18:38:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "The AI telling farmers when to harvest",
-      "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-      "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 23:02:21 GMT"
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 23:00:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 04:01:52 GMT"
+      "title": "Thames Water apologises after £145,000 customer billing mistake",
+      "description": "The firm has apologised to the family.",
+      "url": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 18:09:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Doubters spur me on: why more women are taking up DIY",
-      "description": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-      "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 07:27:11 GMT"
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "description": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 10:05:25 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 5,
-      "Iran oil": 4,
-      "Federal Reserve": 4,
-      "Bitcoin": 31
+      "AI stocks": 1,
+      "GLP-1": 4,
+      "Iran oil": 1,
+      "Federal Reserve": 1,
+      "Bitcoin": 25
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26861.06,
-      "change_pct": 0.15,
+      "price": 26871.6,
+      "change_pct": 0.28,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7651.54,
-      "change_pct": -0.42,
+      "price": 7666.45,
+      "change_pct": -0.06,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 50906.05,
-      "change_pct": -1.12,
+      "price": 50926.56,
+      "change_pct": -0.82,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4182.3,
-      "change_pct": 0.06,
+      "price": 4210.8,
+      "change_pct": 0.58,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 90.2,
-      "change_pct": 0.92,
+      "price": 93.03,
+      "change_pct": 2.89,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 83694.36,
-      "change_pct": 0.09,
+      "price": 84795.52,
+      "change_pct": 1.49,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.33,
-      "change_pct": 0.24,
+      "price": 1.32,
+      "change_pct": -0.51,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.7,
-      "change_pct": -0.06,
+      "change_pct": -0.09,
       "symbol": "CNY=X"
     }
   }
