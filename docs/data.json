@@ -1,137 +1,131 @@
 {
-  "date": "2026年10月03日",
-  "date_iso": "2026-10-03",
-  "generated_at": "2026-10-03T07:31:08.400643+08:00",
+  "date": "2026年10月04日",
+  "date_iso": "2026-10-04",
+  "generated_at": "2026-10-04T06:37:16.355270+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Miriam Waldvogel",
-      "title": "OpenAI says rogue agents may have affected more than 100 organizations - The Washington Post",
-      "description": "The disclosure expands the extent of known rogue activity and raises further questions about the extent to which AI makers are maintaining control over their newest models.",
-      "url": "https://www.washingtonpost.com/technology/2026/10/01/openai-says-rogue-agents-may-have-breached-more-than-100-organizations/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DDTJ7KZIAMONC2DJHPRQP6KDUE_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-10-01T22:35:54Z",
-      "content": "Artificial intelligence agents from ChatGPT maker OpenAI mayhave tried to bypass security without authorization or negatively impacted systems at more than 100 organizations, the company said late We… [+7 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Anthony Thompson",
-      "title": "A man found $128K on top of a Bank of America ATM. Here's what he did next - USA Today",
-      "description": "A Texas man found a bag containing $128,514 on top of a Bank of America ATM on Aug. 3. Here's what he did next.",
-      "url": "https://www.usatoday.com/story/money/2026/10/01/man-returns-bag-money-found-atop-bank-of-america-atm/92042721007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/01/USAT/92042919007-getty-images-1409532651.jpg?crop=1023,576,x0,y106&width=1023&height=576&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-01T21:58:00Z",
-      "content": "A bag of cash sitting on top of a Bank of America ATM put a Texas man in a peculiar situation. While many would have kept the money, he searched for the rightful owner.\r\nThe 37-year-old Lewisville ma… [+2800 chars]"
+      "author": "WSJ",
+      "title": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T19:15:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "MarketWatch"
       },
-      "author": "Ines Ferré",
-      "title": "Nike stock sinks as revenue misses estimates, expects to cut jobs - Yahoo Finance",
-      "description": "Nike reported quarterly results on Thursday.",
-      "url": "https://finance.yahoo.com/markets/article/nike-stock-sinks-as-revenue-misses-estimates-expects-to-cut-jobs-203030510.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e60cdbe4f4f6051b8c2289e1e9afe01343480a4594e4b569ce70cd83b99e6370/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fa693de4f-1ec2-4759-8d11-bb0b5698ad57",
-      "publishedAt": "2026-10-01T21:46:59Z",
-      "content": "What happened: Nike (NKE) stock fell as much as 6% in after-hours trading on Thursday after posting its fiscal first quarter results and announcing operational changes, which will include layoffs.\r\nW… [+2664 chars]"
+      "author": "Tomi Kilgore, Joseph Adinolfi, Steve Goldstein, Nora Redmond",
+      "title": "Stock Market Today: Nasdaq flirts with new record, Dow and S&P rise after soft jobs report, but Treasury yields reverse higher - MarketWatch",
+      "description": "Stocks rallied Friday, with the Nasdaq Composite closing just shy of a record, after September's soft jobs report; bond yields initially fell, then reversed higher.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-september-jobs-report",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-10-02T17:46:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Stan Choe",
-      "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street - AP News",
-      "description": "More swings in the bond market rattled stock markets around the world. Thursday's moves were relatively modest on Wall Street after U.S. bond yields cranked higher but then gave back the gains later in the day. The S&P 500 rose 0.2% and broke a three-day losi…",
-      "url": "https://apnews.com/article/stock-markets-inflation-oil-war-cc56b71699c74950fb1bd9564bee74cc",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b0871d5/2147483647/strip/true/crop/7211x4805+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2F3c%2F43fd2191ba68a268d4bfbd30ad80%2Fe93cbf03ac864381bb7bbd389d297104",
-      "publishedAt": "2026-10-01T21:36:00Z",
-      "content": "NEW YORK (AP) More swings in the bond market rattled stock markets around the world on Thursday.\r\nOn Wall Street, the moves were relatively modest after U.S. bond yields cranked higher but then gave … [+4104 chars]"
+      "author": "Andrew J. Hawkins",
+      "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off - The Verge",
+      "description": "Rivian reported brisk sales of its all-important R2 vehicle in the third quarter, a sign that the company’s big bet on the more affordable vehicle was paying off.",
+      "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0019.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-02T17:15:03Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company reported a 45 percent increase in sales and a whopping 85 percent bump in production for the third quarter.\r\nThe company reported a 45 percent increa… [+3008 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "OilPrice.com"
       },
-      "author": "Steve Kopack",
-      "title": "U.S. pressures European allies to release diesel reserves as Trump considers export ban - NBC News",
-      "description": "The Trump administration asked European allies to release diesel from their emergency stockpiles to increase global supplies and tamp down on soaring prices.",
-      "url": "https://www.nbcnews.com/business/energy/trump-diesel-reserves-europe-ban-rcna600967",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261001-chris-wright-mn-1315-a01bee.jpg",
-      "publishedAt": "2026-10-01T21:22:22Z",
-      "content": "The Trump administration ramped up a pressure campaign Thursday to convince European allies to release diesel from national emergency stockpiles. The White House says additional diesel from Europe wo… [+4098 chars]"
+      "author": "Tom Kool",
+      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze - Crude Oil Prices Today | OilPrice.com",
+      "description": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_dg01sjqhdy.jpg",
+      "publishedAt": "2026-10-02T16:50:45Z",
+      "content": "New Delhi says energy security…\r\nSome of the worlds largest…\r\nVenezuela certainly has the resource,…\r\nSet us as your preferred Google source\r\nBy Tom Kool - Oct 02, 2026, 11:50 AM CDTPhysical oil mark… [+5433 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 17:48:42 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 14:27:33 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 16:16:49 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 13:34:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 20:25:19 GMT"
+      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Riot police clash with students as education protests rage in France",
-      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 21:13:27 GMT"
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 21:16:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 20:32:07 GMT"
+      "title": "Women given shorts at Oktoberfest to prevent upskirting",
+      "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 02 Oct 2026 23:16:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 17:44:08 GMT"
+      "title": "Why has Brazil accused the US of election interference?",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 13:52:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 15:26:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 09:08:06 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 15:30:12 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-      "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 21:00:41 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 20:25:19 GMT"
+      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Suppliers pile pressure on government over energy bills",
+      "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 08:58:44 GMT"
     },
     {
       "source": "BBC",
@@ -156,13 +150,6 @@
     },
     {
       "source": "BBC",
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 01 Oct 2026 23:32:59 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
       "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
       "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
@@ -170,17 +157,17 @@
     },
     {
       "source": "BBC",
+      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 23:32:59 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
       "description": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
       "url": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 02 Oct 2026 10:47:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Why UK diesel prices have breached the £2 per litre mark",
-      "description": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 13:38:22 GMT"
     }
   ],
   "reuters": [],
@@ -188,7 +175,7 @@
     "finance_keywords": {
       "AI stocks": 1,
       "GLP-1": 3,
-      "Iran oil": 2,
+      "Iran oil": 1,
       "Federal Reserve": 1,
       "Bitcoin": 24
     },
@@ -211,18 +198,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4172.1,
-      "change_pct": -0.72,
+      "price": 4162.3,
+      "change_pct": -0.95,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 91.26,
-      "change_pct": -1.73,
+      "price": 91.11,
+      "change_pct": -1.9,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 84538.98,
-      "change_pct": -0.37,
+      "price": 84783.87,
+      "change_pct": 0.34,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
