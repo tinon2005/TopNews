@@ -1,117 +1,130 @@
 {
-  "date": "2026年10月04日",
-  "date_iso": "2026-10-04",
-  "generated_at": "2026-10-04T06:37:16.355270+08:00",
+  "date": "2026年10月05日",
+  "date_iso": "2026-10-05",
+  "generated_at": "2026-10-05T06:40:39.124251+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Gene Johnson",
+      "title": "A $28B hemp THC industry is fighting to save itself from a looming federal ban - AP News",
+      "description": "America’s multibillion-dollar market for impairing hemp products faces potential elimination before the end of the year. The products include everything from THC seltzers to smokable cannabis flowers. Congress voted to close the loophole in federal law that h…",
+      "url": "https://apnews.com/article/hemp-marijuana-cannabis-thc-mcconnell-a6f2a02b40c7c5d33d99c84f3221e93f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2c73f0f/2147483647/strip/true/crop/7008x4670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd6%2F3b%2Fdf473581b4e9abc688a705eb0d8b%2F4a5f506d4d4a4643bf3fa55ea662e76c",
+      "publishedAt": "2026-10-03T17:30:00Z",
+      "content": "In a commercial kitchen outside Raleigh, North Carolina, Nicholas Hohns spreads a blue-green goo into a gridded mold, making one of his companys signature products: potent THC gummies, featuring the … [+7030 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ - TechCrunch",
+      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "publishedAt": "2026-10-03T16:30:01Z",
+      "content": "By his own admission, David Robinson is something of a cliché: an employee at a leading AI company who issues a dire warning while resigning from their job.\r\nIn an essay published in The Atlantic, Ro… [+4102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "James Cirrone",
+      "title": "Walmart, Trader Joe's frozen berry recall expands after E. coli outbreak sickened 17 - Fox Business",
+      "description": "A Chilean fruit supplier expanded its recall of frozen organic berries sold at Walmart and Trader Joe's after the products were linked to an E. coli outbreak that sickened 17 people in Florida and Georgia.",
+      "url": "https://www.foxbusiness.com/retail/walmart-trader-joes-frozen-berry-recall-expands-after-e-coli-outbreak-sickened-17",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/walmart-storefront.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-03T14:51:00Z",
+      "content": "A Chilean fruit supplier has expanded a recall of its frozen organic berries, which were sold in Walmarts and Trader Joe's stores across the United States.\r\nThe products, made by Frutas y Hortalizas … [+2291 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Catarina Saraiva, Michael Sasso",
+      "title": "Cash-Strapped Americans Tap Home Equity and AI to Keep Spending - Bloomberg.com",
+      "description": "To maintain their lifestyles amid rising prices, consumers are drawing on resources including food banks and ChatGPT.",
+      "url": "https://www.bloomberg.com/news/features/2026-10-03/american-consumers-tap-home-equity-and-ai-as-prices-rise",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilbdhLo6kVLU/v0/1200x800.jpg",
+      "publishedAt": "2026-10-03T14:00:03Z",
+      "content": "For the past five months, prices have been rising faster than wages, a turnabout that might have pushed US consumers to cut back. Instead, theyve kept spending.\r\nConsumption rose at the fastest pace … [+127 chars]"
+    },
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
-      "title": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue - WSJ",
+      "author": null,
+      "title": "Five Things I Learned in Hiring a Financial Adviser - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394",
+      "url": "https://www.wsj.com/finance/investing/hiring-financial-advisor-tips-02056b3e",
       "urlToImage": null,
-      "publishedAt": "2026-10-02T19:15:00Z",
+      "publishedAt": "2026-10-03T14:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Tomi Kilgore, Joseph Adinolfi, Steve Goldstein, Nora Redmond",
-      "title": "Stock Market Today: Nasdaq flirts with new record, Dow and S&P rise after soft jobs report, but Treasury yields reverse higher - MarketWatch",
-      "description": "Stocks rallied Friday, with the Nasdaq Composite closing just shy of a record, after September's soft jobs report; bond yields initially fell, then reversed higher.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-september-jobs-report",
-      "urlToImage": "https://images.mktw.net/im-51746529/social",
-      "publishedAt": "2026-10-02T17:46:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off - The Verge",
-      "description": "Rivian reported brisk sales of its all-important R2 vehicle in the third quarter, a sign that the company’s big bet on the more affordable vehicle was paying off.",
-      "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0019.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-02T17:15:03Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company reported a 45 percent increase in sales and a whopping 85 percent bump in production for the third quarter.\r\nThe company reported a 45 percent increa… [+3008 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "Tom Kool",
-      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze - Crude Oil Prices Today | OilPrice.com",
-      "description": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_dg01sjqhdy.jpg",
-      "publishedAt": "2026-10-02T16:50:45Z",
-      "content": "New Delhi says energy security…\r\nSome of the worlds largest…\r\nVenezuela certainly has the resource,…\r\nSet us as your preferred Google source\r\nBy Tom Kool - Oct 02, 2026, 11:50 AM CDTPhysical oil mark… [+5433 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 17:48:42 GMT"
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 12:09:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 14:27:33 GMT"
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 14:25:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 16:16:49 GMT"
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 16:51:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 13:34:11 GMT"
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 21:11:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT"
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 13:33:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
-      "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 21:16:21 GMT"
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 16:24:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 23:16:03 GMT"
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 17:01:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why has Brazil accused the US of election interference?",
-      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 13:52:13 GMT"
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 14:36:57 GMT"
     },
     {
       "source": "BBC",
@@ -175,9 +188,9 @@
     "finance_keywords": {
       "AI stocks": 1,
       "GLP-1": 3,
-      "Iran oil": 1,
+      "Iran oil": 2,
       "Federal Reserve": 1,
-      "Bitcoin": 24
+      "Bitcoin": 25
     },
     "trending_searches": []
   },
@@ -198,28 +211,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4162.3,
-      "change_pct": -0.95,
+      "price": 4169.7,
+      "change_pct": 0.18,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 91.11,
-      "change_pct": -1.9,
+      "price": 91.25,
+      "change_pct": 0.15,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 84783.87,
-      "change_pct": 0.34,
+      "price": 86328.24,
+      "change_pct": 1.85,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": -0.18,
+      "change_pct": -0.12,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.7,
-      "change_pct": -0.09,
+      "change_pct": -0.01,
       "symbol": "CNY=X"
     }
   }
