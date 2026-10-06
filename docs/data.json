@@ -1,238 +1,238 @@
 {
-  "date": "2026年10月05日",
-  "date_iso": "2026-10-05",
-  "generated_at": "2026-10-05T06:40:39.124251+08:00",
+  "date": "2026年10月06日",
+  "date_iso": "2026-10-06",
+  "generated_at": "2026-10-06T09:05:03.270059+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Gene Johnson",
-      "title": "A $28B hemp THC industry is fighting to save itself from a looming federal ban - AP News",
-      "description": "America’s multibillion-dollar market for impairing hemp products faces potential elimination before the end of the year. The products include everything from THC seltzers to smokable cannabis flowers. Congress voted to close the loophole in federal law that h…",
-      "url": "https://apnews.com/article/hemp-marijuana-cannabis-thc-mcconnell-a6f2a02b40c7c5d33d99c84f3221e93f",
-      "urlToImage": "https://dims.apnews.com/dims4/default/2c73f0f/2147483647/strip/true/crop/7008x4670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd6%2F3b%2Fdf473581b4e9abc688a705eb0d8b%2F4a5f506d4d4a4643bf3fa55ea662e76c",
-      "publishedAt": "2026-10-03T17:30:00Z",
-      "content": "In a commercial kitchen outside Raleigh, North Carolina, Nicholas Hohns spreads a blue-green goo into a gridded mold, making one of his companys signature products: potent THC gummies, featuring the … [+7030 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ - TechCrunch",
-      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "publishedAt": "2026-10-03T16:30:01Z",
-      "content": "By his own admission, David Robinson is something of a cliché: an employee at a leading AI company who issues a dire warning while resigning from their job.\r\nIn an essay published in The Atlantic, Ro… [+4102 chars]"
+      "author": "Justina Lee, Tanaya Macheel",
+      "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates - CNBC",
+      "description": "Stocks are coming off a week defined by surging Treasury yields and a surprisingly weak jobs report that helped ease concerns about another Fed rate hike.",
+      "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369491-17906967662026-09-29t153734z_497028916_rc21tnamiqla_rtrmadp_0_usa-stocks.jpeg?v=1790696808&w=1920&h=1080",
+      "publishedAt": "2026-10-05T00:17:00Z",
+      "content": "Stock futures were little changed Sunday evening as elevated Treasury yields dented investor sentiment with focus on minutes from the Federal Reserve's latest meeting for clues about the central bank… [+2324 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Fox Business"
       },
-      "author": "James Cirrone",
-      "title": "Walmart, Trader Joe's frozen berry recall expands after E. coli outbreak sickened 17 - Fox Business",
-      "description": "A Chilean fruit supplier expanded its recall of frozen organic berries sold at Walmart and Trader Joe's after the products were linked to an E. coli outbreak that sickened 17 people in Florida and Georgia.",
-      "url": "https://www.foxbusiness.com/retail/walmart-trader-joes-frozen-berry-recall-expands-after-e-coli-outbreak-sickened-17",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/walmart-storefront.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-03T14:51:00Z",
-      "content": "A Chilean fruit supplier has expanded a recall of its frozen organic berries, which were sold in Walmarts and Trader Joe's stores across the United States.\r\nThe products, made by Frutas y Hortalizas … [+2291 chars]"
+      "author": "Sophia Compton",
+      "title": "Sam's Club exec says members increasingly want fresh food 'on their own terms' - Fox Business",
+      "description": "Sam's Club's Myron Frazier told FOX Business that shoppers still want value, but convenience, delivery and ready-to-cook meals are becoming a bigger part of how they shop.",
+      "url": "https://www.foxbusiness.com/retail/sams-club-exec-says-members-increasingly-want-fresh-food-their-own-terms",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/sams-club-store-exterior.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-04T22:56:26Z",
+      "content": "Grocery shoppers still want \"high-quality\" fresh food at a \"great value,\" but convenience is becoming an increasingly important part of that equation, Sam's Club Executive Vice President and Chief Me… [+3445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Tim Jue",
+      "title": "Alaska Airlines, SFO's second-largest airline, is slowly eliminating cheap seats - SFGATE",
+      "description": "Alaska Airlines is making it clear how its plan for the rest of the decade rests on booting budget travelers.",
+      "url": "https://www.sfgate.com/travel/article/alaska-airlines-sfo-budget-22458555.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/41/04/31330622/5/rawImage.jpg",
+      "publishedAt": "2026-10-04T22:21:03Z",
+      "content": "RENTON, Wash. Alaska Airlines is betting big on the travelers of tomorrow who are willing to spend a lot more for an experience steeped in luxury. But its strategy comes at the expense of another cat… [+6644 chars]"
     },
     {
       "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Catarina Saraiva, Michael Sasso",
-      "title": "Cash-Strapped Americans Tap Home Equity and AI to Keep Spending - Bloomberg.com",
-      "description": "To maintain their lifestyles amid rising prices, consumers are drawing on resources including food banks and ChatGPT.",
-      "url": "https://www.bloomberg.com/news/features/2026-10-03/american-consumers-tap-home-equity-and-ai-as-prices-rise",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilbdhLo6kVLU/v0/1200x800.jpg",
-      "publishedAt": "2026-10-03T14:00:03Z",
-      "content": "For the past five months, prices have been rising faster than wages, a turnabout that might have pushed US consumers to cut back. Instead, theyve kept spending.\r\nConsumption rose at the fastest pace … [+127 chars]"
+      "author": "Anand Krishnamoorthy, Thomas Kutty Abraham",
+      "title": "Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap - Bloomberg.com",
+      "description": "Asian stocks rose after softer US jobs data reduced pressure on the Federal Reserve to keep raising interest rates. Oil erased early gains, while bonds crept higher.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGkh_XgummH0/v0/1200x800.jpg",
+      "publishedAt": "2026-10-04T22:17:26Z",
+      "content": "Asian stocks rose after softer US jobs data reduced pressure on the Federal Reserve to keep raising interest rates. Oil erased early gains, while bonds crept higher.\r\nMSCIs Asia Pacific equities inde… [+362 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Frequentmiler.com"
       },
-      "author": null,
-      "title": "Five Things I Learned in Hiring a Financial Adviser - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/investing/hiring-financial-advisor-tips-02056b3e",
-      "urlToImage": null,
-      "publishedAt": "2026-10-03T14:00:00Z",
-      "content": null
+      "author": "Nick Reyes",
+      "title": "Changes coming to IHG Select card (old $49 card, no longer available) - Frequent Miler",
+      "description": "A member of our Frequent Miler Insiders Facebook group recently reported being told by a Chase representative that changes are coming to their old IHG Select card (this is the old card with a $49 annual fee that has not been available for new applicants or pr…",
+      "url": "https://frequentmiler.com/changes-coming-to-ihg-select-card-old-49-card-no-longer-available/",
+      "urlToImage": "https://frequentmiler.com/wp-content/uploads/2022/04/IHG-One-Featured.jpg",
+      "publishedAt": "2026-10-04T21:45:38Z",
+      "content": "A member of our Frequent Miler Insiders Facebook group recently reported being told by a Chase representative that changes are coming to their old IHG Select card (this is the old card with a $49 ann… [+4452 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 12:09:04 GMT"
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 21:46:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 14:25:32 GMT"
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 21:18:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 16:51:30 GMT"
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "description": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 11:34:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-      "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 21:11:49 GMT"
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "description": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 15:17:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 13:33:05 GMT"
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "description": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 19:30:50 GMT"
     },
     {
       "source": "BBC",
-      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 16:24:48 GMT"
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "description": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 21:33:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Indian police accused of sexually harassing journalists at protest",
-      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 17:01:19 GMT"
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 16:13:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 14:36:57 GMT"
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 11:04:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT"
+      "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+      "description": "A growing number of parents are opening retirement funds for their children.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 23:00:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Suppliers pile pressure on government over energy bills",
-      "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 08:58:44 GMT"
+      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "description": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 09:54:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK diesel prices top £2 a litre for first time, RAC says",
-      "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 15:50:05 GMT"
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 16:13:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-      "description": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 14:30:48 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 23:13:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-      "description": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-      "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 01 Oct 2026 23:00:06 GMT"
+      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+      "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
+      "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 10:25:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-      "description": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 01 Oct 2026 23:00:05 GMT"
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 10:03:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 01 Oct 2026 23:32:59 GMT"
+      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+      "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 17:23:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
-      "description": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 10:47:07 GMT"
+      "title": "The job interview question you don't have to answer",
+      "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 23:22:07 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 1,
-      "GLP-1": 3,
-      "Iran oil": 2,
-      "Federal Reserve": 1,
-      "Bitcoin": 25
+      "AI stocks": 0,
+      "GLP-1": 11,
+      "Iran oil": 3,
+      "Federal Reserve": 3,
+      "Bitcoin": 63
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 27190.86,
-      "change_pct": 1.23,
+      "price": 27477.31,
+      "change_pct": 2.25,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7722.72,
-      "change_pct": 0.93,
+      "price": 7773.95,
+      "change_pct": 1.4,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51176.96,
-      "change_pct": 0.53,
+      "price": 51267.9,
+      "change_pct": 0.67,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4169.7,
-      "change_pct": 0.18,
+      "price": 4173.4,
+      "change_pct": 0.4,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 91.25,
-      "change_pct": 0.15,
+      "price": 89.3,
+      "change_pct": -0.15,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 86328.24,
-      "change_pct": 1.85,
+      "price": 86059.87,
+      "change_pct": 0.36,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": -0.12,
+      "change_pct": -0.14,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.7,
-      "change_pct": -0.01,
+      "price": 6.69,
+      "change_pct": -0.15,
       "symbol": "CNY=X"
     }
   }
