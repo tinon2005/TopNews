@@ -1,238 +1,225 @@
 {
-  "date": "2026年10月06日",
-  "date_iso": "2026-10-06",
-  "generated_at": "2026-10-06T09:05:03.270059+08:00",
+  "date": "2026年10月07日",
+  "date_iso": "2026-10-07",
+  "generated_at": "2026-10-07T07:31:22.027917+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Abcnews.com"
       },
-      "author": "Justina Lee, Tanaya Macheel",
-      "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates - CNBC",
-      "description": "Stocks are coming off a week defined by surging Treasury yields and a surprisingly weak jobs report that helped ease concerns about another Fed rate hike.",
-      "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369491-17906967662026-09-29t153734z_497028916_rc21tnamiqla_rtrmadp_0_usa-stocks.jpeg?v=1790696808&w=1920&h=1080",
-      "publishedAt": "2026-10-05T00:17:00Z",
-      "content": "Stock futures were little changed Sunday evening as elevated Treasury yields dented investor sentiment with focus on minutes from the Federal Reserve's latest meeting for clues about the central bank… [+2324 chars]"
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Over 122K cases of Gatorade recalled due to undeclared food dyes, FDA says - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/GMA/Food/122k-cases-gatorade-recalled-due-undeclared-food-dyes/story?id\\\\u003d137002347",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T22:30:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Hollywood Reporter"
       },
-      "author": "Sophia Compton",
-      "title": "Sam's Club exec says members increasingly want fresh food 'on their own terms' - Fox Business",
-      "description": "Sam's Club's Myron Frazier told FOX Business that shoppers still want value, but convenience, delivery and ready-to-cook meals are becoming a bigger part of how they shop.",
-      "url": "https://www.foxbusiness.com/retail/sams-club-exec-says-members-increasingly-want-fresh-food-their-own-terms",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/sams-club-store-exterior.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-04T22:56:26Z",
-      "content": "Grocery shoppers still want \"high-quality\" fresh food at a \"great value,\" but convenience is becoming an increasingly important part of that equation, Sam's Club Executive Vice President and Chief Me… [+3445 chars]"
+      "author": "Alex Weprin",
+      "title": "CAA Hires Top NFL Executive as Chief Operating Officer - The Hollywood Reporter",
+      "description": "Dasha Smith was most recently executive VP and chief administrative officer of the NFL, where she was a top deputy to Roger Goodell.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/caa-names-nfl-exec-dasha-smith-coo-1236722581/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Dasha-Smith-Headshot-Template-Publicity-H-2026.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2026-10-05T21:52:40Z",
+      "content": "Creative Artists Agency is bringing on a major new addition to tis C-suite.\r\nThe agency has hired Dasha Smith to serve as its chief operating officer.\r\nSmith joins CAA from the NFL, where she was exe… [+1422 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Dow Slips, Dollar Strengthens as Investors Look for Safety — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T21:35:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "Financial Times"
       },
-      "author": "Tim Jue",
-      "title": "Alaska Airlines, SFO's second-largest airline, is slowly eliminating cheap seats - SFGATE",
-      "description": "Alaska Airlines is making it clear how its plan for the rest of the decade rests on booting budget travelers.",
-      "url": "https://www.sfgate.com/travel/article/alaska-airlines-sfo-budget-22458555.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/41/04/31330622/5/rawImage.jpg",
-      "publishedAt": "2026-10-04T22:21:03Z",
-      "content": "RENTON, Wash. Alaska Airlines is betting big on the travelers of tomorrow who are willing to spend a lot more for an experience steeped in luxury. But its strategy comes at the expense of another cat… [+6644 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Anand Krishnamoorthy, Thomas Kutty Abraham",
-      "title": "Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap - Bloomberg.com",
-      "description": "Asian stocks rose after softer US jobs data reduced pressure on the Federal Reserve to keep raising interest rates. Oil erased early gains, while bonds crept higher.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGkh_XgummH0/v0/1200x800.jpg",
-      "publishedAt": "2026-10-04T22:17:26Z",
-      "content": "Asian stocks rose after softer US jobs data reduced pressure on the Federal Reserve to keep raising interest rates. Oil erased early gains, while bonds crept higher.\r\nMSCIs Asia Pacific equities inde… [+362 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Frequentmiler.com"
-      },
-      "author": "Nick Reyes",
-      "title": "Changes coming to IHG Select card (old $49 card, no longer available) - Frequent Miler",
-      "description": "A member of our Frequent Miler Insiders Facebook group recently reported being told by a Chase representative that changes are coming to their old IHG Select card (this is the old card with a $49 annual fee that has not been available for new applicants or pr…",
-      "url": "https://frequentmiler.com/changes-coming-to-ihg-select-card-old-49-card-no-longer-available/",
-      "urlToImage": "https://frequentmiler.com/wp-content/uploads/2022/04/IHG-One-Featured.jpg",
-      "publishedAt": "2026-10-04T21:45:38Z",
-      "content": "A member of our Frequent Miler Insiders Facebook group recently reported being told by a Chase representative that changes are coming to their old IHG Select card (this is the old card with a $49 ann… [+4452 chars]"
+      "author": null,
+      "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic - Financial Times",
+      "description": "Syndication of the massive financing package tests lending appetite amid growing concerns over mounting AI debt",
+      "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98811ed5-09b6-4a62-a775-7f6b82503f46.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-05T20:58:19Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 21:46:22 GMT"
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "description": "Experts say her survival after the lethal injections is highly unusual.",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 22:00:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "France braces for national day of school protests after injuries and mass arrests",
-      "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 21:18:10 GMT"
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:03:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-      "description": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 11:34:59 GMT"
+      "title": "Former German spy chief arrested for espionage and treason",
+      "description": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 10:05:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "description": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 15:17:23 GMT"
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 11:53:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain PM pins hopes on housing crisis to help win snap election",
-      "description": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 19:30:50 GMT"
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "description": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:05:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "description": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 21:33:49 GMT"
+      "title": "Finland orders halt to work on two Google data centres",
+      "description": "The order affecting two planned data centres follows concerns over forest clearance.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 17:15:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 16:13:21 GMT"
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 16:02:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nobel Prize awarded for revealing inner workings of the brain",
-      "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 11:04:37 GMT"
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 11:24:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
-      "description": "A growing number of parents are opening retirement funds for their children.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 23:00:41 GMT"
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+      "description": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 23:01:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "Average five-year mortgage rate hits 6% for first time in three years",
-      "description": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 09:54:57 GMT"
+      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+      "description": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 23:01:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 16:13:21 GMT"
+      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "description": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 23:01:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "description": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 23:13:11 GMT"
+      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+      "description": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 17:50:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-      "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-      "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 10:25:36 GMT"
+      "title": "What can I do to protect myself after 'Asos hacked' message?",
+      "description": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 19:17:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 10:03:38 GMT"
+      "title": "Amazon wins global rights to stream Emmys in six-year deal",
+      "description": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 19:08:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-      "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 17:23:28 GMT"
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:42:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "The job interview question you don't have to answer",
-      "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-      "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 23:22:07 GMT"
+      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 20:18:58 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 0,
-      "GLP-1": 11,
+      "AI stocks": 2,
+      "GLP-1": 9,
       "Iran oil": 3,
       "Federal Reserve": 3,
-      "Bitcoin": 63
+      "Bitcoin": 69
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 27477.31,
-      "change_pct": 2.25,
+      "price": 27599.89,
+      "change_pct": 1.5,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7773.95,
-      "change_pct": 1.4,
+      "price": 7818.93,
+      "change_pct": 1.25,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51267.9,
+      "price": 51521.28,
       "change_pct": 0.67,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4173.4,
-      "change_pct": 0.4,
+      "price": 4193.3,
+      "change_pct": 0.88,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 89.3,
-      "change_pct": -0.15,
+      "price": 89.88,
+      "change_pct": 0.5,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 86059.87,
-      "change_pct": 0.36,
+      "price": 85449.25,
+      "change_pct": -0.39,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.32,
-      "change_pct": -0.14,
+      "price": 1.33,
+      "change_pct": 0.39,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.69,
-      "change_pct": -0.15,
+      "price": 6.7,
+      "change_pct": -0.01,
       "symbol": "CNY=X"
     }
   }
