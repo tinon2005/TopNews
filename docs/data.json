@@ -1,225 +1,238 @@
 {
-  "date": "2026年10月07日",
-  "date_iso": "2026-10-07",
-  "generated_at": "2026-10-07T07:31:22.027917+08:00",
+  "date": "2026年10月08日",
+  "date_iso": "2026-10-08",
+  "generated_at": "2026-10-08T07:59:17.821578+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Over 122K cases of Gatorade recalled due to undeclared food dyes, FDA says - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/GMA/Food/122k-cases-gatorade-recalled-due-undeclared-food-dyes/story?id\\\\u003d137002347",
-      "urlToImage": null,
-      "publishedAt": "2026-10-05T22:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Alex Weprin",
-      "title": "CAA Hires Top NFL Executive as Chief Operating Officer - The Hollywood Reporter",
-      "description": "Dasha Smith was most recently executive VP and chief administrative officer of the NFL, where she was a top deputy to Roger Goodell.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/caa-names-nfl-exec-dasha-smith-coo-1236722581/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Dasha-Smith-Headshot-Template-Publicity-H-2026.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-10-05T21:52:40Z",
-      "content": "Creative Artists Agency is bringing on a major new addition to tis C-suite.\r\nThe agency has hired Dasha Smith to serve as its chief operating officer.\r\nSmith joins CAA from the NFL, where she was exe… [+1422 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Stock Market Today: Dow Slips, Dollar Strengthens as Investors Look for Safety — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-10-05T21:35:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic - Financial Times",
-      "description": "Syndication of the massive financing package tests lending appetite amid growing concerns over mounting AI debt",
-      "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98811ed5-09b6-4a62-a775-7f6b82503f46.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-10-05T20:58:19Z",
-      "content": null
+      "title": "Jaguar launches new electric car after 'woke' ridicule - BBC",
+      "description": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has unveiled its new electric car.",
+      "url": "https://www.bbc.com/news/articles/c6je50ydld31o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a850/live/5261e390-c1be-11f1-a1fa-8f24f60baa65.jpg",
+      "publishedAt": "2026-10-07T00:01:38Z",
+      "content": "At the time, Jaguar itself was struggling. The badge, which was once an intrinsic part of Swinging Sixties British cool, had lost its lustre. Where in the past it had supplied E-Types to Brigitte Bar… [+152 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Zoe Malin",
+      "title": "We’re live tracking the best October Prime Day deals — these 113+ are worth shopping - NBC News",
+      "description": "NBC Selected editors are tracking the best October Prime Day deals live, with prices and recommendations updated throughout the event. Here’s what’s worth buying.",
+      "url": "https://www.nbcnews.com/select/shopping/october-prime-day-deals-2026-rcna601203",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/260930-prime-day-hero-kb-social-v1-02d59f.jpg",
+      "publishedAt": "2026-10-06T22:45:21Z",
+      "content": "October Prime Day (technically called Prime Big Deal Days) is happening now through October 7, offering discounts across categories, exclusive to Prime members. Some of the top newly added deals are … [+25039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ABC15 Arizona"
+      },
+      "author": "Brandon Brown, Phoenix Business Journal",
+      "title": "True Food Kitchen files for bankruptcy, plans to close 12 restaurants - ABC15 Arizona",
+      "description": "True Food Kitchen⁠, the Scottsdale-based restaurant chain founded by Sam Fox and eventually spun off from Fox Restaurant Concepts⁠ into its own company, filed for Chapter 11 bankruptcy protection.",
+      "url": "https://www.abc15.com/news/business/true-food-kitchen-files-for-bankruptcy-plans-to-close-12-restaurants",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/dfc5f6b/2147483647/strip/true/crop/900x473+0+106/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F39%2F65%2Ffd247fb84e6b98b6f5d36327a6e4%2Ftrue-food-restaurant.png",
+      "publishedAt": "2026-10-06T21:55:37Z",
+      "content": "True Food Kitchen, the Scottsdale-based restaurant chain founded by Sam Fox and eventually spun off from Fox Restaurant Concepts into its own company, filed Oct. 4 for Chapter 11 bankruptcy protectio… [+661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Todd Spangler",
+      "title": "Skydance Adds Bobby Kotick and Laurene Powell Jobs to Board, Taps Tony Blair as Adviser - Variety",
+      "description": "Skydance named Laurene Powell Jobs and Bobby Kotick to its board as independent directors, and said Tony Blair will serve as an adviser.",
+      "url": "https://variety.com/2026/film/news/skydance-board-bobby-kotick-laurene-powell-jobs-tony-blair-1236903730/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/gastech-2026-in-bangkok-us-politics-economy-milken-sotheby-s-1000x667-1.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-10-06T21:40:00Z",
+      "content": "Skydance Corp., formed from the megamerger of Paramount and Warner Bros. Discovery, is bringing new blood to its board of directors.\r\nOn Tuesday, the company announced that Laurene Powell Jobs, found… [+3164 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Claretta Bellamy",
+      "title": "Semi-synthetic kratom products linked to four deaths in Utah, state officials say - NBC News",
+      "description": "Officials found that some products sold under the label “cat’s claw” instead contained potent opioid-like chemicals.",
+      "url": "https://www.nbcnews.com/health/health-news/semi-synthetic-kratom-products-linked-four-deaths-utah-state-officials-rcna601874",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260930-kratom-shop-ew-409p-8021e7.jpg",
+      "publishedAt": "2026-10-06T20:45:19Z",
+      "content": "Four deaths in Utah have been linked to potent semi-synthetic kratom compounds, state officials said Monday.\r\nThe kratom-derived compounds, mitragynine pseudoindoxyl (MGPI) and dihydro-7-hydroxymitra… [+3796 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "description": "Experts say her survival after the lethal injections is highly unusual.",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 22:00:43 GMT"
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 21:40:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 18:03:19 GMT"
+      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "description": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 20:27:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Former German spy chief arrested for espionage and treason",
-      "description": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 10:05:42 GMT"
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 16:00:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 11:53:21 GMT"
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 17:47:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "description": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 18:05:53 GMT"
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 19:30:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Finland orders halt to work on two Google data centres",
-      "description": "The order affecting two planned data centres follows concerns over forest clearance.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 17:15:46 GMT"
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 18:27:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 16:02:32 GMT"
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "description": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 18:12:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 11:24:19 GMT"
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "description": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 09:49:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
-      "description": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 23:01:13 GMT"
+      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+      "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 23:00:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
-      "description": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 23:01:31 GMT"
+      "title": "Hedgehog among four chosen animals to feature on your new banknotes",
+      "description": "The decision comes after nearly half a million people cast their votes from a shortlist of 18 creatures.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 23:01:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-      "description": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 23:01:22 GMT"
+      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+      "description": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 23:05:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-      "description": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 17:50:19 GMT"
+      "title": "Boots sold in £7bn deal to Canadian billionaire family",
+      "description": "The sale of the High Street chain was announced on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 17:18:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "What can I do to protect myself after 'Asos hacked' message?",
-      "description": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 19:17:23 GMT"
+      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+      "description": "The research found that important guardrails for teens using ChatGPT often failed.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 20:34:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Amazon wins global rights to stream Emmys in six-year deal",
-      "description": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 19:08:21 GMT"
+      "title": "What independence could mean for oil-rich Alberta's economy",
+      "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+      "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 23:10:13 GMT"
     },
     {
       "source": "BBC",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 18:42:58 GMT"
+      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+      "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 14:33:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-      "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 20:18:58 GMT"
+      "title": "Half the harvest, twice the bills: how drought hit farms",
+      "description": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 05:22:52 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 9,
+      "AI stocks": 3,
+      "GLP-1": 11,
       "Iran oil": 3,
-      "Federal Reserve": 3,
-      "Bitcoin": 69
+      "Federal Reserve": 4,
+      "Bitcoin": 70
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 27599.89,
-      "change_pct": 1.5,
+      "price": 27538.69,
+      "change_pct": 0.22,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7818.93,
-      "change_pct": 1.25,
+      "price": 7801.77,
+      "change_pct": 0.36,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51521.28,
-      "change_pct": 0.67,
+      "price": 51179.87,
+      "change_pct": -0.17,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4193.3,
-      "change_pct": 0.88,
+      "price": 4135.7,
+      "change_pct": -1.23,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 89.88,
-      "change_pct": 0.5,
+      "price": 88.91,
+      "change_pct": -0.59,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 85449.25,
-      "change_pct": -0.39,
+      "price": 83284.1,
+      "change_pct": -2.66,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.33,
-      "change_pct": 0.39,
+      "price": 1.32,
+      "change_pct": -0.4,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.7,
-      "change_pct": -0.01,
+      "price": 6.69,
+      "change_pct": -0.14,
       "symbol": "CNY=X"
     }
   }
