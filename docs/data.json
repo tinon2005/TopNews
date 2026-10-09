@@ -1,238 +1,225 @@
 {
-  "date": "2026年10月08日",
-  "date_iso": "2026-10-08",
-  "generated_at": "2026-10-08T07:59:17.821578+08:00",
+  "date": "2026年10月09日",
+  "date_iso": "2026-10-09",
+  "generated_at": "2026-10-09T08:06:45.267680+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": null,
-      "title": "Jaguar launches new electric car after 'woke' ridicule - BBC",
-      "description": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has unveiled its new electric car.",
-      "url": "https://www.bbc.com/news/articles/c6je50ydld31o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a850/live/5261e390-c1be-11f1-a1fa-8f24f60baa65.jpg",
-      "publishedAt": "2026-10-07T00:01:38Z",
-      "content": "At the time, Jaguar itself was struggling. The badge, which was once an intrinsic part of Swinging Sixties British cool, had lost its lustre. Where in the past it had supplied E-Types to Brigitte Bar… [+152 chars]"
+      "author": "Riley Beggin",
+      "title": "Trump prods parents to claim child investment accounts as auto-enrollment begins - The Washington Post",
+      "description": "The change has been long sought by economists and advocates who argued that self-selection would benefit wealthier families.",
+      "url": "https://www.washingtonpost.com/business/2026/10/07/trump-touts-auto-enrollment-child-investment-accounts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TATC6SX3VUG7RR3U4GWYLJSTKY_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-08T00:07:30Z",
+      "content": "President Donald Trump encouraged parents to claim their childs investment account Wednesday after the administration began automatic enrollment, a dramatic expansion of the program aimed at giving k… [+31 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Zoe Malin",
-      "title": "We’re live tracking the best October Prime Day deals — these 113+ are worth shopping - NBC News",
-      "description": "NBC Selected editors are tracking the best October Prime Day deals live, with prices and recommendations updated throughout the event. Here’s what’s worth buying.",
-      "url": "https://www.nbcnews.com/select/shopping/october-prime-day-deals-2026-rcna601203",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/260930-prime-day-hero-kb-social-v1-02d59f.jpg",
-      "publishedAt": "2026-10-06T22:45:21Z",
-      "content": "October Prime Day (technically called Prime Big Deal Days) is happening now through October 7, offering discounts across categories, exclusive to Prime members. Some of the top newly added deals are … [+25039 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ABC15 Arizona"
-      },
-      "author": "Brandon Brown, Phoenix Business Journal",
-      "title": "True Food Kitchen files for bankruptcy, plans to close 12 restaurants - ABC15 Arizona",
-      "description": "True Food Kitchen⁠, the Scottsdale-based restaurant chain founded by Sam Fox and eventually spun off from Fox Restaurant Concepts⁠ into its own company, filed for Chapter 11 bankruptcy protection.",
-      "url": "https://www.abc15.com/news/business/true-food-kitchen-files-for-bankruptcy-plans-to-close-12-restaurants",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/dfc5f6b/2147483647/strip/true/crop/900x473+0+106/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F39%2F65%2Ffd247fb84e6b98b6f5d36327a6e4%2Ftrue-food-restaurant.png",
-      "publishedAt": "2026-10-06T21:55:37Z",
-      "content": "True Food Kitchen, the Scottsdale-based restaurant chain founded by Sam Fox and eventually spun off from Fox Restaurant Concepts into its own company, filed Oct. 4 for Chapter 11 bankruptcy protectio… [+661 chars]"
+      "author": "Brendan Griffiths",
+      "title": "Final October Amazon Prime Day 2026 deals are way better than I expected: Apple, Ninja, Samsung, Breville - Business Insider",
+      "description": "Time's almost up on these surprisingly-good Prime Day deals. We can point you to a list of the new Day 2 deals, too.",
+      "url": "https://www.businessinsider.com/guides/deals/prime-day-deals-2026-10-7#article",
+      "urlToImage": "https://i.insider.com/6ac6bf367bf24b4467e69061?width=1200&format=jpeg",
+      "publishedAt": "2026-10-07T23:29:00Z",
+      "content": "Whether it's received the hype Amazon has tried cultivating for the last few years remains to be seen, but regardless, we think October Prime Day is still worth checking out. Also known as Prime Big … [+37939 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "CNBC"
       },
-      "author": "Todd Spangler",
-      "title": "Skydance Adds Bobby Kotick and Laurene Powell Jobs to Board, Taps Tony Blair as Adviser - Variety",
-      "description": "Skydance named Laurene Powell Jobs and Bobby Kotick to its board as independent directors, and said Tony Blair will serve as an adviser.",
-      "url": "https://variety.com/2026/film/news/skydance-board-bobby-kotick-laurene-powell-jobs-tony-blair-1236903730/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/gastech-2026-in-bangkok-us-politics-economy-milken-sotheby-s-1000x667-1.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-10-06T21:40:00Z",
-      "content": "Skydance Corp., formed from the megamerger of Paramount and Warner Bros. Discovery, is bringing new blood to its board of directors.\r\nOn Tuesday, the company announced that Laurene Powell Jobs, found… [+3164 chars]"
+      "author": "Jenny Lee",
+      "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom - CNBC",
+      "description": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.",
+      "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080",
+      "publishedAt": "2026-10-07T22:51:03Z",
+      "content": "Samsung Electronics on Thursday reported third-quarter preliminary operating profit of 107.40 trillion won ($80.2 billion), surging past 100 trillion won for the first time in the company's history a… [+1621 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "Gizmodo.com"
       },
-      "author": "Claretta Bellamy",
-      "title": "Semi-synthetic kratom products linked to four deaths in Utah, state officials say - NBC News",
-      "description": "Officials found that some products sold under the label “cat’s claw” instead contained potent opioid-like chemicals.",
-      "url": "https://www.nbcnews.com/health/health-news/semi-synthetic-kratom-products-linked-four-deaths-utah-state-officials-rcna601874",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260930-kratom-shop-ew-409p-8021e7.jpg",
-      "publishedAt": "2026-10-06T20:45:19Z",
-      "content": "Four deaths in Utah have been linked to potent semi-synthetic kratom compounds, state officials said Monday.\r\nThe kratom-derived compounds, mitragynine pseudoindoxyl (MGPI) and dihydro-7-hydroxymitra… [+3796 chars]"
+      "author": "Bruce Gil",
+      "title": "Man Who Spent Millions on Rare Pokémon and Magic Cards Found Guilty of Stealing Over $50 Million in Crypto - Gizmodo",
+      "description": "He now faces up to 20 years in prison on a money-laundering charge.",
+      "url": "https://gizmodo.com/man-who-spent-millions-on-rare-pokemon-and-magic-cards-found-guilty-of-stealing-over-50-million-in-crypto-2000823238",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/pokemon-cards-1200x675.jpg",
+      "publishedAt": "2026-10-07T21:38:56Z",
+      "content": "A 36-year-old cybersecurity consultant and apparent trading card collector from Maryland was just convicted of computer fraud and money laundering in a case involving more than $50 million in stolen … [+2880 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 21:40:24 GMT"
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 23:11:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "description": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 20:27:03 GMT"
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "description": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 23:35:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 16:00:18 GMT"
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 16:31:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 17:47:31 GMT"
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "description": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 15:02:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 19:30:51 GMT"
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 18:17:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 18:27:40 GMT"
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 19:10:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "description": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 18:12:58 GMT"
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 14:33:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "description": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 09:49:31 GMT"
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 17:38:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-      "description": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 23:00:55 GMT"
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "description": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 23:14:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Hedgehog among four chosen animals to feature on your new banknotes",
-      "description": "The decision comes after nearly half a million people cast their votes from a shortlist of 18 creatures.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 23:01:30 GMT"
+      "title": "'Add me to WhatsApp' scam calls to be investigated",
+      "description": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 23:05:09 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "description": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 23:01:16 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "description": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 21:37:35 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "description": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 16:29:33 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Why are more roofs not made of solar tiles?",
+      "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 23:09:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 18:17:28 GMT"
     },
     {
       "source": "BBC",
       "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
       "description": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
       "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 23:05:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Boots sold in £7bn deal to Canadian billionaire family",
-      "description": "The sale of the High Street chain was announced on Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 17:18:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-      "description": "The research found that important guardrails for teens using ChatGPT often failed.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 20:34:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "What independence could mean for oil-rich Alberta's economy",
-      "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-      "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 23:10:13 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-      "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 14:33:11 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Half the harvest, twice the bills: how drought hit farms",
-      "description": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
-      "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 05:22:52 GMT"
+      "publishedAt": "Thu, 08 Oct 2026 07:11:14 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 3,
-      "GLP-1": 11,
+      "AI stocks": 1,
+      "GLP-1": 9,
       "Iran oil": 3,
-      "Federal Reserve": 4,
-      "Bitcoin": 70
+      "Federal Reserve": 3,
+      "Bitcoin": 57
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 27538.69,
-      "change_pct": 0.22,
+      "price": 27193.34,
+      "change_pct": -1.47,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7801.77,
-      "change_pct": 0.36,
+      "price": 7765.36,
+      "change_pct": -0.69,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51179.87,
-      "change_pct": -0.17,
+      "price": 51231.64,
+      "change_pct": -0.56,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4135.7,
-      "change_pct": -1.23,
+      "price": 4167.9,
+      "change_pct": 0.66,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 88.91,
-      "change_pct": -0.59,
+      "price": 91.2,
+      "change_pct": 3.31,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 83284.1,
-      "change_pct": -2.66,
+      "price": 81728.1,
+      "change_pct": -1.86,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": -0.4,
+      "change_pct": 0.11,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.69,
-      "change_pct": -0.14,
+      "change_pct": -0.16,
       "symbol": "CNY=X"
     }
   }
