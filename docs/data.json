@@ -1,124 +1,137 @@
 {
-  "date": "2026年10月10日",
-  "date_iso": "2026-10-10",
-  "generated_at": "2026-10-10T07:47:04.301858+08:00",
+  "date": "2026年10月11日",
+  "date_iso": "2026-10-11",
+  "generated_at": "2026-10-11T07:09:14.556626+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Oil Rises, Nasdaq Slips on Fresh Tanker Attack - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-08-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-10-08T21:56:00Z",
+      "author": "Steven  Yablonski, Ivan  Taylor",
+      "title": "Eight injured during severe turbulence that forced New York City-bound flight to divert to MIA, officials say - CBS News",
+      "description": "The Avianca flight was headed from Colombia to New York City when the turbulence forced it to divert to MIA, officials say.",
+      "url": "https://www.cbsnews.com/miami/news/severe-turbulence-miami-international-airport-flight-october-9-2026/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/09/2d76c9a2-b3f3-4b68-9cae-1b5fac923614/thumbnail/1200x630/7a6b5515341592f522d3503db6ba0413/cbamiami-avianca-generic-1.jpg",
+      "publishedAt": "2026-10-09T22:18:46Z",
+      "content": "Eight people were taken to Miami hospitals early Friday morning after a flight to New York City was forced to divert to Miami International Airport due to severe turbulence, according to officials.\r\n… [+1810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "The hazy OpenAI growth metric driving Wall Street - Financial Times",
+      "description": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+      "url": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a29e620-b16d-4483-a5a5-17e3d2237f76.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-09T20:57:10Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "Yahoo Entertainment"
       },
-      "author": null,
-      "title": "SpaceX's 'Very Big Deal' Slams Verizon, AT&T, T-Mobile - Investor's Business Daily",
-      "description": "Elon Musk's company will buy more wireless spectrum as Starlink expands.",
-      "url": "https://www.investors.com/news/spacex-buys-wireless-spectrum-starlink-elon-musk-verizon-att-t-mobile-tumble/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/stock-starlink-satellite-adobe.jpg",
-      "publishedAt": "2026-10-08T21:17:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Grace O'Donnell",
+      "title": "Moderna stock hits 4-year high on planned national cancer vaccine effort - Yahoo Finance",
+      "description": "Moderna stock popped 9% on Friday after the New York Times reported new details about an effort to speed up cancer vaccine development. Investors saw the mRN...",
+      "url": "https://finance.yahoo.com/markets/stocks/article/moderna-stock-hits-4-year-high-on-planned-national-cancer-vaccine-effort-201351554.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7cbea6a1a5afd2c68cf8f7a92fb5da763c63680887d4293cd6b024353945c565/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F72d03fcf-e2b8-49bd-9a72-2b95230faa18",
+      "publishedAt": "2026-10-09T20:13:51Z",
+      "content": "Moderna (MRNA) stock popped 14% on Friday, reaching its highest level since January 2022, after the New York Times reported new details about an effort to accelerate cancer vaccine development. Inves… [+1445 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Federalreserve.gov"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": null,
-      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering - Federal Reserve (.gov)",
-      "description": "The Federal Reserve Board on Thursday announced an enforcement action against American Express Company to address, among other things, the firm's failure to su",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
-      "publishedAt": "2026-10-08T20:33:11Z",
-      "content": "The Federal Reserve Board on Thursday announced an enforcement action against American Express Company to address, among other things, the firm's failure to sufficiently detect and report certain sus… [+599 chars]"
+      "author": "Hugh Langley",
+      "title": "Google is about to roll out a new AI model. Employees say they're testing another that's way better. - Business Insider",
+      "description": "Google is rolling out new Gemini 4 models to staff ahead of a public release. The latest is called Carbon, and staff are loving it.",
+      "url": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10#article",
+      "urlToImage": "https://i.insider.com/6ac8b8997bf24b4467e699dd?width=1200&format=jpeg",
+      "publishedAt": "2026-10-09T19:37:00Z",
+      "content": "As Google prepares to roll out its new Gemini 4 'Argon' model to the public, staff inside the company are testing better versions that may further close the gap with rivals.\r\nMost recently, employees… [+3037 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Jonathan M. Gitlin",
-      "title": "Feds get ready to rewrite car headlight rules - Ars Technica",
-      "description": "Reducing glare and allowing modern light technologies will be two goals.",
-      "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1291667515-2560x1440.jpg",
-      "publishedAt": "2026-10-08T20:26:13Z",
-      "content": null
+      "author": "Amanda Silberling",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police - TechCrunch",
+      "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+      "publishedAt": "2026-10-09T19:36:56Z",
+      "content": "An Anthropic AI model submitted a false tip about an unsolved murder to the Philadelphia police.\r\nThe AI reportedly submitted this incorrect information to a public Philadelphia Police Department (PP… [+2390 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 19:28:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 20:51:12 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "description": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 22:40:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 17:44:26 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 22:02:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 18:22:29 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 14:58:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 15:23:47 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 21:54:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 18:40:10 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 21:50:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 21:26:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:14:44 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 16:32:22 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "description": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:37:10 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-      "description": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well.",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 21:55:51 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 21:54:28 GMT"
+      "publishedAt": "Sat, 10 Oct 2026 14:24:14 GMT"
     },
     {
       "source": "BBC",
@@ -173,11 +186,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 1,
+      "AI stocks": 0,
       "GLP-1": 7,
       "Iran oil": 2,
       "Federal Reserve": 2,
-      "Bitcoin": 53
+      "Bitcoin": 44
     },
     "trending_searches": []
   },
@@ -198,18 +211,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4220.3,
-      "change_pct": 1.52,
+      "price": 4216.3,
+      "change_pct": 1.43,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 91.66,
-      "change_pct": 0.19,
+      "price": 91.85,
+      "change_pct": 0.39,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 82588.82,
-      "change_pct": 1.12,
+      "price": 82991.5,
+      "change_pct": 0.54,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
