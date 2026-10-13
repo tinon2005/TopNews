@@ -1,238 +1,238 @@
 {
-  "date": "2026年10月12日",
-  "date_iso": "2026-10-12",
-  "generated_at": "2026-10-12T07:24:47.167668+08:00",
+  "date": "2026年10月13日",
+  "date_iso": "2026-10-13",
+  "generated_at": "2026-10-13T09:46:32.745095+08:00",
   "newsapi": [
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
-      "title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067",
-      "urlToImage": null,
-      "publishedAt": "2026-10-10T20:00:37Z",
+      "author": "Carol Ryan",
+      "title": "Home Sellers Are Starting to Blink on Prices. That’s Bad for Builders. - WSJ",
+      "description": "Competition for buyers is heating up, which will force companies like Lennar and KB Home to beef up incentives",
+      "url": "https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f",
+      "urlToImage": "https://images.wsj.net/im-27505234/social",
+      "publishedAt": "2026-10-12T02:01:23Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Sarah Davis",
-      "title": "Philadelphia police receive false homicide tip from Anthropic AI model - The Hill",
-      "description": "Anthropic’s artificial intelligence model submitted a false homicide tip to the Philadelphia Police Department in July, the company disclosed on Friday.  The AI firm said its Claude Haiku 4.5 model filled out a form on a website page soliciting the public’s h…",
-      "url": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Elsewhere-Iran_090626_AP_Vahid-Salemi_e48e8d.jpg?w=1280",
-      "publishedAt": "2026-10-10T19:31:00Z",
-      "content": "Skip to content\r\nAnthropic’s artificial intelligence model submitted a false homicide tip to the Philadelphia Police Department in July, the company disclosed on Friday. \r\nThe AI firm said its Claude… [+2056 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI - Financial Times",
-      "description": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-10-10T18:14:28Z",
-      "content": null
+      "author": "Anniek Bao",
+      "title": "Why China is importing a record amount of gold — and what it means for prices - CNBC",
+      "description": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
+      "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108375012-1791434896477-gettyimages-2179215252-vcg111524625398.jpeg?v=1791434922&w=1920&h=1080",
+      "publishedAt": "2026-10-12T00:51:00Z",
+      "content": "HANGZHOU, CHINA - OCTOBER 18: Gold bars are on display at a gold jewelry store on October 18, 2024 in Hangzhou, Zhejiang Province of China. \r\nChina's central bank has bought gold for 23 straight mont… [+4461 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "WSJ",
-      "title": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/retail/how-a-western-consumer-giant-is-thriving-on-chinas-social-media-shoppers-386dccc3",
-      "urlToImage": null,
-      "publishedAt": "2026-10-10T18:02:32Z",
-      "content": null
+      "author": "Landon Mion",
+      "title": "Baby bath seats sold on Amazon recalled over deadly drowning hazard - Fox Business",
+      "description": "Baby bath seats sold on Amazon are under a recall because they are unstable and can tip over while in use, posing a risk of serious injury or even death from drowning.",
+      "url": "https://www.foxbusiness.com/economy/baby-bath-seats-sold-amazon-recalled-over-deadly-drowning-hazard",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/baby-bath-recall-alert.png?ve=1&tl=1",
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "content": "More than 2,000 baby bath seats are facing a recall over a hazard that federal regulators say could potentially cause injury or death to children.\r\nAbout 2,140 ONTHEWEI-branded baby bath seats are af… [+1890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lee Ying Shan, Sarah Min",
+      "title": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates - CNBC",
+      "description": "Investors are looking ahead to a busy week of earnings results from the big banks and inflation data.",
+      "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364036-1791477091930-108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks-1.jpg?v=1791477101&w=1920&h=1080",
+      "publishedAt": "2026-10-11T23:52:07Z",
+      "content": "S&amp;P 500 futures were little changed on Sunday night after the major averages posted a winning week, as investors looked ahead to a busy week of earnings results and inflation data. \r\nFutures tied… [+2376 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "David Hollerith",
-      "title": "Wall Street banks had a blockbuster first half. Higher rates will test the boom. - Yahoo Finance",
-      "description": "Wall Street's biggest banks entered the second half of 2026 after one of their most profitable six-month runs in at least a decade. Then interest rates surge...",
-      "url": "https://finance.yahoo.com/markets/article/wall-street-banks-had-a-blockbuster-first-half-higher-rates-will-test-the-boom-180220191.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f891b6f5cb5716d6dfc107c32f00cf99757097df93bc0bdd882bfa2700c28182/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F63d0b31f-fd76-4653-914d-8551f24f12cf",
-      "publishedAt": "2026-10-10T18:02:20Z",
-      "content": "Wall Street's biggest banks entered the second half of 2026 after one of their most profitable six-month runs in at least a decade. Then interest rates surged.\r\nWhen they kick off third quarter earni… [+4281 chars]"
+      "author": "Chris Katje",
+      "title": "Elon Musk’s 250,000 Cybertruck Goal Falls Well Short: New Data Shows Only 13% of Goal Sold Annually - Yahoo Finance",
+      "description": "Elon Musk had ambitious goals for the Cybertruck, the electric pickup truck released by Tesla Inc in 2023. Three years later, the goals have been crushed and...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-250-000-cybertruck-233010061.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2e93029e0c452930573cdcb3f3fcea5551143415e8724b4e90b420ff90dddcfe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fb4565d67c024bd20a8fe4f989b1a9082.jpg",
+      "publishedAt": "2026-10-11T23:30:10Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nElon Musk had ambitious goals for the Cybertruck, the electric pickup truck released by Tesla Inc… [+8024 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 21:36:40 GMT"
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 21:20:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 22:45:58 GMT"
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 20:17:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 17:27:24 GMT"
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 05:00:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "description": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 21:12:44 GMT"
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 01:26:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 12:03:52 GMT"
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 00:12:25 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 14:38:10 GMT"
+      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+      "description": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 16:46:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Orangutans released back into Borneo forest after devastating fires",
-      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 19:08:04 GMT"
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
+      "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 22:05:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 15:18:52 GMT"
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 18:31:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Iran war threatens Healey's Budget plans, think tank warns",
-      "description": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+      "title": "I earn £120,000 a year making social media videos go viral",
+      "description": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
+      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 23:01:45 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Heating oil customers face tough winter despite shake-up promise",
+      "description": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 23:02:24 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "description": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 01:36:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+      "description": "Meeting travellers' expectations could be challenging, experts warn.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 23:37:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+      "description": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
       "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 23:04:07 GMT"
+      "publishedAt": "Mon, 12 Oct 2026 08:50:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Debt advice that may leave you owing even more money",
+      "title": "How to avoid getting stung if you miss credit card payments",
       "description": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
       "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 23:19:07 GMT"
+      "publishedAt": "Mon, 12 Oct 2026 09:11:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Roofing scammers con homeowners out of thousands of pounds",
-      "description": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 23:19:49 GMT"
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 18:31:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "AI is less regulated than milk, says Microsoft president",
-      "description": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 23:07:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Citroen revives the 2CV for an electric age",
-      "description": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
-      "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 17:00:05 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 14:24:14 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 22:30:22 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 11 Oct 2026 14:38:10 GMT"
+      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+      "description": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 12 Oct 2026 15:03:42 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 1,
-      "GLP-1": 8,
+      "AI stocks": 2,
+      "GLP-1": 9,
       "Iran oil": 2,
-      "Federal Reserve": 2,
-      "Bitcoin": 52
+      "Federal Reserve": 3,
+      "Bitcoin": 54
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 27366.17,
-      "change_pct": -0.63,
+      "price": 27245.9,
+      "change_pct": 0.19,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7811.54,
-      "change_pct": 0.13,
+      "price": 7807.24,
+      "change_pct": 0.54,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51654.95,
-      "change_pct": 0.93,
+      "price": 51850.55,
+      "change_pct": 1.21,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4214.9,
-      "change_pct": -0.03,
+      "price": 4180.3,
+      "change_pct": -0.25,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 92.2,
-      "change_pct": 0.38,
+      "price": 92.92,
+      "change_pct": -0.87,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 83587.67,
-      "change_pct": 0.81,
+      "price": 82253.39,
+      "change_pct": 0.61,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": 0.05,
+      "change_pct": 0.03,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.68,
-      "change_pct": -0.28,
+      "price": 6.69,
+      "change_pct": 0.16,
       "symbol": "CNY=X"
     }
   }
