@@ -1,238 +1,238 @@
 {
-  "date": "2026年10月13日",
-  "date_iso": "2026-10-13",
-  "generated_at": "2026-10-13T09:46:32.745095+08:00",
+  "date": "2026年10月14日",
+  "date_iso": "2026-10-14",
+  "generated_at": "2026-10-14T07:34:20.577283+08:00",
   "newsapi": [
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "Carol Ryan",
-      "title": "Home Sellers Are Starting to Blink on Prices. That’s Bad for Builders. - WSJ",
-      "description": "Competition for buyers is heating up, which will force companies like Lennar and KB Home to beef up incentives",
-      "url": "https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f",
-      "urlToImage": "https://images.wsj.net/im-27505234/social",
-      "publishedAt": "2026-10-12T02:01:23Z",
-      "content": null
+      "author": "Krystal Hur, Hannah Erin Lang, David Benoit, WSJ Staff, Katherine Hamilton, Meghan Bobrowsky, Nick Kostov, Gunjan Banerji, Vicky Ge Huang, Liz Young, Ed Ballard, Giulia Petroni, Xavier Martinez, Dominic Chopping, Heather Gillers",
+      "title": "Stock Market Today: Dow Edges Up, Oil Gains on Fresh Energy Strikes in Ukraine — Live Updates - WSJ",
+      "description": "Dow industrials rise, energy stocks hit record",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026",
+      "urlToImage": "https://images.wsj.net/im-925351/social",
+      "publishedAt": "2026-10-12T22:30:00Z",
+      "content": "Oil prices strengthened Monday after Russia pounded Ukrainian energy targets, hours after President Trump declared an energy ceasefire between the two countries.\r\nThe S&amp;P 500 Energy Sector closed… [+1031 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "WTVD-TV"
       },
-      "author": "Anniek Bao",
-      "title": "Why China is importing a record amount of gold — and what it means for prices - CNBC",
-      "description": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
-      "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108375012-1791434896477-gettyimages-2179215252-vcg111524625398.jpeg?v=1791434922&w=1920&h=1080",
-      "publishedAt": "2026-10-12T00:51:00Z",
-      "content": "HANGZHOU, CHINA - OCTOBER 18: Gold bars are on display at a gold jewelry store on October 18, 2024 in Hangzhou, Zhejiang Province of China. \r\nChina's central bank has bought gold for 23 straight mont… [+4461 chars]"
+      "author": "Elaina Athans",
+      "title": "Flight disruptions cause more than 200 delays at RDU: 'It's a mess' - ABC11 News",
+      "description": "RDU Airport travelers faced widespread problems after an FAA ground stop led to delays and cancellations.",
+      "url": "https://abc11.com/post/flight-disruptions-cause-more-180-delays-rdu-mess/19932781/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19933242_101226-wtvdd-rdu-cut-clean-img.jpg?w=1600",
+      "publishedAt": "2026-10-12T22:26:40Z",
+      "content": "MORRISVILLE, N.C. (WTVD) -- Travelers at Raleigh-Durham International Airport faced widespread disruptions after an FAA ground stop led to delays and cancellations, including one international travel… [+1254 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Landon Mion",
-      "title": "Baby bath seats sold on Amazon recalled over deadly drowning hazard - Fox Business",
-      "description": "Baby bath seats sold on Amazon are under a recall because they are unstable and can tip over while in use, posing a risk of serious injury or even death from drowning.",
-      "url": "https://www.foxbusiness.com/economy/baby-bath-seats-sold-amazon-recalled-over-deadly-drowning-hazard",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/baby-bath-recall-alert.png?ve=1&tl=1",
-      "publishedAt": "2026-10-12T00:00:00Z",
-      "content": "More than 2,000 baby bath seats are facing a recall over a hazard that federal regulators say could potentially cause injury or death to children.\r\nAbout 2,140 ONTHEWEI-branded baby bath seats are af… [+1890 chars]"
+      "author": "Steve Kopack",
+      "title": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine - NBC News",
+      "description": "Oil and gas prices rose Monday after an “energy ceasefire” announced by President Donald Trump on Sunday failed to gain traction.",
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-trump-energy-ceasefire-fails-rcna603031",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260330-gas-station-rs-8b7e90.jpg",
+      "publishedAt": "2026-10-12T21:42:27Z",
+      "content": "Oil and gas prices rose Monday after an energy ceasefire announced by President Donald Trump on Sunday failed to gain traction.\r\nBrent crude oil jumped 2% to almost $108 per barrel and U.S. crude oil… [+5305 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Lee Ying Shan, Sarah Min",
-      "title": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates - CNBC",
-      "description": "Investors are looking ahead to a busy week of earnings results from the big banks and inflation data.",
-      "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364036-1791477091930-108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks-1.jpg?v=1791477101&w=1920&h=1080",
-      "publishedAt": "2026-10-11T23:52:07Z",
-      "content": "S&amp;P 500 futures were little changed on Sunday night after the major averages posted a winning week, as investors looked ahead to a busy week of earnings results and inflation data. \r\nFutures tied… [+2376 chars]"
+      "author": "Will Flannigan",
+      "title": "Individual Investors Are Trading at Meme-Stock Levels | What’s News for Oct. 12 - WSJ",
+      "description": "Plus, Trump’s manufacturing plans face reality, and Meta’s launches a new AI model",
+      "url": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0",
+      "urlToImage": "https://images.wsj.net/im-49658545/social",
+      "publishedAt": "2026-10-12T21:32:38Z",
+      "content": "This is an edition of the Whats News newsletter, which helps you catch up on the headlines and understand the news, free in your inbox daily. If youre not subscribed, sign up here.\r\n1. Individual inv… [+568 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Chris Katje",
-      "title": "Elon Musk’s 250,000 Cybertruck Goal Falls Well Short: New Data Shows Only 13% of Goal Sold Annually - Yahoo Finance",
-      "description": "Elon Musk had ambitious goals for the Cybertruck, the electric pickup truck released by Tesla Inc in 2023. Three years later, the goals have been crushed and...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-250-000-cybertruck-233010061.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2e93029e0c452930573cdcb3f3fcea5551143415e8724b4e90b420ff90dddcfe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fb4565d67c024bd20a8fe4f989b1a9082.jpg",
-      "publishedAt": "2026-10-11T23:30:10Z",
-      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nElon Musk had ambitious goals for the Cybertruck, the electric pickup truck released by Tesla Inc… [+8024 chars]"
+      "author": null,
+      "title": "AI’s Giant Money Loop Is Drawing Foreign Cash Like 2008 - Bloomberg.com",
+      "description": "A circular funding model is accelerating the AI boom, but also amplifying imbalances — reviving memories of the global financial crisis",
+      "url": "https://www.bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaeKTiTIwY54/v1/1200x800.jpg",
+      "publishedAt": "2026-10-12T21:00:03Z",
+      "content": "If you want to understand the way capital is flowing around the world right now and the new stress points forming, take a drive outside Washington to Loudoun County, Virginia. Two decades ago, it was… [+510 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 21:20:51 GMT"
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 20:46:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 20:17:37 GMT"
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 05:00:52 GMT"
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 15:52:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 01:26:02 GMT"
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 22:29:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 00:12:25 GMT"
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 19:51:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-      "description": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 16:46:49 GMT"
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 18:25:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Immigration agents search congresswoman Ilhan Omar's home",
-      "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 22:05:31 GMT"
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "description": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 19:23:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 18:31:32 GMT"
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 22:14:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "I earn £120,000 a year making social media videos go viral",
-      "description": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 23:01:45 GMT"
+      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 23:03:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Heating oil customers face tough winter despite shake-up promise",
-      "description": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 23:02:24 GMT"
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "description": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 23:04:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-      "description": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "title": "Three things we've learnt about the UK economy from the IMF",
+      "description": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 11:58:43 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+      "description": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 01:36:36 GMT"
+      "publishedAt": "Tue, 13 Oct 2026 15:59:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-      "description": "Meeting travellers' expectations could be challenging, experts warn.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 23:37:00 GMT"
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-      "description": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-      "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 08:50:22 GMT"
+      "title": "How long will humans be needed for translation?",
+      "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 23:05:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "How to avoid getting stung if you miss credit card payments",
-      "description": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 09:11:46 GMT"
+      "title": "Poundland in rescue talks as owners seek buyer",
+      "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 12:17:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 18:31:32 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-      "description": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 15:03:42 GMT"
+      "title": "BA flight forced to turn back over cracked window",
+      "description": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 11:48:07 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 9,
+      "AI stocks": 1,
+      "GLP-1": 8,
       "Iran oil": 2,
-      "Federal Reserve": 3,
+      "Federal Reserve": 2,
       "Bitcoin": 54
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 27245.9,
-      "change_pct": 0.19,
+      "price": 27204.38,
+      "change_pct": -0.59,
       "symbol": "^IXIC"
     },
     "S&P 500": {
       "price": 7807.24,
-      "change_pct": 0.54,
+      "change_pct": -0.06,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51850.55,
-      "change_pct": 1.21,
+      "price": 51850.6,
+      "change_pct": 0.38,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4180.3,
-      "change_pct": -0.25,
+      "price": 4179.0,
+      "change_pct": -0.28,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 92.92,
-      "change_pct": -0.87,
+      "price": 94.66,
+      "change_pct": 0.98,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 82253.39,
-      "change_pct": 0.61,
+      "price": 83128.3,
+      "change_pct": 1.67,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.32,
-      "change_pct": 0.03,
+      "price": 1.33,
+      "change_pct": 0.33,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.69,
-      "change_pct": 0.16,
+      "price": 6.68,
+      "change_pct": -0.15,
       "symbol": "CNY=X"
     }
   }
