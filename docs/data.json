@@ -1,160 +1,186 @@
 {
-  "date": "2026年10月15日",
-  "date_iso": "2026-10-15",
-  "generated_at": "2026-10-15T06:56:25.831919+08:00",
+  "date": "2026年10月16日",
+  "date_iso": "2026-10-16",
+  "generated_at": "2026-10-16T06:51:34.086240+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "The Points Guy"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Sean Cudahy",
-      "title": "United ditches flight segments, raises bar for 1K in Premier status shakeup - The Points Guy",
-      "description": "United will stop counting the number of flights its MileagePlus members take and instead require them to focus on spending-based PQPs for status.",
-      "url": "https://thepointsguy.com/news/united-airlines-premier-elite-status-shakeup/",
-      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/06/image00033.jpeg",
-      "publishedAt": "2026-10-13T21:44:09Z",
-      "content": "United Airlines is making a big change to how its frequent flyers earn elite status.\r\nBeginning in 2027, the carrier will stop counting the number of flights its MileagePlus members take when awardin… [+7504 chars]"
+      "author": "NBC 5 Chicago",
+      "title": "Major Chicago-area health systems Endeavor, Rush University announce plans to merge - NBC 5 Chicago",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3ZVLWR2WnJtUkVLMmRYWVpMbmthZ2RjZGNwUnhGZl9XdEF4eW1GOE95UFBnRUhwbjBJQW5VMEVZTnJKVmpUTU9kYjV3TEx6RldBN2h0Y2JwTFdvRVR2YzI2enNXNHd1R3NFbl9VeDAzQlRBX0VvUGFsdk1jd3V0QWx5Yk5pdk95c1AxUVhZakoyb053WVAzZThQZkhNVVhaMjR0c3lWUmFVdTVWdDlrQzJIeGRzaWPSAb8BQVVfeXFMT0VDNC1TZXBsZkY0R1BFbmNmSjZiYzFZLTJ0aUlPeU54RmVldTZRZnJ0aFJINEQxQjBxaW0xSW51MUR3S3YwZ0VIYU1BMXpEaHhuQ0NXbGkyenlWV25acWpGTF9Ca0FVa3ZDUmdrU3JlM3FsTDlaZFIxMHhtMkk5UjdHNkFLamFOZTF6N1o4VHAwUWdSVlBYams1M29NUVc5bDcyZ3pNWHNtRTUzLWZFYlJTbTA2UEctTzV6RDhjTEk?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T22:11:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Financial Times",
+      "title": "Anthropic revenue jumps to $16.8bn in third quarter - Financial Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T22:06:31Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Fox Business"
       },
-      "author": "Eric Revell",
-      "title": "Social Security chief Bisignano says program will 'be around for another 90 years' - Fox Business",
-      "description": "Social Security Administration Commissioner Frank Bisignano says the program will last another 90 years even as the trust fund nears insolvency.",
-      "url": "https://www.foxbusiness.com/politics/social-security-chief-bisignano-says-program-be-around-another-90-years",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/frank-bisignano-irs-getty.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-13T21:02:00Z",
-      "content": "Social Security Administration Commissioner Frank Bisignano said in an interview Monday that the entitlement program will be around for another 90 years as a key trust fund approaches insolvency.\r\nBi… [+4002 chars]"
+      "author": "Sophia Compton",
+      "title": "Skydance shares plunge after company distributes nearly 471 million warrants - Fox Business",
+      "description": "Skydance shares closed down 22.2% Wednesday after the media giant distributed nearly 471 million stock warrants to eligible shareholders.",
+      "url": "https://www.foxbusiness.com/markets/skydance-shares-plunge-after-company-distributes-nearly-471m-warrants",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/skydance-on-building.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-14T21:51:00Z",
+      "content": "Shares of Skydance Corp. fell Wednesday after the newly formed media giant distributed nearly 471 million stock warrants to shareholders.\r\nSkydance shares fell as much as 26% in Wednesday trading, tr… [+2500 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Sean Conlon, Justina Lee, Fred Imbert",
-      "title": "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline - CNBC",
-      "description": "Traders digested a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure on memory names.",
-      "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369465-1790695901856-gettyimages-2297721539-anotherday276803168_qetmyu8g.jpeg?v=1790696070&w=1920&h=1080",
-      "publishedAt": "2026-10-13T20:31:00Z",
-      "content": "The S&amp;P 500 ended near the flatline on Tuesday, with traders digesting a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure … [+1710 chars]"
+      "author": "The Points Guy",
+      "title": "Delta One gets a boozy upgrade with $200 wines, luxe dining and new suites on the way - The Points Guy",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTcUNOWFRiaFZrOTVVTFFOYWNUbktRa2RDODJ1T1p4V0w2S01pd0R5MG13QTVSblJBQloxQ1dwV1FCeDhNa09IMWY3b3FmaTZGckUxNENsM3dZdzJ4T1lFRUo3N1dxUnI3SkI1d0dlQmp3MEFwYmExb1Ata3piQQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T21:29:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Aimee  Picchi",
+      "title": "Top U.S. banks dropped customers over political and religious views, regulator says - CBS News",
+      "description": "The Office of the Comptroller of the Currency said nine of the top U.S. banks \"debanked\" customers over their political or religious views.",
+      "url": "https://www.cbsnews.com/news/debanking-top-us-banks-occ-report/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/14/51028ba4-ce54-4f17-8a85-64bde41d2034/thumbnail/1200x630/3d5dca9718b4c0f6377d0e080b3ff4f6/gettyimages-56143264.jpg",
+      "publishedAt": "2026-10-14T20:42:04Z",
+      "content": "Top U.S. banks have \"debanked\" customers because of their political or religious views, as well as their business activities, according to a report from the Treasury Department's Office of the Comptr… [+2942 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-      "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 20:55:24 GMT"
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Student protesters attack government buildings in Tirana",
-      "description": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
-      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 20:29:05 GMT"
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 17:47:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "description": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 15:12:46 GMT"
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 16:50:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 15:26:14 GMT"
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "description": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 16:52:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "description": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:41:51 GMT"
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 15:26:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "description": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 22:31:10 GMT"
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+      "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 17:18:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Kenya confirms second Ebola case - a relative of the first victim",
-      "description": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 17:23:01 GMT"
+      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+      "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 15:00:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 16:47:32 GMT"
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 14:51:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-      "description": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 17:46:30 GMT"
+      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 17:14:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 16:47:32 GMT"
+      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "description": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 14:55:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 15:54:04 GMT"
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 11:34:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-      "description": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-      "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 11:04:12 GMT"
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "description": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 17:19:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
-      "description": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
-      "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:45:34 GMT"
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 23:02:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "How long will humans be needed for translation?",
-      "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 23:05:29 GMT"
+      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+      "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
+      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 23:01:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 15:26:14 GMT"
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "description": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 15 Oct 2026 13:25:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-      "description": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 11:57:22 GMT"
+      "title": "How much is the minimum wage?",
+      "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 23:01:11 GMT"
     }
   ],
   "reuters": [],
@@ -163,50 +189,50 @@
       "AI stocks": 2,
       "GLP-1": 9,
       "Iran oil": 2,
-      "Federal Reserve": 2,
-      "Bitcoin": 59
+      "Federal Reserve": 3,
+      "Bitcoin": 72
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26692.87,
-      "change_pct": -2.03,
+      "price": 26713.03,
+      "change_pct": -1.81,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7718.94,
-      "change_pct": -1.13,
+      "price": 7744.06,
+      "change_pct": -0.79,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51621.48,
-      "change_pct": -0.44,
+      "price": 52177.69,
+      "change_pct": 0.98,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4131.6,
-      "change_pct": -1.09,
+      "price": 4187.7,
+      "change_pct": 1.94,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 95.03,
-      "change_pct": 0.95,
+      "price": 96.09,
+      "change_pct": 1.05,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 81566.65,
-      "change_pct": -1.84,
+      "price": 82398.94,
+      "change_pct": 1.03,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.32,
-      "change_pct": -0.02,
+      "price": 1.33,
+      "change_pct": 0.11,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.69,
-      "change_pct": -0.07,
+      "change_pct": -0.02,
       "symbol": "CNY=X"
     }
   }
