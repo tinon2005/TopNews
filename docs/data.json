@@ -1,7 +1,7 @@
 {
-  "date": "2026年10月17日",
-  "date_iso": "2026-10-17",
-  "generated_at": "2026-10-17T06:26:19.661275+08:00",
+  "date": "2026年10月18日",
+  "date_iso": "2026-10-18",
+  "generated_at": "2026-10-18T05:56:52.696476+08:00",
   "newsapi": [
     {
       "source": {
@@ -9,51 +9,38 @@
         "name": "Google News"
       },
       "author": "Reuters",
-      "title": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
+      "title": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh - Reuters",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-15T21:48:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "WSJ",
-      "title": "Stock Market Today: Investors Boost Dow, Treasurys as They Rotate Out of Tech — Live Updates - WSJ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2pSZmFBRTNfZ0ZmczFBcXBBRlUxV3RNTkV6ZzJiN2s4UGhod3RwVVZLbWY2YVNqejB1ZE9adDVyTDBXUnFsY3VGTHI3clVCUmlHUzBIcVFYTmt4T3FxMkxkdkd2eTgwZDNQbENLUGNnU3JJU0JnNW1odEF5bTgzemd3RGphTjg?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T21:27:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware - Ars Technica",
-      "description": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
-      "publishedAt": "2026-10-15T20:32:41Z",
+      "publishedAt": "2026-10-16T20:33:09Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Top Gear"
+        "name": "Fox Business"
       },
-      "author": "Top Gear",
-      "title": "Mission… accepted: meet the stunning new mid-engined Porsche Mission S - Top Gear",
-      "description": "And it’s a full production supercar, not a limited-edition hypertoy. Oooft",
-      "url": "https://www.topgear.com/car-news/supercars/mission-accepted-meet-stunning-new-mid-engined-porsche-mission-s",
-      "urlToImage": "https://www.topgear.com/sites/default/files/images/news-article/2026/10/c149b026573089e10069fd87245b0863/CC27X05IX0009_sRGB_072dpi.jpg?w=1280&h=720",
-      "publishedAt": "2026-10-15T20:30:00Z",
-      "content": "SupercarsAnd its a full production supercar, not a limited-edition hypertoy. Oooft\r\nPorsche is on the ropes. Its profits once the envy of many a carmaker fell off a cliff last year, plunging a whoppi… [+3578 chars]"
+      "author": "Matthew Kazin",
+      "title": "Hyundai recalls more than 94,000 vehicles over fire risk - Fox Business",
+      "description": "The National Highway Traffic Safety Administration reports Hyundai is recalling more than 94,000 Genesis G80 and Hyundai Genesis sedans over a fire risk.",
+      "url": "https://www.foxbusiness.com/lifestyle/hyundai-recalls-more-than-94000-vehicles-over-fire-risk",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/genesis-g80-2017.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-16T19:00:00Z",
+      "content": "Hyundai is recalling 94,622 vehicles over a fire risk associated with the overheating of motors on powered front seats, according to a National Highway Traffic Safety Administration recall report.\r\n\"… [+1949 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Carmen Arroyo, Min-Jeong Lee, Manuel Baigorri, Paula Sambo",
+      "title": "SoftBank Is Said to Weigh Buying Top US Security Firm Allied - Bloomberg.com",
+      "description": "SoftBank Group Corp. is considering an acquisition of Allied Universal, the largest security services company in the US, people familiar with the matter said, as founder Masayoshi Son explores ways to deploy AI-powered robots across industries.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyQR8RBHhUzE/v7/1200x800.jpg",
+      "publishedAt": "2026-10-16T18:50:18Z",
+      "content": "SoftBank Group Corp. is considering an acquisition of Allied Universal, the largest security services company in the US, people familiar with the matter said, as founder Masayoshi Son explores ways t… [+239 chars]"
     },
     {
       "source": {
@@ -61,70 +48,83 @@
         "name": "Google News"
       },
       "author": "NBC News",
-      "title": "Will the Fed raise interest rates this month? A Kevin Warsh speech could offer clues - NBC News",
+      "title": "Oil surges to $110 per barrel for the first time since May - NBC News",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-15T20:28:24Z",
+      "publishedAt": "2026-10-16T18:46:18Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "With Tesla Roadster debut, Elon Musk shows \"flying cars are real\" - CBS News",
+      "description": "Elon Musk unveiled Tesla's new Roadster, which uses high-pressure air thrusters to leave the road entirely during a livestreamed event at his SpaceX facility in Texas.",
+      "url": "https://www.cbsnews.com/news/tesla-roadster-debut-elon-musk-flying-cars-are-real/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/16/613c6d1a-f6da-4dec-a998-fe18b329395c/thumbnail/1200x630/e30506500275e553af92162e998f9f6f/tesla-roadster.jpg",
+      "publishedAt": "2026-10-16T17:57:00Z",
+      "content": "Tesla CEO Elon Musk unveiled what he described as a \"flying\" car, equipped with thrusters, during a livestreamed event at his SpaceX rocket company's facility on Thursday.\r\nTechnical and regulatory c… [+3845 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 16:00:30 GMT"
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 20:52:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 14:31:04 GMT"
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 19:19:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "description": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 19:33:48 GMT"
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 18:38:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 14:36:39 GMT"
+      "title": "Anti-government protesters battle with police in Albania",
+      "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 20:53:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 11:44:31 GMT"
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 19:19:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 14:21:32 GMT"
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 09:58:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "description": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 05:00:17 GMT"
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 03:11:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Albanian protests turn violent: What we know",
-      "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 14:33:32 GMT"
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 12:11:58 GMT"
     },
     {
       "source": "BBC",
@@ -186,11 +186,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 3,
-      "GLP-1": 9,
+      "AI stocks": 1,
+      "GLP-1": 7,
       "Iran oil": 2,
-      "Federal Reserve": 3,
-      "Bitcoin": 67
+      "Federal Reserve": 2,
+      "Bitcoin": 66
     },
     "trending_searches": []
   },
@@ -211,23 +211,23 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4186.7,
-      "change_pct": 0.4,
+      "price": 4181.1,
+      "change_pct": 0.26,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 99.04,
-      "change_pct": 1.09,
+      "price": 99.02,
+      "change_pct": 1.07,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 81651.25,
-      "change_pct": -0.6,
+      "price": 80915.0,
+      "change_pct": -0.72,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": 0.75,
+      "change_pct": 0.76,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
