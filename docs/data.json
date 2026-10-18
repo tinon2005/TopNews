@@ -1,95 +1,110 @@
 {
-  "date": "2026年10月18日",
-  "date_iso": "2026-10-18",
-  "generated_at": "2026-10-18T05:56:52.696476+08:00",
+  "date": "2026年10月19日",
+  "date_iso": "2026-10-19",
+  "generated_at": "2026-10-19T06:10:59.713391+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Reuters",
-      "title": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh - Reuters",
+      "author": "Anthony Ha",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings - TechCrunch",
+      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "publishedAt": "2026-10-17T20:21:19Z",
+      "content": "The composition of Anthropics workforce and the type of work getting done have changed significantly in the past year, according to a report that the AI company published on Friday.\r\nAnthropic argues… [+2435 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "SoftBank in Early Talks to Buy Allied Universal - WSJ",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
+      "url": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66",
       "urlToImage": null,
-      "publishedAt": "2026-10-16T20:33:09Z",
+      "publishedAt": "2026-10-17T18:14:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Matthew Kazin",
-      "title": "Hyundai recalls more than 94,000 vehicles over fire risk - Fox Business",
-      "description": "The National Highway Traffic Safety Administration reports Hyundai is recalling more than 94,000 Genesis G80 and Hyundai Genesis sedans over a fire risk.",
-      "url": "https://www.foxbusiness.com/lifestyle/hyundai-recalls-more-than-94000-vehicles-over-fire-risk",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/genesis-g80-2017.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-16T19:00:00Z",
-      "content": "Hyundai is recalling 94,622 vehicles over a fire risk associated with the overheating of motors on powered front seats, according to a National Highway Traffic Safety Administration recall report.\r\n\"… [+1949 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Carmen Arroyo, Min-Jeong Lee, Manuel Baigorri, Paula Sambo",
-      "title": "SoftBank Is Said to Weigh Buying Top US Security Firm Allied - Bloomberg.com",
-      "description": "SoftBank Group Corp. is considering an acquisition of Allied Universal, the largest security services company in the US, people familiar with the matter said, as founder Masayoshi Son explores ways to deploy AI-powered robots across industries.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyQR8RBHhUzE/v7/1200x800.jpg",
-      "publishedAt": "2026-10-16T18:50:18Z",
-      "content": "SoftBank Group Corp. is considering an acquisition of Allied Universal, the largest security services company in the US, people familiar with the matter said, as founder Masayoshi Son explores ways t… [+239 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "NBC News",
-      "title": "Oil surges to $110 per barrel for the first time since May - NBC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-16T18:46:18Z",
+      "author": "Misty White Sidell",
+      "title": "Cool or Cringe? Readers Sound Off on the State of Midcentury Modern Design - WSJ",
+      "description": "Hundreds of you weighed in after I wrote that the style is in decline. Here’s what you had to say.",
+      "url": "https://www.wsj.com/style/design/midcentury-modern-design-833ca0d8",
+      "urlToImage": "https://images.wsj.net/im-66565752/social",
+      "publishedAt": "2026-10-17T17:04:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": null,
-      "title": "With Tesla Roadster debut, Elon Musk shows \"flying cars are real\" - CBS News",
-      "description": "Elon Musk unveiled Tesla's new Roadster, which uses high-pressure air thrusters to leave the road entirely during a livestreamed event at his SpaceX facility in Texas.",
-      "url": "https://www.cbsnews.com/news/tesla-roadster-debut-elon-musk-flying-cars-are-real/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/16/613c6d1a-f6da-4dec-a998-fe18b329395c/thumbnail/1200x630/e30506500275e553af92162e998f9f6f/tesla-roadster.jpg",
-      "publishedAt": "2026-10-16T17:57:00Z",
-      "content": "Tesla CEO Elon Musk unveiled what he described as a \"flying\" car, equipped with thrusters, during a livestreamed event at his SpaceX rocket company's facility on Thursday.\r\nTechnical and regulatory c… [+3845 chars]"
+      "author": "Andrew J. Hawkins",
+      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast - The Verge",
+      "description": "Mercedes-AMG announced the new GT SUV, its first electric SUV built in-house, from the ground up.",
+      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-17T17:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity.\r\nIt may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity.\r\nby\r\nA… [+5731 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 20:52:17 GMT"
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 20:33:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 19:19:19 GMT"
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 21:37:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "description": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 21:00:22 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 15:46:10 GMT"
     },
     {
       "source": "BBC",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 18:38:57 GMT"
+      "publishedAt": "Sun, 18 Oct 2026 12:16:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 19:53:27 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 01:10:25 GMT"
     },
     {
       "source": "BBC",
@@ -100,66 +115,38 @@
     },
     {
       "source": "BBC",
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 19:19:16 GMT"
+      "title": "There's a crackdown on sports piracy - but is it already out of control?",
+      "description": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 00:11:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-      "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 09:58:17 GMT"
+      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+      "description": "It comes after the prime minister refused to say whether he backed expansion.",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 03:57:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 03:11:10 GMT"
+      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+      "description": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 01:59:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 12:11:58 GMT"
+      "title": "What is the Budget and what could be in it?",
+      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 10:22:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Banks expect to be hit with higher taxes in Budget",
-      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 10:16:27 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Watch: Did Tesla really just unveil a flying car?",
-      "description": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 12:32:31 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "I find it quite demoralising in store - why I do all my shopping online",
-      "description": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-      "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 23:16:12 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "description": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 05:00:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-      "description": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
-      "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 14:55:21 GMT"
+      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+      "description": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 08:12:24 GMT"
     },
     {
       "source": "BBC",
@@ -170,27 +157,27 @@
     },
     {
       "source": "BBC",
-      "title": "'I paid thousands to a company for jobs that never came'",
-      "description": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 17:19:49 GMT"
+      "title": "'I took a chance on the whisky industry and I haven't looked back'",
+      "description": "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 08:12:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 23:02:57 GMT"
+      "title": "Banks expect to be hit with higher taxes in Budget",
+      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 16 Oct 2026 10:16:27 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 1,
-      "GLP-1": 7,
-      "Iran oil": 2,
+      "AI stocks": 3,
+      "GLP-1": 10,
+      "Iran oil": 3,
       "Federal Reserve": 2,
-      "Bitcoin": 66
+      "Bitcoin": 73
     },
     "trending_searches": []
   },
@@ -212,17 +199,17 @@
     },
     "黃金": {
       "price": 4181.1,
-      "change_pct": 0.26,
+      "change_pct": 0.0,
       "symbol": "GC=F"
     },
     "WTI 原油": {
       "price": 99.02,
-      "change_pct": 1.07,
+      "change_pct": -2.36,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 80915.0,
-      "change_pct": -0.72,
+      "price": 81463.96,
+      "change_pct": 0.1,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
@@ -231,8 +218,8 @@
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.68,
-      "change_pct": -0.24,
+      "price": 6.69,
+      "change_pct": -0.11,
       "symbol": "CNY=X"
     }
   }
