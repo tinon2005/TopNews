@@ -1,225 +1,232 @@
 {
-  "date": "2026年10月19日",
-  "date_iso": "2026-10-19",
-  "generated_at": "2026-10-19T06:10:59.713391+08:00",
+  "date": "2026年10月20日",
+  "date_iso": "2026-10-20",
+  "generated_at": "2026-10-20T07:15:56.767490+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Anthony Ha",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings - TechCrunch",
-      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "publishedAt": "2026-10-17T20:21:19Z",
-      "content": "The composition of Anthropics workforce and the type of work getting done have changed significantly in the past year, according to a report that the AI company published on Friday.\r\nAnthropic argues… [+2435 chars]"
+      "author": null,
+      "title": "Chick-fil-A CEO addresses whether fast-food chain would ever consider opening on Sundays - Fox News",
+      "description": "CEO Andrew Cathy says Chick-fil-A's Sunday closure is non-negotiable, revealing he's never even calculated the sales lost by staying closed.",
+      "url": "https://www.foxnews.com/food-drink/chick-fil-a-ceo-addresses-whether-fast-food-chain-would-ever-consider-opening-sundays",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/andrewcathy.png",
+      "publishedAt": "2026-10-18T20:01:35Z",
+      "content": "Since its founding in 1946, fast-food chicken chain Chick-fil-A has remained closed on Sundays, and according to CEO Andrew Cathy, that policy will not be changing anytime soon.\r\n\"So it was open 24 h… [+2523 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "WSJ",
-      "title": "SoftBank in Early Talks to Buy Allied Universal - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66",
-      "urlToImage": null,
-      "publishedAt": "2026-10-17T18:14:00Z",
-      "content": null
+      "author": null,
+      "title": "Nearly 800,000 travelers just voted to name the absolute best cruise lines of 2026 - Fox News",
+      "description": "Princess Cruises topped the megaship category in Condé Nast Traveler's Readers' Choice Awards, beating Royal Caribbean International and MSC Cruises.",
+      "url": "https://www.foxnews.com/travel/nearly-800000-travelers-just-voted-name-absolute-best-cruise-lines-2026",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/people-watching-princess-cruises.jpg",
+      "publishedAt": "2026-10-18T18:16:51Z",
+      "content": "Travelers have named their favorite cruise lines for sailing aboard some of the biggest ships at sea.\r\nNearly 800,000 votes were cast in Condé Nast Traveler's 2026 Readers' Choice Awards, which ranke… [+2802 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Tastingtable.com"
       },
-      "author": "Misty White Sidell",
-      "title": "Cool or Cringe? Readers Sound Off on the State of Midcentury Modern Design - WSJ",
-      "description": "Hundreds of you weighed in after I wrote that the style is in decline. Here’s what you had to say.",
-      "url": "https://www.wsj.com/style/design/midcentury-modern-design-833ca0d8",
-      "urlToImage": "https://images.wsj.net/im-66565752/social",
-      "publishedAt": "2026-10-17T17:04:00Z",
-      "content": null
+      "author": "Michelle Welsch",
+      "title": "14 Must-Buy Fall Items At Costco Under $10 - Tasting Table",
+      "description": "With autumn now in full-swing, it's time to return to Costco for these $10-or-less fall-themed items that shoppers cannot get enough of.",
+      "url": "https://www.tastingtable.com/2287146/best-costco-fall-finds-under-10/",
+      "urlToImage": "https://www.tastingtable.com/img/gallery/14-must-buy-fall-items-at-costco-under-10/l-intro-1792016303.jpg",
+      "publishedAt": "2026-10-18T18:10:00Z",
+      "content": "We may receive a commission on purchases made from links.\r\nWhile fall can usher in displays of seasonal decorations and pumpkin pies in Costco's aisles, there are plenty of other products worth consi… [+839 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Andrew J. Hawkins",
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast - The Verge",
-      "description": "Mercedes-AMG announced the new GT SUV, its first electric SUV built in-house, from the ground up.",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-17T17:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity.\r\nIt may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity.\r\nby\r\nA… [+5731 chars]"
+      "author": "Jason Ma",
+      "title": "China looks like it's dumping Treasury debt but may actually be stashing it in Canada and Belgium - Fortune",
+      "description": "Canada's holdings of U.S. Treasuries soared to $465 billion in August from just $169 billion five years ago.",
+      "url": "https://fortune.com/2026/10/18/china-dedollarization-us-treasury-debt-holdings-stealth-canada-belgium-custodians/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2285581687-e1792339890779.jpg?resize=1200,600",
+      "publishedAt": "2026-10-18T17:58:00Z",
+      "content": "China was once the top holder of U.S. Treasuries but has been shedding its massive stockpile for years, fueling fears of de-dollarization, but official data may not fully capture Beijings actual port… [+3620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP team in Riyadh",
+      "title": "Saudi coalition, Houthis trade strikes as disruption spreads - Yahoo",
+      "description": "The Saudi-led coalition and Iran-backed Houthis traded strikes Sunday as fighting raged in the intensifying conflict that has disturbed life for residents of...",
+      "url": "https://www.yahoo.com/news/world/articles/saudi-landmark-closes-offices-chopper-094005166.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e907ce7a305eb596923b80e3528d3afb9d7dca76c0fdd812798a5060c79c43d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1f03068781725ad777046b3c394f3436.jpg",
+      "publishedAt": "2026-10-18T17:51:19Z",
+      "content": "The Saudi-led coalition and Iran-backed Houthis traded strikes Sunday as fighting raged in the intensifying conflict that has disturbed life for residents of the kingdom's capital Riyadh and war-wrac… [+4592 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 20:33:21 GMT"
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 21:14:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 21:37:56 GMT"
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 20:49:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "description": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
-      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 21:00:22 GMT"
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 17:18:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 15:46:10 GMT"
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 21:12:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 12:16:14 GMT"
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "description": "The two top tennis pros married in 2021 and have one child together.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 21:02:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "description": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 19:53:27 GMT"
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 13:42:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 01:10:25 GMT"
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 16:20:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anti-government protesters battle with police in Albania",
-      "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 20:53:00 GMT"
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "description": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 14:13:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "There's a crackdown on sports piracy - but is it already out of control?",
-      "description": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 00:11:09 GMT"
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "description": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 21:30:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "description": "It comes after the prime minister refused to say whether he backed expansion.",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 03:57:16 GMT"
+      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "description": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 23:00:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-      "description": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 01:59:48 GMT"
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "description": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 18:21:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "What is the Budget and what could be in it?",
-      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 10:22:17 GMT"
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 21:12:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-      "description": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
-      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 08:12:24 GMT"
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "description": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 16:46:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Living with a stink? Technology might help",
-      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 23:18:21 GMT"
+      "title": "Bikes 'not for jousting,' says Lime after duel video",
+      "description": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 15:44:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "'I took a chance on the whisky industry and I haven't looked back'",
-      "description": "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 08:12:17 GMT"
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 12:54:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Banks expect to be hit with higher taxes in Budget",
-      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 10:16:27 GMT"
+      "title": "Musk and Anthropic pledge public share giveaways",
+      "description": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 09:38:25 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 3,
-      "GLP-1": 10,
-      "Iran oil": 3,
-      "Federal Reserve": 2,
-      "Bitcoin": 73
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26140.03,
-      "change_pct": -2.07,
+      "price": 26430.89,
+      "change_pct": -1.06,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7659.44,
-      "change_pct": -0.77,
+      "price": 7690.73,
+      "change_pct": -0.69,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52002.41,
-      "change_pct": 0.74,
+      "price": 51966.03,
+      "change_pct": -0.41,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4181.1,
-      "change_pct": 0.0,
+      "price": 4155.2,
+      "change_pct": -0.12,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 99.02,
-      "change_pct": -2.36,
+      "price": 98.25,
+      "change_pct": -0.29,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 81463.96,
-      "change_pct": 0.1,
+      "price": 81897.29,
+      "change_pct": -0.15,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": 0.76,
+      "change_pct": -0.22,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.69,
-      "change_pct": -0.11,
+      "price": 6.67,
+      "change_pct": -0.3,
       "symbol": "CNY=X"
     }
   }
