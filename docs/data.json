@@ -1,33 +1,59 @@
 {
-  "date": "2026年10月21日",
-  "date_iso": "2026-10-21",
-  "generated_at": "2026-10-21T06:54:09.256188+08:00",
+  "date": "2026年10月22日",
+  "date_iso": "2026-10-22",
+  "generated_at": "2026-10-22T06:59:11.356209+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Mary Walrath-Holdridge",
-      "title": "GLP-1 injections recalled nationwide. See affected products - USA Today",
-      "description": "These GLP-1 injections have been recalled nationwide. Here's the affected medication and reasoning behind the recall.",
-      "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/10/19/glp-1-injections-nationwide-recall/92332991007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/19/USAT/92334554007-getty-images-1216205233.jpg?crop=2120,1193,x0,y141&width=2120&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-19T21:26:00Z",
-      "content": "Compounded GLP-1 injections made by a pharmacy previously warned by the Food and Drug Administration about putting \"patients at risk\" have been recalled nationwide.\r\nApothecary Pharma LLC first initi… [+5171 chars]"
+      "author": "Ines Ferré",
+      "title": "Stock market today: Dow, S&P 500 rise, Nasdaq slips as investors await SpaceX, Netflix earnings - Yahoo Finance",
+      "description": "The Dow and S&P 500 rose as investors shifted focus to earnings from SpaceX and Netflix.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rises-sp-500-nasdaq-climb-as-dip-buying-resumes-165236471.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0434d0c9ffd04497733c35d26a87372c84cb1a2482af25e273b545ecffbfe478/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F594e0e08-dcf5-445d-a071-5434225ae7be",
+      "publishedAt": "2026-10-20T20:22:20Z",
+      "content": "Small caps are surging and health care just hit a record. Meanwhile, Big Tech is stalling.\r\nStocks opened mixed, with chip stocks (^SOX) sliding and oil c(CL=F) near a five-month high. The rally spre… [+1003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Leslie Josephs",
+      "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares - CNBC",
+      "description": "United Airlines cut its profit outlook for the year as fuel prices continued to climb.",
+      "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291389-1776197623988-gettyimages-2268673407-pn028980.jpeg?v=1779295760&w=1920&h=1080",
+      "publishedAt": "2026-10-20T20:03:05Z",
+      "content": "United Airlines is slashing its profit forecast for the year as fuel costs continue to bite, but the carrier said passengers keep booking.\r\nUnited said Tuesday that it expects to earn between 50 cent… [+1869 chars]"
     },
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "Bob Tita, Becky Peterson, Heather Gillers, Anthony DeBarros, Peter Santilli, WSJ Staff, Lizzy Lawrence, Xavier Martinez, Jack Pitcher, Gareth Vipers, Rebecca Feng, Sherry Qin",
-      "title": "Stock Market Today: Nasdaq Rebounds at Open After Friday's Tech Selloff — Live Updates - WSJ",
-      "description": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite, and oil prices.",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026",
-      "urlToImage": "https://images.wsj.net/im-925349/social",
-      "publishedAt": "2026-10-19T20:27:00Z",
-      "content": "Tech stocks staged a recovery today.\r\nAfter a bleak end to last week, the Nasdaq composite jumped 1.1%, while the S&amp;P 500 advanced 0.4% and the Dow industrials edged lower 0.1%.\r\nOil prices were … [+756 chars]"
+      "author": "WSJ",
+      "title": "Netflix Revenue Growth Slows as It Overhauls Programming Units - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/earnings/netflix-revenue-growth-slows-as-it-overhauls-programming-units-d6eac0b5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-20T20:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Meta Q3 earnings to test Wall Street's stomach for AI spending - Yahoo Finance",
+      "description": "Meta will report its third quarter earnings after the bell on Wednesday.",
+      "url": "https://finance.yahoo.com/technology/article/meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-184105375.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ede5306ea5ce20f91f7da11a3fc3314f52ae74e8e2e34e2ae7f597ac6cfe3339/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fc731ae03-dc35-4214-bf17-0513ebf8b746",
+      "publishedAt": "2026-10-20T18:41:05Z",
+      "content": "Meta (META) will kick off Big Tech's earnings season when it reports its third quarter results after the bell on Wednesday.\r\nFor the third quarter, Meta is expected to post earnings per share of $3.5… [+2265 chars]"
     },
     {
       "source": {
@@ -35,191 +61,172 @@
         "name": "TechCrunch"
       },
       "author": "Julie Bort",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool - TechCrunch",
-      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-      "publishedAt": "2026-10-19T20:09:24Z",
-      "content": "On Monday, Amazon Web Services released a tool called TorchNeuron that lets AI startups easily move their AI apps onto Amazon’s AI chip, Trainium. In doing so, Amazon is also taking a direct stab at … [+4092 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Nicole  Sganga",
-      "title": "Ex-OpenAI engineer accused of planting bug in office was in contact with Saudi royal family, preparing to leave U.S. - CBS News",
-      "description": "The wife and infant son of the ex-OpenAI engineer left the U.S. for Saudi Arabia in October with business-class tickets purchased by a Saudi military official, prosecutors allege.",
-      "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2bc483f3-4e81-48d0-9d84-1817175a377e/thumbnail/1200x630g6/5f41b8455fa82f1202f3c83ffdf8876a/image003-8.png",
-      "publishedAt": "2026-10-19T19:26:07Z",
-      "content": "A former OpenAI engineer who allegedly installed a sophisticated listening device in an executive conference room was in close contact with a member of the Saudi royal family and was planning to leav… [+4376 chars]"
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers - TechCrunch",
+      "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+      "publishedAt": "2026-10-20T18:38:24Z",
+      "content": "On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open-source project. With this, Google joins Amazon in trying to break Nvidias stranglehold on … [+2398 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 21:27:39 GMT"
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 21:27:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 12:08:06 GMT"
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 19:58:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Man charged with attack on Australia MP to face court",
-      "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
-      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 11:25:35 GMT"
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 14:04:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 20:00:57 GMT"
+      "title": "Pope does not need further treatment after lung cancer surgery",
+      "description": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 20:09:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 16:59:06 GMT"
+      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+      "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 18:10:42 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 19:30:05 GMT"
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 16:58:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 11:45:49 GMT"
+      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+      "description": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 20:19:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-      "description": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 15:58:57 GMT"
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 05:46:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "description": "Musk says special committees within both companies have been formed to look a possible mega-merger.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 22:43:56 GMT"
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 10:20:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Google resolves cloud outage affecting UK banks and websites",
-      "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 18:03:19 GMT"
+      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+      "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 10:16:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK government to make Jackdaw gas field announcement",
-      "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 17:33:42 GMT"
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 19:54:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 19:30:05 GMT"
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 21:49:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Audit regulator looking into Manchester City accounting",
-      "description": "No formal investigation has started, but the regulator is making inquiries into the case.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 20:56:53 GMT"
+      "title": "The tech helping crack decades-old cold cases",
+      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 23:13:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-      "description": "The government increased taxes on online casino and sports betting in last year's Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 15:53:13 GMT"
+      "title": "Burnham proposes plan to cut standing charges from gas bills",
+      "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 17:06:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Union attacks NatWest plans to get workers back to the office",
-      "description": "The bank says workers will be required to attend the office at least two days a week from February.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 14:50:19 GMT"
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 06:36:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 10:06:34 GMT"
+      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "description": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+      "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 17:04:13 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 8,
-      "Iran oil": 2,
-      "Federal Reserve": 3,
-      "Bitcoin": 61
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26424.82,
-      "change_pct": 1.09,
+      "price": 26702.86,
+      "change_pct": 1.03,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7712.57,
-      "change_pct": 0.69,
+      "price": 7757.17,
+      "change_pct": 0.86,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52495.88,
-      "change_pct": 0.95,
+      "price": 52856.09,
+      "change_pct": 1.71,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4140.8,
-      "change_pct": -0.46,
+      "price": 4149.1,
+      "change_pct": 0.16,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 98.18,
-      "change_pct": -5.29,
+      "price": 98.04,
+      "change_pct": -3.68,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 83000.0,
-      "change_pct": 1.4,
+      "price": 84425.25,
+      "change_pct": 1.79,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.28,
+      "change_pct": 0.62,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.67,
-      "change_pct": -0.35,
+      "change_pct": -0.38,
       "symbol": "CNY=X"
     }
   }
