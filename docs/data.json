@@ -1,33 +1,20 @@
 {
-  "date": "2026年10月22日",
-  "date_iso": "2026-10-22",
-  "generated_at": "2026-10-22T06:59:11.356209+08:00",
+  "date": "2026年10月23日",
+  "date_iso": "2026-10-23",
+  "generated_at": "2026-10-23T06:55:50.042123+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Ines Ferré",
-      "title": "Stock market today: Dow, S&P 500 rise, Nasdaq slips as investors await SpaceX, Netflix earnings - Yahoo Finance",
-      "description": "The Dow and S&P 500 rose as investors shifted focus to earnings from SpaceX and Netflix.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rises-sp-500-nasdaq-climb-as-dip-buying-resumes-165236471.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0434d0c9ffd04497733c35d26a87372c84cb1a2482af25e273b545ecffbfe478/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F594e0e08-dcf5-445d-a071-5434225ae7be",
-      "publishedAt": "2026-10-20T20:22:20Z",
-      "content": "Small caps are surging and health care just hit a record. Meanwhile, Big Tech is stalling.\r\nStocks opened mixed, with chip stocks (^SOX) sliding and oil c(CL=F) near a five-month high. The rally spre… [+1003 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Leslie Josephs",
-      "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares - CNBC",
-      "description": "United Airlines cut its profit outlook for the year as fuel prices continued to climb.",
-      "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291389-1776197623988-gettyimages-2268673407-pn028980.jpeg?v=1779295760&w=1920&h=1080",
-      "publishedAt": "2026-10-20T20:03:05Z",
-      "content": "United Airlines is slashing its profit forecast for the year as fuel costs continue to bite, but the carrier said passengers keep booking.\r\nUnited said Tuesday that it expects to earn between 50 cent… [+1869 chars]"
+      "author": "Caroline Haskins",
+      "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores - WIRED",
+      "description": "Some hosts are threatening to strike, while others are plotting ways around Airbnb’s new restrictions. Guests, meanwhile, are celebrating.",
+      "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+      "urlToImage": "https://media.wired.com/photos/6ad8f12cba3e5597384c89ad/191:100/w_1280,c_limit/Business_Airbnb%20Hosts%20Are%20Furious%20They%20Can%20No%20Longer%20Make%20Guests%20Do%20Their%20Chores_v2.jpg",
+      "publishedAt": "2026-10-21T21:57:00Z",
+      "content": "Airbnb hosts are melting down over a new policy banning them from making guests complete tasks that would typically be performed by a cleaner, like stripping the bed, taking trash offsite, or washing… [+2478 chars]"
     },
     {
       "source": {
@@ -35,110 +22,132 @@
         "name": "The Wall Street Journal"
       },
       "author": "WSJ",
-      "title": "Netflix Revenue Growth Slows as It Overhauls Programming Units - WSJ",
+      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/earnings/netflix-revenue-growth-slows-as-it-overhauls-programming-units-d6eac0b5",
+      "url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2",
       "urlToImage": null,
-      "publishedAt": "2026-10-20T20:01:00Z",
+      "publishedAt": "2026-10-21T21:33:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Daniel Howley",
-      "title": "Meta Q3 earnings to test Wall Street's stomach for AI spending - Yahoo Finance",
-      "description": "Meta will report its third quarter earnings after the bell on Wednesday.",
-      "url": "https://finance.yahoo.com/technology/article/meta-q3-earnings-to-test-wall-streets-stomach-for-ai-spending-184105375.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ede5306ea5ce20f91f7da11a3fc3314f52ae74e8e2e34e2ae7f597ac6cfe3339/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fc731ae03-dc35-4214-bf17-0513ebf8b746",
-      "publishedAt": "2026-10-20T18:41:05Z",
-      "content": "Meta (META) will kick off Big Tech's earnings season when it reports its third quarter results after the bell on Wednesday.\r\nFor the third quarter, Meta is expected to post earnings per share of $3.5… [+2265 chars]"
     },
     {
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Julie Bort",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers - TechCrunch",
-      "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-      "publishedAt": "2026-10-20T18:38:24Z",
-      "content": "On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open-source project. With this, Google joins Amazon in trying to break Nvidias stranglehold on … [+2398 chars]"
+      "author": "Sarah Perez",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity - TechCrunch",
+      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "publishedAt": "2026-10-21T21:14:19Z",
+      "content": "Meta said during its third-quarter earnings call on Wednesday that its AI app Muse has been adopted by more than 10 million users, confirming estimates released earlier this week by market intelligen… [+3178 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 21:27:41 GMT"
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 15:56:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
-      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 19:58:06 GMT"
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 17:12:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 14:04:28 GMT"
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 17:14:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pope does not need further treatment after lung cancer surgery",
-      "description": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 20:09:10 GMT"
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 21:42:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-      "description": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 18:10:42 GMT"
+      "title": "Crowd of 50 beats foreigner to death in South Africa",
+      "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 16:15:25 GMT"
     },
     {
       "source": "BBC",
-      "title": "Family of prison officer killed by IRA receives state apology",
-      "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 16:58:16 GMT"
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 17:07:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-      "description": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 20:19:51 GMT"
+      "title": "At least four dead after storm brings flooding to southern France",
+      "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 11:23:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-      "description": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 05:46:33 GMT"
+      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+      "description": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 17:01:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-      "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 10:20:15 GMT"
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 18:26:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-      "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 10:16:17 GMT"
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "description": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 15:05:47 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 14:28:59 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Tank barrel production returns to UK after 20 years",
+      "description": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 13:45:19 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 23:27:05 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 11:15:58 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 04:02:29 GMT"
     },
     {
       "source": "BBC",
@@ -146,87 +155,58 @@
       "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
       "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 21 Oct 2026 19:54:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 21:49:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "The tech helping crack decades-old cold cases",
-      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 23:13:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Burnham proposes plan to cut standing charges from gas bills",
-      "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 17:06:16 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 06:36:39 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
-      "description": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
-      "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 17:04:13 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {},
+    "finance_keywords": {
+      "AI stocks": 2,
+      "GLP-1": 8,
+      "Iran oil": 2,
+      "Federal Reserve": 2,
+      "Bitcoin": 59
+    },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26702.86,
-      "change_pct": 1.03,
+      "price": 26008.86,
+      "change_pct": -1.57,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7757.17,
-      "change_pct": 0.86,
+      "price": 7663.43,
+      "change_pct": -0.64,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52856.09,
-      "change_pct": 1.71,
+      "price": 52867.98,
+      "change_pct": 0.71,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4149.1,
-      "change_pct": 0.16,
+      "price": 4046.4,
+      "change_pct": -2.5,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 98.04,
-      "change_pct": -3.68,
+      "price": 98.92,
+      "change_pct": 1.82,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 84425.25,
-      "change_pct": 1.79,
+      "price": 81221.01,
+      "change_pct": -3.32,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.62,
+      "change_pct": 0.22,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.67,
-      "change_pct": -0.38,
+      "change_pct": -0.19,
       "symbol": "CNY=X"
     }
   }
