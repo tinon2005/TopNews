@@ -1,7 +1,7 @@
 {
-  "date": "2026年10月25日",
-  "date_iso": "2026-10-25",
-  "generated_at": "2026-10-25T06:12:39.404416+08:00",
+  "date": "2026年10月26日",
+  "date_iso": "2026-10-26",
+  "generated_at": "2026-10-26T06:14:57.283156+08:00",
   "newsapi": [
     {
       "source": {
@@ -9,109 +9,164 @@
         "name": "The Wall Street Journal"
       },
       "author": "WSJ",
-      "title": "Archer to Launch Air Taxis in Texas - WSJ",
+      "title": "Exclusive | Historic Homes: A Famed Beach House Designed for Holistic Health - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/archer-aviation-launches-air-taxi-fleets-in-texas-38b697e6",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/the-lovell-beach-house-newport-beach-ff7e8dd1",
       "urlToImage": null,
-      "publishedAt": "2026-10-23T20:07:00Z",
+      "publishedAt": "2026-10-24T21:30:46Z",
       "content": null
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Katherine Doherty, Finbarr Flynn, Davide Barbuscia, Dipika Lalwani",
-      "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High - Bloomberg.com",
-      "description": "Global credit markets are flashing the biggest risk-off signals in more than a year, as investor concerns about technology companies’ artificial intelligence borrowing and rising oil prices are mounting.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inolNO4bAD8k/v0/1200x800.jpg",
-      "publishedAt": "2026-10-23T19:11:52Z",
-      "content": "Global credit markets are flashing the biggest risk-off signals in more than a year, as investor concerns about technology companies artificial intelligence borrowing and rising oil prices are mounti… [+297 chars]"
+      "author": null,
+      "title": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead - Fox News",
+      "description": "Royal Caribbean's Oasis of the Seas rerouted over 5,000 Bahamas-bound passengers to Halifax, Nova Scotia, after stormy weather forced an itinerary change.",
+      "url": "https://www.foxnews.com/travel/thousands-booked-tropical-bahamas-cruise-ended-freezing-canada-instead",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/cruise-ship-passengers-pier-66-seattle.jpg",
+      "publishedAt": "2026-10-24T19:03:32Z",
+      "content": "A cruise scheduled to sail to the sunny Bahamas this week took a northward turn for the worse when it got rerouted to chilly Canada instead.\r\nMore than 5,000 passengers boarded Royal Caribbeans Oasis… [+2624 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WJCL News"
+        "name": "Tastingtable.com"
       },
-      "author": "Graham Cawthon",
-      "title": "Mitsubishi Power's $490 million Chatham County expansion to create 220 jobs - WJCL",
-      "description": "Mitsubishi Power is investing $490 million to expand its Chatham County plant, a move expected to create more than 220 jobs.",
-      "url": "https://www.wjcl.com/article/mitsubishi-power-chatham-county-expansion-jobs/74230439",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/a6b7d0f3-dfcb-4b8a-9209-edd8ac89d4da.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-10-23T18:11:00Z",
-      "content": "CHATHAM COUNTY, Ga.Above video: Your Friday headlines\r\nMitsubishi Power Americas plans to invest $490 million to expand its manufacturing operation in Chatham County, adding more than 220 jobs and ne… [+3856 chars]"
+      "author": "A.J. Forget",
+      "title": "Not Guinness, Not Budweiser: The Most Popular Beer In The US Is A 101-Year-Old Mexican Lager - Tasting Table",
+      "description": "Corona is the most popular beer in the U.S., as per YouGov data. Its mild flavor and great marketing tactics have given the 101-year-old brew staying power.",
+      "url": "https://www.tastingtable.com/2292626/most-popular-beer-us-101-year-old-mexican-lager/",
+      "urlToImage": "https://www.tastingtable.com/img/gallery/not-guinness-not-budweiser-the-most-popular-beer-in-the-us-is-a-101-year-old-mexican-lager/l-intro-1792576101.jpg",
+      "publishedAt": "2026-10-24T18:30:00Z",
+      "content": "Vacationers to Mexico might have sampled cold bottles of Corona in the mid-1900s, but it wasn't until 1979 that the beer actually began to show up on shelves in the States. From there, it was off to … [+1448 chars]"
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Megan  Cerullo",
-      "title": "AI agents are roaming around consumers' bank accounts, and banks aren't happy about it - CBS News",
-      "description": "Banks have detected personal AI agent activity inside customers' accounts as experts warn about the risks of oversharing with AI.",
-      "url": "https://www.cbsnews.com/news/ai-agents-customer-bank-accounts-security/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/23/e035b3b5-8509-4d1e-91b9-3abb1e9f0bbe/thumbnail/1200x630/70125bd9145f5a00053d8e8d597c3c8e/gettyimages-2260194259.jpg",
-      "publishedAt": "2026-10-23T17:46:36Z",
-      "content": "Major U.S. banks are detecting unauthorized activity from third-party AI agents operating within their customers' online accounts, according to a new Axios report. \r\nSome of the biggest financial ins… [+3561 chars]"
+      "author": "The Associated Press",
+      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - NBC News",
+      "description": "Halloween candy sales are off to a slow start this year as U.S. consumers grapple with high living costs and eye-popping chocolate prices.",
+      "url": "https://www.nbcnews.com/business/consumer/halloween-candy-sales-are-slow-start-affordability-rcna605395",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-halloween-candy-ch-1257-1af7e9.jpg",
+      "publishedAt": "2026-10-24T17:06:13Z",
+      "content": "Halloween candy sales are off to a slow start this year as U.S. consumers grapple with high living costs and eye-popping chocolate prices.\r\nHalloween candy sales fell 6.7% in the month ending Oct. 17… [+3564 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Your credit can look normal while someone steals your identity - Fox News",
+      "description": "A clean credit report doesn't mean your identity is safe. Six ways criminals can steal from you without triggering a credit monitoring alert.",
+      "url": "https://www.foxnews.com/tech/credit-look-normal-while-someone-steals-identity",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/identity-theft-protection-001.jpg",
+      "publishedAt": "2026-10-24T16:54:34Z",
+      "content": "You check your credit score, see nothing unusual and assume your identity is safe. But what if someone has already stolen your personal information and your credit report shows absolutely nothing? Th… [+12604 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 21:09:27 GMT"
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 22:06:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 12:12:40 GMT"
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 18:29:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 17:21:42 GMT"
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 09:00:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 15:21:44 GMT"
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 15:32:51 GMT"
     },
     {
       "source": "BBC",
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "description": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
-      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 22:47:07 GMT"
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 05:15:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 17:11:56 GMT"
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 14:39:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 19:12:51 GMT"
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 10:55:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Three released without charge after fatal arson attack in Ireland",
-      "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 09:38:28 GMT"
+      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 19:14:27 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 06:00:15 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Budget to include £1bn for social and affordable housing",
+      "description": "The move will take funding for the 10-year programme to more than £40bn.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 10:03:17 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Will a new code end 'rip-off parking charges'?",
+      "description": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 07:05:30 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 07:15:38 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "description": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 23:11:31 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "The Indian workers filming their work to train AI",
+      "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 08:04:17 GMT"
     },
     {
       "source": "BBC",
@@ -126,58 +181,16 @@
       "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
       "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 24 Oct 2026 00:05:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-      "description": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 15:15:13 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 00:36:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 11:48:04 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "The Indian workers filming their work to train AI",
-      "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 08:04:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Lights will stay on this winter, grid operator says after concerns",
-      "description": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 06:47:10 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-      "description": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 23:20:38 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 7,
+      "AI stocks": 1,
+      "GLP-1": 5,
       "Iran oil": 1,
-      "Federal Reserve": 2,
-      "Bitcoin": 54
+      "Federal Reserve": 1,
+      "Bitcoin": 50
     },
     "trending_searches": []
   },
@@ -199,27 +212,27 @@
     },
     "黃金": {
       "price": 4007.9,
-      "change_pct": -1.29,
+      "change_pct": 0.0,
       "symbol": "GC=F"
     },
     "WTI 原油": {
       "price": 103.27,
-      "change_pct": 3.82,
+      "change_pct": 0.0,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 80356.99,
-      "change_pct": -0.88,
+      "price": 80316.46,
+      "change_pct": -0.59,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": -0.16,
+      "change_pct": -0.19,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.66,
-      "change_pct": -0.26,
+      "price": 6.67,
+      "change_pct": -0.12,
       "symbol": "CNY=X"
     }
   }
