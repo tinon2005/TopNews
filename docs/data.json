@@ -1,238 +1,238 @@
 {
-  "date": "2026年10月26日",
-  "date_iso": "2026-10-26",
-  "generated_at": "2026-10-26T06:14:57.283156+08:00",
+  "date": "2026年10月27日",
+  "date_iso": "2026-10-27",
+  "generated_at": "2026-10-27T07:31:42.038905+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "WSJ",
-      "title": "Exclusive | Historic Homes: A Famed Beach House Designed for Holistic Health - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/real-estate/luxury-homes/the-lovell-beach-house-newport-beach-ff7e8dd1",
-      "urlToImage": null,
-      "publishedAt": "2026-10-24T21:30:46Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead - Fox News",
-      "description": "Royal Caribbean's Oasis of the Seas rerouted over 5,000 Bahamas-bound passengers to Halifax, Nova Scotia, after stormy weather forced an itinerary change.",
-      "url": "https://www.foxnews.com/travel/thousands-booked-tropical-bahamas-cruise-ended-freezing-canada-instead",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/cruise-ship-passengers-pier-66-seattle.jpg",
-      "publishedAt": "2026-10-24T19:03:32Z",
-      "content": "A cruise scheduled to sail to the sunny Bahamas this week took a northward turn for the worse when it got rerouted to chilly Canada instead.\r\nMore than 5,000 passengers boarded Royal Caribbeans Oasis… [+2624 chars]"
+      "author": "Anand Krishnamoorthy",
+      "title": "US Stock Futures Climb as Crude Oil Price Dips: Markets Wrap - Bloomberg.com",
+      "description": "Stocks struggled to recover from a volatile week as investors awaited megacap earnings for clues on whether the recent pressure on the artificial intelligence trade will persist. Crude oil fell.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqS1UmztFazo/v1/1200x800.jpg",
+      "publishedAt": "2026-10-25T23:18:54Z",
+      "content": "Stocks struggled to recover from a volatile week as investors awaited megacap earnings for clues on whether the recent pressure on the artificial intelligence trade will persist. Crude oil fell.\r\nMSC… [+190 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tastingtable.com"
+        "name": "COLlive - Chabad News"
       },
-      "author": "A.J. Forget",
-      "title": "Not Guinness, Not Budweiser: The Most Popular Beer In The US Is A 101-Year-Old Mexican Lager - Tasting Table",
-      "description": "Corona is the most popular beer in the U.S., as per YouGov data. Its mild flavor and great marketing tactics have given the 101-year-old brew staying power.",
-      "url": "https://www.tastingtable.com/2292626/most-popular-beer-us-101-year-old-mexican-lager/",
-      "urlToImage": "https://www.tastingtable.com/img/gallery/not-guinness-not-budweiser-the-most-popular-beer-in-the-us-is-a-101-year-old-mexican-lager/l-intro-1792576101.jpg",
-      "publishedAt": "2026-10-24T18:30:00Z",
-      "content": "Vacationers to Mexico might have sampled cold bottles of Corona in the mid-1900s, but it wasn't until 1979 that the beer actually began to show up on shelves in the States. From there, it was off to … [+1448 chars]"
+      "author": "COLlive News",
+      "title": "Ahead of Kinus, 18 New Communities Join the Fastest-Growing Shlichus - COLlive",
+      "description": "As thousands of Shluchim prepare to gather in Crown Heights for the International Kinus Hashluchim, Chabad Young Professionals (CYP) is marking another milestone in its rapid global expansion, with 18 new communities joining its international network in recen…",
+      "url": "https://collive.com/ahead-of-kinus-18-new-communities-join-the-fastest-growing-shlichus/",
+      "urlToImage": "https://collive.com/wp-content/uploads/2026/10/17.jpg",
+      "publishedAt": "2026-10-25T22:55:34Z",
+      "content": "As thousands of Shluchim prepare to gather in Crown Heights for the International Kinus Hashluchim, Chabad Young Professionals (CYP) is marking another milestone in its rapid global expansion, with 1… [+5182 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "The Associated Press",
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - NBC News",
-      "description": "Halloween candy sales are off to a slow start this year as U.S. consumers grapple with high living costs and eye-popping chocolate prices.",
-      "url": "https://www.nbcnews.com/business/consumer/halloween-candy-sales-are-slow-start-affordability-rcna605395",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-halloween-candy-ch-1257-1af7e9.jpg",
-      "publishedAt": "2026-10-24T17:06:13Z",
-      "content": "Halloween candy sales are off to a slow start this year as U.S. consumers grapple with high living costs and eye-popping chocolate prices.\r\nHalloween candy sales fell 6.7% in the month ending Oct. 17… [+3564 chars]"
+      "author": "Ananya Chetia, Lim Hui Jie",
+      "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates - CNBC",
+      "description": "Traders looked ahead to a busy week with the Federal Reserve's policy decision due on Wednesday.",
+      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369491-17906967662026-09-29t153734z_497028916_rc21tnamiqla_rtrmadp_0_usa-stocks.jpeg?v=1790696808&w=1920&h=1080",
+      "publishedAt": "2026-10-25T22:06:10Z",
+      "content": "Stock futures rose on Sunday evening as traders look toward a slew of central bank decisions this week. \r\nS&amp;P 500 futures were up 0.4% while Dow Jones Industrial Average futures added 128 points,… [+2641 chars]"
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Financial Times"
       },
       "author": null,
-      "title": "Your credit can look normal while someone steals your identity - Fox News",
-      "description": "A clean credit report doesn't mean your identity is safe. Six ways criminals can steal from you without triggering a credit monitoring alert.",
-      "url": "https://www.foxnews.com/tech/credit-look-normal-while-someone-steals-identity",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/identity-theft-protection-001.jpg",
-      "publishedAt": "2026-10-24T16:54:34Z",
-      "content": "You check your credit score, see nothing unusual and assume your identity is safe. But what if someone has already stolen your personal information and your credit report shows absolutely nothing? Th… [+12604 chars]"
+      "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis - Financial Times",
+      "description": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm",
+      "url": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cb9c120-2744-4b87-9b05-3fc0ef6add1a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-25T21:40:04Z",
+      "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Jenn Gidman",
+      "title": "Inside the Selfie-Fueled Life of Carnival's Star Cruise Director - Newser",
+      "description": "Wall Street Journal profiles Kyndall 'Fire' Magyar's exhausting but fun leadership aboard the Jubilee",
+      "url": "https://www.newser.com/story/398476/inside-the-selfie-fueled-life-of-carnivals-star-cruise-director.html",
+      "urlToImage": "https://cdn.newser.com/image/1719214-12-20261025164703.jpeg",
+      "publishedAt": "2026-10-25T21:17:00Z",
+      "content": "Carnival's megaship Jubilee has a star on board, and it's not the captain. The Wall Street Journal profiles Kyndall \"Fire\" Magyar, a 31-year-old cruise director whose fans book entire vacations just … [+1317 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 21:02:47 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 22:06:26 GMT"
+      "publishedAt": "Mon, 26 Oct 2026 14:34:52 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 19:27:21 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 16:27:17 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 15:46:31 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 14:13:18 GMT"
     },
     {
       "source": "BBC",
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 18:29:00 GMT"
+      "publishedAt": "Mon, 26 Oct 2026 05:20:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 09:00:00 GMT"
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "description": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 21:31:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 15:32:51 GMT"
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 22:30:02 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 05:15:52 GMT"
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 16:27:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 14:39:47 GMT"
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "description": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 19:57:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 10:55:33 GMT"
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "description": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 10:28:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 19:14:27 GMT"
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "description": "The economic is positive now but come January things could become trickier for the Labour government",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 00:26:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 06:00:15 GMT"
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 25 Oct 2026 23:44:34 GMT"
     },
     {
       "source": "BBC",
-      "title": "Budget to include £1bn for social and affordable housing",
-      "description": "The move will take funding for the 10-year programme to more than £40bn.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 10:03:17 GMT"
+      "title": "What is the Budget and what could be in it?",
+      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 02:16:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Will a new code end 'rip-off parking charges'?",
-      "description": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 07:05:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 07:15:38 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "description": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 23:11:31 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "The Indian workers filming their work to train AI",
-      "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 08:04:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "How does the UK state pension compare with other countries?",
-      "description": "Do British pensioners have it better or worse than those in other countries?",
-      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 00:09:12 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 00:05:45 GMT"
+      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "description": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 10:48:46 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 5,
-      "Iran oil": 1,
-      "Federal Reserve": 1,
-      "Bitcoin": 50
+      "GLP-1": 8,
+      "Iran oil": 2,
+      "Federal Reserve": 3,
+      "Bitcoin": 64
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25955.34,
-      "change_pct": -2.8,
+      "price": 26169.38,
+      "change_pct": 0.62,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7623.68,
-      "change_pct": -1.72,
+      "price": 7676.77,
+      "change_pct": 0.17,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52215.16,
-      "change_pct": -1.21,
+      "price": 52361.58,
+      "change_pct": -0.96,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4007.9,
-      "change_pct": 0.0,
+      "price": 4024.9,
+      "change_pct": -0.33,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 103.27,
-      "change_pct": 0.0,
+      "price": 101.41,
+      "change_pct": -0.34,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 80316.46,
-      "change_pct": -0.59,
+      "price": 79917.34,
+      "change_pct": -0.13,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.34,
-      "change_pct": -0.19,
+      "price": 1.33,
+      "change_pct": -0.46,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.67,
-      "change_pct": -0.12,
+      "price": 6.66,
+      "change_pct": -0.28,
       "symbol": "CNY=X"
     }
   }
