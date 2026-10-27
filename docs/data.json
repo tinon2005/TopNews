@@ -1,144 +1,179 @@
 {
-  "date": "2026年10月27日",
-  "date_iso": "2026-10-27",
-  "generated_at": "2026-10-27T07:31:42.038905+08:00",
+  "date": "2026年10月28日",
+  "date_iso": "2026-10-28",
+  "generated_at": "2026-10-28T07:25:48.632470+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Anthropic IPO in Focus; Nasdaq, Dow Move Higher — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-10-26T21:58:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; This Energy Stock Tests Entry Point (Live Coverage) - Investor's Business Daily",
+      "description": "The Dow Jones index rises on the stock market today as Anthropic files for an IPO. Neoclouds rise on Elon Musk comments. Brazil plays fall.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-tesla-stock-tsla-buy-rating/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-elonmusk-2023-01-shutt.jpg",
+      "publishedAt": "2026-10-26T21:39:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8",
+      "urlToImage": null,
+      "publishedAt": "2026-10-26T21:15:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Anand Krishnamoorthy",
-      "title": "US Stock Futures Climb as Crude Oil Price Dips: Markets Wrap - Bloomberg.com",
-      "description": "Stocks struggled to recover from a volatile week as investors awaited megacap earnings for clues on whether the recent pressure on the artificial intelligence trade will persist. Crude oil fell.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqS1UmztFazo/v1/1200x800.jpg",
-      "publishedAt": "2026-10-25T23:18:54Z",
-      "content": "Stocks struggled to recover from a volatile week as investors awaited megacap earnings for clues on whether the recent pressure on the artificial intelligence trade will persist. Crude oil fell.\r\nMSC… [+190 chars]"
+      "author": "Sri Taylor",
+      "title": "JetBlue’s Outlook Worsens as Operating Loss Margin Drops - Bloomberg.com",
+      "description": "JetBlue Airways Corp. reassured Wall Street that it’s still on track to be profitable in the near future, despite deepening its projected operating margin loss for the current year.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/jetblue-s-outlook-worsens-as-operating-loss-margin-drops",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izS8xxYsuvS8/v0/1200x801.jpg",
+      "publishedAt": "2026-10-26T21:03:12Z",
+      "content": "JetBlue Airways Corp.reassured Wall Street that its still on track to be profitable in the near future, despite deepening its projected operating margin loss for the current year.\r\nChief Executive Of… [+222 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "COLlive - Chabad News"
+        "name": "The Seattle Times"
       },
-      "author": "COLlive News",
-      "title": "Ahead of Kinus, 18 New Communities Join the Fastest-Growing Shlichus - COLlive",
-      "description": "As thousands of Shluchim prepare to gather in Crown Heights for the International Kinus Hashluchim, Chabad Young Professionals (CYP) is marking another milestone in its rapid global expansion, with 18 new communities joining its international network in recen…",
-      "url": "https://collive.com/ahead-of-kinus-18-new-communities-join-the-fastest-growing-shlichus/",
-      "urlToImage": "https://collive.com/wp-content/uploads/2026/10/17.jpg",
-      "publishedAt": "2026-10-25T22:55:34Z",
-      "content": "As thousands of Shluchim prepare to gather in Crown Heights for the International Kinus Hashluchim, Chabad Young Professionals (CYP) is marking another milestone in its rapid global expansion, with 1… [+5182 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Ananya Chetia, Lim Hui Jie",
-      "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates - CNBC",
-      "description": "Traders looked ahead to a busy week with the Federal Reserve's policy decision due on Wednesday.",
-      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369491-17906967662026-09-29t153734z_497028916_rc21tnamiqla_rtrmadp_0_usa-stocks.jpeg?v=1790696808&w=1920&h=1080",
-      "publishedAt": "2026-10-25T22:06:10Z",
-      "content": "Stock futures rose on Sunday evening as traders look toward a slew of central bank decisions this week. \r\nS&amp;P 500 futures were up 0.4% while Dow Jones Industrial Average futures added 128 points,… [+2641 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis - Financial Times",
-      "description": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm",
-      "url": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cb9c120-2744-4b87-9b05-3fc0ef6add1a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-10-25T21:40:04Z",
-      "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Jenn Gidman",
-      "title": "Inside the Selfie-Fueled Life of Carnival's Star Cruise Director - Newser",
-      "description": "Wall Street Journal profiles Kyndall 'Fire' Magyar's exhausting but fun leadership aboard the Jubilee",
-      "url": "https://www.newser.com/story/398476/inside-the-selfie-fueled-life-of-carnivals-star-cruise-director.html",
-      "urlToImage": "https://cdn.newser.com/image/1719214-12-20261025164703.jpeg",
-      "publishedAt": "2026-10-25T21:17:00Z",
-      "content": "Carnival's megaship Jubilee has a star on board, and it's not the captain. The Wall Street Journal profiles Kyndall \"Fire\" Magyar, a 31-year-old cruise director whose fans book entire vacations just … [+1317 chars]"
+      "author": "JESSICA HILL",
+      "title": "‘Crash ur row only’: United flight turned around after passenger allegedly said he’d ‘hijack’ plane - The Seattle Times",
+      "description": "An airplane passenger was arrested for allegedly writing that he was going to “hijack” the plane, forcing the United flight to be diverted back to Las Vegas shortly after takeoff.",
+      "url": "https://www.seattletimes.com/business/united-flight-turned-around-after-report-of-passenger-making-a-terroristic-threat/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/10/10262026_harryreid-tzr_tzr_140116.jpg?d=1200x630",
+      "publishedAt": "2026-10-26T21:00:13Z",
+      "content": "LAS VEGAS (AP) An airplane passenger was arrested for allegedly writing a message while midair that he was going to hijack the plane, forcing the United flight to be diverted back to Las Vegas shortl… [+1364 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 21:02:47 GMT"
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT"
     },
     {
       "source": "BBC",
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 14:34:52 GMT"
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 22:11:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 19:27:21 GMT"
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 16:27:17 GMT"
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "description": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 01:46:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "description": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 15:46:31 GMT"
+      "title": "Dutch zookeeper dies after being mauled by leopard",
+      "description": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 19:30:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "US Marine indicted for murder and robbery of woman in Japan",
-      "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 14:13:18 GMT"
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "description": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 21:09:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 05:20:19 GMT"
+      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+      "description": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 21:12:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "description": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 21:31:53 GMT"
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "description": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 20:44:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-      "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+      "description": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 13:08:26 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+      "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
       "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 22:30:02 GMT"
+      "publishedAt": "Tue, 27 Oct 2026 15:01:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 16:27:17 GMT"
+      "title": "Landline switchover could cut people off in emergency, minister warned",
+      "description": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 20:54:48 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Donald Trump's biggest economic problem looks strangely familiar",
+      "description": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 06:01:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+      "description": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 06:33:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Apple to replace iPhone Duos affected by screen problem",
+      "description": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 09:37:55 GMT"
     },
     {
       "source": "BBC",
@@ -146,93 +181,58 @@
       "description": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
       "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 26 Oct 2026 19:57:23 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Healey to shield low-income pensioners from income tax in the Budget",
-      "description": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 10:28:12 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "description": "The economic is positive now but come January things could become trickier for the Labour government",
-      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 00:26:49 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 23:44:34 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "What is the Budget and what could be in it?",
-      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 02:16:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-      "description": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
-      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 10:48:46 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 1,
-      "GLP-1": 8,
+      "AI stocks": 2,
+      "GLP-1": 10,
       "Iran oil": 2,
-      "Federal Reserve": 3,
-      "Bitcoin": 64
+      "Federal Reserve": 4,
+      "Bitcoin": 68
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26169.38,
-      "change_pct": 0.62,
+      "price": 26477.81,
+      "change_pct": 2.01,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7676.77,
-      "change_pct": 0.17,
+      "price": 7722.6,
+      "change_pct": 1.3,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52361.58,
-      "change_pct": -0.96,
+      "price": 52377.57,
+      "change_pct": 0.31,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4024.9,
-      "change_pct": -0.33,
+      "price": 4075.6,
+      "change_pct": 0.92,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 101.41,
-      "change_pct": -0.34,
+      "price": 99.88,
+      "change_pct": -1.85,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 79917.34,
-      "change_pct": -0.13,
+      "price": 80728.9,
+      "change_pct": 0.9,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": -0.46,
+      "change_pct": -0.54,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.66,
-      "change_pct": -0.28,
+      "price": 6.67,
+      "change_pct": -0.19,
       "symbol": "CNY=X"
     }
   }
