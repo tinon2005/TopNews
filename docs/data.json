@@ -1,20 +1,46 @@
 {
-  "date": "2026年10月28日",
-  "date_iso": "2026-10-28",
-  "generated_at": "2026-10-28T07:25:48.632470+08:00",
+  "date": "2026年10月29日",
+  "date_iso": "2026-10-29",
+  "generated_at": "2026-10-29T07:50:20.508047+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Anthropic IPO in Focus; Nasdaq, Dow Move Higher — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-10-26T21:58:27Z",
-      "content": null
+      "author": "Tim Stelloh",
+      "title": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia. - NBC News",
+      "description": "A residential cruise ship halted operations in Cambodia on Tuesday amid soaring fuel costs, leaving passengers in limbo after the U.S. company that operates the vessel ordered them to disembark.",
+      "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-Villa-Vie-Residences-vsb-1933-3293f4.jpg",
+      "publishedAt": "2026-10-27T23:47:00Z",
+      "content": "A residential cruise ship halted operations in Cambodia on Tuesday amid soaring fuel costs, leaving passengers in limbo after the U.S. company that operates the vessel ordered them to disembark.\r\nIn … [+3267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jenny Lee",
+      "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost - CNBC",
+      "description": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
+      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+      "publishedAt": "2026-10-27T23:34:59Z",
+      "content": "South Korean chipmaker SK Hynix on Wednesday released its third-quarter earnings results, posting a record high quarterly profit that sharply beats estimates, while announcing over $25 billion in div… [+2258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Emily Lang",
+      "title": "Ex-JPMorgan banker in 'sex slave' suit accused of getting sister to lie about kissing, racial remark: filing - New York Post",
+      "description": "The ex-JPMorgan banker who accused his boss of making him her “sex slave” got his sister to lie under oath for him — claiming she saw the boss kiss her bro on the neck and tell hi…",
+      "url": "https://nypost.com/2026/10/27/business/ex-jpmorgan-banker-in-sex-slave-suit-accused-of-getting-sister-to-lie-about-kissing-racial-remark-filing/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-iqfd7n1vk-1793138734402.jpg?quality=75&strip=all&1793124396&w=1200",
+      "publishedAt": "2026-10-27T22:12:20Z",
+      "content": "The ex-JPMorgan banker who accused his boss of making him her “sex slave” got his sister to lie in sworn testimony for him — claiming she saw the boss kiss her bro on the neck and tell him, “I own yo… [+3101 chars]"
     },
     {
       "source": {
@@ -22,217 +48,191 @@
         "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; This Energy Stock Tests Entry Point (Live Coverage) - Investor's Business Daily",
-      "description": "The Dow Jones index rises on the stock market today as Anthropic files for an IPO. Neoclouds rise on Elon Musk comments. Brazil plays fall.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-tesla-stock-tsla-buy-rating/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-elonmusk-2023-01-shutt.jpg",
-      "publishedAt": "2026-10-26T21:39:00Z",
+      "title": "Seagate Stock Slides Despite Earnings Beat, Adding To Slump For AI Stock - Investor's Business Daily",
+      "description": "Seagate stock slid in late trades despite the hard-disk drive maker reporting fiscal first-quarter results easily ahead of estimates.",
+      "url": "https://www.investors.com/news/technology/seagate-stock-stx-news-earnings-sep-2026/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/Stock-seagate-01-company.jpg",
+      "publishedAt": "2026-10-27T22:02:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "WSJ",
-      "title": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8",
-      "urlToImage": null,
-      "publishedAt": "2026-10-26T21:15:00Z",
+      "author": "Jon Brodkin",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses - Ars Technica",
+      "description": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+      "publishedAt": "2026-10-27T21:50:04Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Sri Taylor",
-      "title": "JetBlue’s Outlook Worsens as Operating Loss Margin Drops - Bloomberg.com",
-      "description": "JetBlue Airways Corp. reassured Wall Street that it’s still on track to be profitable in the near future, despite deepening its projected operating margin loss for the current year.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/jetblue-s-outlook-worsens-as-operating-loss-margin-drops",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izS8xxYsuvS8/v0/1200x801.jpg",
-      "publishedAt": "2026-10-26T21:03:12Z",
-      "content": "JetBlue Airways Corp.reassured Wall Street that its still on track to be profitable in the near future, despite deepening its projected operating margin loss for the current year.\r\nChief Executive Of… [+222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Seattle Times"
-      },
-      "author": "JESSICA HILL",
-      "title": "‘Crash ur row only’: United flight turned around after passenger allegedly said he’d ‘hijack’ plane - The Seattle Times",
-      "description": "An airplane passenger was arrested for allegedly writing that he was going to “hijack” the plane, forcing the United flight to be diverted back to Las Vegas shortly after takeoff.",
-      "url": "https://www.seattletimes.com/business/united-flight-turned-around-after-report-of-passenger-making-a-terroristic-threat/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/10/10262026_harryreid-tzr_tzr_140116.jpg?d=1200x630",
-      "publishedAt": "2026-10-26T21:00:13Z",
-      "content": "LAS VEGAS (AP) An airplane passenger was arrested for allegedly writing a message while midair that he was going to hijack the plane, forcing the United flight to be diverted back to Las Vegas shortl… [+1364 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT"
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 21:38:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 22:11:08 GMT"
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "description": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 21:24:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT"
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 23:21:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "description": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 01:46:38 GMT"
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 20:24:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Dutch zookeeper dies after being mauled by leopard",
-      "description": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 19:30:37 GMT"
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-      "description": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 21:09:12 GMT"
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 22:08:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-      "description": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 21:12:39 GMT"
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 10:31:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "description": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 20:44:40 GMT"
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 21:16:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-      "description": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 13:08:26 GMT"
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 18:45:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 15:01:27 GMT"
+      "title": "What we now know about the UK economy in four charts",
+      "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 20:08:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Landline switchover could cut people off in emergency, minister warned",
-      "description": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 20:54:48 GMT"
+      "title": "What the Budget offers for under 25s - and what it leaves out",
+      "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 20:02:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Donald Trump's biggest economic problem looks strangely familiar",
-      "description": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 06:01:11 GMT"
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 16:43:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-      "description": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 06:33:11 GMT"
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 19:51:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT"
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "description": "Here is what you need to know about the payment that millions will receive from January.",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 17:47:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Apple to replace iPhone Duos affected by screen problem",
-      "description": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 09:37:55 GMT"
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "description": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 19:15:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "description": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 19:57:23 GMT"
+      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+      "description": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 18:12:24 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 2,
-      "GLP-1": 10,
+      "GLP-1": 9,
       "Iran oil": 2,
-      "Federal Reserve": 4,
-      "Bitcoin": 68
+      "Federal Reserve": 8,
+      "Bitcoin": 65
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26477.81,
-      "change_pct": 2.01,
+      "price": 26549.85,
+      "change_pct": 1.45,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7722.6,
-      "change_pct": 1.3,
+      "price": 7743.98,
+      "change_pct": 0.88,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52377.57,
-      "change_pct": 0.31,
+      "price": 52475.1,
+      "change_pct": 0.22,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4075.6,
-      "change_pct": 0.92,
+      "price": 4064.7,
+      "change_pct": -0.24,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 99.88,
-      "change_pct": -1.85,
+      "price": 101.88,
+      "change_pct": 1.98,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 80728.9,
-      "change_pct": 0.9,
+      "price": 81187.08,
+      "change_pct": 0.47,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": -0.54,
+      "change_pct": -0.11,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.67,
-      "change_pct": -0.19,
+      "change_pct": -0.07,
       "symbol": "CNY=X"
     }
   }
