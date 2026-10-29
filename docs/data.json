@@ -1,8 +1,21 @@
 {
-  "date": "2026年10月29日",
-  "date_iso": "2026-10-29",
-  "generated_at": "2026-10-29T07:50:20.508047+08:00",
+  "date": "2026年10月30日",
+  "date_iso": "2026-10-30",
+  "generated_at": "2026-10-30T07:45:37.225046+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Julia Love, Davey Alba",
+      "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses - Bloomberg",
+      "description": "Alphabet Inc.’s search and advertising sales disappointed in the most recent quarter, reinforcing investors’ fears that Google is losing ground to AI rivals despite pouring hundreds of billions of dollars into the technology.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/alphabet-reports-disappointing-revenue-income-shares-drop",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isCTDiFWiIIM/v0/1200x831.jpg",
+      "publishedAt": "2026-10-29T00:19:00Z",
+      "content": "Alphabet Inc.s search and advertising sales disappointed in the most recent quarter, reinforcing investors fears that Google is losing ground to AI rivals despite pouring hundreds of billions of doll… [+429 chars]"
+    },
     {
       "source": {
         "id": "nbc-news",
@@ -10,229 +23,229 @@
       },
       "author": "Tim Stelloh",
       "title": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia. - NBC News",
-      "description": "A residential cruise ship halted operations in Cambodia on Tuesday amid soaring fuel costs, leaving passengers in limbo after the U.S. company that operates the vessel ordered them to disembark.",
+      "description": "Florida-based Villa Vie Residences said it was working to identify “temporary living arrangements” for people aboard The Odyssey, a 642-foot cruise ship.",
       "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-Villa-Vie-Residences-vsb-1933-3293f4.jpg",
-      "publishedAt": "2026-10-27T23:47:00Z",
-      "content": "A residential cruise ship halted operations in Cambodia on Tuesday amid soaring fuel costs, leaving passengers in limbo after the U.S. company that operates the vessel ordered them to disembark.\r\nIn … [+3267 chars]"
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261028-cambodia-cruise-ship-mn-1445-e1f607.jpg",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "content": "A residential cruise ship halted operations in Cambodia on Tuesday amid soaring fuel costs, leaving passengers in limbo after the U.S. company that operates it ordered them to disembark.\r\nFlorida-bas… [+4311 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Jenny Lee",
-      "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost - CNBC",
-      "description": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
-      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
-      "publishedAt": "2026-10-27T23:34:59Z",
-      "content": "South Korean chipmaker SK Hynix on Wednesday released its third-quarter earnings results, posting a record high quarterly profit that sharply beats estimates, while announcing over $25 billion in div… [+2258 chars]"
+      "author": "Brian Sozzi",
+      "title": "What Robinhood's CFO found interesting about Anthropic's IPO prospectus - Yahoo Finance",
+      "description": "Everyone is digging into Anthropic's S-1, even other C-suite execs.",
+      "url": "https://finance.yahoo.com/markets/article/what-robinhoods-cfo-found-interesting-about-anthropics-ipo-prospectus-223910657.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bc363e6dfa2538503be422e3690ac3383cbe1ba7a0c37cd263ea03e0aa79f684/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F20537cc9-d736-4676-96b9-b4475977ce4e",
+      "publishedAt": "2026-10-28T22:39:10Z",
+      "content": "Seemingly, everyone is digging into Anthropic's (ANTH.PVT) IPO prospectus this week, even other C-suite execs like Robinhood (HOOD) CFO Shiv Verma.\r\n\"I have gone through it. The growth rates are pret… [+2358 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Emily Lang",
-      "title": "Ex-JPMorgan banker in 'sex slave' suit accused of getting sister to lie about kissing, racial remark: filing - New York Post",
-      "description": "The ex-JPMorgan banker who accused his boss of making him her “sex slave” got his sister to lie under oath for him — claiming she saw the boss kiss her bro on the neck and tell hi…",
-      "url": "https://nypost.com/2026/10/27/business/ex-jpmorgan-banker-in-sex-slave-suit-accused-of-getting-sister-to-lie-about-kissing-racial-remark-filing/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-iqfd7n1vk-1793138734402.jpg?quality=75&strip=all&1793124396&w=1200",
-      "publishedAt": "2026-10-27T22:12:20Z",
-      "content": "The ex-JPMorgan banker who accused his boss of making him her “sex slave” got his sister to lie in sworn testimony for him — claiming she saw the boss kiss her bro on the neck and tell him, “I own yo… [+3101 chars]"
+      "author": "Daniel Howley",
+      "title": "Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth - Yahoo Finance",
+      "description": "Microsoft reports Q1 earnings.",
+      "url": "https://finance.yahoo.com/markets/stocks/live/microsoft-earnings-live-microsoft-beats-q1-expectations-on-top-and-bottom-line-on-ai-growth-204510452.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/93be38857b497838fa255fa9b5fd8d9892a76ff78543c1b32b85904ec640a6bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6e2c74cb-5745-40af-b740-c2d0c45d8a9c",
+      "publishedAt": "2026-10-28T22:30:42Z",
+      "content": "Microsoft (MSFT) reported its first quarter earnings after the bell Wednesday, beating Wall Street's expectations on the top and bottom lines.\r\nMicrosoft stock rose more than 4% on the news.\r\nFor the… [+10184 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "NPR"
       },
-      "author": null,
-      "title": "Seagate Stock Slides Despite Earnings Beat, Adding To Slump For AI Stock - Investor's Business Daily",
-      "description": "Seagate stock slid in late trades despite the hard-disk drive maker reporting fiscal first-quarter results easily ahead of estimates.",
-      "url": "https://www.investors.com/news/technology/seagate-stock-stx-news-earnings-sep-2026/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/Stock-seagate-01-company.jpg",
-      "publishedAt": "2026-10-27T22:02:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Sydney Lupkin",
+      "title": "Trump administration will allow pharmacies to make popular peptides - NPR",
+      "description": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5713x3214+0+297/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F87%2Fc92490604be490f520338a5a8a64%2Fgettyimages-2260730617.jpg",
+      "publishedAt": "2026-10-28T22:26:48Z",
+      "content": "Unproven but popular peptides touted for wellness have been available on the gray market,\r\n despite an official ban. Now, the Department of Health and Human Services is looking to bring them out of t… [+4593 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "Jon Brodkin",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses - Ars Technica",
-      "description": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-      "publishedAt": "2026-10-27T21:50:04Z",
-      "content": null
+      "author": "Eric Revell",
+      "title": "Federal Reserve makes interest rate decision ahead of midterms - Fox Business",
+      "description": "Federal Reserve policymakers left interest rates unchanged at their October meeting ahead of next week's midterm elections while inflation remains elevated.",
+      "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/fed-chair-kevin-warsh-first-press-conference.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-28T21:17:00Z",
+      "content": "The Federal Reserve\r\n on Wednesday held its benchmark interest rate steady amid elevated inflation as policymakers opted to wait for additional economic data after hiking rates in September.\r\nFed pol… [+7645 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 21:38:54 GMT"
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 20:21:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "description": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 21:24:41 GMT"
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 11:07:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 23:21:48 GMT"
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 20:05:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 20:24:39 GMT"
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 14:17:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT"
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "description": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 14:58:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 22:08:52 GMT"
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 13:25:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 10:31:22 GMT"
+      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 17:02:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 21:16:30 GMT"
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 13:44:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 18:45:09 GMT"
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 22:17:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "What we now know about the UK economy in four charts",
-      "description": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 20:08:45 GMT"
+      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+      "description": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 19:11:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "What the Budget offers for under 25s - and what it leaves out",
-      "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 20:02:38 GMT"
+      "title": "US interest rates held steady and economy grows - what it means for you",
+      "description": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 17:15:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 16:43:35 GMT"
+      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 13:19:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 19:51:01 GMT"
+      "title": "Faisal Islam: This Budget was micro and that was deliberate",
+      "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 15:48:44 GMT"
     },
     {
       "source": "BBC",
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "description": "Here is what you need to know about the payment that millions will receive from January.",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 17:47:37 GMT"
+      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "description": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 09:30:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "description": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 19:15:58 GMT"
+      "title": "Bereaved families will not face tax bill over pension delays under new rules",
+      "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 15:18:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
-      "description": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 18:12:24 GMT"
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 11:52:55 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 9,
-      "Iran oil": 2,
-      "Federal Reserve": 8,
-      "Bitcoin": 65
+      "AI stocks": 3,
+      "GLP-1": 7,
+      "Iran oil": 1,
+      "Federal Reserve": 2,
+      "Bitcoin": 100
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 26549.85,
-      "change_pct": 1.45,
+      "price": 26184.72,
+      "change_pct": -1.11,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7743.98,
-      "change_pct": 0.88,
+      "price": 7720.39,
+      "change_pct": -0.03,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52475.1,
-      "change_pct": 0.22,
+      "price": 52342.56,
+      "change_pct": -0.07,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4064.7,
-      "change_pct": -0.24,
+      "price": 4025.6,
+      "change_pct": -0.64,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 101.88,
-      "change_pct": 1.98,
+      "price": 102.73,
+      "change_pct": -0.05,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 81187.08,
-      "change_pct": 0.47,
+      "price": 78039.5,
+      "change_pct": -3.97,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.33,
-      "change_pct": -0.11,
+      "price": 1.34,
+      "change_pct": 0.55,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.67,
-      "change_pct": -0.07,
+      "price": 6.65,
+      "change_pct": -0.25,
       "symbol": "CNY=X"
     }
   }
