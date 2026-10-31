@@ -1,130 +1,130 @@
 {
-  "date": "2026年10月31日",
-  "date_iso": "2026-10-31",
-  "generated_at": "2026-10-31T07:26:16.211892+08:00",
+  "date": "2026年11月01日",
+  "date_iso": "2026-11-01",
+  "generated_at": "2026-11-01T06:59:43.063943+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Nate Wolf",
-      "title": "Intel Earnings: 2 Reasons the Stock Is Down So Much - Barron's",
-      "description": "Intel shares tanked after the chip maker reported mixed third-quarter earnings, along with a weak outlook for the current quarter following a fatal explosion at one of its facilities.",
-      "url": "https://www.barrons.com/articles/intel-earnings-stock-price-42c7915c",
-      "urlToImage": "https://images.barrons.com/im-64707536/social",
-      "publishedAt": "2026-10-29T21:43:00Z",
-      "content": "Intel shares tanked Thursday after the chip maker reported mixed third-quarter earnings, along with a weak outlook for the current quarter following a fatal explosion at one of its facilities.\r\nCopyr… [+92 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17",
-      "urlToImage": null,
-      "publishedAt": "2026-10-29T21:30:34Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "What killed Weil Gotshal? - Financial Times",
-      "description": "Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures",
-      "url": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31abb9ea-1134-40c3-ae7c-48106dc105c9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-10-29T21:17:34Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Steve Kopack",
+      "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom - NBC News",
+      "description": "Tech stocks plunged, wiping out $1 trillion from  Nasdaq 100 index companies.",
+      "url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-nyse-mb-1212-c2f31c.jpg",
+      "publishedAt": "2026-10-30T20:32:30Z",
+      "content": "Tech stocks plunged Friday, erasing more than $1 trillion in value. The Nasdaq 100 index fell 3.4% in afternoon trading, its worst one-day drop since mid-June.\r\nThe sell-off pushed the Nasdaq 100 clo… [+4663 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "By Stephen Culp and Shashwat Chauhan",
-      "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Yahoo Finance",
-      "description": "By Stephen Culp and Shashwat Chauhan NEW YORK, Oct 29 (Reuters) - US stocks slid on Thursday, with investors reassessing big tech's massive AI spending spree...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-slides-alphabet-revenue-184007636.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/254b023eaae6dcdaad996284b45959c29ec5821722676cd0bf7b00ebed18b901/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6e35b6f74e4ac0947e23050034198cf3.jpg",
-      "publishedAt": "2026-10-29T20:29:47Z",
-      "content": "By Stephen Culp and Shashwat Chauhan\r\nNEW YORK, Oct 29 (Reuters) - US stocks slid on Thursday, with investors reassessing big tech's massive AI spending spree as they digested high-profile earnings a… [+3766 chars]"
+      "author": "Jared Blikre",
+      "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974 - Yahoo Finance",
+      "description": "Intel’s data center business is booming, but a weak outlook just handed the stock its worst day in more than half a century.",
+      "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-29-its-worst-day-since-1974-205955309.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/66ce7bacc77f235b78bb9aeab3da41a555696718a5a995a480d4817e5f148245/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F653ca1d1-2186-47eb-8fab-aa45dcd35daa",
+      "publishedAt": "2026-10-30T20:05:54Z",
+      "content": "Intel's data center business just grew almost 80% in a year. Its outlook for the fourth quarter just handed the stock its worst day in more than half a century, erasing nearly $140 billion in market … [+3029 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "CNBC"
       },
-      "author": "Yahoo Finance",
-      "title": "Earnings live updates: Sandisk posts solid earnings, announces 8-for-1 stock split - Yahoo Finance",
-      "description": "Third quarter earnings season is in full swing this week. Follow along for live updates.",
-      "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-sandisk-posts-solid-earnings-announces-8-for-1-stock-split-202935679.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/dd935e8db6fbbb6405c1d18fa3b03bfdb8ce709311d88c72396ab26fa757f086/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-04%2Fe17d4460-37fe-11f1-b2ff-771a25b767a5",
-      "publishedAt": "2026-10-29T20:29:35Z",
-      "content": "Vertiv (VRT) stock surged 15% in premarket trading as the data center infrastructure player showed it continues to benefit from the massive capex spending from the likes of Google (GOOG) and Microsof… [+1258 chars]"
+      "author": "Mike Winters",
+      "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked - CNBC",
+      "description": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.",
+      "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108487110-1793379149259-gettyimages-2302659444-gdp_9888_nekmmzmv.jpeg?v=1793380486&w=1920&h=1080",
+      "publishedAt": "2026-10-30T19:39:46Z",
+      "content": "A record-breaking hack at Binance, the world's largest cryptocurrency exchange, is a reminder of the risks investors take when trusting a company to hold their digital tokens. \r\nBinance said Friday t… [+5711 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Matthew Kazin",
+      "title": "Nearly 6 million coffee makers sold at major retailers recalled over burn risk - Fox Business",
+      "description": "Nearly 6 million Bodum French press coffee makers sold at Target, Walmart and on Amazon.com are being recalled over the risk of burn injuries.",
+      "url": "https://www.foxbusiness.com/lifestyle/nearly-6-million-coffee-makers-sold-major-retailers-recalled-over-burn-risk",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/coffee-maker-french-press.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-30T19:33:00Z",
+      "content": "Nearly 6 million coffee makers are being recalled because their glass could break during use, increasing the risk of burn injuries, according to a notice from the Consumer Product Safety Commission.\r… [+1835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Caleigh Keating",
+      "title": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever - CNBC",
+      "description": "Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.",
+      "url": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&w=1920&h=1080",
+      "publishedAt": "2026-10-30T19:20:15Z",
+      "content": "Shares of Reddit cratered29.22% on Friday, the worst drop since becoming a public company in 2024, after the company forecast weak fourth-quarter sales in its latest earnings report.\r\nThe previous re… [+1797 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 22:20:52 GMT"
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 19:22:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 21:13:14 GMT"
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 17:53:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 17:07:19 GMT"
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 21:29:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 16:26:11 GMT"
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 22:11:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 20:52:01 GMT"
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 15:16:20 GMT"
     },
     {
       "source": "BBC",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 20:41:51 GMT"
+      "title": "Ethiopian PM puts ministers through military training",
+      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 14:28:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 15:03:39 GMT"
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 05:44:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 14:48:22 GMT"
+      "title": "Global nature talks reach deal but money remains an issue",
+      "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 01:27:05 GMT"
     },
     {
       "source": "BBC",
@@ -186,11 +186,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 4,
+      "AI stocks": 1,
+      "GLP-1": 3,
       "Iran oil": 1,
       "Federal Reserve": 1,
-      "Bitcoin": 70
+      "Bitcoin": 42
     },
     "trending_searches": []
   },
@@ -211,28 +211,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3884.9,
-      "change_pct": -3.63,
+      "price": 3898.9,
+      "change_pct": -3.29,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 102.95,
-      "change_pct": 0.93,
+      "price": 104.12,
+      "change_pct": 2.08,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77025.65,
-      "change_pct": -0.96,
+      "price": 77405.42,
+      "change_pct": 0.27,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.46,
+      "change_pct": 0.49,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.65,
-      "change_pct": -0.19,
+      "price": 6.64,
+      "change_pct": -0.32,
       "symbol": "CNY=X"
     }
   }
