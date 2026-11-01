@@ -1,137 +1,151 @@
 {
-  "date": "2026年11月01日",
-  "date_iso": "2026-11-01",
-  "generated_at": "2026-11-01T06:59:43.063943+08:00",
+  "date": "2026年11月02日",
+  "date_iso": "2026-11-02",
+  "generated_at": "2026-11-02T07:19:04.326056+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lora Kolodny",
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution - CNBC",
+      "description": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080",
+      "publishedAt": "2026-10-31T18:56:21Z",
+      "content": "SpaceX's AI division, SpaceXAI, lost its bid to dismiss an NAACP lawsuit, which is proceeding in federal court in Mississippi, according to a judge's opinion released late Friday. \r\nThe lawsuit claim… [+2015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Allie Yang",
+      "title": "Popular supplement sold at Whole Foods and Amazon recalled over salmonella concerns - New York Post",
+      "description": "A popular supplement touted to help reduce stress and improve sleep is being recalled for concerns over salmonella contamination.",
+      "url": "https://nypost.com/2026/10/31/health/popular-supplement-sold-at-whole-foods-recalled-for-salmonella-concerns/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41612221_47d75d.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-31T18:54:00Z",
+      "content": "It’s a tough pill to swallow.\r\nA popular supplement touted to help reduce stress and improve sleep is being recalled for concerns over salmonella contamination.\r\nAn infection from this bacteria is es… [+3175 chars]"
+    },
     {
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "Steve Kopack",
-      "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom - NBC News",
-      "description": "Tech stocks plunged, wiping out $1 trillion from  Nasdaq 100 index companies.",
-      "url": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-nyse-mb-1212-c2f31c.jpg",
-      "publishedAt": "2026-10-30T20:32:30Z",
-      "content": "Tech stocks plunged Friday, erasing more than $1 trillion in value. The Nasdaq 100 index fell 3.4% in afternoon trading, its worst one-day drop since mid-June.\r\nThe sell-off pushed the Nasdaq 100 clo… [+4663 chars]"
+      "author": "Reuters",
+      "title": "McDonald’s must face lawsuit over McRib, judge rules - NBC News",
+      "description": "A federal judge on Friday rejected McDonald’s request to dismiss a proposed class action accusing it of defrauding consumers about the content of its McRib sandwich.",
+      "url": "https://www.nbcnews.com/business/business-news/mcdonalds-mcrib-lawsuit-rcna606719",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261031-McRib-aa-120-e28e3e.jpg",
+      "publishedAt": "2026-10-31T17:37:24Z",
+      "content": "A federal judge on Friday rejected McDonalds request to dismiss a proposed class action accusing it of defrauding consumers about the content of its McRib sandwich.\r\nThe plaintiffs accused McDonalds … [+1808 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Motley Fool"
       },
-      "author": "Jared Blikre",
-      "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974 - Yahoo Finance",
-      "description": "Intel’s data center business is booming, but a weak outlook just handed the stock its worst day in more than half a century.",
-      "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-29-its-worst-day-since-1974-205955309.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/66ce7bacc77f235b78bb9aeab3da41a555696718a5a995a480d4817e5f148245/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F653ca1d1-2186-47eb-8fab-aa45dcd35daa",
-      "publishedAt": "2026-10-30T20:05:54Z",
-      "content": "Intel's data center business just grew almost 80% in a year. Its outlook for the fourth quarter just handed the stock its worst day in more than half a century, erasing nearly $140 billion in market … [+3029 chars]"
+      "author": "Daniel Sparks",
+      "title": "Sandisk Is Splitting Its Stock 8-for-1. History Says What Usually Happens to Stocks After a Split Announcement. - The Motley Fool",
+      "description": "Does the flash memory company look like the split stocks that kept climbing?",
+      "url": "https://www.fool.com/investing/2026/10/31/sandisk-is-splitting-its-stock-8-for-1-history-says-what-usually-happens-to-stocks-after-a-split-announcement/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa503aa189fb5e7c5e221c27163d87cd5c91bf9c0-6000x4000.jpg&w=1200&op=resize",
+      "publishedAt": "2026-10-31T17:17:00Z",
+      "content": "Sandisk(SNDK-13.47%) gave investors two pieces of news on Thursday, Oct. 29. The flash memory company's fiscal first-quarter revenue grew 23% over the previous quarter to $11.0 billion. And the board… [+4127 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Mike Winters",
-      "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked - CNBC",
-      "description": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.",
-      "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108487110-1793379149259-gettyimages-2302659444-gdp_9888_nekmmzmv.jpeg?v=1793380486&w=1920&h=1080",
-      "publishedAt": "2026-10-30T19:39:46Z",
-      "content": "A record-breaking hack at Binance, the world's largest cryptocurrency exchange, is a reminder of the risks investors take when trusting a company to hold their digital tokens. \r\nBinance said Friday t… [+5711 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Matthew Kazin",
-      "title": "Nearly 6 million coffee makers sold at major retailers recalled over burn risk - Fox Business",
-      "description": "Nearly 6 million Bodum French press coffee makers sold at Target, Walmart and on Amazon.com are being recalled over the risk of burn injuries.",
-      "url": "https://www.foxbusiness.com/lifestyle/nearly-6-million-coffee-makers-sold-major-retailers-recalled-over-burn-risk",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/coffee-maker-french-press.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-30T19:33:00Z",
-      "content": "Nearly 6 million coffee makers are being recalled because their glass could break during use, increasing the risk of burn injuries, according to a notice from the Consumer Product Safety Commission.\r… [+1835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Caleigh Keating",
-      "title": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever - CNBC",
-      "description": "Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.",
-      "url": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&w=1920&h=1080",
-      "publishedAt": "2026-10-30T19:20:15Z",
-      "content": "Shares of Reddit cratered29.22% on Friday, the worst drop since becoming a public company in 2024, after the company forecast weak fourth-quarter sales in its latest earnings report.\r\nThe previous re… [+1797 chars]"
+      "author": null,
+      "title": "New York and LA didn't win America's best mega airport title, but one Midwest hub did - Fox News",
+      "description": "Coastal airports were outpaced as J.D. Power named Minneapolis the top mega hub for a third year, while Tampa and Charleston led their categories amid rising satisfaction scores.",
+      "url": "https://www.foxnews.com/travel/new-york-la-didnt-win-americas-best-mega-airport-title-midwest-hub-did",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/minneapolis-airport-tsa-shutdown-security.jpg",
+      "publishedAt": "2026-10-31T17:02:51Z",
+      "content": "A Midwestern airport has once again come out on top among North Americas largest hubs, outpacing better-known coastal airports serving New York and Los Angeles.\r\nMinneapolis-Saint Paul International … [+4287 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 19:22:26 GMT"
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 21:55:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 17:53:35 GMT"
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 21:29:01 GMT"
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 17:05:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 11:57:48 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 17:56:47 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "description": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 21:16:45 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 07:00:55 GMT"
     },
     {
       "source": "BBC",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 22:11:45 GMT"
+      "publishedAt": "Sun, 01 Nov 2026 13:11:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 15:16:20 GMT"
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "description": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 16:57:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ethiopian PM puts ministers through military training",
-      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 14:28:15 GMT"
+      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+      "description": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 00:17:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 05:44:21 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 01:27:05 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 21:13:14 GMT"
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 13:11:37 GMT"
     },
     {
       "source": "BBC",
@@ -163,34 +177,20 @@
     },
     {
       "source": "BBC",
-      "title": "How video game remakes tap the power of nostalgia",
-      "description": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 07:45:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-      "description": "A new generation is embracing eye-catching patching and visible mends.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 00:00:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Yorkshire Water boss resigns after firm downgraded",
-      "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 16:04:55 GMT"
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 21:13:14 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 3,
+      "GLP-1": 5,
       "Iran oil": 1,
-      "Federal Reserve": 1,
-      "Bitcoin": 42
+      "Federal Reserve": 2,
+      "Bitcoin": 44
     },
     "trending_searches": []
   },
@@ -212,22 +212,22 @@
     },
     "黃金": {
       "price": 3898.9,
-      "change_pct": -3.29,
+      "change_pct": 0.0,
       "symbol": "GC=F"
     },
     "WTI 原油": {
       "price": 104.12,
-      "change_pct": 2.08,
+      "change_pct": 0.0,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77405.42,
-      "change_pct": 0.27,
+      "price": 77972.8,
+      "change_pct": 0.69,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.49,
+      "change_pct": 0.48,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
