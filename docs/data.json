@@ -1,7 +1,7 @@
 {
-  "date": "2026年11月03日",
-  "date_iso": "2026-11-03",
-  "generated_at": "2026-11-03T09:57:26.844336+08:00",
+  "date": "2026年11月04日",
+  "date_iso": "2026-11-04",
+  "generated_at": "2026-11-04T08:19:52.400824+08:00",
   "newsapi": [
     {
       "source": {
@@ -9,11 +9,37 @@
         "name": "The Wall Street Journal"
       },
       "author": "WSJ",
-      "title": "Companies Have a Solution for the Skilled Trade Shortage: More Women - WSJ",
+      "title": "Stock Market Today: Oil Prices Slide on Mideast Hopes; Stocks Rebound After Friday's Selloff - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/economy/jobs/companies-have-a-solution-for-the-skilled-trade-shortage-more-women-37851f46",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026",
       "urlToImage": null,
-      "publishedAt": "2026-11-02T00:00:25Z",
+      "publishedAt": "2026-11-02T22:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "Rivian Stock Can Rise More Than 30%. The R2 Isn’t Just for ‘Tesla Switchers.’ - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/rivian-stock-upgrade-price-r2-ev-1a2be232",
+      "urlToImage": null,
+      "publishedAt": "2026-11-02T22:09:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Tomi Kilgore, Joseph Adinolfi, Nora Redmond, Jamie Chisholm, Steve Goldstein",
+      "title": "Stock Market Today: S&P 500, Nasdaq close lower as tech selloff deepens, but Dow rises and oil prices drop - MarketWatch",
+      "description": "The S&P 500 and Nasdaq Composite erased early gains to closer lower, as a brief bounce in technology stocks faded quickly. Meanwhile, the Dow rose as oil prices fell by the most in months.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rebound-midterm-elections-earnings-economic-data-apple",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-11-02T21:52:00Z",
       "content": null
     },
     {
@@ -21,218 +47,192 @@
         "id": null,
         "name": "Yahoo Entertainment"
       },
+      "author": "Ines Ferré",
+      "title": "Palantir raises full-year revenue outlook as US commercial sales top US government revenue for the first time - Yahoo Finance",
+      "description": "Palantir reported Q3 earnings after the bell on Monday.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/palantir-raises-full-year-revenue-outlook-as-us-commercial-sales-top-us-government-revenue-for-the-first-time-211408839.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e286e3092a77f9b575925c05b614f0bda3e876ca78dcb0d7ec2be5b3124abd15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fea47b6ce-7d94-4bf5-9b75-551d8d75a1c2",
+      "publishedAt": "2026-11-02T21:09:25Z",
+      "content": "Palantir (PLTR) beat Wall Street estimates on its third quarter revenue and profit on Monday and raised its full-year revenue outlook as the data software company's US commercial business surpassed i… [+1430 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
       "author": "Jared Blikre",
-      "title": "Stock futures open a monster week after a $5 trillion AI wipeout - Yahoo Finance",
-      "description": "Stock futures open a week of Apple earnings, the midterms and $100 oil after a $5 trillion AI selloff.",
-      "url": "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/804eaa9e467fd8c7c576c3d1d1ed2505db0f54e98185ab66ae87b2cca816c99b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9a19aa3a-dfbd-4993-9149-21f6e18a77dd",
-      "publishedAt": "2026-11-01T23:25:00Z",
-      "content": "Stock futures edged higher Sunday evening as Wall Street opened a week packed with Apple earnings, the midterm elections and $100 oil.\r\nS&amp;P 500 futures (ES=F), Nasdaq 100 futures (NQ=F), and Dow … [+2279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Jenn Gidman",
-      "title": "Suit: ChatGPT Killed Our Daughter With Bad Meds Advice - Newser",
-      "description": "Parents sue OpenAI, alleging chatbot encouraged fatal tapering off of daughter's epilepsy drugs",
-      "url": "https://www.newser.com/story/398910/suit-chatgpts-advice-to-stop-meds-killed-our-daughter.html",
-      "urlToImage": "https://cdn.newser.com/image/1720827-12-20261101173003.jpeg",
-      "publishedAt": "2026-11-01T23:00:00Z",
-      "content": "When 31-year-old software engineer Bowen Wan decided to quietly slash the dose of the epilepsy drug keeping her seizures in check, she didn't turn to her neurologist for guidance—she turned to ChatGP… [+1422 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Katherine Doyle",
-      "title": "Trump voices uncertainty about Nvidia CEO, a close tech adviser - The Washington Post",
-      "description": "Asked about Jensen Huang’s relationship with a suspected Chinese operative, the president called the situation “very complex.”",
-      "url": "https://www.washingtonpost.com/politics/2026/11/01/trump-says-jensen-huang-situation-is-very-complex/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SNYFBGGR4UEBHBXP77TK5IOI64.jpg&w=1440",
-      "publishedAt": "2026-11-01T22:52:12Z",
-      "content": "President Donald Trump stopped short of fully backing Nvidia co-founder and chief executive Jensen Huang, an influential adviser on technology, after a report that U.S. intelligence officials suspect… [+47 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Sheetal Banchariya",
-      "title": "California school staffers busted in $300K embezzlement scheme after massive Costco breakfast order blew their cover - New York Post",
-      "description": "Two employees at the International School of Monterey in Seaside allegedly embezzled nearly $300,000 in school funds to pay for personal expenses.",
-      "url": "https://nypost.com/2026/11/01/us-news/california-school-staffers-busted-in-huge-fraud-after-costco-breakfast-run-blows-their-cover/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-5tajptwk9-1793568392616.jpg?quality=75&strip=all&1793550493&w=1200",
-      "publishedAt": "2026-11-01T21:37:00Z",
-      "content": "Two staffers at a Central Coast charter school have been arrested after allegedly embezzling nearly $300,000 from school funds.\r\nThe International School of Monterey in Seaside were alerted to the il… [+2948 chars]"
+      "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading - Yahoo Finance",
+      "description": "Intel's slide spread through memory and storage stocks Monday as most of Wall Street moved on from last week's tech sell-off.",
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/20c071d47e1d29b6bcb68516712316fd79f4afbe9817d204b091e7acdade2c1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F1b2b2cbf-96e4-452f-9ea7-7917f40a6da2",
+      "publishedAt": "2026-11-02T20:41:39Z",
+      "content": "Wall Street mostly swept up last week's tech wreckage Monday. Chip stocks kept tracking mud back through the house.\r\nAbout 7 in 10 S&amp;P 500 stocks rose Monday, yet nearly every chip stock fell, an… [+2967 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 01:56:27 GMT"
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 22:45:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 00:07:05 GMT"
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 20:42:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-      "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 00:08:14 GMT"
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 16:19:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 17:38:11 GMT"
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "description": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 21:53:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 17:33:19 GMT"
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 14:56:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 23:37:31 GMT"
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 13:55:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 01:23:03 GMT"
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 16:57:41 GMT"
     },
     {
       "source": "BBC",
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 20:08:51 GMT"
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 11:33:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 12:22:10 GMT"
+      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "description": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 00:03:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 17:38:11 GMT"
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 20:53:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 01:23:03 GMT"
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "description": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 00:09:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Apple unsure when more foldable iPhones will be available after selling out",
-      "description": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 00:29:00 GMT"
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "description": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 11:56:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "Poundland's former owner offers to invest as minister prepares to meet board",
-      "description": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 13:40:36 GMT"
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "description": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 15:05:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "description": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 07:42:33 GMT"
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 00:04:35 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+      "description": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 15:12:35 GMT"
     },
     {
       "source": "BBC",
       "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
       "description": "The men and women who rummage through commercial bins to take clothes and other items.",
       "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 00:41:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-      "description": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 16:57:14 GMT"
+      "publishedAt": "Tue, 03 Nov 2026 07:50:14 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 12,
+      "GLP-1": 5,
       "Iran oil": 2,
-      "Federal Reserve": 1,
-      "Bitcoin": 44
+      "Federal Reserve": 2,
+      "Bitcoin": 41
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25164.36,
-      "change_pct": -3.9,
+      "price": 25372.01,
+      "change_pct": -0.26,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7541.4,
-      "change_pct": -2.32,
+      "price": 7568.92,
+      "change_pct": -0.15,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51983.98,
-      "change_pct": -0.69,
+      "price": 51786.72,
+      "change_pct": 0.03,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3957.0,
-      "change_pct": -0.32,
+      "price": 3945.6,
+      "change_pct": -0.6,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 96.58,
-      "change_pct": 0.12,
+      "price": 96.54,
+      "change_pct": 0.08,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 77003.65,
-      "change_pct": 0.42,
+      "price": 77135.58,
+      "change_pct": -0.26,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": 0.12,
+      "change_pct": 0.24,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.66,
-      "change_pct": 0.04,
+      "change_pct": 0.19,
       "symbol": "CNY=X"
     }
   }
