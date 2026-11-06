@@ -1,238 +1,225 @@
 {
-  "date": "2026年11月05日",
-  "date_iso": "2026-11-05",
-  "generated_at": "2026-11-05T08:41:13.950664+08:00",
+  "date": "2026年11月06日",
+  "date_iso": "2026-11-06",
+  "generated_at": "2026-11-06T08:41:14.411380+08:00",
   "newsapi": [
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Joseph Adinolfi, Brett Arends, Victor Reklaitis, Robert Schroeder, Aarthi Swaminathan, Venessa Wong",
-      "title": "Midterm election results 2026: Who’s winning and what’s at stake for stocks and the economy - MarketWatch",
-      "description": "Follow MarketWatch's live coverage of the 2026 midterm elections, and what the results will mean for the economy, the markets and your money.",
-      "url": "https://www.marketwatch.com/livecoverage/midterm-elections-2026-results-economy-stocks",
-      "urlToImage": "https://images.mktw.net/im-38550930/social",
-      "publishedAt": "2026-11-04T00:30:00Z",
-      "content": null
-    },
     {
       "source": {
         "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Election Night: Tech Futures Rise On AMD, Arista, Supermicro (Live) - Investor's Business Daily",
-      "description": "Arista Networks, AMD rise on earnings.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/stock-data-center-flag-adobe.jpg",
-      "publishedAt": "2026-11-04T00:09:00Z",
+      "title": "Arm Beats Quarterly Targets On Surging Data Center Business. But Arm Stock Falls. - Investor's Business Daily",
+      "description": "Arm beat analyst estimates for its fiscal second quarter and with its guidance for the current period. But Arm stock fell.",
+      "url": "https://www.investors.com/news/technology/arm-stock-fiscal-q2-2027-earnings/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/11/stock-Arm-AGI-CPU-company.jpg",
+      "publishedAt": "2026-11-04T21:53:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Elizabeth Lopatto",
-      "title": "Please stop asking me when the AI bubble will pop - The Verge",
-      "description": "The bond offerings keep coming, even as some of the most influential people in the bond market, such as the CEO of PIMCO, warn about an AI downturn.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
-      "publishedAt": "2026-11-03T23:37:45Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIm getting some real mixed messages here, boys!\r\nIm getting some real mixed messages here, boys!\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be adde… [+4902 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff - The Verge",
-      "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today.",
-      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-03T22:59:36Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSome Canva workers may have different roles, be asked to relocate, or be laid off.\r\nSome Canva workers may have different roles, be asked to relocate, or be laid… [+2392 chars]"
+      "author": "Jordan Novet",
+      "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes - CNBC",
+      "description": "Figma is letting clients use more artificial intelligence features for the same price. The company would like the move to boost results in the long term.",
+      "url": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179786-1753972286629-gettyimages-2227152264-FIGMA_IPO.jpeg?v=1793824923&w=1920&h=1080",
+      "publishedAt": "2026-11-04T21:38:33Z",
+      "content": "Figma shares tumbled 7% in extended trading after the company reported third-quarter results and guidance that surpassed Wall Street's predictions.\r\nHere's how the company performed relative to LSEG … [+2387 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Gizmodo.com"
       },
-      "author": "Adam Levine, Nate Wolf",
-      "title": "AMD Stock Jumps on Big Earnings Beat - Barron's",
-      "description": "Advanced Micro Devices reports better-than-expected earnings for the third quarter and issues strong guidance for the rest of the year.",
-      "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465",
-      "urlToImage": "https://images.barrons.com/im-36678066/social",
-      "publishedAt": "2026-11-03T22:36:00Z",
-      "content": "Finally, some good news for the artificial-intelligence trade.Advanced Micro Deviceson Tuesday reported better-than-expected earnings for the third quarter and forecast a strong finish to the year on… [+145 chars]"
+      "author": "Ece Yildirim",
+      "title": "Google Tries to Walk Back Controversial School AI Policy Following Political Backlash - Gizmodo",
+      "description": "Google backtracks on executive's threat that if AI goes, so does Search.",
+      "url": "https://gizmodo.com/google-tries-to-walk-back-controversial-school-ai-policy-following-political-backlash-2000834986",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/google-1200x675.jpg",
+      "publishedAt": "2026-11-04T21:15:17Z",
+      "content": "On Tuesday, the internet and politicians responded in outrage to a New York Times report saying that Google would effectively ban students from accessing Search if their schools banned AI entirely un… [+3785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Laya Neelakandan",
+      "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance - CNBC",
+      "description": "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+      "url": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107369762-1707244882546-031622_SLHaloGroup-V1_Main_0186_STACK_FINAL_IGF.jpg?v=1707245325&w=1920&h=1080",
+      "publishedAt": "2026-11-04T21:06:02Z",
+      "content": "E.l.f. Beauty on Wednesday blew past Wall Street expectations as it posted a 51% increase in net sales in its second fiscal quarter.\r\nThe beauty company said it saw its 31st consecutive quarter of ne… [+2852 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 13:33:30 GMT"
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:05:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 18:01:31 GMT"
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "description": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 23:31:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 22:48:43 GMT"
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:02:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "description": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 16:26:15 GMT"
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 17:39:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "description": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 16:40:38 GMT"
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "description": "California has historically had the largest population of people on death row in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 23:09:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "description": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 16:18:21 GMT"
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 17:59:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 07:39:38 GMT"
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 17:40:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "description": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 15:28:18 GMT"
+      "title": "Eight killed in series of shootings in western Turkey",
+      "description": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 19:32:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Interest rates expected to rise for first time in over three years",
-      "description": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:05:05 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 22:32:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+      "description": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:02:52 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "description": "Most analysts expected the increase from 3.75% to 4%.",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 00:00:09 GMT"
+      "publishedAt": "Thu, 05 Nov 2026 17:09:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "description": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 23:30:28 GMT"
+      "title": "Faisal Islam: How high will interest rates go?",
+      "description": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 13:17:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "description": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 21:41:15 GMT"
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "description": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:06:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "description": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 19:44:46 GMT"
+      "title": "Three ways the interest rate rise could affect you",
+      "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 13:08:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "description": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 19:38:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 00:04:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 20:53:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Australia's oldest department store David Jones collapses after 188 years",
-      "description": "The brand's 38 physical stores and online sites will continue to operate while receivers review its operations.",
-      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 00:09:40 GMT"
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "description": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 15:27:09 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 9,
-      "Iran oil": 2,
+      "AI stocks": 5,
+      "GLP-1": 13,
+      "Iran oil": 1,
       "Federal Reserve": 2,
-      "Bitcoin": 47
+      "Bitcoin": 57
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25736.51,
-      "change_pct": 2.27,
+      "price": 24315.0,
+      "change_pct": -4.17,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7688.62,
-      "change_pct": 1.95,
+      "price": 7353.73,
+      "change_pct": -2.84,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 53356.12,
-      "change_pct": 2.64,
+      "price": 51523.06,
+      "change_pct": -0.51,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4098.8,
-      "change_pct": 4.02,
+      "price": 4113.1,
+      "change_pct": 0.98,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 87.98,
-      "change_pct": -8.44,
+      "price": 91.13,
+      "change_pct": 3.42,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 80557.26,
-      "change_pct": 0.16,
+      "price": 76213.7,
+      "change_pct": 0.3,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.35,
-      "change_pct": 0.36,
+      "change_pct": -0.16,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.66,
-      "change_pct": -0.09,
+      "change_pct": -0.22,
       "symbol": "CNY=X"
     }
   }
