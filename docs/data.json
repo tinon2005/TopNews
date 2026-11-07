@@ -1,130 +1,130 @@
 {
-  "date": "2026年11月07日",
-  "date_iso": "2026-11-07",
-  "generated_at": "2026-11-07T07:55:15.702014+08:00",
+  "date": "2026年11月08日",
+  "date_iso": "2026-11-08",
+  "generated_at": "2026-11-08T07:22:10.499282+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Medora Lee",
-      "title": "Why the midterm blue wave just triggered a red Wall Street - USA Today",
-      "description": "AI and data center stocks slump as investors worry a new Democratic-controlled Congress will curb the industry's growth. Nasdaq falls into correction.",
-      "url": "https://www.usatoday.com/story/money/personal-finance/2026/11/05/blue-midterm-sweep-turns-ai-tech-rally/92624862007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92625883007-20080122-t-120000-z-874095695-gm-1-dxcfnifaa-rtrmadp-3-marketsstocks.JPG?crop=3848,2165,x0,y123&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-05T21:46:00Z",
-      "content": "Midterm election results weighed heavily on U.S. stocks, particularly shares in data center and artificial intelligence, as investors worry a Democratic Congress will slow their development.\r\nThe tec… [+6823 chars]"
+      "author": "The New York Times",
+      "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlRKTG9WNHBINWg3VkxadkZGV0dCbHZPWUpFclJJNFZBdzNmbGNLbldyWVgtblFfUk1famJaZUlzX3JSTHpyYnRIa25Qd01jNWhPbVV0QllXRW5pTGdBam9NaE1iTXBXMmhCNVFoNTI3ZHFDVEFSU0F5dXNTMHVfY0Z1RzltVGpRdDdaUUlYNzQwWVlz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T21:30:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Rita Nazareth",
+      "title": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap - Bloomberg.com",
+      "description": "A rebound in chipmakers propped up the stock market as dip buyers emerged despite economic data that reinforced speculation the Federal Reserve will boost rates in December.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ielU73ynfik0/v0/1200x800.jpg",
+      "publishedAt": "2026-11-06T21:13:50Z",
+      "content": "A rebound in chipmakers propped up the stock market as dip buyers emerged despite economic data that reinforced speculation the Federal Reserve will boost rates in December.\r\nIn the wake of a rout th… [+196 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Financial Times"
       },
-      "author": "Lora Kolodny",
-      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms - CNBC",
-      "description": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
-      "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
-      "publishedAt": "2026-11-05T21:42:17Z",
-      "content": "SpaceX and Tesla shares declined by about 9% and 11%, respectively, on Thursday afternoon with investors concerned that Elon Musk could face new congressional probes and his companies stricter regula… [+2679 chars]"
+      "author": null,
+      "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation - Financial Times",
+      "description": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
+      "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F75de8a82-8e75-43c3-a4a2-76d844741bc0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-06T21:00:09Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "AJ Dellinger",
+      "title": "Krispy Kreme Is Beating Nvidia, and That’s Not Even the Chip Giant’s Biggest Problem - Gizmodo",
+      "description": "Democrats will not be investigating Krispy Kreme's frosting distribution.",
+      "url": "https://gizmodo.com/krispy-kreme-is-beating-nvidia-and-thats-not-even-the-chip-giants-biggest-problem-2000836297",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2286324485-1200x675.jpg",
+      "publishedAt": "2026-11-06T20:25:46Z",
+      "content": "Just how badly is the tech sector getting hammered in this post-midterm stock market reckoning? Well, put it this way: If you’d bought Krispy Kreme at the start of the year, you’d be doing better tha… [+2689 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Ashley Belanger",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder. - Ars Technica",
-      "description": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
-      "publishedAt": "2026-11-05T21:39:40Z",
+      "author": "Nick Indge",
+      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas - Ars Technica",
+      "description": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg",
+      "publishedAt": "2026-11-06T20:05:30Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Mackenzie Tatananni",
-      "title": "IonQ CEO Doubles Down on Vision for Quantum Dominance After Blowout Earnings - Barron's",
-      "description": "IonQ CEO Niccolo de Masi envisions the company as a cornerstone of U.S. dominance in quantum technology.",
-      "url": "https://www.barrons.com/articles/ionq-earnings-stock-price-44567619",
-      "urlToImage": "https://images.barrons.com/im-04893291/social",
-      "publishedAt": "2026-11-05T21:38:00Z",
-      "content": "IonQhas become a standout name in quantum computingdue in part to its outspoken chief executive, but also backed by steady commercial progress. Following the latest earnings report, leadership expect… [+129 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "OpenAI faces Democratic backlash over AI data center expansion - Fox News",
-      "description": "OpenAI unveils new data center policies amid growing concerns over power costs, local communities and Democratic efforts to halt AI infrastructure expansion.",
-      "url": "https://www.foxnews.com/live-news/ai-news-openai-data-centers-midterms-11-05-26",
-      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/0395d2cdc93277c2164300c0bc595a98.jpg",
-      "publishedAt": "2026-11-05T21:11:15Z",
-      "content": "OpenAI is promising greater transparency and community involvement in its massive data center expansion as Democrats push to restrict new facilities following sweeping victories in Tuesday's midterm … [+1739 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 21:06:25 GMT"
+      "title": "What we know so far after Krakow gun attack",
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 22:58:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 16:12:22 GMT"
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 22:19:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Two dead after bus crashes in France, officials say",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 15:33:52 GMT"
+      "title": "No clear winner after tight New Zealand general election",
+      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 15:56:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "New wave of bomb threats hit European airlines",
-      "description": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 15:25:35 GMT"
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 18:14:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 14:46:03 GMT"
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 17:09:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 17:44:02 GMT"
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 15:19:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 15:30:42 GMT"
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 23:24:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 12:51:38 GMT"
+      "title": "Paraguay's former president charged after bank collapse",
+      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 19:17:22 GMT"
     },
     {
       "source": "BBC",
@@ -186,11 +186,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 3,
-      "GLP-1": 6,
+      "AI stocks": 2,
+      "GLP-1": 5,
       "Iran oil": 1,
       "Federal Reserve": 2,
-      "Bitcoin": 55
+      "Bitcoin": 50
     },
     "trending_searches": []
   },
@@ -211,17 +211,17 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4079.5,
-      "change_pct": -0.83,
+      "price": 4074.9,
+      "change_pct": -0.94,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 90.34,
-      "change_pct": -0.2,
+      "price": 90.83,
+      "change_pct": 0.34,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 75842.6,
+      "price": 75649.84,
       "change_pct": -0.13,
       "symbol": "BTC-USD"
     },
