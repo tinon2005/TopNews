@@ -1,225 +1,225 @@
 {
-  "date": "2026年11月09日",
-  "date_iso": "2026-11-09",
-  "generated_at": "2026-11-09T07:23:36.993542+08:00",
+  "date": "2026年11月10日",
+  "date_iso": "2026-11-10",
+  "generated_at": "2026-11-10T10:30:27.742743+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "Austin American-Statesman"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Eva Ruth Moravec",
-      "title": "Dozens party outside Elon Musk's Austin home after campaign donations fell flat - Austin American-Statesman",
-      "description": "Elon Musk spent millions ahead of the midterm election, including on Ken Paxton's campaign. Now, some are celebrating the loss.",
-      "url": "https://www.statesman.com/news/article/elon-musk-ausin-home-election-party-22516775.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/67/51/31423099/5/rawImage.jpg",
-      "publishedAt": "2026-11-07T23:38:33Z",
-      "content": "People gather outside of a West Lake Hills compound affiliated with Elon Musk on Saturday Nov. 7, 2026 to celebrate that his campaign donations went mostly to candidates who lost in the midterm elect… [+4384 chars]"
+      "author": "Lucia I Suarez Sang, Kristin  Brown",
+      "title": "Nvidia investigates CEO Jensen Huang amid allegations he was target of Chinese intelligence effort - CBS News",
+      "description": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/21/1d97fd5a-c69d-4091-b9d7-574645dfa7ad/thumbnail/1200x630/0c8149bf27d219fe8c8b56e20f603e27/gettyimages-2285783561.jpg",
+      "publishedAt": "2026-11-09T02:11:24Z",
+      "content": "Nvidia has launched an independent investigation of its co-founder and CEO, Jensen Huang, over allegations that he was the target of an intelligence effort by China.\r\nThe allegations center around a … [+3209 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Anthony Ha",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo - TechCrunch",
-      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "publishedAt": "2026-11-07T21:17:08Z",
-      "content": "A memo circulated earlier this year claimed that technology executive Alice Huang was recruited by Chinas Ministry of State Security to spy on Nvidia CEO Jensen Huang, according to multiple media rep… [+986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "24/7 Wall St."
-      },
-      "author": "Omor Ibne Ehsan",
-      "title": "Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better - 24/7 Wall St.",
-      "description": "Musk hinted at a telecom takeover without naming a target, while a rival CEO put a staggering price on SpaceX's ambitions. Debt, regulators, and a spectrum gap stand between the boast and a real deal.",
-      "url": "https://247wallst.com/investing/2026/11/07/musk-says-spacex-could-buy-a-legacy-telco-and-use-its-spectrum-10-times-better/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2019/03/imageforentry15-mou.jpg",
-      "publishedAt": "2026-11-07T18:26:00Z",
-      "content": "Musk hinted at a telecom takeover without naming a target, while a rival CEO put a staggering price on SpaceX's ambitions. Debt, regulators, and a spectrum gap stand between the boast and a real deal… [+4180 chars]"
+      "author": "Cristian  Benavides",
+      "title": "\"Forever cruise\" arrested at Singapore port, court records show - CBS News",
+      "description": "A source familiar with the matter tells CBS News that a fuel supplier likely hired a law firm to pursue legal action against the Odyssey.",
+      "url": "https://www.cbsnews.com/news/odyssey-forever-cruise-arrested-at-singapore-port/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/843ce3d8-ef58-4304-a1a0-11e05f15fb50/thumbnail/1200x630/f1373230e96edc8aae8c5ea497dbb31d/gettyimages-2301851494.jpg",
+      "publishedAt": "2026-11-08T23:24:02Z",
+      "content": "The Odyssey, the \"forever cruise\" that has been stranded in Southeast Asia after its owner struggled with financial problems, has been arrested in Singapore, according to court records obtained by CB… [+1151 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CoinDesk"
+        "name": "CNBC"
       },
-      "author": "Francisco Rodrigues",
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows - CoinDesk",
-      "description": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
-      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/9b6c50614a95b8691bb96a1027e2c050c8f9b64c-960x720.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "publishedAt": "2026-11-07T17:36:46Z",
-      "content": "Disclosure &amp; Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of… [+435 chars]"
+      "author": "Tanaya Macheel, Lim Hui Jie",
+      "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates - CNBC",
+      "description": "Key inflation data and AI earnings could set the tone for markets this week.",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108370318-1790781020672-Traders-Photo-20260929-KK-PRESS-002.jpg?v=1790781195&w=1920&h=1080",
+      "publishedAt": "2026-11-08T23:18:07Z",
+      "content": "Stock futures were slightly higher Sunday evening with traders eyeing whether technology shares can continue to recover, while they are awaiting the release of key inflation data and earnings from ma… [+3099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Brandon Cruz",
+      "title": "Posh Long Island enclave threatens to limit Airbnbs thanks to insufferable influencers - New York Post",
+      "description": "“We are struggling to regulate [the short-term rental market].”",
+      "url": "https://nypost.com/2026/11/08/us-news/southold-threatens-to-limit-airbnbs-thanks-to-insufferable-influencers/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/Southold_Comp.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-08T23:17:00Z",
+      "content": "A ritzy Long Island hot spot on the luxurious North Fork is threatening to cap the number of Airbnb and short-term rentals it allows to just 1% of homes thanks to insufferable influencers and tourist… [+2588 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 18:22:53 GMT"
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 01:44:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 19:58:02 GMT"
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 19:58:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "Homes and temples glow across India to mark Diwali",
-      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 14:42:09 GMT"
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "description": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 00:09:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT"
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 00:14:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 04:03:12 GMT"
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 20:20:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 21:36:16 GMT"
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 01:38:49 GMT"
     },
     {
       "source": "BBC",
-      "title": "Paraguay's former president charged after bank collapse",
-      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 19:17:22 GMT"
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 01:55:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 06:59:48 GMT"
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 18:08:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 15:37:25 GMT"
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 01:44:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-      "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 01:41:36 GMT"
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 19:58:01 GMT"
     },
     {
       "source": "BBC",
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 23:02:35 GMT"
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "description": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 21:52:28 GMT"
     },
     {
       "source": "BBC",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 21:06:25 GMT"
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "description": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 17:17:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "description": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
-      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 18:32:16 GMT"
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "description": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 18:40:31 GMT"
     },
     {
       "source": "BBC",
-      "title": "How does it affect me if share prices fall?",
-      "description": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 09:21:50 GMT"
+      "title": "Poundland unable to buy new stock as fears over collapse grow",
+      "description": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 16:46:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-      "description": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 17:19:38 GMT"
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 01:55:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 21:49:50 GMT"
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "description": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 23:51:22 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 6,
+      "AI stocks": 1,
+      "GLP-1": 14,
       "Iran oil": 2,
       "Federal Reserve": 2,
-      "Bitcoin": 75
+      "Bitcoin": 50
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 24579.42,
-      "change_pct": -4.5,
+      "price": 25253.14,
+      "change_pct": 3.86,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7376.86,
-      "change_pct": -4.05,
+      "price": 7549.94,
+      "change_pct": 2.67,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51285.73,
-      "change_pct": -3.88,
+      "price": 52389.75,
+      "change_pct": 1.68,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4076.9,
-      "change_pct": 0.05,
+      "price": 4133.3,
+      "change_pct": 0.46,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 90.34,
-      "change_pct": -0.54,
+      "price": 86.21,
+      "change_pct": -0.74,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 75495.88,
-      "change_pct": -0.33,
+      "price": 74755.86,
+      "change_pct": -0.66,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.34,
-      "change_pct": -0.88,
+      "change_pct": 0.64,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.66,
-      "change_pct": -0.12,
+      "price": 6.67,
+      "change_pct": -0.09,
       "symbol": "CNY=X"
     }
   }
