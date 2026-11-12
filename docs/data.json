@@ -1,131 +1,158 @@
 {
-  "date": "2026年11月11日",
-  "date_iso": "2026-11-11",
-  "generated_at": "2026-11-11T08:23:21.381080+08:00",
+  "date": "2026年11月12日",
+  "date_iso": "2026-11-12",
+  "generated_at": "2026-11-12T09:46:11.431249+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Futures Rise, CoreWeave Jumps In Good News For AI - Investor's Business Daily",
+      "description": "A rally attempt is underway, but it's not time to be taking big risks.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-nvidia-coreweave/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-cliffjump-02-adobe.jpg",
+      "publishedAt": "2026-11-11T01:25:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Daniel Wu",
-      "title": "FDA tells GLP-1 makers to warn of potential vision loss side effect - The Washington Post",
-      "description": "The agency is requiring GLP-1 manufacturers to warn the drugs can increase risk of “eye stroke.”",
-      "url": "https://www.washingtonpost.com/health/2026/11/09/fda-tells-glp-1-makers-warn-potential-vision-loss-side-effect/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6FYIFDG4ANBRTJ3RVV47ABPQGQ.jpg&w=1440",
-      "publishedAt": "2026-11-10T00:19:45Z",
-      "content": "The Food and Drug Administration announced Monday that it is requiringmanufacturers of GLP-1 medications to warn that they can increase the risk of vision loss.\r\nThe warning applies to all GLP-1 medi… [+68 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago - TechCrunch",
-      "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-      "publishedAt": "2026-11-09T23:28:37Z",
-      "content": "Nvidia CEO Jensen Huang hired Heller Inc., a crisis communications firm known for handling sex scandals, at least a year before he publicly acknowledged an extramarital affair with a woman suspected … [+1277 chars]"
+      "author": "Joshua Yang, Cate Cadell",
+      "title": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO - The Washington Post",
+      "description": "Even basic details remain murky about the background of the Chinese executive, whose affair with Jensen Huang has rocked the global tech industry.",
+      "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/M74BLF7AMJS567OGB5XYBP53IQ.JPG&w=1440",
+      "publishedAt": "2026-11-11T01:15:22Z",
+      "content": "Alice Huang, the Chinese business executive and alleged Chinese spy whose affair with Nvidia CEO Jensen Huang has rocked the global technology industry and set off a swirl of questions from Beijing t… [+39 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Financial Times"
       },
-      "author": "Matthew Kazin",
-      "title": "California amusement park to close after more than 50 years - Fox Business",
-      "description": "Six Flags' California's Great America in Santa Clara will close after its 2027 farewell season, ending more than 50 years of amusement park history.",
-      "url": "https://www.foxbusiness.com/lifestyle/california-amusement-park-close-after-more-than-50-years",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/the-patriot-roller-coaster-california-great-america.jpg?ve=1&tl=1",
-      "publishedAt": "2026-11-09T22:39:00Z",
-      "content": "A California amusement park will close its gates for the final time next year after more than 50 seasons in business.\r\nCalifornia’s Great America, owned by Six Flags, in Santa Clara said it will ceas… [+2012 chars]"
+      "author": null,
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more - Financial Times",
+      "description": "Claude maker’s listing price expected to rise after strong demand from investors",
+      "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6eda46fd-c331-430a-b4ed-bec84714d6ff.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-11T00:30:25Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "The US military seems to be getting nervous about the launch supply crunch - Ars Technica",
+      "description": "Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
+      "publishedAt": "2026-11-10T23:02:39Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "The Texas Tribune"
       },
-      "author": "Dade Hayes",
-      "title": "HBO Max-Paramount+ Bundle Set To Launch In Early 2027, David Ellison Confirms - Deadline",
-      "description": "An HBO Max-Paramount+ bundle will launch in early 2027, Skydance CEO David Ellison confirmed in a letter to shareholders on Monday.",
-      "url": "http://deadline.com/2026/11/hbo-max-paramount-bundle-launching-2027-skydance-david-ellison-1237217635/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Paramount-and-HBO-MAX-logo.jpg?w=1024",
-      "publishedAt": "2026-11-09T22:28:00Z",
-      "content": "UPDATED with earnings call comments. An HBO Max–Paramount+ bundle will launch in early 2027, Skydance CEO David Ellison confirmed in a letter to shareholders on Monday.\r\nThe bundle has been promoted … [+4027 chars]"
+      "author": "Berenice Garcia",
+      "title": "SpaceX plans $24 billion data center project in Starbase - The Texas Tribune",
+      "description": "The city of Starbase has scheduled a public hearing on a possible tax abatement agreement for the data center and power plant project.",
+      "url": "https://www.texastribune.org/2026/11/10/texas-spacex-data-center-power-plant/",
+      "urlToImage": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/0229-Biden-Brownsville-EH-01.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "publishedAt": "2026-11-10T22:55:46Z",
+      "content": "Subscribe to The Yall a weekly dispatch about the people, places and policies defining Texas, produced by Texas Tribune journalists living in communities across the state.\r\nAudio recording is automat… [+6833 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 22:17:45 GMT"
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 22:07:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 18:33:51 GMT"
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 01:00:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 17:03:16 GMT"
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 18:04:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "description": "Supporters of Sheikh Hasina want her to return from exile in India.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 19:26:42 GMT"
+      "title": "New York building collapse kills one person and injures 12",
+      "description": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 01:34:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Spain's king and queen attend memorial service for rail crash victims",
-      "description": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 20:46:40 GMT"
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 16:38:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 18:04:18 GMT"
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 14:56:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "description": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 15:21:18 GMT"
+      "title": "Famed ship SS United States to be sunk off coast of Florida",
+      "description": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 18:42:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 21:21:55 GMT"
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 18:38:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 23:22:04 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
       "description": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
       "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 00:02:07 GMT"
+      "publishedAt": "Thu, 12 Nov 2026 00:49:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "title": "Christmas toy rush being driven by squishies and building sets",
       "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
       "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 00:16:44 GMT"
+      "publishedAt": "Wed, 11 Nov 2026 07:52:05 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "description": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 21:42:20 GMT"
     },
     {
       "source": "BBC",
@@ -133,6 +160,13 @@
       "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 10 Nov 2026 22:52:15 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "description": "Office buildings with low occupancy rates are being transformed into flats.",
+      "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 00:05:40 GMT"
     },
     {
       "source": "BBC",
@@ -147,79 +181,58 @@
       "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
       "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 10 Nov 2026 15:10:20 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 00:19:13 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-      "description": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 17:04:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "description": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 14:45:46 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 1,
-      "GLP-1": 14,
+      "AI stocks": 2,
+      "GLP-1": 12,
       "Iran oil": 2,
       "Federal Reserve": 2,
-      "Bitcoin": 51
+      "Bitcoin": 49
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25065.88,
-      "change_pct": 1.98,
+      "price": 25466.19,
+      "change_pct": 0.84,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7520.93,
-      "change_pct": 1.95,
+      "price": 7619.38,
+      "change_pct": 0.92,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52231.89,
-      "change_pct": 1.84,
+      "price": 52486.49,
+      "change_pct": 0.18,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 4048.4,
-      "change_pct": -1.61,
+      "price": 3997.2,
+      "change_pct": -0.82,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 86.22,
-      "change_pct": -0.73,
+      "price": 85.51,
+      "change_pct": -0.62,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 73500.0,
-      "change_pct": -0.28,
+      "price": 73594.88,
+      "change_pct": -0.45,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.33,
-      "change_pct": -0.7,
+      "change_pct": -0.52,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.67,
-      "change_pct": -0.07,
+      "change_pct": -0.06,
       "symbol": "CNY=X"
     }
   }
