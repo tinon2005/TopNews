@@ -1,238 +1,238 @@
 {
-  "date": "2026年11月12日",
-  "date_iso": "2026-11-12",
-  "generated_at": "2026-11-12T09:46:11.431249+08:00",
+  "date": "2026年11月13日",
+  "date_iso": "2026-11-13",
+  "generated_at": "2026-11-13T08:51:10.668467+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Megan  Cerullo",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers - CBS News",
+      "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+      "publishedAt": "2026-11-11T22:22:06Z",
+      "content": "United Airlines said on Wednesday that it is banning artificial intelligence agents from making flight reservations on behalf of travelers, citing security risks and the possibility that such actions… [+2337 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Futures Rise, CoreWeave Jumps In Good News For AI - Investor's Business Daily",
-      "description": "A rally attempt is underway, but it's not time to be taking big risks.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-nvidia-coreweave/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-cliffjump-02-adobe.jpg",
-      "publishedAt": "2026-11-11T01:25:00Z",
+      "title": "Futures: CoreWeave, AI Lead Bullish Market Move; What To Do Now - Investor's Business Daily",
+      "description": "Many of the day's biggest winners have been huge losers in recent weeks.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/stock-nvidia-ceo-jensen-huang-company.jpg",
+      "publishedAt": "2026-11-11T22:06:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Barron's"
       },
-      "author": "Joshua Yang, Cate Cadell",
-      "title": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO - The Washington Post",
-      "description": "Even basic details remain murky about the background of the Chinese executive, whose affair with Jensen Huang has rocked the global tech industry.",
-      "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/M74BLF7AMJS567OGB5XYBP53IQ.JPG&w=1440",
-      "publishedAt": "2026-11-11T01:15:22Z",
-      "content": "Alice Huang, the Chinese business executive and alleged Chinese spy whose affair with Nvidia CEO Jensen Huang has rocked the global technology industry and set off a swirl of questions from Beijing t… [+39 chars]"
+      "author": "George Glover",
+      "title": "Costco’s Special Dividend Is Just One Reason It’s a Good Place to Shelter From AI Chaos - Barron's",
+      "description": "Costco declares a special cash dividend of $30 a share, showing why it’s ‘a high-quality, defensive compounder.’",
+      "url": "https://www.barrons.com/articles/costco-stock-special-dividend-dc9dc159",
+      "urlToImage": "https://images.barrons.com/im-99774623/social",
+      "publishedAt": "2026-11-11T21:15:00Z",
+      "content": "The artificial-intelligence reboundmet its matchon Tuesday, as hotter-than-expected inflation data dragged down stocks.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe8568… [+19 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Marc Caputo, Maria Curi",
+      "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown - Axios",
+      "description": "Trump approved action three times, sources say.",
+      "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+      "urlToImage": "https://images.axios.com/SEQvf7tge4VgxJEzb2shzd4FYqs=/0x243:4000x2493/1366x768/2026/11/11/1794427506540.jpeg",
+      "publishedAt": "2026-11-11T21:02:51Z",
+      "content": "<ul><li>This report was assembled from interviews with six high-level sources who were briefed on or, in some cases, heard the discussions.</li></ul>Inside the room: On Thursday, as the spy scandal r… [+3764 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "NPR"
       },
-      "author": null,
-      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more - Financial Times",
-      "description": "Claude maker’s listing price expected to rise after strong demand from investors",
-      "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6eda46fd-c331-430a-b4ed-bec84714d6ff.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-11T00:30:25Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Stephen Clark",
-      "title": "The US military seems to be getting nervous about the launch supply crunch - Ars Technica",
-      "description": "Launch is extremely constrained and that is exactly the situation we predicted.\"",
-      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
-      "publishedAt": "2026-11-10T23:02:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Texas Tribune"
-      },
-      "author": "Berenice Garcia",
-      "title": "SpaceX plans $24 billion data center project in Starbase - The Texas Tribune",
-      "description": "The city of Starbase has scheduled a public hearing on a possible tax abatement agreement for the data center and power plant project.",
-      "url": "https://www.texastribune.org/2026/11/10/texas-spacex-data-center-power-plant/",
-      "urlToImage": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/0229-Biden-Brownsville-EH-01.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
-      "publishedAt": "2026-11-10T22:55:46Z",
-      "content": "Subscribe to The Yall a weekly dispatch about the people, places and policies defining Texas, produced by Texas Tribune journalists living in communities across the state.\r\nAudio recording is automat… [+6833 chars]"
+      "author": "Willa Rubin",
+      "title": "Why is gasoline suddenly under $4 a gallon? - NPR",
+      "description": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8054x4530+0+419/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fb1%2F79ee5cd14420a25d6111b7bf6a03%2Fgettyimages-2248589851.jpg",
+      "publishedAt": "2026-11-11T19:59:14Z",
+      "content": "Stay up to date with our \r\nUp First\r\n newsletter, sent every weekday morning.\r\nDrivers are starting to see some relief from high fuel prices. For the first time in months, the average price of a gall… [+3803 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 22:07:37 GMT"
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 23:34:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 21:00:42 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 00:20:24 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 20:09:16 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 19:23:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 18:47:35 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 01:00:04 GMT"
+      "publishedAt": "Thu, 12 Nov 2026 12:56:55 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 18:04:58 GMT"
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 15:18:20 GMT"
     },
     {
       "source": "BBC",
-      "title": "New York building collapse kills one person and injures 12",
-      "description": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
-      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 01:34:58 GMT"
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 23:34:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 16:38:07 GMT"
+      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
+      "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 20:25:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 14:56:11 GMT"
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 00:13:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Famed ship SS United States to be sunk off coast of Florida",
-      "description": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 18:42:27 GMT"
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "description": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 15:10:32 GMT"
     },
     {
       "source": "BBC",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 18:38:45 GMT"
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "description": "The UK is seeing impressive growth, but will it last?",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 13:27:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "description": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 11:20:25 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+      "description": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 14:29:59 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
       "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 23:22:04 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "description": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 00:49:05 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Christmas toy rush being driven by squishies and building sets",
-      "description": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 07:52:05 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "description": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 21:42:20 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 22:52:15 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "From Paris to DC - why offices are being turned into apartments",
-      "description": "Office buildings with low occupancy rates are being transformed into flats.",
-      "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 00:05:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "description": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 17:56:12 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-      "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 15:10:20 GMT"
+      "publishedAt": "Thu, 12 Nov 2026 22:51:18 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 2,
-      "GLP-1": 12,
+      "GLP-1": 9,
       "Iran oil": 2,
-      "Federal Reserve": 2,
-      "Bitcoin": 49
+      "Federal Reserve": 4,
+      "Bitcoin": 62
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25466.19,
-      "change_pct": 0.84,
+      "price": 25366.09,
+      "change_pct": 1.2,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7619.38,
-      "change_pct": 0.92,
+      "price": 7592.4,
+      "change_pct": 0.95,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52486.49,
-      "change_pct": 0.18,
+      "price": 52297.09,
+      "change_pct": 0.12,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3997.2,
-      "change_pct": -0.82,
+      "price": 3890.3,
+      "change_pct": -2.75,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 85.51,
-      "change_pct": -0.62,
+      "price": 88.42,
+      "change_pct": 2.18,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 73594.88,
-      "change_pct": -0.45,
+      "price": 71000.2,
+      "change_pct": -0.52,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.33,
-      "change_pct": -0.52,
+      "price": 1.32,
+      "change_pct": -0.34,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.67,
-      "change_pct": -0.06,
+      "change_pct": -0.01,
       "symbol": "CNY=X"
     }
   }
