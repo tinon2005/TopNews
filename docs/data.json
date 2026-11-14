@@ -1,111 +1,137 @@
 {
-  "date": "2026年11月14日",
-  "date_iso": "2026-11-14",
-  "generated_at": "2026-11-14T08:37:11.525847+08:00",
+  "date": "2026年11月15日",
+  "date_iso": "2026-11-15",
+  "generated_at": "2026-11-15T07:35:42.414435+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": "axios",
+        "name": "Axios"
       },
-      "author": "Bailey Lipschultz",
-      "title": "Anthropic’s IPO Is About Six Times Oversubscribed - Bloomberg.com",
-      "description": "Anthropic PBC’s initial public offering has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest first-time share sale ever.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig2FEVjgRdRc/v1/1200x800.jpg",
-      "publishedAt": "2026-11-12T21:00:14Z",
-      "content": "Anthropic PBCs initial public offering has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest f… [+292 chars]"
+      "author": "Alex Fitzpatrick",
+      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\" - Axios",
+      "description": "Such a move is extremely rare.",
+      "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+      "urlToImage": "https://images.axios.com/GnUhQbvQbFZf-A--p4aNzjhRAXo=/0x0:1920x1080/1366x768/2025/11/06/1762458318387.jpeg",
+      "publishedAt": "2026-11-13T21:21:47Z",
+      "content": "What they're saying: \"The FAA issued a nationwide ground stop for all U.S. airports following communication issues impacting multiple Air Route Traffic Control Centers,\" the agency said in a statemen… [+1417 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Forbes"
       },
-      "author": "Rachel Lerman",
-      "title": "Home sales in worst slump since the aftermath of the Great Recession - The Washington Post",
-      "description": "Home sales are slumping, and mortgage rates have pushed up the typical monthly payment for homebuyers in the U.S.",
-      "url": "https://www.washingtonpost.com/business/2026/11/12/housing-market-worst-slump-since-aftermath-great-recession/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VNND43OUHZJFXMR6NXOVOYVUYE_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-12T20:50:24Z",
-      "content": "The housing market slumped further in October as U.S. home sales fell again, hitting the lowest level in more than 16 years.\r\nMortgage rates have soared past 7 percent while home prices stay stubborn… [+241 chars]"
+      "author": "Forbes",
+      "title": "Microsoft 365 Outage Continues: Tech Giant Has No Timeline For Recovery, Says It’s ‘Deeply Sorry’ - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/13/microsoft-365-outage-continues-tech-giant-has-no-timeline-for-recovery-says-its-deeply-sorry/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-13T20:28:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Ryan Gould, Siddharth Philip, Dinesh Nair",
-      "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
-      "description": "SpaceX and Tesla Inc. are progressing in their merger negotiations, setting the stage for a combination that could redefine the limits of global dealmaking.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_Dno1X9pEaE/v0/1200x801.jpg",
-      "publishedAt": "2026-11-12T20:22:35Z",
-      "content": "SpaceX and Tesla Inc. are progressing in their merger negotiations, setting the stage for a combination that could redefine the limits of global dealmaking.\r\nElon Musks two largest companies could an… [+214 chars]"
+      "author": "Jon Brodkin",
+      "title": "Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket - Ars Technica",
+      "description": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
+      "publishedAt": "2026-11-13T19:49:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Anthropic’s Dario Amodei ‘not super fussed’ about market turmoil ahead of IPO - Financial Times",
+      "description": "AI lab’s chief executive brushes off tech stock turbulence less than a week before  planned $1.5tn listing",
+      "url": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d92f423-54cc-4785-8b4f-9b278b045399.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-13T19:41:26Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim Fernholz",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen! - TechCrunch",
+      "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+      "publishedAt": "2026-11-13T18:40:30Z",
+      "content": "The leading open-weight models developed by Chinese companies were trained on Nvidia chips that the U.S. government restricted from shipping to its largest geopolitical rival, a new research effort c… [+5634 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
-      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 23:40:45 GMT"
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 19:12:25 GMT"
     },
     {
       "source": "BBC",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 22:37:25 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:28:06 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 22:09:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:17:58 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:00:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 15:53:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 00:03:52 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 21:14:22 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 11:43:27 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 00:01:01 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 16:40:31 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 18:34:45 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 21:14:22 GMT"
+      "publishedAt": "Sat, 14 Nov 2026 06:42:27 GMT"
     },
     {
       "source": "BBC",
@@ -160,11 +186,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 7,
-      "Iran oil": 1,
-      "Federal Reserve": 2,
-      "Bitcoin": 68
+      "AI stocks": 1,
+      "GLP-1": 3,
+      "Iran oil": 0,
+      "Federal Reserve": 1,
+      "Bitcoin": 93
     },
     "trending_searches": []
   },
@@ -185,18 +211,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3887.6,
-      "change_pct": 0.06,
+      "price": 3886.3,
+      "change_pct": 0.03,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 88.92,
-      "change_pct": 0.2,
+      "price": 88.56,
+      "change_pct": -0.2,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 68165.38,
-      "change_pct": -0.11,
+      "price": 63567.62,
+      "change_pct": -6.86,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
@@ -205,8 +231,8 @@
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.67,
-      "change_pct": 0.0,
+      "price": 6.66,
+      "change_pct": -0.12,
       "symbol": "CNY=X"
     }
   }
