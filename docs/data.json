@@ -1,238 +1,238 @@
 {
-  "date": "2026年11月16日",
-  "date_iso": "2026-11-16",
-  "generated_at": "2026-11-16T07:42:44.508267+08:00",
+  "date": "2026年11月17日",
+  "date_iso": "2026-11-17",
+  "generated_at": "2026-11-17T10:44:27.667206+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "SpaceX successfully catches part of Starship rocket on its return to Earth - BBC",
-      "description": "The rocket was caught using mechanical arms, nicknamed chopsticks. The first attempt to catch the booster had been aborted a few minutes after launch.",
-      "url": "https://www.bbc.com/news/live/cq0k683l3dz3t",
-      "urlToImage": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-      "publishedAt": "2026-11-14T22:02:58Z",
-      "content": "Matt SpiveyLive editor\r\nSpaceX is hoping to catch the top part of its huge Starship rocket as it returns to Earth - you can watch the attempt live above.\r\nThe company is aiming to capture the rocket … [+628 chars]"
+      "author": "Jeremy Roebuck",
+      "title": "Duffy blames Congress, prior administrations for air travel halt, chaos - The Washington Post",
+      "description": "Transportation Secretary Sean Duffy refused to apologize for failures that led to the nationwide ground stop, pointing to a lack of investment in air traffic modernization.",
+      "url": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DK3TNSHHIRHI6WF254O4CKDQB4_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-16T00:38:52Z",
+      "content": "Transportation Secretary Sean P. Duffy refused Sunday to apologize for the failures that led to the longest nationwide ground stop of American air traffic since the Sept. 11, 2001, terrorist attacks … [+109 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors - Ars Technica",
+      "description": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+      "publishedAt": "2026-11-15T23:11:54Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "CNBC"
       },
-      "author": "Matthew Brown, Jeff Carillo",
-      "title": "Bay Area Denny's now reinstalling plaque commemorating Jensen Huang - SFGATE",
-      "description": "A San Jose Denny's where former Nvidia CEO Jensen Huang co-founded the company took down a plaque honoring him on Thursday.",
-      "url": "https://www.sfgate.com/tech/article/nvidia-dennys-plaque-22529879.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/73/36/31438748/3/rawImage.jpg",
-      "publishedAt": "2026-11-14T21:11:45Z",
-      "content": "Jensen Huang, CEO of Nvidia, gives a keynote address at the Nvidia GPU Technology Conference in Berlin on Oct. 21, 2026.\r\nSean Gallup/Getty Images\r\nLATEST Nov. 14, 12:35 p.m. Fasika Melaku, Dennys ch… [+4537 chars]"
+      "author": "Fred Imbert",
+      "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates - CNBC",
+      "description": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
+      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548216-1794329432695-Traders-Photo-20261110-KK-PRESS-006.jpg?v=1794329596&w=1920&h=1080",
+      "publishedAt": "2026-11-15T23:04:02Z",
+      "content": "Stock futures ticked higher on Sunday night following a volatile week on Wall Street, as traders await a highly anticipated earnings report from Nvidia and a potentially record-setting public market … [+1727 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Victoria Bisset",
+      "title": "Italy fines Meta $887M for accessing Android users’ photos - The Washington Post",
+      "description": "Meta's Facebook app accessed users’ photos and videos on Android devices without “obtaining specific consent,” Italian authorities said.",
+      "url": "https://www.washingtonpost.com/technology/2026/11/15/meta-fined-887m-by-italy-accessing-android-users-photos/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YVJD3JWMN3R32VGA2HPOSN26SY.JPG&w=1440",
+      "publishedAt": "2026-11-15T22:43:28Z",
+      "content": "Meta's Facebook app accessed users photos and videos on Android devices without obtaining specific consent, Italian authorities said.\r\nNovember 15, 2026 at 11:30 a.m. ESTToday at 11:30 a.m. EST"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "TheStreet"
       },
-      "author": "Kate Murphy",
-      "title": "FAA ground stop latest updates: Controllers’ union chief says communications with some planes were disrupted; cancellations top 5,000; Duffy blames L3Harris - Yahoo",
-      "description": "Transportation Secretary Sean Duffy blamed contractor L3Harris but said officials haven’t determined whether the outage was caused by the company’s error or...",
-      "url": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8079930646f4a910ca35caef7774c8113ce178a0347c94308a4e7cb66617cc9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F62bf0898-933a-4d14-adc9-0d76040c5481",
-      "publishedAt": "2026-11-14T20:40:03Z",
-      "content": "Airlines canceled thousands more flights Saturday as they recovered from Friday's nationwide ground stop, but the FAA said schedules should be back to normal by the end of Sunday.\r\nMore than 5,000 U.… [+3397 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Sarah Davis",
-      "title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal - The Hill",
-      "description": "Democratic Sen. Richard Blumenthal (Conn.) called on Howard Lutnick, President Trump’s Commerce secretary, to step down over reports the cabinet member shielded Nvidia from federal oversight — accusations which emerged after the tech giant’s CEO resigned this…",
-      "url": "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/blumenthalrichard_071426gn01_w.jpg?w=1280",
-      "publishedAt": "2026-11-14T20:33:00Z",
-      "content": "Skip to content\r\nDemocratic Sen. Richard Blumenthal (Conn.) called on Howard Lutnick, President Trump’s Commerce secretary, to step down over reports the cabinet member shielded Nvidia from federal o… [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee - TechCrunch",
-      "description": "Even Elon Musk said the monthly fee is \"too high.\"",
-      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-      "publishedAt": "2026-11-14T20:04:44Z",
-      "content": "Tesla said on Friday evening that select customers now have the opportunity to pre-order the companys autonomous, golden Cybercab for personal use.\r\nMore details became clear as those select customer… [+1031 chars]"
+      "author": "TheStreet",
+      "title": "Popular pasta chain closing over 40 more restaurants - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/restaurants/noodles-and-company-closing-over-40-more-locations",
+      "urlToImage": null,
+      "publishedAt": "2026-11-15T22:03:00Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 19:32:39 GMT"
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 23:20:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:24:20 GMT"
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 21:40:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 13:37:45 GMT"
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 02:37:53 GMT"
     },
     {
       "source": "BBC",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 18:38:11 GMT"
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "description": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 14:58:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
-      "description": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a steering failure before colliding with the cruise ship on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:57:27 GMT"
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "description": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 17:18:54 GMT"
     },
     {
       "source": "BBC",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "description": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 21:03:40 GMT"
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 20:33:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Police ban protests near 10 schools and five universities in Paris",
-      "description": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:28:54 GMT"
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "description": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 19:30:30 GMT"
     },
     {
       "source": "BBC",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "description": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 11:06:32 GMT"
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "description": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 10:57:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "description": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 22:32:47 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "description": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 23:12:24 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 00:00:03 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "description": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 00:00:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 02:37:53 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+      "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 13:19:33 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Customers report service outages at major US banks",
+      "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 00:18:01 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
       "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
       "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:00:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
-      "description": "The report being launched this week will suggest gradually reducing employment costs over five years.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:30:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:24:20 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Minister backs legal right to job support for young people",
-      "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 13:06:15 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-      "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 00:01:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 23:00:31 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 06:42:27 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT"
+      "publishedAt": "Mon, 16 Nov 2026 15:40:16 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 4,
+      "GLP-1": 8,
       "Iran oil": 1,
-      "Federal Reserve": 1,
-      "Bitcoin": 55
+      "Federal Reserve": 2,
+      "Bitcoin": 41
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 25136.27,
-      "change_pct": -1.3,
+      "price": 24509.76,
+      "change_pct": -3.38,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7561.67,
-      "change_pct": -0.76,
+      "price": 7416.59,
+      "change_pct": -2.32,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 52347.55,
-      "change_pct": -0.26,
+      "price": 51608.17,
+      "change_pct": -1.32,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3885.7,
-      "change_pct": -0.02,
+      "price": 3869.2,
+      "change_pct": 0.42,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 88.49,
-      "change_pct": -0.08,
+      "price": 84.77,
+      "change_pct": -1.11,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 65351.79,
-      "change_pct": 1.91,
+      "price": 64455.89,
+      "change_pct": -0.57,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": -0.48,
+      "change_pct": -0.24,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.67,
-      "change_pct": 0.0,
+      "price": 6.66,
+      "change_pct": -0.1,
       "symbol": "CNY=X"
     }
   }
