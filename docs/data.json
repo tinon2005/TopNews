@@ -1,238 +1,238 @@
 {
-  "date": "2026年11月17日",
-  "date_iso": "2026-11-17",
-  "generated_at": "2026-11-17T10:44:27.667206+08:00",
+  "date": "2026年11月18日",
+  "date_iso": "2026-11-18",
+  "generated_at": "2026-11-18T10:01:27.188865+08:00",
   "newsapi": [
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Jeremy Roebuck",
-      "title": "Duffy blames Congress, prior administrations for air travel halt, chaos - The Washington Post",
-      "description": "Transportation Secretary Sean Duffy refused to apologize for failures that led to the nationwide ground stop, pointing to a lack of investment in air traffic modernization.",
-      "url": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DK3TNSHHIRHI6WF254O4CKDQB4_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-16T00:38:52Z",
-      "content": "Transportation Secretary Sean P. Duffy refused Sunday to apologize for the failures that led to the longest nationwide ground stop of American air traffic since the Sept. 11, 2001, terrorist attacks … [+109 chars]"
+      "author": "Miriam Waldvogel",
+      "title": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post",
+      "description": "The move comes as the scandal involving ex-Nvidia CEO Jensen Huang has highlighted gaps in U.S. export controls.",
+      "url": "https://www.washingtonpost.com/technology/2026/11/16/trump-officials-issue-rule-restrict-sales-ai-chips-china/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4UO223TED5FDQ3MDSAYHZ6YVHI.JPG&w=1440",
+      "publishedAt": "2026-11-17T00:39:30Z",
+      "content": "The Trump administration moved Monday to restrict the ability of Chinese companies to remotely access cutting-edge artificial intelligence computer chips, in what many in Washington saw as a loophole… [+61 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Stephen Clark",
-      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors - Ars Technica",
-      "description": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-      "publishedAt": "2026-11-15T23:11:54Z",
+      "author": "AP News",
+      "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks - AP News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T00:23:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Fred Imbert",
-      "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates - CNBC",
-      "description": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
-      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548216-1794329432695-Traders-Photo-20261110-KK-PRESS-006.jpg?v=1794329596&w=1920&h=1080",
-      "publishedAt": "2026-11-15T23:04:02Z",
-      "content": "Stock futures ticked higher on Sunday night following a volatile week on Wall Street, as traders await a highly anticipated earnings report from Nvidia and a potentially record-setting public market … [+1727 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Victoria Bisset",
-      "title": "Italy fines Meta $887M for accessing Android users’ photos - The Washington Post",
-      "description": "Meta's Facebook app accessed users’ photos and videos on Android devices without “obtaining specific consent,” Italian authorities said.",
-      "url": "https://www.washingtonpost.com/technology/2026/11/15/meta-fined-887m-by-italy-accessing-android-users-photos/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YVJD3JWMN3R32VGA2HPOSN26SY.JPG&w=1440",
-      "publishedAt": "2026-11-15T22:43:28Z",
-      "content": "Meta's Facebook app accessed users photos and videos on Android devices without obtaining specific consent, Italian authorities said.\r\nNovember 15, 2026 at 11:30 a.m. ESTToday at 11:30 a.m. EST"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "TheStreet",
-      "title": "Popular pasta chain closing over 40 more restaurants - TheStreet",
+      "author": "WSJ",
+      "title": "Stock Market Today: Nasdaq Slides 1.5% as Nvidia Drama Continues to Unfold — Live Updates - WSJ",
       "description": null,
-      "url": "https://www.thestreet.com/restaurants/noodles-and-company-closing-over-40-more-locations",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026",
       "urlToImage": null,
-      "publishedAt": "2026-11-15T22:03:00Z",
+      "publishedAt": "2026-11-16T23:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Jessica Guynn",
+      "title": "FAA, Microsoft, banks: Why it feels like everything keeps breaking - USA Today",
+      "description": "Grounded flights, Microsoft errors and bank outages have people asking if everything is falling apart. Experts explain why our systems are so fragile",
+      "url": "https://www.usatoday.com/story/money/2026/11/16/why-everything-is-breaking-tech-outages/92816715007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/16/USAT/92817056007-20261116-t-220108-z-2040746636-rc-28-poay-3-m-5-c-rtrmadp-3-usabanksoutage.JPG?crop=5113,2876,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-16T23:30:00Z",
+      "content": "From grounded flights to frozen bank accounts, why does it seem like everything is breaking at once? \r\nFirst, millions of people lost access to their email. Next, the nation's skies went quiet. Then,… [+3759 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap. - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ELUVFNFBiWjJzc1Nzc1RmbFkzRV9UVEtwN2VQRlBtV1VuVjR1aThINEpLOUhMYXRLRGF0N0lCbDZJWldSbERPYWxSWHFZQlVPZVlHWnpJa09sc01lRFFXR1JBU2ZrY3dFZnpJNFpLYnZRTWJVYUpxZnFnZw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-16T22:41:31Z",
       "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 23:20:45 GMT"
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 21:24:35 GMT"
     },
     {
       "source": "BBC",
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 21:40:07 GMT"
+      "title": "How the attack on Crimean Bridge unfolded",
+      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 15:38:10 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 02:37:53 GMT"
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 01:18:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "description": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 14:58:12 GMT"
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 22:44:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "description": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 17:18:54 GMT"
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 17:19:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 20:33:57 GMT"
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 21:06:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "description": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 19:30:30 GMT"
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 20:30:20 GMT"
     },
     {
       "source": "BBC",
-      "title": "Two mass shootings in South Africa leave 17 dead",
-      "description": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 10:57:48 GMT"
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 21:04:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-      "description": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
-      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 22:32:47 GMT"
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 01:18:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "California sues OpenAI over Hugging Face attack",
-      "description": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 23:12:24 GMT"
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 18:24:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 18:43:05 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+      "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 15:56:04 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Where are the most jobs for 18-24 year-olds?",
       "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
       "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:03 GMT"
+      "publishedAt": "Tue, 17 Nov 2026 12:35:53 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Europe plans to catch the next computer chip wave",
+      "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 00:00:24 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Speed camera fault may have allowed drivers to escape fines",
+      "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 20:04:54 GMT"
     },
     {
       "source": "BBC",
       "title": "We couldn't afford a house alone, so we bought one with strangers",
-      "description": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "description": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
       "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 17 Nov 2026 00:00:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 02:37:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 13:19:33 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Customers report service outages at major US banks",
-      "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 00:18:01 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 15:40:16 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 8,
+      "GLP-1": 10,
       "Iran oil": 1,
       "Federal Reserve": 2,
-      "Bitcoin": 41
+      "Bitcoin": 43
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 24509.76,
-      "change_pct": -3.38,
+      "price": 24328.38,
+      "change_pct": -3.21,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7416.59,
-      "change_pct": -2.32,
+      "price": 7340.53,
+      "change_pct": -2.92,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 51608.17,
-      "change_pct": -1.32,
+      "price": 50759.42,
+      "change_pct": -3.03,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3869.2,
-      "change_pct": 0.42,
+      "price": 3808.1,
+      "change_pct": -1.17,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 84.77,
-      "change_pct": -1.11,
+      "price": 85.45,
+      "change_pct": -0.31,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64455.89,
-      "change_pct": -0.57,
+      "price": 64214.87,
+      "change_pct": -1.02,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.32,
-      "change_pct": -0.24,
+      "change_pct": 0.17,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.66,
-      "change_pct": -0.1,
+      "price": 6.67,
+      "change_pct": 0.05,
       "symbol": "CNY=X"
     }
   }
