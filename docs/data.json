@@ -1,165 +1,165 @@
 {
-  "date": "2026年11月18日",
-  "date_iso": "2026-11-18",
-  "generated_at": "2026-11-18T10:01:27.188865+08:00",
+  "date": "2026年11月19日",
+  "date_iso": "2026-11-19",
+  "generated_at": "2026-11-19T09:38:38.601288+08:00",
   "newsapi": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Josh Kelety",
+      "title": "Waymo suspends all rides on freeways after California banned the vehicles from its state freeways - AP News",
+      "description": "The company Waymo said it temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state highways following recent traffic incidents. A Waymo spokesperson said the company has “temporarily restricted commercial …",
+      "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7472254/2147483647/strip/true/crop/6609x4406+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2Fba%2F579bf33621978747a4de633b9f2b%2Ffb565d3b06cd40c899b4e26f027ba1bc",
+      "publishedAt": "2026-11-18T01:30:00Z",
+      "content": "Waymo has temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state freeways following recent traffic incidents.\r\nThe company had allowed riders t… [+2166 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "WSJ",
+      "title": "How Everyday Investors Are Playing the Nvidia Drama - WSJ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1BmbUdFUGFtbUNUSHVkRmt2WWFGWFRZZS1uZkUyMHdDblJJeW1xZjdlcWVsRW1ldTZPR2FINEVrTHdVSkdud1FrcHRTT1RkRXJyYWlNdFZNZHVrOFZDcXA5Nl9Ucm5raUZBbzZBQVh1ejhXRUp2VTdKYVM1ak0tQzFyX3hHNy00VTVPeVF1c1IxNlBWcVNaZWYwcw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-18T01:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Alexa LoMonaco",
+      "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere - CNBC",
+      "description": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company.",
+      "url": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108553673-1794958809316-Screenshot_2026-11-17_at_63623_PM.png?v=1794959300&w=1920&h=1080",
+      "publishedAt": "2026-11-18T00:48:00Z",
+      "content": "Nvidia's customers and employees remain committed to the company despite last week's abrupt departure of longtime leader Jensen Huang. That's the message interim CEO Colette Kress conveyed exclusivel… [+2362 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Miriam Waldvogel",
-      "title": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post",
-      "description": "The move comes as the scandal involving ex-Nvidia CEO Jensen Huang has highlighted gaps in U.S. export controls.",
-      "url": "https://www.washingtonpost.com/technology/2026/11/16/trump-officials-issue-rule-restrict-sales-ai-chips-china/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4UO223TED5FDQ3MDSAYHZ6YVHI.JPG&w=1440",
-      "publishedAt": "2026-11-17T00:39:30Z",
-      "content": "The Trump administration moved Monday to restrict the ability of Chinese companies to remotely access cutting-edge artificial intelligence computer chips, in what many in Washington saw as a loophole… [+61 chars]"
+      "author": "Victoria Bisset",
+      "title": "AAA forecasts slight drop in Thanksgiving travel, in part due to higher costs - The Washington Post",
+      "description": "Around 81.5 million Americans will leave town for Thanksgiving, according to the AAA — a slight dip from 2025.",
+      "url": "https://www.washingtonpost.com/nation/2026/11/17/aaa-forecasts-slight-drop-thanksgiving-travelers/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MX5R663Y3ELDOKGRPB3KW7RIOI_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-18T00:38:44Z",
+      "content": "An estimated 81.5 million Americans are expected to travel for Thanksgiving next week, according to AAA. \r\nThe projected number of people traveling at least 50 miles from home between next Tuesday an… [+211 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "AP News",
-      "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks - AP News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T00:23:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Stock Market Today: Nasdaq Slides 1.5% as Nvidia Drama Continues to Unfold — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-11-16T23:45:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jessica Guynn",
-      "title": "FAA, Microsoft, banks: Why it feels like everything keeps breaking - USA Today",
-      "description": "Grounded flights, Microsoft errors and bank outages have people asking if everything is falling apart. Experts explain why our systems are so fragile",
-      "url": "https://www.usatoday.com/story/money/2026/11/16/why-everything-is-breaking-tech-outages/92816715007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/16/USAT/92817056007-20261116-t-220108-z-2040746636-rc-28-poay-3-m-5-c-rtrmadp-3-usabanksoutage.JPG?crop=5113,2876,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-16T23:30:00Z",
-      "content": "From grounded flights to frozen bank accounts, why does it seem like everything is breaking at once? \r\nFirst, millions of people lost access to their email. Next, the nation's skies went quiet. Then,… [+3759 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The New York Times",
-      "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap. - The New York Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ELUVFNFBiWjJzc1Nzc1RmbFkzRV9UVEtwN2VQRlBtV1VuVjR1aThINEpLOUhMYXRLRGF0N0lCbDZJWldSbERPYWxSWHFZQlVPZVlHWnpJa09sc01lRFFXR1JBU2ZrY3dFZnpJNFpLYnZRTWJVYUpxZnFnZw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-11-16T22:41:31Z",
+      "author": "Jasper Goodman",
+      "title": "Jensen Huang agrees to testify in Senate - Politico",
+      "description": "The former Nvidia CEO will appear before the Senate Banking Committee.",
+      "url": "https://www.politico.com/live-updates/2026/11/17/congress/jensen-huang-agrees-to-testify-in-senate-01171740",
+      "urlToImage": "https://www.politico.com/dims4/default/1ea9317/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcc%2F48%2Fd6f2d539401f89ae9bcb0040235f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2299248530",
+      "publishedAt": "2026-11-18T00:37:38Z",
       "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:24:35 GMT"
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 17:00:40 GMT"
     },
     {
       "source": "BBC",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 15:38:10 GMT"
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 17:00:04 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 01:18:18 GMT"
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "description": "No state has ever been found guilty by an international court of committing genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 23:04:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
-      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 22:44:15 GMT"
+      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "description": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 23:44:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 17:19:57 GMT"
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "description": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 00:49:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:06:11 GMT"
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 22:34:56 GMT"
     },
     {
       "source": "BBC",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 20:30:20 GMT"
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 01:05:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:04:00 GMT"
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "description": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 23:28:03 GMT"
     },
     {
       "source": "BBC",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 01:18:18 GMT"
+      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "description": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 23:44:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 18:24:21 GMT"
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "description": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 21:28:08 GMT"
     },
     {
       "source": "BBC",
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 18:43:05 GMT"
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 23:42:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-      "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 15:56:04 GMT"
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "description": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 00:00:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Where are the most jobs for 18-24 year-olds?",
-      "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 12:35:53 GMT"
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "description": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 23:01:09 GMT"
     },
     {
       "source": "BBC",
@@ -170,69 +170,63 @@
     },
     {
       "source": "BBC",
-      "title": "Speed camera fault may have allowed drivers to escape fines",
-      "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 20:04:54 GMT"
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "description": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 23:47:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "We couldn't afford a house alone, so we bought one with strangers",
-      "description": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 00:00:02 GMT"
+      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+      "description": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 13:17:06 GMT"
     }
   ],
   "reuters": [],
   "trends": {
-    "finance_keywords": {
-      "AI stocks": 1,
-      "GLP-1": 10,
-      "Iran oil": 1,
-      "Federal Reserve": 2,
-      "Bitcoin": 43
-    },
+    "finance_keywords": {},
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 24328.38,
-      "change_pct": -3.21,
+      "price": 24429.88,
+      "change_pct": -0.33,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7340.53,
-      "change_pct": -2.92,
+      "price": 7323.63,
+      "change_pct": -1.25,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 50759.42,
-      "change_pct": -3.03,
+      "price": 50198.17,
+      "change_pct": -2.73,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3808.1,
-      "change_pct": -1.17,
+      "price": 3744.7,
+      "change_pct": -3.09,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 85.45,
-      "change_pct": -0.31,
+      "price": 82.45,
+      "change_pct": -4.14,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 64214.87,
-      "change_pct": -1.02,
+      "price": 62415.65,
+      "change_pct": -0.91,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
-      "price": 1.32,
-      "change_pct": 0.17,
+      "price": 1.31,
+      "change_pct": -0.45,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.67,
-      "change_pct": 0.05,
+      "change_pct": -0.01,
       "symbol": "CNY=X"
     }
   }
