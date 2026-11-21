@@ -1,225 +1,238 @@
 {
-  "date": "2026年11月20日",
-  "date_iso": "2026-11-20",
-  "generated_at": "2026-11-20T09:37:01.593113+08:00",
+  "date": "2026年11月21日",
+  "date_iso": "2026-11-21",
+  "generated_at": "2026-11-21T09:01:59.202298+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Steve Thompson",
-      "title": "Worried about an AI bust? So is the Federal Reserve. - The Washington Post",
-      "description": "Minutes of the Fed’s October meeting opened with an unusual warning about AI-related debt, as doubts about the boom spread on Wall Street.",
-      "url": "https://www.washingtonpost.com/business/2026/11/18/fed-officials-worry-an-ai-bust-could-shake-financial-system/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7BKYT4F4DUKNZPPRYFNHF3UNQ_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-19T02:08:29Z",
-      "content": "Almost every Federal Reserve official raised concerns last month about what could happen to the financial system if the artificial intelligence boom disappoints investors, according to minutes of the… [+40 chars]"
+      "author": "Dan Mangan",
+      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion - CNBC",
+      "description": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080",
+      "publishedAt": "2026-11-19T22:49:04Z",
+      "content": "California Attorney General Rob Bonta issued an investigative subpoena to Nvidia on Thursday as part of a probe of whether the company's advanced semiconductor chips ended up in China in contraventio… [+1297 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Business Wire"
       },
-      "author": "John Ruwitch",
-      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand - NPR",
-      "description": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6271x3527+0+327/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6b%2F90%2F5158932c4699aaae09ed54ef7814%2Fgettyimages-2304113199.jpg",
-      "publishedAt": "2026-11-18T23:54:56Z",
-      "content": "The artificial intelligence company Anthropic said on Wednesday it sold more than 956 million shares at a price of $83 a piece in a record-breaking initial public offering that makes it one of the mo… [+815 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "TechCrunch",
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’ - TechCrunch",
+      "author": "Business Wire",
+      "title": "BILL Agrees to be Acquired by TPG in Partnership with Corpay - Business Wire",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3VvcGJNZlJiaXZoWFBfdDFoWWpRTkcxby1rcVJNMGFGRWdoYmpOam5VWjlXNTVONWFfd0hLaTRnOFFnRUtPNEhsdmhNUWwyeDFJZE1HME45RnV5TF80dzBUUVJSVjFwc1B1VVkycnNXTzJiMGJfS0czM1JkS3BZMl9BdUktVUVrMlZWajB5eGp2NmVydm1Fcng2TXpwZmlIR3RVeGhFUEdkZDdSZVNiZTVkWXhaQQ?oc=5",
+      "url": "https://www.businesswire.com/news/home/20261119835477/en/BILL-Agrees-to-be-Acquired-by-TPG-in-Partnership-with-Corpay",
       "urlToImage": null,
-      "publishedAt": "2026-11-18T23:25:17Z",
+      "publishedAt": "2026-11-19T22:46:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Josh Funk",
-      "title": "DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner - AP News",
-      "description": "Transportation Secretary Sean Duffy said the nationwide ground stop on Friday could have ended sooner if the contractor that did the work linked to the disruptions at key air traffic control facilities had located the problem sooner. Investigators are still w…",
-      "url": "https://apnews.com/article/ground-stop-faa-l3harris-94757b1f6aa71c3435c8286e27926786",
-      "urlToImage": "https://dims.apnews.com/dims4/default/587492b/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F50%2F191257d65950fbaf2bdd711cf5d4%2Fcd81fce93280408fba92b4be089b22d9",
-      "publishedAt": "2026-11-18T23:14:00Z",
-      "content": "The nationwide ground stop on Friday could have ended sooner if the contractor that did the work linked to the disruptions at key air traffic control facilities had located the problem sooner, accord… [+6359 chars]"
+      "author": "Daniel Howley",
+      "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading - Yahoo Finance",
+      "description": "Anthropic began publicly trading on Thursday.",
+      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3bee71aa73f659d4097f0383d9b5b2b3dd4ffacb327167a64eacda7b47c6c157/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fanthropic-ipo-thumbnail-main_7670.png",
+      "publishedAt": "2026-11-19T22:30:29Z",
+      "content": "With Anthropic (ANT) stock showing a massive public debut, what does it mean for rival frontier AI lab OpenAI (OPAI.PVT)?\r\nEarlier this week, OpenAI's CEO Sam Altman reaffirmed the company's plans to… [+1081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "SpaceX Wins Permit For $24 Bil Texas Data Center Project, Tax Break Rejected - Investor's Business Daily",
+      "description": "SpaceX cleared to move forward with $24 billion data center project after Texas resumes permits. But local leaders reject tax break request.",
+      "url": "https://www.investors.com/news/spacex-texas-data-center-project-24-billion-approval-tax-break-rejected-elon-musk-abbott-spcx-stock/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/stock-spaceX-office-Hawthorne-adobe.jpg",
+      "publishedAt": "2026-11-19T22:28:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up - Ars Technica",
+      "description": "Amazon now uses its shopping platform for political purposes.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
+      "publishedAt": "2026-11-19T22:16:37Z",
+      "content": null
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:33:51 GMT"
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 22:42:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-      "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 00:13:21 GMT"
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 17:49:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 20:07:02 GMT"
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 16:54:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 00:50:24 GMT"
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 22:37:09 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 17:38:22 GMT"
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 23:08:57 GMT"
     },
     {
       "source": "BBC",
-      "title": "California targets Nvidia in China AI chip probe",
-      "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:04:30 GMT"
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 19:45:20 GMT"
     },
     {
       "source": "BBC",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:40:29 GMT"
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 13:01:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-      "description": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 22:48:22 GMT"
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 00:01:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:33:51 GMT"
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 22:42:47 GMT"
     },
     {
       "source": "BBC",
-      "title": "California targets Nvidia in China AI chip probe",
-      "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:04:30 GMT"
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 17:49:48 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 00:02:07 GMT"
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 16:41:52 GMT"
     },
     {
       "source": "BBC",
-      "title": "Airbnb's divisive new house rules come into force",
-      "description": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 00:12:28 GMT"
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 20:54:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
-      "description": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 22:53:24 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Should AI be judging our credit worthiness?",
+      "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 07:32:19 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+      "description": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 09:44:56 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
+      "description": "Eating at your desk? The dos and don'ts of lunch at work",
       "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 20 Nov 2026 00:08:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "description": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 13:35:52 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "description": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 21:28:08 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "description": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 00:00:59 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 2,
-      "GLP-1": 8,
+      "GLP-1": 7,
       "Iran oil": 1,
       "Federal Reserve": 2,
-      "Bitcoin": 47
+      "Bitcoin": 61
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 23879.2,
-      "change_pct": -1.85,
+      "price": 22617.73,
+      "change_pct": -7.42,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7175.83,
-      "change_pct": -2.24,
+      "price": 6910.39,
+      "change_pct": -5.64,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 49097.06,
-      "change_pct": -3.27,
+      "price": 48147.33,
+      "change_pct": -4.09,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3584.0,
-      "change_pct": -4.22,
+      "price": 3539.0,
+      "change_pct": -3.98,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 82.83,
-      "change_pct": -0.52,
+      "price": 83.62,
+      "change_pct": 0.49,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 62205.69,
-      "change_pct": 0.49,
+      "price": 58848.03,
+      "change_pct": 0.08,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.31,
-      "change_pct": -0.4,
+      "change_pct": -0.49,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.67,
-      "change_pct": -0.01,
+      "price": 6.68,
+      "change_pct": 0.13,
       "symbol": "CNY=X"
     }
   }
