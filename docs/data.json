@@ -1,46 +1,33 @@
 {
-  "date": "2026年11月21日",
-  "date_iso": "2026-11-21",
-  "generated_at": "2026-11-21T09:01:59.202298+08:00",
+  "date": "2026年11月22日",
+  "date_iso": "2026-11-22",
+  "generated_at": "2026-11-22T08:02:16.663994+08:00",
   "newsapi": [
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Dan Mangan",
-      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion - CNBC",
-      "description": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080",
-      "publishedAt": "2026-11-19T22:49:04Z",
-      "content": "California Attorney General Rob Bonta issued an investigative subpoena to Nvidia on Thursday as part of a probe of whether the company's advanced semiconductor chips ended up in China in contraventio… [+1297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
-      },
-      "author": "Business Wire",
-      "title": "BILL Agrees to be Acquired by TPG in Partnership with Corpay - Business Wire",
-      "description": null,
-      "url": "https://www.businesswire.com/news/home/20261119835477/en/BILL-Agrees-to-be-Acquired-by-TPG-in-Partnership-with-Corpay",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T22:46:00Z",
-      "content": null
+      "author": "Joe Heim, Jon Swaine, Aaron Schaffer",
+      "title": "Stefanik family’s D.C. home sells to mystery buyer for $900K over list price - The Washington Post",
+      "description": "After not selling at a lower price and eventually being taken off the market, the home of the outgoing congresswoman from New York sold in June for $2.9 million.",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/11/20/stefanik-familys-dc-home-sells-mystery-buyer-900k-over-list-price/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RSCKPHTBHY45TP4B63UQKVFJBY.JPG&w=1440",
+      "publishedAt": "2026-11-20T22:22:21Z",
+      "content": "Rep. Elise Stefanik (R-New York) was struggling to find a buyer.\r\nThe Capitol Hill rowhouse she had bought years earlier with her parents and brother was listed for sale in September 2025 for $2.195 … [+7 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Daniel Howley",
-      "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading - Yahoo Finance",
-      "description": "Anthropic began publicly trading on Thursday.",
-      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3bee71aa73f659d4097f0383d9b5b2b3dd4ffacb327167a64eacda7b47c6c157/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fanthropic-ipo-thumbnail-main_7670.png",
-      "publishedAt": "2026-11-19T22:30:29Z",
-      "content": "With Anthropic (ANT) stock showing a massive public debut, what does it mean for rival frontier AI lab OpenAI (OPAI.PVT)?\r\nEarlier this week, OpenAI's CEO Sam Altman reaffirmed the company's plans to… [+1081 chars]"
+      "author": "Brian Sozzi",
+      "title": "Anthropic stock drops 8% after rip-roaring IPO - Yahoo Finance",
+      "description": "The first day rally in Anthropic fizzles.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-dives-after-rip-roaring-ipo-095411951.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/da879c21a5e355f2919cee9a62172fe2e00b738c23233a82bba2c5cdb8be3da5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4e6803e9-8ff4-4757-b4c6-62a5c2e8a43d",
+      "publishedAt": "2026-11-20T21:44:33Z",
+      "content": "Call it the Anthropic (ANT) IPO hangover.\r\nShares of the model builder dropped nearly 8.5% on Friday as investors booked profits after a frenetic first day of trading. Not helping sentiment: The broa… [+1203 chars]"
     },
     {
       "source": {
@@ -48,83 +35,96 @@
         "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "SpaceX Wins Permit For $24 Bil Texas Data Center Project, Tax Break Rejected - Investor's Business Daily",
-      "description": "SpaceX cleared to move forward with $24 billion data center project after Texas resumes permits. But local leaders reject tax break request.",
-      "url": "https://www.investors.com/news/spacex-texas-data-center-project-24-billion-approval-tax-break-rejected-elon-musk-abbott-spcx-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/stock-spaceX-office-Hawthorne-adobe.jpg",
-      "publishedAt": "2026-11-19T22:28:00Z",
+      "title": "This VIX Signal Is Bullish For The S&P 500 - Investor's Business Daily",
+      "description": "The fear gauge is hitting levels linked with S&P 500 gains. Don't get too excited.",
+      "url": "https://www.investors.com/news/sp-500-nasdaq-dow-jones-vix-ai-trade-stock-market/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/01/stock-financial-chart-candlestick-adobe.jpg",
+      "publishedAt": "2026-11-20T21:01:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Scharon Harding",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up - Ars Technica",
-      "description": "Amazon now uses its shopping platform for political purposes.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
-      "publishedAt": "2026-11-19T22:16:37Z",
+      "author": "WSJ",
+      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54",
+      "urlToImage": null,
+      "publishedAt": "2026-11-20T20:32:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sean Conlon, Jenni Reid, Jenny Lee, Fred Imbert",
+      "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates - CNBC",
+      "description": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108533238-1795191208439-108533238-1793980775226-gettyimages-2303833268-anotherday34809196_zrhw37kt.jpeg?v=1795191232&w=1920&h=1080",
+      "publishedAt": "2026-11-20T20:29:00Z",
+      "content": "Stocks were slammed on Friday, closing out a brutal week for markets as the much-hyped Anthropic IPO caused investors to take profits on the artificial intelligence-led rally rather than revive it. T… [+2762 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 22:42:47 GMT"
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 13:17:38 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 17:49:48 GMT"
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 19:20:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 16:54:29 GMT"
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 22:19:43 GMT"
     },
     {
       "source": "BBC",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 22:37:09 GMT"
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 23:31:17 GMT"
     },
     {
       "source": "BBC",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 23:08:57 GMT"
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 16:35:15 GMT"
     },
     {
       "source": "BBC",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 19:45:20 GMT"
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 10:26:36 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 13:01:16 GMT"
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 04:34:00 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 00:01:39 GMT"
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "description": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 22:01:19 GMT"
     },
     {
       "source": "BBC",
@@ -186,11 +186,11 @@
   "reuters": [],
   "trends": {
     "finance_keywords": {
-      "AI stocks": 2,
-      "GLP-1": 7,
+      "AI stocks": 1,
+      "GLP-1": 3,
       "Iran oil": 1,
-      "Federal Reserve": 2,
-      "Bitcoin": 61
+      "Federal Reserve": 1,
+      "Bitcoin": 51
     },
     "trending_searches": []
   },
@@ -211,18 +211,18 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3539.0,
-      "change_pct": -3.98,
+      "price": 3515.4,
+      "change_pct": -4.62,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 83.62,
-      "change_pct": 0.49,
+      "price": 83.41,
+      "change_pct": 0.24,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 58848.03,
-      "change_pct": 0.08,
+      "price": 60055.67,
+      "change_pct": 2.13,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
@@ -231,8 +231,8 @@
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
-      "price": 6.68,
-      "change_pct": 0.13,
+      "price": 6.66,
+      "change_pct": -0.08,
       "symbol": "CNY=X"
     }
   }
