@@ -1,46 +1,59 @@
 {
-  "date": "2026年11月22日",
-  "date_iso": "2026-11-22",
-  "generated_at": "2026-11-22T08:02:16.663994+08:00",
+  "date": "2026年11月23日",
+  "date_iso": "2026-11-23",
+  "generated_at": "2026-11-23T08:34:04.643231+08:00",
   "newsapi": [
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Joe Heim, Jon Swaine, Aaron Schaffer",
-      "title": "Stefanik family’s D.C. home sells to mystery buyer for $900K over list price - The Washington Post",
-      "description": "After not selling at a lower price and eventually being taken off the market, the home of the outgoing congresswoman from New York sold in June for $2.9 million.",
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/11/20/stefanik-familys-dc-home-sells-mystery-buyer-900k-over-list-price/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RSCKPHTBHY45TP4B63UQKVFJBY.JPG&w=1440",
-      "publishedAt": "2026-11-20T22:22:21Z",
-      "content": "Rep. Elise Stefanik (R-New York) was struggling to find a buyer.\r\nThe Capitol Hill rowhouse she had bought years earlier with her parents and brother was listed for sale in September 2025 for $2.195 … [+7 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Brian Sozzi",
-      "title": "Anthropic stock drops 8% after rip-roaring IPO - Yahoo Finance",
-      "description": "The first day rally in Anthropic fizzles.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-dives-after-rip-roaring-ipo-095411951.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/da879c21a5e355f2919cee9a62172fe2e00b738c23233a82bba2c5cdb8be3da5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4e6803e9-8ff4-4757-b4c6-62a5c2e8a43d",
-      "publishedAt": "2026-11-20T21:44:33Z",
-      "content": "Call it the Anthropic (ANT) IPO hangover.\r\nShares of the model builder dropped nearly 8.5% on Friday as investors booked profits after a frenetic first day of trading. Not helping sentiment: The broa… [+1203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
       "author": null,
-      "title": "This VIX Signal Is Bullish For The S&P 500 - Investor's Business Daily",
-      "description": "The fear gauge is hitting levels linked with S&P 500 gains. Don't get too excited.",
-      "url": "https://www.investors.com/news/sp-500-nasdaq-dow-jones-vix-ai-trade-stock-market/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/01/stock-financial-chart-candlestick-adobe.jpg",
-      "publishedAt": "2026-11-20T21:01:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "title": "Trump vows to work with Democrats to cap credit card interest rates - CBS News",
+      "description": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
+      "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/ca3d845e-2e76-4093-9b96-5798868f6369/thumbnail/1200x630g3/9332f7876c080ed03093c3d2d3f0256a/gettyimages-2302566480.jpg",
+      "publishedAt": "2026-11-21T18:27:57Z",
+      "content": "President Trump said he would work with the incoming Democratic Congress to cap credit card interest rates, hoping to fulfill a promise he made on the 2024 campaign trail but couldn't deliver on beca… [+2439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Robert McGreevy",
+      "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO - Fox Business",
+      "description": "Anthropic's $1.5 trillion IPO signals a \"gold rush\" for solopreneurs, says Novo CEO Michael Rangel, as small business AI adoption jumped to one in eight.",
+      "url": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/anthropic-dario-amodei-nasdaq.jpg?ve=1&tl=1",
+      "publishedAt": "2026-11-21T17:54:21Z",
+      "content": "Michael Rangel, founder of small business technology platform Novo, predicted that, in the wake of a historic initial public offering for AI behemoth Anthropic, artificial intelligence tools will hel… [+3334 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Samuel O'Brient, Truman Dickerson",
+      "title": "What smart people are saying about the market sell-off ripping through tech and AI - Business Insider",
+      "description": "Carnage in markets on Friday dragged major indexes to grim milestones. Market pros worry the AI trade could be at a negative inflection point.",
+      "url": "https://www.businessinsider.com/stock-market-plunge-tech-ai-michael-burry-nvda-ant-2026-11#article",
+      "urlToImage": "https://i.insider.com/6b008c11d6c5d341c9b4ba18?width=1200&format=jpeg",
+      "publishedAt": "2026-11-21T17:23:00Z",
+      "content": "It was ugly out there in markets this week, and it only got uglier as Friday's session closed out.\r\nMajor indexes notched grim milestones on Friday, with the S&amp;P 500 and the Dow entering a correc… [+5506 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Erik Larson",
+      "title": "California Nvidia Probe Covers Potential Criminal Law Violations - Bloomberg.com",
+      "description": "California’s probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the stakes for the chipmaker.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io2a1lmtFRJo/v1/1200x800.jpg",
+      "publishedAt": "2026-11-21T17:11:23Z",
+      "content": "Californias probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the st… [+377 chars]"
     },
     {
       "source": {
@@ -48,97 +61,119 @@
         "name": "The Wall Street Journal"
       },
       "author": "WSJ",
-      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill - WSJ",
+      "title": "What It’s Like to Retire in Thailand - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54",
+      "url": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7",
       "urlToImage": null,
-      "publishedAt": "2026-11-20T20:32:00Z",
+      "publishedAt": "2026-11-21T17:01:36Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sean Conlon, Jenni Reid, Jenny Lee, Fred Imbert",
-      "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates - CNBC",
-      "description": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
-      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108533238-1795191208439-108533238-1793980775226-gettyimages-2303833268-anotherday34809196_zrhw37kt.jpeg?v=1795191232&w=1920&h=1080",
-      "publishedAt": "2026-11-20T20:29:00Z",
-      "content": "Stocks were slammed on Friday, closing out a brutal week for markets as the much-hyped Anthropic IPO caused investors to take profits on the artificial intelligence-led rally rather than revive it. T… [+2762 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 13:17:38 GMT"
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 18:17:59 GMT"
     },
     {
       "source": "BBC",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 18:57:24 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 20:28:09 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 22:37:43 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 19:20:22 GMT"
+      "publishedAt": "Sun, 22 Nov 2026 17:18:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 22:19:43 GMT"
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 09:20:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 23:31:17 GMT"
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "description": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 14:05:20 GMT"
     },
     {
       "source": "BBC",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 16:35:15 GMT"
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 20:26:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 10:26:36 GMT"
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 13:50:21 GMT"
     },
     {
       "source": "BBC",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 04:34:00 GMT"
+      "title": "What is going on with Poundland?",
+      "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 00:22:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "description": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 22:01:19 GMT"
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "description": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 00:05:29 GMT"
     },
     {
       "source": "BBC",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 22:42:47 GMT"
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 00:04:07 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 17:49:48 GMT"
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 00:06:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 00:08:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 07:12:41 GMT"
     },
     {
       "source": "BBC",
@@ -146,51 +181,16 @@
       "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
       "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 20 Nov 2026 16:41:52 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 20:54:12 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 22:53:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Should AI be judging our credit worthiness?",
-      "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 07:32:19 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "description": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 09:44:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-      "description": "Eating at your desk? The dos and don'ts of lunch at work",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 00:08:37 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 3,
+      "GLP-1": 6,
       "Iran oil": 1,
       "Federal Reserve": 1,
-      "Bitcoin": 51
+      "Bitcoin": 44
     },
     "trending_searches": []
   },
@@ -211,28 +211,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3515.4,
-      "change_pct": -4.62,
+      "price": 3573.4,
+      "change_pct": 1.65,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 83.41,
-      "change_pct": 0.24,
+      "price": 82.82,
+      "change_pct": -1.38,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 60055.67,
-      "change_pct": 2.13,
+      "price": 61200.83,
+      "change_pct": 0.06,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.31,
-      "change_pct": -0.49,
+      "change_pct": 0.11,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.66,
-      "change_pct": -0.08,
+      "change_pct": -0.06,
       "symbol": "CNY=X"
     }
   }
