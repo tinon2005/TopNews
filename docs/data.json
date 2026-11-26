@@ -1,186 +1,173 @@
 {
-  "date": "2026年11月25日",
-  "date_iso": "2026-11-25",
-  "generated_at": "2026-11-25T11:19:18.296371+08:00",
+  "date": "2026年11月26日",
+  "date_iso": "2026-11-26",
+  "generated_at": "2026-11-26T10:36:16.709433+08:00",
   "newsapi": [
     {
       "source": {
         "id": null,
-        "name": "Semafor.com"
-      },
-      "author": "Ashley Gold",
-      "title": "Exclusive / Commerce adds Megaspeed to trade blacklist - Semafor",
-      "description": "US companies will not be able to sell chips to the Singapore-based firm at the heart of the Nvidia scandal without obtaining a license.",
-      "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
-      "urlToImage": "https://img.semafor.com/0e70f2355e8cce4ccae3a2a88f09dc2db1a80665-4109x2740.jpg?rect=0,292,4109,2157&w=1200&h=630&q=75&auto=format",
-      "publishedAt": "2026-11-24T01:00:00Z",
-      "content": "The Trump administration on Monday added the company at the heart of the Nvidia scandal, Megaspeed, to a trade blacklist designed to prevent it from obtaining US-made semiconductors. \r\nThe Singapore-… [+2642 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Morgan Chesky, Alicia Victoria Lozano",
-      "title": "Amazon drone delivering shampoo snags on wire and tumbles onto Michigan man’s garage roof - NBC News",
-      "description": "James Brennan, of Huntington Woods, Michigan, near Detroit, said he had not requested a drone delivery and assumed his package would arrive at his doorstep as usual.",
-      "url": "https://www.nbcnews.com/news/us-news/amazon-drone-shampoo-wire-michigan-roof-rcna611005",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-amazon-drone-ew-726p-32abad.jpg",
-      "publishedAt": "2026-11-24T00:34:00Z",
-      "content": "When James Brennan was waiting for his shampoo delivery last week, he didnt realize an Amazon drone would hit a wire and tumble onto the roof of his garage.\r\nBrennan, of Huntington Woods, Michigan, n… [+1999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "author": "Amna Nawaz, Kyle Midura",
-      "title": "Tamara Keith and Amy Walter on Trump's role in Huang’s reinstatement - PBS",
-      "description": "NPR’s Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump taking credit for Jensen Huang’s return to Nvidia, how Democrats will operate with large margins in …",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-role-in-huangs-reinstatement",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/6pm-Broadcast-CR1-6_41_24-pm-2026-11-23-1024x576.jpg",
-      "publishedAt": "2026-11-23T23:30:35Z",
-      "content": "NPRs Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump taking credit for Jensen Huangs return to… [+8498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Nvidia live: Nvidia gains nearly $1tn in value after Jensen Huang reinstated - Financial Times",
-      "description": "Interim chief  and senior management were unaware of the discussions over the weekend",
-      "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53fca53a-4b7f-49c6-9279-8bfdc034303e.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-23T23:08:39Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "title": "Why tiny cars are taking off across Europe - BBC",
+      "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "url": "https://www.bbc.com/news/articles/cmwy9jne0g7qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-25T00:34:05Z",
+      "content": "In Europe, sales have gone from 30,000 to 60,000 in the past five years. And the Ami, launched in 2020, has really changed the image, with teenagers who now account for a quarter of all mini-car sale… [+1 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Kaitlyn Huamani, Kelvin Chan",
+      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO - AP News",
+      "description": "Jensen Huang has been under a spotlight for weeks, but after the 11-day period of disorder that included the Nvidia executive’s resignation and reinstatement, the company’s board is joining him at the center of scrutiny. The 10-person board voted unanimously …",
+      "url": "https://apnews.com/article/nvidia-board-jensen-huang-reinstated-trump-7b0af450cb10c489ae00c51ae14af58a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dd4dcbc/2147483647/strip/true/crop/6000x3999+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2Fcb%2Fe47c1e001807a36e5ee18c5b5b2b%2Faff2016e0bcd489fa78d8a30fea3f9d8",
+      "publishedAt": "2026-11-25T00:21:00Z",
+      "content": "NEW YORK (AP) Jensen Huang has been under a spotlight for weeks, but after the 11-day period of disorder that included the resignation and reinstatement of the Nvidia executive, the companys board is… [+7544 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Kelsey Brugger",
+      "title": "Incoming Democratic chairs demand answers from Trump on Huang’s reinstatement - Politico",
+      "description": "Top Democrats in the House and Senate are laying the groundwork for aggressive oversight of the episode involving Nvidia.",
+      "url": "https://www.politico.com/live-updates/2026/11/24/congress/dems-want-nvidia-answers-from-trump-01182684",
+      "urlToImage": "https://www.politico.com/dims4/default/5df94d9/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F86%2Feb%2F517b5fd94b35b7681819c5108b21%2Fcongress-tax-cuts-76310.jpg",
+      "publishedAt": "2026-11-25T00:16:27Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "Trump made up to $15mn on Nvidia shares after Huang’s return - Financial Times",
-      "description": "Profit on 30% jump in chip group’s share price based on maximum amount US president could have owned in latest disclosure",
-      "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97e695d9-a1f6-4494-ae30-942a240f619c.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-23T22:21:44Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Alexa LoMonaco",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites - CNBC",
+      "description": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "url": "https://www.cnbc.com/2026/11/24/jim-cramer-retail-stocks-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548604-1794349959300-gettyimages-2304504774-anotherday36809902_nb5fdvlx.jpeg?v=1794350087&w=1920&h=1080",
+      "publishedAt": "2026-11-25T00:04:00Z",
+      "content": "CNBC's Jim Cramer on Tuesday assessed the latest earnings reports from six major retailers, identifying which stocks have more room to run. \r\nRetail stocks have been a bright spot the last few months… [+3485 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 21:19:42 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 16:49:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 18:07:46 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "description": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 02:59:27 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 15:17:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "description": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 19:10:31 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 15:35:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 10:58:51 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "Households braced for soaring energy bills with new price cap to be announced",
-      "description": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 00:29:58 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "US preparing to unveil new tariffs on global trading partners",
+      "title": "US announces new tariffs on host of countries including China",
       "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 00:38:01 GMT"
+      "publishedAt": "Thu, 26 Nov 2026 01:20:14 GMT"
     },
     {
       "source": "BBC",
-      "title": "What will the energy cap changes mean for my bills?",
-      "description": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 00:33:25 GMT"
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 17:30:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
-      "description": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 01:03:05 GMT"
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 22:18:06 GMT"
     },
     {
       "source": "BBC",
-      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-      "description": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 00:30:52 GMT"
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "description": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 19:47:39 GMT"
     },
     {
       "source": "BBC",
-      "title": "Why tiny cars are taking off across Europe",
-      "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 00:34:05 GMT"
+      "title": "US stocks fall further as fears over AI intensify",
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 21:43:18 GMT"
     },
     {
       "source": "BBC",
-      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-      "description": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 18:21:43 GMT"
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 00:23:05 GMT"
     },
     {
       "source": "BBC",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 21:19:42 GMT"
+      "title": "California warns of flooding as king tides peak over Thanksgiving",
+      "description": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 01:22:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 16:42:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "UK government set to publish new treaties agreed with EU",
+      "description": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 02:13:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 21:31:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "What's gone wrong at Poundland?",
+      "description": "Poundland has collapse into administration. Why?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 17:00:32 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US announces new tariffs on host of countries including China",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 01:20:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 00:07:51 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "US stocks fall further as fears over AI intensify",
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 21:43:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "description": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 00:01:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 13:42:08 GMT"
     }
   ],
   "reuters": [],
@@ -188,51 +175,51 @@
     "finance_keywords": {
       "AI stocks": 1,
       "GLP-1": 6,
-      "Iran oil": 1,
+      "Iran oil": 0,
       "Federal Reserve": 1,
-      "Bitcoin": 35
+      "Bitcoin": 34
     },
     "trending_searches": []
   },
   "market": {
     "NASDAQ": {
-      "price": 23733.53,
-      "change_pct": 4.93,
+      "price": 23585.8,
+      "change_pct": -2.09,
       "symbol": "^IXIC"
     },
     "S&P 500": {
-      "price": 7201.09,
-      "change_pct": 4.21,
+      "price": 7182.78,
+      "change_pct": -0.75,
       "symbol": "^GSPC"
     },
     "道瓊斯": {
-      "price": 50018.7,
-      "change_pct": 3.89,
+      "price": 50182.95,
+      "change_pct": 1.18,
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3556.9,
-      "change_pct": -2.59,
+      "price": 3609.0,
+      "change_pct": 1.32,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 80.67,
-      "change_pct": 0.62,
+      "price": 83.88,
+      "change_pct": 2.23,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 59379.06,
-      "change_pct": -0.61,
+      "price": 60833.81,
+      "change_pct": 0.75,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.31,
-      "change_pct": 0.5,
+      "change_pct": 0.03,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.66,
-      "change_pct": -0.0,
+      "change_pct": -0.02,
       "symbol": "CNY=X"
     }
   }
