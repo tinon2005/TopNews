@@ -1,183 +1,183 @@
 {
-  "date": "2026年11月26日",
-  "date_iso": "2026-11-26",
-  "generated_at": "2026-11-26T10:36:16.709433+08:00",
+  "date": "2026年11月27日",
+  "date_iso": "2026-11-27",
+  "generated_at": "2026-11-27T10:36:44.250204+08:00",
   "newsapi": [
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Elizabeth Dwoskin, Tara Copp, Nancy Cook, Natalie Allison",
+      "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO - The Washington Post",
+      "description": "The Cold War-era Defense Production Act gives presidents extraordinary power to intervene in the economy. Deploying it to restore Jensen Huang had been a popular idea in some Silicon Valley circles.",
+      "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YQWIEH24IFT4RKKHH3Z4L4XRRU.jpg&w=1440",
+      "publishedAt": "2026-11-26T00:15:16Z",
+      "content": "As senior members of the Trump administration huddled to discuss the embattled AI company Nvidia over the weekend, Pentagon leaders weighed an audacious idea: invoking a Cold War-era law to pressure … [+89 chars]"
+    },
+    {
+      "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "MarketWatch"
       },
-      "author": null,
-      "title": "Why tiny cars are taking off across Europe - BBC",
-      "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-      "url": "https://www.bbc.com/news/articles/cmwy9jne0g7qo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-25T00:34:05Z",
-      "content": "In Europe, sales have gone from 30,000 to 60,000 in the past five years. And the Ami, launched in 2020, has really changed the image, with teenagers who now account for a quarter of all mini-car sale… [+1 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Kaitlyn Huamani, Kelvin Chan",
-      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO - AP News",
-      "description": "Jensen Huang has been under a spotlight for weeks, but after the 11-day period of disorder that included the Nvidia executive’s resignation and reinstatement, the company’s board is joining him at the center of scrutiny. The 10-person board voted unanimously …",
-      "url": "https://apnews.com/article/nvidia-board-jensen-huang-reinstated-trump-7b0af450cb10c489ae00c51ae14af58a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/dd4dcbc/2147483647/strip/true/crop/6000x3999+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2Fcb%2Fe47c1e001807a36e5ee18c5b5b2b%2Faff2016e0bcd489fa78d8a30fea3f9d8",
-      "publishedAt": "2026-11-25T00:21:00Z",
-      "content": "NEW YORK (AP) Jensen Huang has been under a spotlight for weeks, but after the 11-day period of disorder that included the resignation and reinstatement of the Nvidia executive, the companys board is… [+7544 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Kelsey Brugger",
-      "title": "Incoming Democratic chairs demand answers from Trump on Huang’s reinstatement - Politico",
-      "description": "Top Democrats in the House and Senate are laying the groundwork for aggressive oversight of the episode involving Nvidia.",
-      "url": "https://www.politico.com/live-updates/2026/11/24/congress/dems-want-nvidia-answers-from-trump-01182684",
-      "urlToImage": "https://www.politico.com/dims4/default/5df94d9/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F86%2Feb%2F517b5fd94b35b7681819c5108b21%2Fcongress-tax-cuts-76310.jpg",
-      "publishedAt": "2026-11-25T00:16:27Z",
+      "author": "Tomi Kilgore, Christine Idzelis, Myra P. Saefong, Joseph Adinolfi, Nora Redmond, Steve Goldstein, Jamie Chisholm",
+      "title": "Stock Market Today: Dow closes higher after big comeback; S&P 500, Nasdaq fall but end well off lows — live update - MarketWatch",
+      "description": "The stock market staged as nice comeback, with the Dow closing higher and the S&P 500 and Nasdaq Composite ending the day well off their worst levels, as selling in the technology sector eased as the day progressed.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-11-25T21:43:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Alexa LoMonaco",
-      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites - CNBC",
-      "description": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
-      "url": "https://www.cnbc.com/2026/11/24/jim-cramer-retail-stocks-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548604-1794349959300-gettyimages-2304504774-anotherday36809902_nb5fdvlx.jpeg?v=1794350087&w=1920&h=1080",
-      "publishedAt": "2026-11-25T00:04:00Z",
-      "content": "CNBC's Jim Cramer on Tuesday assessed the latest earnings reports from six major retailers, identifying which stocks have more room to run. \r\nRetail stocks have been a bright spot the last few months… [+3485 chars]"
+      "author": "Sana Pashankar",
+      "title": "SpaceX Receives Government Approval to Launch Space Data Centers - Bloomberg",
+      "description": "The US Federal Communications Commission approved SpaceX’s request to launch as many as 1 million satellites for the creation of a network of data centers in orbit for complex artificial intelligence computing.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRgtMHIX1ASY/v1/1200x800.jpg",
+      "publishedAt": "2026-11-25T20:54:12Z",
+      "content": "The US Federal Communications Commission approved SpaceXs request to launch as many as 1 million satellites for the creation of a network of data centers in orbit for complex artificial intelligence … [+319 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Madison Mills",
+      "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI - Axios",
+      "description": "Top Democrats reacted to Axios' reporting on internal safety alarms inside frontier AI companies.",
+      "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+      "urlToImage": "https://images.axios.com/9ApTB3IREJaBROzB77X--l7XqJU=/0x0:1920x1080/1366x768/2026/02/12/1770932307221.jpeg",
+      "publishedAt": "2026-11-25T20:09:47Z",
+      "content": "Driving the news: Sens. Mark Kelly (D-Ariz.), Brian Schatz (D-Hawaii), Chris Van Hollen (D-Md.) and Bernie Sanders (I-Vt.) called for immediate action: \r\n<ul><li>\"The people inside AI companies are s… [+2759 chars]"
     }
   ],
   "bbc": [
     {
       "source": "BBC",
-      "title": "US announces new tariffs on host of countries including China",
-      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 01:20:14 GMT"
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 22:49:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-      "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 17:30:16 GMT"
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 00:52:11 GMT"
     },
     {
       "source": "BBC",
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 22:18:06 GMT"
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 19:26:16 GMT"
     },
     {
       "source": "BBC",
-      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-      "description": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
-      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 19:47:39 GMT"
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "description": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 02:22:37 GMT"
     },
     {
       "source": "BBC",
-      "title": "US stocks fall further as fears over AI intensify",
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:43:18 GMT"
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 05:00:24 GMT"
     },
     {
       "source": "BBC",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 00:23:05 GMT"
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "description": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 05:00:27 GMT"
     },
     {
       "source": "BBC",
-      "title": "California warns of flooding as king tides peak over Thanksgiving",
-      "description": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 01:22:55 GMT"
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "description": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 14:44:26 GMT"
     },
     {
       "source": "BBC",
-      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-      "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 16:42:11 GMT"
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 22:01:22 GMT"
     },
     {
       "source": "BBC",
-      "title": "UK government set to publish new treaties agreed with EU",
-      "description": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 02:13:00 GMT"
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "description": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 19:55:58 GMT"
     },
     {
       "source": "BBC",
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:31:10 GMT"
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "description": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 23:17:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "What's gone wrong at Poundland?",
-      "description": "Poundland has collapse into administration. Why?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 17:00:32 GMT"
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "description": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 23:08:12 GMT"
     },
     {
       "source": "BBC",
-      "title": "US announces new tariffs on host of countries including China",
-      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 01:20:14 GMT"
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "description": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 00:54:45 GMT"
     },
     {
       "source": "BBC",
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 00:07:51 GMT"
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "description": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 14:00:20 GMT"
     },
     {
       "source": "BBC",
-      "title": "US stocks fall further as fears over AI intensify",
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 21:43:18 GMT"
+      "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+      "description": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+      "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 13:40:46 GMT"
     },
     {
       "source": "BBC",
-      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-      "description": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 00:01:37 GMT"
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "description": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 00:02:19 GMT"
     },
     {
       "source": "BBC",
-      "title": "Energy bills to rise by 26% from January after gas prices surge",
-      "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 25 Nov 2026 13:42:08 GMT"
+      "title": "New boss appointed to lead Travelodge",
+      "description": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 26 Nov 2026 12:03:49 GMT"
     }
   ],
   "reuters": [],
   "trends": {
     "finance_keywords": {
       "AI stocks": 1,
-      "GLP-1": 6,
-      "Iran oil": 0,
+      "GLP-1": 7,
+      "Iran oil": 1,
       "Federal Reserve": 1,
-      "Bitcoin": 34
+      "Bitcoin": 29
     },
     "trending_searches": []
   },
@@ -198,28 +198,28 @@
       "symbol": "^DJI"
     },
     "黃金": {
-      "price": 3609.0,
-      "change_pct": 1.32,
+      "price": 3642.9,
+      "change_pct": 2.27,
       "symbol": "GC=F"
     },
     "WTI 原油": {
-      "price": 83.88,
-      "change_pct": 2.23,
+      "price": 85.7,
+      "change_pct": 4.45,
       "symbol": "CL=F"
     },
     "比特幣": {
-      "price": 60833.81,
-      "change_pct": 0.75,
+      "price": 61554.02,
+      "change_pct": 1.75,
       "symbol": "BTC-USD"
     },
     "英鎊/美元": {
       "price": 1.31,
-      "change_pct": 0.03,
+      "change_pct": 0.08,
       "symbol": "GBPUSD=X"
     },
     "美元/人民幣": {
       "price": 6.66,
-      "change_pct": -0.02,
+      "change_pct": -0.03,
       "symbol": "CNY=X"
     }
   }
